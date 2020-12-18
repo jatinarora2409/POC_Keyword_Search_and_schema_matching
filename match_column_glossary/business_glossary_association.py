@@ -29,15 +29,15 @@ tokenizer_string = "QgramTokenizer"
 similarity_measure = sm.OverlapCoefficient()
 measure = "OverlapCoefficient"
 #"_zillow","_redfin",
-#sources = ["_zillow","_redfin","_realtor","_remax"]
-sources = ["_zillow"]
+sources = ["_zillow","_redfin","_realtor","_remax"]
+#sources = ["_zillow"]
 
 for source in sources:
     print("\n")
     print("Source: "+source)
-    schema_file = 'Schema'+source+'.txt'
-    business_glossary_file = 'BusinessGlossary'+source+'.xml'
-    assignment_capture_file = 'AssignmentCapture'+source+'.csv'
+    schema_file = 'Schema/Schema'+source+'.txt'
+    business_glossary_file = 'Business_Glossary/BusinessGlossary'+source+'.xml'
+    assignment_capture_file = 'Assignment_Capture/AssignmentCapture'+source+'.csv'
     set_of_columns = read_schema(schema_file)
     set_of_business_glossary,bg_terms_id_dict = get_businesss_glossary(business_glossary_file)
     gold_dict = get_assignment_capture_gold(assignment_capture_file)
@@ -145,9 +145,6 @@ for source in sources:
             expected_column_name = [expected_column_name_tmp.lower() for expected_column_name_tmp in expected_column_name]
             if(column_name in expected_column_name):
                 match_found=match_found+1
-                print(column_name)
-                print(glossary_term)
-                print()
 
         values_tested=values_tested+1
 

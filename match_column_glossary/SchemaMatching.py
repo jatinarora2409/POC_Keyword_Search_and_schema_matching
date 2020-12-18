@@ -42,17 +42,17 @@ def get_list_of_business_glossary_term(assignment_file, business_glossary_file, 
 
 
 def get_column_dict(source):
-    zillow_assignment = 'AssignmentCapture_zillow.csv'
-    realtor_assignment = 'AssignmentCapture_realtor.csv'
-    redfin_assignment = 'AssignmentCapture_redfin.csv'
-    remax_assignment = 'AssignmentCapture_remax.csv'
+    zillow_assignment = 'Assignment_Capture/AssignmentCapture_zillow.csv'
+    realtor_assignment = 'Assignment_Capture/AssignmentCapture_realtor.csv'
+    redfin_assignment = 'Assignment_Capture/AssignmentCapture_redfin.csv'
+    remax_assignment = 'Assignment_Capture/AssignmentCapture_remax.csv'
 
-    zillow_business_glossary_xml = 'BusinessGlossary_zillow.xml'
-    realtor_business_glossary_xml = "BusinessGlossary_realtor.xml"
-    remax_business_glossary_xml = 'BusinessGlossary_remax.xml'
-    redfin_business_glossary_xml = 'BusinessGlossary_redfin.xml'
+    zillow_business_glossary_xml = 'Business_Glossary/BusinessGlossary_zillow.xml'
+    realtor_business_glossary_xml = "Business_Glossary/BusinessGlossary_realtor.xml"
+    remax_business_glossary_xml = 'Business_Glossary/BusinessGlossary_remax.xml'
+    redfin_business_glossary_xml = 'Business_Glossary/BusinessGlossary_redfin.xml'
 
-    schema_matching_file = "Schema_Matching.csv"
+    schema_matching_file = "Schema_Matching/Schema_Matching.csv"
 
     import csv
 

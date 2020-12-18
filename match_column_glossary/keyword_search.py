@@ -2,34 +2,18 @@
 from find_similarity_util import *
 from SchemaMatching import get_column_dict
 
-
+## Sample Queries
 query1 = 'area of the house'
-## Zillow Results: 3
-## Realtor Results: 2
-## Redfin Results: 5
-## Remax Results: 4
 query2 = "Style of the house"
-## Zillow Results: 2
-## Realtor Results: 2
-## Redfin Results: 3
-## Remax Results:2
 query3 = 'Remodelling year'
-## Zillow Results: 2
-## Realtor Results: 3
-## Redfin Results: 3
-## Remax Results: 1
 query4 = 'description of the house'
-## Zillow Results: 1
-## Realtor Results:1
-## Redfin Results: 0
-## Remax Results:1
 query = query2
 source = 'remax'
 business_glossary_use = True
 
-schema_path_file = 'Schema_'+source+'.txt'
-assignment_capture_file = 'AssignmentCapture_'+source+'.csv'
-business_glossary_file = 'BusinessGlossary_'+source+'.xml'
+schema_path_file = 'Schema/Schema_'+source+'.txt'
+assignment_capture_file = 'Assignment_Capture/AssignmentCapture_'+source+'.csv'
+business_glossary_file = 'Business_Glossary/BusinessGlossary_'+source+'.xml'
 
 if(not business_glossary_use):
     assignment_capture_file = None

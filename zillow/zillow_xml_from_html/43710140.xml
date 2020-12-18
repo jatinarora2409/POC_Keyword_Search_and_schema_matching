@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$349,999</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>2,116</area>
+	</summary>
+	<address>
+		<street_address>4966 Harvey Grant Rd,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>Traditional home on over 1 acre in heart of Fleming Island, in area with large homesites. Kitchen has been redone. Hardwood floors and tile throughout. Huge kitchen with all wood cabinets. Crown molding throughout. Open concept great for entertaining. Upgraded bathrooms. Huge Master closet. 2 story workshop. Granite stone exterior. Tons of parking with u shaped driveway.
+Newer roof on house . New high quality air conditioning unit. Lots of room and potential. Workshop and extra detached garage. Workshop has newer roof. Call 904 874 4002. OPEN HOUSE THIS SATURDAY 10 am to 2pm. Like living in the country but in town location close to everything! Come take a look it may be the perfect home for you! Masks and Social Distancing .Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1979</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">1.01 Acres</key>
+		<key name="Price/sqft:">$165</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,116 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Parking features: Carport, Garage - Attached, Garage - Detached</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Exterior features: Stone</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 1.01 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 46042601413500100</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1979</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1979</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Water Well(drinking), Sewer - Septic Sys</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 81.23</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Fleming Island</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $224,233</detail>
+				<detail>Annual tax amount: $2,249</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Type of Dwelling: Sngl. Fam.-Detached</detail>
+				<detail>Square Foot Source: Tax Roll</detail>
+				<detail>Style: Traditional</detail>
+				<detail>Pool/Hot Tub: No Pool</detail>
+				<detail>Lot Description: Regular Lot, Wooded</detail>
+				<detail>Possible Financing: Conventional, Cash, Renovation Loan</detail>
+				<detail>Major Appliances: Washer/Dryer Connect, Self Cleaning Oven</detail>
+				<detail>Presently Zoned: Residential, Single Family</detail>
+				<detail>Road Surface: Asphalt Road</detail>
+				<detail>Export Options: Publish Address, Publish Public Rmrks, Publish Directions, Publish Square Feet</detail>
+				<detail>All Bedrooms Conform: Y</detail>
+				<detail>Dining: Eating Space-Kitchen</detail>
+				<detail>Utilities: Water Well(drinking), Sewer - Septic Sys</detail>
+				<detail>Approx Parcel Size: 1 to 2 1/2 Acres, 1/2 to 1 Acre</detail>
+				<detail>Additional Rooms: Great Room</detail>
+				<detail>Road Frontage: County Road</detail>
+				<detail>Misc Exterior: Other Building(s)</detail>
+				<detail>Status: Pending</detail>
+				<detail>Country: USA</detail>
+				<detail>Roof: Shingle</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

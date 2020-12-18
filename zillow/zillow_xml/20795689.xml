@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$585,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>693</area>
+	</summary>
+	<address>
+		<street_address>1400 N Hayworth Ave APT 21,</street_address>
+		<city_state> West Hollywood, CA 90046</city_state>
+	</address>
+	<overview>The iconic Hollywood Riviera, is the most architecturally significant West Hollywood treasure and a designated landmark. It was built in 1954 by renowned architect, Edward H. Fickett. This top floor unit is completely private - no walkways. Featuring high vaulted original ceilings &amp; floor to ceiling windows viewing hills and trees to the north and large swimmers heated pool &amp; sundeck to the south. Remodeled kitchen with best high-end appliances. Large closets - 1 is walk-in.  Beautiful full bath has mid-century tiles and fixtures. Hardwood floors throughout. Large deck. Central heat and air. 2 parking spaces. On the Mills Act passing lower taxes to buyer. Featured in films (Rush Hour, L.A. Stories + many more), TV shows, and commercials. Best location - walk to Sunset.Read more</overview>
+	<listing_agent>
+		<agentName>Kathy Small</agentName>
+		<phoneNumber>818-757-4567</phoneNumber>
+		<agentLicenseNumber>License #00407520</agentLicenseNumber>
+		<postingGroupName>Gold Star Realty - Encino</postingGroupName>
+		<postingWebsiteLinkText>Gold Star Realty - Encino</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$461/mo</key>
+		<key name="Price/sqft:">$844</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Range / Oven, Refrigerator</item>
+				<item>Laundry features: Room, Community</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 693 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.69 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5554002048</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1954</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1954</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.62</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Gated, Card/Code Access, Fire and Smoke Detection System, Carbon Monoxide Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: West Hollywood</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

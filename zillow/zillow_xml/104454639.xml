@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$239,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>801</area>
+	</summary>
+	<address>
+		<street_address>333 W Mifflin St UNIT 1057,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Enjoy this sunny and bright 1 bed/1 bath/1 den condo and all that it has to offer!  Granite counter tops, stainless steel appliances, gas stove, maple cabinets and flooring as well as in-unit laundry! Master bedroom has a large walk-in closet and plantation shutters. The deck overlooks the roof top (1-acre park) which has walking paths, seating and an area where you can grill-out! There are also views of Lake Monona and views of the City. It is close to the University, both lakes, the Overture, groceries and shopping!  A convenient parking space, great onsite fitness center and a dog park! Quick closing is possible. Parking space #3033.Read more</overview>
+	<listing_agent>
+		<agentName>Chris Venden</agentName>
+		<phoneNumber>608-841-1069</phoneNumber>
+		<agentLicenseNumber>License #61276-94</agentLicenseNumber>
+		<postingGroupName>RE/MAX Preferred</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX Preferred</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Price/sqft:">$298</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 801 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stone, Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923164316</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2009</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 77.58</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2319 N 39TH Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$775,000</Price>
+		<Beds>10</Beds>
+		<Baths>5</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>SELLERS MOTIVATED! SEE DOCUMENT TAB FOR OM! Property is currently an 6 CAP on actuals. These revamped Casitas provide a personal touch to the tenants that love them. Each having a private home with backyard! Property has two new roofs 4 units Fully redone, paint inside and out, New Floors, granite countertops, New windows on all 5 units, new appliances, and updated fans and fixtures! Property has been lovingly cared for! </text_base_description>
+	<listed_by>
+		<name>Lee Garner</name>
+		<org> S.J. Fowler Real Estate, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$775,000</List_Price>
+		<Est._Mo._Payment>$2,901</Est._Mo._Payment>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>79 days</Time_on_Redfin>
+		<Property_Type>Other (See Remarks), 5-12 Units</Property_Type>
+		<Year_Built>1969</Year_Built>
+		<Community>DEL MONTE VILLAGE 2</Community>
+		<key name="MLS#">6106448</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Built-in Oven/Range Included, Other Appliances Included (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Other Floors (See Remarks)</group_dat>
+						<group_dat>Unfurnished</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+						<group_dat>Central Air Conditioning</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>2 Bedroom Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 5</group_dat>
+						<group_dat># of Bathrooms: 1</group_dat>
+						<group_dat>Average Sq. Ft.: 810</group_dat>
+						<group_dat>Average Rent: $1,100</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, School / Neighborhood, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 16.00</group_dat>
+						<group_dat># of Parking Spaces (Covered): 6</group_dat>
+						<group_dat># of Parking Spaces (Uncovered): 10</group_dat>
+						<group_dat>Less Than 1 Space Per Unit, Carport, Street Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Electric</group_dat>
+						<group_dat>City Gas</group_dat>
+						<group_dat>City Water Franchise</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Census Tract: 112201.00</group_dat>
+						<group_dat>Census Tract: 112201.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction</group_dat>
+						<group_dat>Brick Trim/Veneer Exterior, Painted Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 16</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>No Pool</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Information</heading>
+					<group_data>
+						<group_dat># of Units: 5.00</group_dat>
+						<group_dat># of Units Allowed: 5</group_dat>
+						<group_dat># of Buildings: 5</group_dat>
+						<group_dat>Tenant Pays: Cable TV, Electric, Sewer, Trash, Water</group_dat>
+						<group_dat>Owner Pays: Landscaping</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Desert Landscaping</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Marketing Name: 39th Casitas</group_dat>
+						<group_dat>Week Available (Timeshare): 10.00</group_dat>
+						<group_dat>Leased Acres (Approximate): 5</group_dat>
+						<group_dat>Zoning: M-M</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 108-13-183-F</group_dat>
+						<group_dat>Assessor's Book #: 108</group_dat>
+						<group_dat>Assessor's Map #: 13</group_dat>
+						<group_dat>Assessor's Parcel #: 183</group_dat>
+						<group_dat>Assessor's Parcel Letter: F</group_dat>
+						<group_dat>Legal: DEL MONTE VILLAGE 2   TR B EX PT LY S OF A LI 200' N OF &amp; PARALLEL TO S LI TR B &amp; ALSO N 23'  LYING</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Dimensions: 24, 343</group_dat>
+						<group_dat>Asphalt/Blacktop Roads/Streets, Private Street, Sidewalk(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>818</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>818</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>0.56 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1969</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10813183F</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,325,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,825</area>
+	</summary>
+	<address>
+		<street_address>2494 Golf Links Cir,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Resort style living at Pruneridge Place Community. A true 3 bedroom 2 bath single level end unit condo that feels very private.  A wonderful oasis in the heart of Santa Clara adjacent to Pruneridge Golf course with unlimited golf included in the HOA.  Bright, light, open floor plan with redesigned kitchen, stainless steel appliances, granite counters, spacious dining and living room with vaulted ceilings, gas fireplace, air conditioning, dual pane windows, plantation shutters, skylights and abundant storage.  Each bedroom has a private patio. Spacious master bedroom retreat, walk-in closet that is separate from other bedrooms. Oversized 2 car garage with laundry hookups, storage cabinets and pull down ladder for additional attic storage.  Excellent Santa Clara location close to freeways, dining, shopping, Santana Row, Downtown SJ, Apple, Google.  HOA includes community pool &amp; tennis court.  Low Santa Clara utilities.  Come make this your Dream Home!Read more</overview>
+	<listing_agent>
+		<agentName>Michelle Thompson</agentName>
+		<phoneNumber>408-358-1111</phoneNumber>
+		<agentLicenseNumber>License #01467537</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1979</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$51/mo</key>
+		<key name="Price/sqft:">$726</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator</item>
+				<item>Laundry features: In Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,825 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stucco</item>
+				<item>Fencing: Gate</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,648 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 29445038</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1979</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1979</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.66</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

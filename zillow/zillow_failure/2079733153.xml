@@ -1,0 +1,10 @@
+Something went wrong with: https://www.zillow.com/community/luten-landing/2079733153_zpid/Traceback (most recent call last):
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_scarper.py", line 49, in <module>
+    zillow.zillow_functions.record(property_link,save_xml=False)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 234, in record
+    dom = record_xml_util(property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 206, in record_xml_util
+    summary = get_summary(pageSoup=property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 11, in get_summary
+    price = home_details.find('h3',class_='ds-price').text
+AttributeError: 'NoneType' object has no attribute 'find'

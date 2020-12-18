@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1355 N Sierra Bonita Ave #205 </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$465,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$659 / Sq. Ft.">706</key>
+	</main_stats>
+	<text_base_description>Bonita Villas is a well maintained, secure building located in the heart of Spaulding Square, West Hollywood. This unit with original fixtures and trim is ideal for the buyer who is looking to design and finish their own space. The split-level open concept condo unit features a full length spacious and private balcony, recessed lighting, large walk in closet, gas fireplace, and wet bar. The bedroom and living room are separated by plantation shutters and can be left open for a large open feeling space, or closed to create separate, distinct rooms. The Bonita Villas Building HOA features a heated saltwater rooftop pool and hot tub with unreal 360 degree panoramic city and mountain views. Other attractive Building features include low HOA dues, underground parking, on-site laundry, renovated fitness center, and lobby with secure controlled entry. Bonita Villas is centrally located minutes from Hiking at Runyon Canyon, and shopping at Target, Trader Joe's. Also minutes away are the Melrose  &amp;  Fairfax shopping and dining areas, Hollywood Blvd, as well as bars, clubs and other attractions at the World Famous Sunset Strip. Do not miss out on this incredible value.  </text_base_description>
+	<listed_by>
+		<name>Steven Dempster</name>
+		<agentLicenseDisplay>•DRE #01855591</agentLicenseDisplay>
+		<org> Harcourts Prime Properties</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$465,000</List_Price>
+		<Est._Mo._Payment>$2,145</Est._Mo._Payment>
+		<Redfin_Estimate>$440,166</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$659</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>43 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$350/month</HOA_Dues>
+		<Year_Built>1986</Year_Built>
+		<Community>C10 - West Hollywood Vicinity</Community>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<key name="MLS#">SR20175494</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Has Laundry</group_dat>
+						<group_dat>Area, Community</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Appliances: Dishwasher, Gas Oven, Gas Range</group_dat>
+						<group_dat>Has Appliances</group_dat>
+						<group_dat>In Living Room</group_dat>
+						<group_dat>Tile Counters</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat>Bathtub, Shower in Tub</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Cooling Information</heading>
+					<group_data>
+						<group_dat>Central</group_dat>
+						<group_dat>Has Cooling</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Kitchen, Living Room, Master Bedroom, Walk-In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Living Room, Gas, Decorative</group_dat>
+						<group_dat>Has Fireplace</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Carpet, Laminated, Vinyl</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating Information</heading>
+					<group_data>
+						<group_dat>Central Furnace</group_dat>
+						<group_dat>Has Heating</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Entry Level: 2</group_dat>
+						<group_dat>Electronic Air Cleaner, Living Room Balcony, Open Floor Plan, Recessed Lighting, Sunken Living Room, Tile Counters, Unfurnished, Wet Bar</group_dat>
+						<group_dat>Levels: One</group_dat>
+						<group_dat>Main Level Bathrooms: 1</group_dat>
+						<group_dat>Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Multi-Unit Information, Homeowners Association, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Parking / Garage Information</heading>
+					<group_data>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Assigned, Gated, Parking Space</group_dat>
+						<group_dat>Has Parking</group_dat>
+						<group_dat># of Parking Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units In Community: 42</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association</heading>
+					<group_data>
+						<group_dat>Is Part of Association</group_dat>
+						<group_dat>Association Name: Bonita Villas</group_dat>
+						<group_dat>Monthly</group_dat>
+						<group_dat>Association Fee: $350</group_dat>
+						<group_dat>Association Amenities: Pool, Spa, Barbecue, Outdoor Cooking Area, Gym/Ex Room, Maintenance Grounds, Pet Rules, Controlled Access</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: District/Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Exterior Information</heading>
+					<group_data>
+						<group_dat>Multi Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Pool Features: Community Pool, Heated, Roof Top, Saltwater</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Curbs, Sidewalks, Storm Drains, Street Lighting, Urban</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>High School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Assesments Information</heading>
+					<group_data>
+						<group_dat>Assessments: Unknown</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.09593400</group_dat>
+						<group_dat>Longitude: -118.35423600</group_dat>
+						<group_dat>Other Subdivision Name: Spaulding Square</group_dat>
+						<group_dat>Directions: Just north of Fountain Ave on Sierra Bonita Ave.</group_dat>
+						<group_dat>Road Frontage Type: Access via City Streets</group_dat>
+						<group_dat>Road Surface Type: Paved</group_dat>
+						<group_dat>Zoning: LAR3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Elevation Units: Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Common Interest: Condominium</group_dat>
+						<group_dat>Total # of Units: 1</group_dat>
+						<group_dat>Common Walls: 2+ common walls</group_dat>
+						<group_dat>Living Area Source: Public Records</group_dat>
+						<group_dat>Parcel Number: 5550027038</group_dat>
+						<group_dat>Attached Property</group_dat>
+						<group_dat>Total # of Stories: 1</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>Year Built Source: Public Records</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>706</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>706</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1986</Year_Built>
+		<Year_Renovated>1986</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5550027038</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$253,160</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>3,794</area>
+	</summary>
+	<address>
+		<street_address>6301 Honey Locust Dr,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>Investor and homebuyer opportunity! This property is being offered at a live auction on 12-03-2019. Buy it as an investment or enjoy it as your own home. Visit Auction.com to find out where and when the auction will take place. Also, view additional photos, sales comps, rental data, title info, neighborhood reports and more. Auction.com is the nation's leading online real estate marketplace offering over 30,000 discounted residential bank-owned and foreclosure deals. Don't miss the opportunity to buy homes that offer the potential for a high return on investment. In addition to this property, Auction.com has 808 scheduled for sale at this same auction. Altogether, Auction.com has 4 properties scheduled for sale in Dallas County and 1171 throughout Texas. All properties and sale details can be found with a simple search at Auction.com. Create a free account to find similar properties, save your favorites and receive email alerts of upcoming auctions. To view the complete details of this property, click the &quot;Get Auction Details&quot; button above or paste the Property ID 2874551 into the search bar at Auction.com.Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2006</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">8,013 sqft</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,794 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage, Garage - Attached</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,013 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 006235000A0400000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Year built: 2006</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 22.62</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

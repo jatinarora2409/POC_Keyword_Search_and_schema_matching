@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$849,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>924</area>
+	</summary>
+	<address>
+		<street_address>1451 Main St APT 4,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Sunny, delightful, compact, beautifully updated 2 bedroom 2 bath townhouse, one of the most private units in the community, located in Civic Center Santa Clara. Walk to Santa Clara University  CalTrain, shopping, Apple new campus, farmers market, and restaurants. Water and Garbage is included in HOA. Slab counters, center island, cherry cabinets, stainless appliances and separate pantry. Bathrooms updated with granite and cherry cabinets also. There is a separate entrance at the back directly leading to upstair bedroom. Move in ready new paint. Attached spotless 2 car garage and cute back yard to entertain and relax. Wonderful opportunity!Read more</overview>
+	<listing_agent>
+		<agentName>Ella (Yan) Liang</agentName>
+		<phoneNumber>650-644-3474</phoneNumber>
+		<agentLicenseNumber>License #01933960</agentLicenseNumber>
+		<postingGroupName>Golden Gate Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Golden Gate Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">1986</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">657 sqft</key>
+		<key name="Price/sqft:">$919</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 924 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 657 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 26905099</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Townhouse</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1986</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2005</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Natural Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.06</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

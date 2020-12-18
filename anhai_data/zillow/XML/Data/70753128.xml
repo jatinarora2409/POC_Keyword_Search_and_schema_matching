@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$199,999</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,385</area>
+	</summary>
+	<address>
+		<street_address>1855 Copper Stone Dr APT F,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>MUST SEE THIS WELL MAINTAINED 2 BEDROOM 2 BATH, 2 CAR GARAGE TOWNHOUSE IN DESIREABLE EAGLE HARBOR FLEMING ISLAND, WOOD FLOORS IN LIVING ROOM AND DINING ROOM, GARDEN BATH, CARPET IN BEDROOMS, NEW STOVE, CEILING FANS TO BE INSTALLED, PAINTING AND FLOORING ALLOWANCE.  SCREENED PORCH. EAGLE HARBOR AMENITIES, CLUB FACILITIES AND MORE...Read more</overview>
+	<listing_agent>
+		<agentName>Albertha Garrett</agentName>
+		<phoneNumber>904-772-9180</phoneNumber>
+		<agentLicenseNumber>License #3235873</agentLicenseNumber>
+		<postingGroupName>WATSON REALTY CORP</postingGroupName>
+		<postingWebsiteLinkText>WATSON REALTY CORP</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air, Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">4,296 sqft</key>
+		<key name="Price/sqft:">$144</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Hardwood, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Heat pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,385 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Handicap Accessible</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Stucco, Wood</detail>
+				<detail>Patio and porch details: Covered, Front Porch, Lanai, Lanai - Screened, Patio - Screened</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 4,296 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 09052601417600878</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Townhouse</detail>
+				<detail>Architectural style: Ranch</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+				<detail>Windows: Double Pane Windows, Window Treatments, Multi Paned Windows</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2005</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2005</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Public Sewer</detail>
+				<detail>Utilities for property: Cable Connected, DSL Available</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Energy efficient items: Heat Pump-Air</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Fleming Island</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $200/mo</detail>
+				<detail>Association name: Stone Creek HOA</detail>
+				<detail>Association phone: 904-367-8532</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $144,472</detail>
+				<detail>Annual tax amount: $3,049</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1077410</detail>
+				<detail>Measurement Source: Tax Roll</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Flooring: Wood, Vinyl, Wall-to-Wall Carpet</detail>
+				<detail>Sewer: Public Sewer</detail>
+				<detail>WaterSource: Public</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Microwave, Washer, Electric Range, Self Cleaning Oven</detail>
+				<detail>AssociationYN: Yes</detail>
+				<detail>InteriorFeatures: Ceiling Fan(s), Walk-In Closet(s), Separate Dining Room, Entrance Foyer, Breakfast Room, Ceiling 8+ Ft., Eating Space-Kitchen, Pantry - Closet</detail>
+				<detail>Roof: Shingle</detail>
+				<detail>ArchitecturalStyle: Ranch</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>AccessibilityFeatures: Handicap Accessible</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>FoundationDetails: Slab</detail>
+				<detail>CommunityFeatures: Playground, Pool, Tennis Court(s), Exercise Room, Clubhouse, Bike Path, Golf Course, Club Facilities, Soccer Field(s), Walking/Jogging Path, Nature Trails</detail>
+				<detail>BusinessType: Residential</detail>
+				<detail>ConstructionMaterials: Stucco, Wood Frame</detail>
+				<detail>WindowFeatures: Double Pane Windows, Window Treatments, Multi Paned Windows</detail>
+				<detail>PoolPrivateYN: Yes</detail>
+				<detail>ExteriorFeatures: Sprinkler System, Lighting, USPS Cluster Mailbox, Mandatory Fees</detail>
+				<detail>HomeWarrantyYN: Yes</detail>
+				<detail>Utilities: Cable Connected, DSL Available</detail>
+				<detail>ParkingFeatures: Driveway, Attached Garage</detail>
+				<detail>CoveredSpaces: 2</detail>
+				<detail>RoadFrontageType: City Street</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>LivingAreaSource: Tax roll</detail>
+				<detail>PatioAndPorchFeatures: Covered, Front Porch, Lanai, Lanai - Screened, Patio - Screened</detail>
+				<detail>RoomDiningRoomFeatures: Breakfast Room, Separate Dining Room, Eating Space-Kitchen</detail>
+				<detail>RoadSurfaceType: Concrete</detail>
+				<detail>BuildingAreaSource: Tax Roll</detail>
+				<detail>Heating: Central Heating</detail>
+				<detail>LotFeatures: Regular Lot, High &amp; Dry</detail>
+				<detail>RoomBedroomFeatures: Split Bedrooms</detail>
+				<detail>RoomKitchenFeatures: Pantry - Closet</detail>
+				<detail>RoomBathroomFeatures: Garden Bath, Owner BathTub Separate Shower</detail>
+				<detail>AssociationPhone: 904-367-8532</detail>
+				<detail>AssociationName: Stone Creek HOA</detail>
+				<detail>GreenEnergyEfficient: Heat Pump-Air</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

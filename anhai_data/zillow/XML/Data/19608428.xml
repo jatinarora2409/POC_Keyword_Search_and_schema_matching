@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,199,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,855</area>
+	</summary>
+	<address>
+		<street_address>173 Saratoga Ave,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Warm and welcoming Santa Clara townhome! This spacious 3 bedroom, 2.5 baths, 1885 sq. ft. end unit home is nicely update throughout! Home features an open floor plan, vaulted ceiling, A/C, newer kitchen cabinets, quartz countertops with breakfast bar, full backsplash, newer linoleum flooring and carpet. All baths completely remodeled. Guest bath upstairs has a deep soaker tub and master has a spacious walk in shower with sit-in bench. Good sized private front and backyard. Balcony off master bedroom. No neighbors at back and community pool next door with private entrance! You will love this private tree lined street and community!Read more</overview>
+	<listing_agent>
+		<agentName>Michelle Huerta</agentName>
+		<phoneNumber>877-973-3346</phoneNumber>
+		<agentLicenseNumber>License #01230432</agentLicenseNumber>
+		<postingGroupName>Redfin</postingGroupName>
+		<postingWebsiteLinkText>Redfin</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">1981</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">2,077 sqft</key>
+		<key name="Price/sqft:">$646</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Refrigerator, Washer</detail>
+				<detail>Laundry features: Washer / Dryer, Inside</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,855 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>Fencing: Wood, Fenced Back, Fenced Front, Gate</detail>
+				<detail>View description: Park</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 2,077 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 30343012</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Townhouse</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1981</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1981</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Individual Electric Meters, Public Utilities, Individual Gas Meters</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 91.66</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Security Alarm, Secured Garage / Parking</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $350/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $673,589</detail>
+				<detail>Annual tax amount: $8,239</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81811158</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Amenities Misc.: High Ceiling, Vaulted Ceiling, Walk-in Closet</detail>
+				<detail>Dining Room: Breakfast Nook, Dining Area in Living Room, Other</detail>
+				<detail>Family Room: No Family Room</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Garage Parking Features: Attached Garage, Guest / Visitor Parking</detail>
+				<detail>Lot Size Area Maximum Units: Square Feet</detail>
+				<detail>Lot Size Area Minimum Units: Square Feet</detail>
+				<detail>Fireplaces: Gas Starter</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Flooring: Tile, Laminate, Carpet</detail>
+				<detail>Kitchen: Garbage Disposal, Microwave, Dishwasher, Freezer, Cooktop - Electric, Oven - Electric, Exhaust Fan, Hood Over Range, Ice Maker, Refrigerator, Countertop - Quartz</detail>
+				<detail>Water: Public, Individual Water Meter</detail>
+				<detail>Association Fees Include: Reserves, Roof, Common Area Electricity, Exterior Painting, Fencing, Spa, or Tennis, Common Area Gas, Insurance - Common Area, Insurance - Earthquake, Maintenance - Common Area, Maintenance - Road, Landscaping / Gardening, Pool</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>HOA Amenities: Community Pool, Sauna / Spa / Hot Tub</detail>
+				<detail>Unit Features: End Unit</detail>
+				<detail>Style: Traditional</detail>
+				<detail>Energy Features: Attic Fan</detail>
+				<detail>Heating: Fireplace, Central Forced Air</detail>
+				<detail>Pool: Community Facility, Pool - Fenced, Pool - In Ground, Spa - In Ground, Spa - Jetted</detail>
+				<detail>Utilities: Individual Electric Meters, Public Utilities, Individual Gas Meters</detail>
+				<detail>Sewer Septic: Sewer - Public</detail>
+				<detail>Construction Type: Wood Frame, Stucco</detail>
+				<detail>Cooling: Ceiling Fan, Central AC</detail>
+				<detail>Fencing: Wood, Fenced Back, Fenced Front, Gate</detail>
+				<detail>Security Features: Security Alarm, Secured Garage / Parking</detail>
+				<detail>View: Park</detail>
+				<detail>Lot Description: Views</detail>
+				<detail>Foundation: Crawl Space, Concrete Block</detail>
+				<detail>HOA Exist Y/N: 1</detail>
+				<detail>HOA Fee: 350</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Laundry: Washer / Dryer, Inside</detail>
+				<detail>HOA Fee Frequency: Monthly</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

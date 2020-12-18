@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3008 Clay </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94115</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,850,000</Price>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<key name="$1346 / Sq. Ft.">2,117</key>
+	</main_stats>
+	<text_base_description>Exquisitely renovated, this true house-like condo, offers two levels of living and 3 bedrooms 2.5 baths. Situated on a lush tree-lined street in the heart of Pacific Heights it's a short walk to Alta Plaza, Fillmore and Sacramento Streets. The gem of the home is the backyard, by Boxleaf Design, accessed through French doors off the eat-in kitchen. Complete with a fountain, firepit, and verdant landscaping, the garden setting offers a tranquil balance of indoor/outdoor California living. The recently renovated interior showcases designer touches mixed with Victorian details, including dramatic ceiling heights, Elitis wallpaper, calcatta, and carrara marble, Waterworks fixtures, Sub Zero and Thermador appliances, built-in Miele coffee machine, and a walk-in temperature controlled wine cellar capable of holding 500 bottles.  </text_base_description>
+	<listed_by>
+		<name>Emily Beaven</name>
+		<agentLicenseDisplay>•DRE #01972840</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,850,000</List_Price>
+		<Est._Mo._Payment>$13,023</Est._Mo._Payment>
+		<Redfin_Estimate>$2,845,078</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,346</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$420/month</HOA_Dues>
+		<Style>Contemporary, Victorian</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">506269</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Transportation: 2 Blocks Away</group_dat>
+						<group_dat>Shopping: 2 Blocks Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Garbage, Homeowners Insurance</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $420</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>CC&amp;Rs, Financial Statements</group_dat>
+						<group_dat>Name: 300-3008A HOA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower and Tub, Stall Shower</group_dat>
+						<group_dat># of Baths: 2.5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Formal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Wine Cellar</group_dat>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Gas Range, Refrigerator, Freezer, Dishwasher, Garbage Disposal, Breakfast Area, Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: .5 Bath/Powder</group_dat>
+						<group_dat>Lower Level/Basement: 3 Bedrooms, 2 Baths</group_dat>
+						<group_dat># of Rooms: 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Paved Driveway, Shared Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Contemporary, Victorian</group_dat>
+						<group_dat># of Units: 2</group_dat>
+						<group_dat>Floor #: 1</group_dat>
+						<group_dat>Per Appraiser</group_dat>
+						<group_dat>APN: 1000047</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Broderick</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $2,850,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 1, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,956</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1908</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>1000 047</APN>
+	</public_facts>
+</home>

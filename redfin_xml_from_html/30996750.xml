@@ -1,0 +1,265 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2305 Swirling Wind Cv </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,295,000</Price>
+		<Beds>5</Beds>
+		<Baths>4.5</Baths>
+		<key name="$310 / Sq. Ft.">4,183</key>
+	</main_stats>
+	<text_base_description>In one of Austin’s most highly sought-after gated neighborhoods in Barton Creek! This home offers five-bed, four and a half baths. Situated at the end of a quiet cul-de-sac  &amp;  backs to greenbelt. The home’s entryway welcomes you home with an open easy flowing floor plan. The home’s openness is immediately on display, boasting lots of natural light, rich wood flooring, and a beautiful grand staircase. The kitchen gives way to entertain with ease as it features a six burner stove, subzero refrigerator, and three ovens. The open concept of the kitchen, living room and two dinning areas welcome you home. The oversized master suite with sitting area creates a calm, grounded space for rest and relaxation. The master bath houses two large walk-in closets, separate vanities, shower, and a relaxing spa-like tub. The grand staircase leads to an additional living area/game room, which effortlessly unspools into three more bedrooms, two full bathrooms a media room and three beautiful balcony areas. Steps away from St. Gabriels and St. Michaels. Minutes to down town and the airport. This highly desirable home is an absolute gem of a property that won’t last long.  </text_base_description>
+	<listed_by>
+		<name>Deborah Lowe</name>
+		<agentLicenseDisplay>•TREC #0653875</agentLicenseDisplay>
+		<org> Kuper Sotheby's Itl Rlty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,295,000</List_Price>
+		<Est._Mo._Payment>$7,135</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$310</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 hours</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<HOA_Dues>$125/month</HOA_Dues>
+		<Year_Built>2008</Year_Built>
+		<Community>Barton Creek Abc West Ph 02</Community>
+		<Lot_Size>0.29 Acres</Lot_Size>
+		<key name="MLS#">4035343</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, School / Neighborhood, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Branded (External Link)</group_dat>
+						<group_dat>Virtual Tour Unbranded(External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Barton Creek West</group_dat>
+						<group_dat>Association Fee: $375</group_dat>
+						<group_dat>Quarterly</group_dat>
+						<group_dat>Association Fee Includes: Common Areas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Common Grounds/Area, Community Mailbox, Gated</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 4</group_dat>
+						<group_dat># of Half Bathrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Ceiling Fan(s), Double Vanity, Separate Shower, Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Media Room</group_dat>
+						<group_dat>Features: Storage</group_dat>
+						<group_dat>Level: Second</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Master Bathroom</group_dat>
+						<group_dat>Features: Double Vanity, Granite Counters, Garden Tub/Roman Tub, His and Hers Closets, Separate Shower, Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Area, Dining Area, Granite Counters, Gourmet Kitchen, Kitchen Island, Kitchen/Family Room Combo, Pantry</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Range, Built-In Oven, Dishwasher, Disposal, Microwave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Flooring: Carpet, Tile, Wood</group_dat>
+						<group_dat>Other Features: Beamed Ceilings, Built-in Features, Open Beams/Beamed Ceailings, High Ceilings, Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat>Has Attached Garage</group_dat>
+						<group_dat># of Garage Spaces: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Attached, Garage</group_dat>
+						<group_dat># of Parking (Total): 3</group_dat>
+						<group_dat># of Covered Spaces: 3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Year Built Source: Public Records</group_dat>
+						<group_dat>Roof Details: Spanish Tile</group_dat>
+						<group_dat>Construction Details: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Balcony</group_dat>
+						<group_dat>Patio And Porch Features: Patio, Balcony</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Natural Gas Available, Underground Utilities</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Assessment</heading>
+					<group_data>
+						<group_dat>Assessed Value: $1,023,500</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $19,852</group_dat>
+						<group_dat>Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.29</group_dat>
+						<group_dat>Lot Size Acres: 0.29</group_dat>
+						<group_dat>Lot Features: Cul-De-Sac, Backs to Greenbelt/Park</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Direction Faces: Southwest</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>5</Baths>
+		<Finished_Sq._Ft.>4,183</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>4,183</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>0.29 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2008</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>583397</APN>
+	</public_facts>
+</home>

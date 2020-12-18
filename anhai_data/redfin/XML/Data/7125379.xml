@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2263 Apollo Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,200,000</Price>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<key name="$809 / Sq. Ft.">2,720</key>
+	</main_stats>
+	<text_base_description>Perched above Sunset Blvd. in the heart of Mount Olympus is a 3 bed, 3 bath, 2,720 sq. foot home situated on the lot of your dreams!  Perfect for an investor, developer or end user, the home is ripe for a renovation or addition. With 157 ft. of frontage, the massive two parcel lot offers unlimited potential. Open the doors to a bright and spacious living room with high ceilings providing easy access to the dining/kitchen area, as well as the expansive backyard via elegant French doors. Retreat upstairs to a spacious master suite featuring a fireplace, large en suite bath with sauna and generous his and her closets. Imagine the possibilities to transform this space located on one of the most unique lots in the neighborhood having two parcels. Mount Olympus is an ideal location, offering a level of security, privacy and access that is unparalleled.  </text_base_description>
+	<listed_by>
+		<name>Scott Goshorn</name>
+		<agentLicenseDisplay>•DRE #01964409</agentLicenseDisplay>
+		<org> Rodeo Realty - Beverly Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,200,000</List_Price>
+		<Est._Mo._Payment>$10,145</Est._Mo._Payment>
+		<Redfin_Estimate>$2,198,165</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$809</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1974</Year_Built>
+		<Style>Cape Cod</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.38 Acres</Lot_Size>
+		<key name="MLS#">20-639896</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Exterior Features, Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5569-024-034</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Mt.Olympus to Electra to Hercules and right on Apollo</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den</group_dat>
+						<group_dat>Den/Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room, Other (See Remarks)</group_dat>
+						<group_dat># of Fireplaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Parquet Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Dryer, Barbeque, Alarm System, Microwave, Refrigerator, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Garage Is Attached, 2 Car Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 16,487</group_dat>
+						<group_dat>Lot Size (Acres): 0.3785</group_dat>
+						<group_dat>Lot Size Dimensions: 171 x 95</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Any</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: Trust/Conservatorship</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>2,720</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,720</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>0.38 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1974</Year_Built>
+		<Year_Renovated>1974</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5569024034</APN>
+	</public_facts>
+</home>

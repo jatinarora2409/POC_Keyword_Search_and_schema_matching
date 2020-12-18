@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$350,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,264</area>
+	</summary>
+	<address>
+		<street_address>333 W Mifflin St UNIT 5030,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Downtown living with and uptown attitude. Located 2 blocks from the Capitol Square, near the Overture Center, dinning, entertainment, grocery store and parking ramp for quests. This 4th floor unit offers the wonderful convenience of your parking space also on the 4th level of parking ramp with straight path into the building right to your condo. Storage unit is right across hallway also. Beautiful wood floors, Stainless steel appliances, granite counter with perfect breakfast bar and in unit laundry. Master suite has amazing jetted bathtub, walk in closet and access to west facing balcony to enjoy the sunsets. Parking stall is #4044Read more</overview>
+	<listing_agent>
+		<agentName>Alison Goldschmidt</agentName>
+		<phoneNumber>608-833-7777</phoneNumber>
+		<agentLicenseNumber>License #37478-94</agentLicenseNumber>
+		<postingGroupName>Restaino &amp; Associates ERA Powered</postingGroupName>
+		<postingWebsiteLinkText>Restaino &amp; Associates ERA Powered</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air, Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">$277</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,264 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick, Stucco</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923163524</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2009</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.78</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

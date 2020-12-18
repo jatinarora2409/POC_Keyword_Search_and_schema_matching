@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,400,000</price>
+		<bd>4</bd>
+		<ba>5</ba>
+		<area>3,000</area>
+	</summary>
+	<address>
+		<street_address>2449 W Superior St,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Incredible 4 bedroom/4.1 bath custom home in ideal Smith Park location! The main level offers a wide open floor plan with fire place that opens up to the back deck and patio via floor to ceiling sliding doors. Chef's kitchen incl a massive island/work space, 36&quot; Thermador refrigerator &amp; 36&quot; freezer, professional range w/double ovens, Fisher Paykel DW drawers + another DW, espresso machine, pantry &amp; broom space. To-die-for outdoor space is no-maintenance and has plenty of room for dining and lounging. Custom wood party-door on the coach-house style garage allows you to expand the party into the finished garage space. This home also has a rare front patio space too! All upstairs bedrooms have en-suite baths including a walk-in shower w/rain shower &amp; whirlpool tub in the primary bath. The primary bdrm also has a fireplace and an organized walk-in closet. Bdrm 2 offers WIC as well. Lower level family room with fireplace has radiant heat, wine-storage nook and a killer laundry room with 2 sets of W/D, slop sink, storage and folding/hanging space &amp; laundry shoot! The 4th bedroom (used as office) and 4th full bath round out the lower level. Brick and limestone exterior. 5 zone radiant heated floors through out and space pack AC, two hot water heaters. Located on a quiet one-way street in Smith Park near all the conveniences West Town has to offer plus good expressway, Metra and bus access. 1 block from the Smith Park play lot, huge green space, pool &amp; clubhouse.Read more</overview>
+	<listing_agent>
+		<agentName>Beth Gomez</agentName>
+		<phoneNumber>773-727-1707</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Berkshire Hathaway HomeServices Chicago</postingGroupName>
+		<postingWebsiteLinkText>Berkshire Hathaway HomeServices Chicago</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2010</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">3,075 sqft</key>
+		<key name="Price/sqft:">$467</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 5</detail>
+				<detail>Full bathrooms: 4</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Trash compactor, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,000 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3,075 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 1612207005</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: masonry</detail>
+				<detail>Roof: Built-up</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2010</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 90.97</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Chicago</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $790,050</detail>
+				<detail>Annual tax amount: $15,606</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10821136</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Appliances: Microwave, Dishwasher, Washer, Dryer, Oven-Double, All Stainless Steel Kitchen Appliances, High End Refrigerator, Range Hood</detail>
+				<detail>2nd Bedroom Level: 2nd Level</detail>
+				<detail>Exterior Building Type: Brick, Stone</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Water: Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Master Bedroom Level: 2nd Level</detail>
+				<detail>Parking Type: Garage</detail>
+				<detail>Status: Active</detail>
+				<detail>Addtl Room 1 Level: Main Level</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Kitchen Type: Eating Area-Breakfast Bar</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Exposure: W (West), S (South), E (East), N (North)</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>3rd Bedroom Level: 2nd Level</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Other Information: Commuter Train, Commuter Bus, Interstate Access</detail>
+				<detail>Basement Bathrooms (Y/N): Yes</detail>
+				<detail>Heat/Fuel: Hot Water/Steam, Radiant</detail>
+				<detail>Family Room Level: Lower</detail>
+				<detail>Bath Amenities: Separate Shower, Bidet, Whirlpool</detail>
+				<detail>Basement: Finished</detail>
+				<detail>Age: 6-10 Years</detail>
+				<detail>4th Bedroom Level: Lower</detail>
+				<detail>Addtl Room 1 Name: Deck</detail>
+				<detail>Air Conditioning: Space Pac</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Not Applicable</detail>
+				<detail>Square Feet Source: Not Reported</detail>
+				<detail>Master Bedroom Bath (Y/N): Full</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Interior Property Features: Hardwood Floors, Bar-Wet, Heated Floors</detail>
+				<detail>Exterior Property Features: Patio, Deck</detail>
+				<detail>Fireplace Location: Family Room, Living Room, Master Bedroom</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Type of House 2: 2 Stories</detail>
+				<detail>Lot Dimensions: 24X125</detail>
+				<detail>Garage Type: Detached2, Detached</detail>
+				<detail>Basement (Y/N): English</detail>
+				<detail>Garage Ownership: Owned</detail>
+				<detail>Laundry Level: Lower</detail>
+				<detail>Area Amenities: Park/Playground, Pool</detail>
+				<detail>Additional Rooms: Deck</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 16122070050000</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

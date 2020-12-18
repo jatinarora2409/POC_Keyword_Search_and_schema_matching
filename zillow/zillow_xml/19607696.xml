@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,399,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,554</area>
+	</summary>
+	<address>
+		<street_address>221 Tyler Ave,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>This 1554 square foot single family home has 3 bedrooms and 2.0 bathrooms. This home is located at 221 Tyler Ave, Santa Clara, CA 95050.Read more</overview>
+	<listing_agent>
+		<agentName>Cindy Liu</agentName>
+		<phoneNumber>408-738-2487</phoneNumber>
+		<agentLicenseNumber>License #01458200</agentLicenseNumber>
+		<postingGroupName>Starriver Inc</postingGroupName>
+		<postingWebsiteLinkText>Starriver Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1949</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">9,604 sqft</key>
+		<key name="Price/sqft:">$900</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Garbage disposal, Refrigerator</item>
+				<item>Laundry features: In Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,554 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Carport, Off-street, Covered, Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 9,604 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 30320037</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1949</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1949</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.22</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

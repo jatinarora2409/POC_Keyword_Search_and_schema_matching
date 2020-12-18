@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,655,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,345</area>
+	</summary>
+	<address>
+		<street_address>233 Franklin St APT 303,</street_address>
+		<city_state> San Francisco, CA 94102</city_state>
+	</address>
+	<overview>Super fun location, 233 Franklin St, Res.303, located in the center of vibrant Hayes Valley, where yummy restaurants, boutique shopping, theater/opera, &amp; downtown are at your doorstep. This luxury 2bed/2bath condo is a gracious 1,345sqft &amp; situated on a corner with tons of natural light from both directions.  The chef's kitchen would delight any cook with its imported Studio Becker German craftsmanship cabinetry, Walker Zanger tile backsplash, &amp; Italian Bertazzoni/Fisher+Paykel appliances. The open space living with bold ebony-stained hardwood floors is perfect for entertaining or relaxing/taking in the Hayes Valley vibe/views downstairs. Primary bedroom ensuite is large enough for a king bed &amp; has floor/ceiling windows, a spa-like bathroom with a soaking tub, &amp; separate modern shower, surrounded by custom tile work. Your own EV charger &amp; large storage unit. Living here is steps away from coffee at BlueBottle, ice cream at Salt&amp;Straw, wine at Arlequin &amp; dinner at Rich Table or aManoRead more</overview>
+	<listing_agent>
+		<agentName>Juliette S Vo</agentName>
+		<phoneNumber>415-321-5300</phoneNumber>
+		<agentLicenseNumber>License #01123443</agentLicenseNumber>
+		<postingGroupName>Vanguard Properties</postingGroupName>
+		<postingWebsiteLinkText>Vanguard Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2010</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="HOA:">$757/month</key>
+		<key name="Price/sqft:">$1,230</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,345 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Cement concrete</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0816081</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2010</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 93.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

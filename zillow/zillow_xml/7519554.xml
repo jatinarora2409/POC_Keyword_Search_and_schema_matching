@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$302,100</price>
+		<bd>--</bd>
+		<ba>2</ba>
+		<area>1,730</area>
+	</summary>
+	<address>
+		<street_address>1923 W Ashland Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>This is a 1730 square foot, 2.0 bathroom, single family home. This home is located at 1923 W Ashland Ave, Phoenix, AZ 85009.Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1958</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Refrigeration</key>
+		<key name="Parking:">Carport</key>
+		<key name="Lot:">7,405 sqft</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Refrigeration</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,730 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Private pool: Yes</item>
+				<item>Exterior features: Cement concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.17 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 11045072</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1958</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,395,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,049</area>
+	</summary>
+	<address>
+		<street_address>53 Panorama Dr,</street_address>
+		<city_state> San Francisco, CA 94131</city_state>
+	</address>
+	<overview>This sunny 4bd/2ba residence has perfected the art of staying home with stunning views, a walkout deck, and landscaped yard. Wide sliding doors create a seamless connection between open entertaining areas and the spacious deck. Enjoy breathtaking sunsets over the majestic Twin Peaks while you mingle with guests or unwind. On foggy nights, cuddle up in front of the gas fireplace - the large kitchen is close at hand for a cup of tea, showcasing updated marble countertops &amp; stainless-steel appliances. Hardwood floors run throughout. A flexible layout puts 3 bedrooms upstairs, each with ample closet space. The renovated hall bath features a deep soaking tub &amp; stall shower. Use the lower level as additional living space - visitors will appreciate its separate entrance and direct access to the yard - or indulge in a master suite sanctuary replete with Whirlpool tub, double steam shower, and kitchenette. A sizable office can be used as an additional bedroom or gym. Washer/dryer. 1-car garage.Read more</overview>
+	<listing_agent>
+		<agentName>Ruth Krishnan</agentName>
+		<phoneNumber>415-738-7000</phoneNumber>
+		<agentLicenseNumber>License #01862279</agentLicenseNumber>
+		<postingGroupName>Compass SF</postingGroupName>
+		<postingWebsiteLinkText>Compass SF</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="Lot:">3,750 sqft</key>
+		<key name="Price/sqft:">$681</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,049 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: Mountain, Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.09 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 2821016</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1959</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2008</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 21.2</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

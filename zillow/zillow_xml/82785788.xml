@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$629,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>491</area>
+	</summary>
+	<address>
+		<street_address>566 S Van Ness Ave APT 12,</street_address>
+		<city_state> San Francisco, CA 94110</city_state>
+	</address>
+	<overview>Exceptional Inner Mission 1 bedroom, 1 bath contemporary condominium with designer finishes. This serene courtyard facing home in a newer boutique elevator building with great light and sophisticated modern features. Spacious living/dining with large south facing windows, gas fireplace, recessed lighting and 55 TV. New hardwood floors. Modern kitchen with quartz stone counters, under counter lighting, stainless gas stove, hood and microwave oven, Bosch dishwasher and Fisher &amp; Paykel stainless refrigerator. Spacious private bedroom with Elfa closet. Large bath with shower over tub, new lighted mirror and in- unit washer/dryer. One car deed independent parking. Common areas include roof deck with pano city views and a large rear patio with dining area, citrus grove and lawn area. Excellent location in one of San Francisco's hottest neighborhoods. Close to all the wonderful amenities on the Valencia and Mission street corridors, public transportation including BART, and tech shuttleRead more</overview>
+	<listing_agent>
+		<agentName>Bernie Katzmann and Mike Shaw</agentName>
+		<phoneNumber>415-655-5600</phoneNumber>
+		<agentLicenseNumber>License #01228428</agentLicenseNumber>
+		<postingGroupName>Vanguard Properties</postingGroupName>
+		<postingWebsiteLinkText>Vanguard Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">On street, Attached Garage</key>
+		<key name="HOA:">$529/month</key>
+		<key name="Price/sqft:">$1,281</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 491 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: On street, Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3570110</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

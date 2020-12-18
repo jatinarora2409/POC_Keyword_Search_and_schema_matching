@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,785,000</price>
+		<bd>5</bd>
+		<ba>6</ba>
+		<area>10,730</area>
+	</summary>
+	<address>
+		<street_address>8912 Chalk Knoll Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Desired Gorgeous Barton Creek Resort - gated comm. Imposing entry w/ grand spiral staircase. Open rooms, game rm, media. See-thru fireplace. 2500 sq. ft basement living quarters, 2  offices. Cul-de-sac. Covered veranda and premier hill county viewsFEMA - Unknown Guest Accommodations: Yes Restrictions: YesRead more</overview>
+	<listing_agent>
+		<agentName>Cheryl Crawford</agentName>
+		<phoneNumber>512-785-1095</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Crawford Realty Inc</postingGroupName>
+		<postingWebsiteLinkText>Crawford Realty Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1999</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="HOA:">$150/month</key>
+		<key name="Lot:">0.49 acres</key>
+		<key name="Price/sqft:">$166</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 6</item>
+				<item>Full bathrooms: 5</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor</item>
+				<item>Laundry features: Laundry Room, Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 10,730 sqft</item>
+				<item>Total number of fireplaces: 2</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 3</item>
+				<item>Has uncovered spaces: Yes</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Entry location: 3rd+ Floor Entry</item>
+				<item>Patio and porch details: Patio, Porch, Covered</item>
+				<item>Fencing: Fenced, Wrought Iron</item>
+				<item>View description: Park</item>
+				<item>Residential vegetation: Heavily Wooded, Trees-Large (Over 40 Ft)</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.49 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01173601070000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+				<item>Windows: Plantation Shutters, Window Treatments</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1999</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Sewer information: Public Sewer</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 79.19</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Pool, Tennis Court(s), Clubhouse, Sauna, Gated, Golf, Fitness Center, Elevator, Curbs</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

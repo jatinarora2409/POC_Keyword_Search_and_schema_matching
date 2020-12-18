@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$595,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,577</area>
+	</summary>
+	<address>
+		<street_address>137 E Wilson St UNIT 413,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>MODERN Condominium in Downtown Madison! This condo offers 2 separate living room areas, covered balcony with gas grill to enjoy grilling year round! A kitchen for the INDEPENDENT chef, pantry, updated bathrooms with walk-in showers, oodles  of closets, and plenty of natural light throughout!  Tandum parking( Space #40) large enough for 2 cars with 9x12 storage unit (space #S210) next to parking. **Tax assessment for Parking $25,000 Storage $10,000**  Both included in listing price.Read more</overview>
+	<listing_agent>
+		<agentName>Maria Antoinette Cannarella</agentName>
+		<phoneNumber>608-294-7777</phoneNumber>
+		<agentLicenseNumber>License #36765-94</agentLicenseNumber>
+		<postingGroupName>Restaino &amp; Associates ERA Powered</postingGroupName>
+		<postingWebsiteLinkText>Restaino &amp; Associates ERA Powered</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$377</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,577 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070924218146</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2005</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

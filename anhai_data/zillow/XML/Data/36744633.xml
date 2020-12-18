@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$550,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>4,000</area>
+	</summary>
+	<address>
+		<street_address>13972 Mount Eagle Ln,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>Newly renovated 4,200 sq. ft. 4 bedroom, 3 bath brick-front split foyer ready for its next owner! This home sits on 3-acres of land and backs to trees/woods for total privacy! Enjoy some time outdoors and take a stroll to the community pond. Lots of storage for cars and toys with an attached side-load three car garage, PLUS a second 30'X50' all-brick triple bay garage for tractors, motorcycles, etc. Lawn irrigation system. Enter the lower level of the home through the attached garage and walk into an open rec room with new carpet and LED recessed lighting. This level is perfect for in-laws as there are no stairs required to access. Full-wall brick fireplace with a brick hearth, oak mantle, and a pellet stove insert. In-law kitchen with brand new stainless steel appliances, a built-in Keurig coffee maker in refrigerator, an electric stove, oak cabinets, and new bamboo vinyl floors. Just off of the in-law kitchen is an atrium door leading to the concrete patio and fenced-in backyard. 1 bedroom on the lower level, including a second potential bedroom or office space. Full bath. Large laundry room with a closet and a chute.   The main level consists of 3 large bedrooms and 2 full baths, including a master suite. Hardwood floors throughout. Master suite with crown molding and a renovated master bath with corian countertops, a tile-surround shower, a jetted Jacuzzi soaking tub, a large walk-in closet, and a laundry chute to the lower level laundry room. Hall bath with designer over-sized ceramic tile flooring, LED lighting, and crown molding. Large open living room with hardwood floors and crown molding. Wood molding around all door frames and area ways. Formal dining room with hardwood floors, crown molding, and chair railings. Large open eat-in kitchen, renovated with granite counter tops, oak cabinets, smoked stainless steel appliances, a bay window, recessed lighting, PLUS an extra wall of cabinets and granite for additional storage. Huge family room over the garage with pergo floors and an exit door to the sun room addition. Sun room addition has double pane thermal windows and an access door leading to the concrete patio/fenced-in backyard area. Brand new roof, siding, and gutter guards currently being installed. Simply a must see!Read more</overview>
+	<listing_agent>
+		<agentName>Frank McKnew</agentName>
+		<phoneNumber>301-843-5100</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX 100</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX 100</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1989</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">9 spaces</key>
+		<key name="Lot:">3.09 Acres</key>
+		<key name="Price/sqft:">$138</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Heat pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Refrigerator, Washer</detail>
+				<detail>Laundry features: Laundry Chute</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 4,000 sqft</detail>
+				<detail>Finished area below ground: 1600</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 9</detail>
+				<detail>Parking features: Garage - Attached, Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 9</detail>
+				<detail>Covered spaces: 5</detail>
+				<detail>Uncovered spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Vinyl, Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3.09 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 08051852</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Split Foyer</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Shake / Shingle</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1989</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 70.49</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Waldorf</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $16/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $454,500</detail>
+				<detail>Annual tax amount: $5,862</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: MDCH217704</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Appliances: Dishwasher, Refrigerator, Exhaust Fan, Dryer, Washer, Bar Fridge, Stove, Water Dispenser</detail>
+				<detail>AssociationYN: Yes</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>InteriorFeatures: Ceiling Fan(s), Window Treatments, Pantry, Recessed Lighting, Walk-In Closet(s), Dining Area, Eat-in Kitchen, Soaking Tub, Crown Molding, Carpet, Open Floorplan, Wood Floors, Attic, 2nd Kitchen, Formal/Separate Dining Room, Breakfast Area, Upgraded Countertops, Family Room Off Kitchen, Chair Railings</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>StructureType: Detached</detail>
+				<detail>ConstructionMaterials: Vinyl Siding, Brick Front</detail>
+				<detail>StoriesTotal: 2</detail>
+				<detail>Heating: Heat Pump</detail>
+				<detail>ArchitecturalStyle: Split Foyer</detail>
+				<detail>OpenParkingSpaces: 4</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>ParkingFeatures: Driveway, Covered, Detached Garage, Attached Garage, Garage Door Opener, Private, Asphalt, Garage Faces Side, Garage Faces Front</detail>
+				<detail>CoveredSpaces: 5</detail>
+				<detail>Cooling: Central Air, Ceiling Fan(s)</detail>
+				<detail>BelowGradeFinishedArea: 1600</detail>
+				<detail>LaundryFeatures: Laundry Chute</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>TaxAnnualAmount: 6099.0</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

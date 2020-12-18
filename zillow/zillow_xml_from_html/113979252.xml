@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$630,000</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>594</area>
+	</summary>
+	<address>
+		<street_address>1217 S 29th Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Commercial Business  Opportunity close to down town Phoenix. Business includes building, four cover working stations ,auto painting oven,Air quality permit,welding machine,gas tanks, pressure washer gun and Recycle tank.Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber>623-344-7300</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX Professionals</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX Professionals</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2012</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">0.25 Acres</key>
+		<key name="Price/sqft:">$1,061</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bathrooms: 0</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 594 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Parking features: Carport</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.25 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10509020</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: steel</detail>
+				<detail>Roof: Asphalt</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2012</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1952</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 85.7</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $113,200</detail>
+				<detail>Annual tax amount: $494</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6116090</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

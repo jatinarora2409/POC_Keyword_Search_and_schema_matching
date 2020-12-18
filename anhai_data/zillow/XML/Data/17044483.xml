@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$499,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,072</area>
+	</summary>
+	<address>
+		<street_address>2521 Washington St,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>Fantastic opportunity to buy this charming single-story home, with ultra private yard in sought after Lemon Grove! This bright and breezy home features a fantastic open floorplan with designer touches inside and out. The spacious kitchen is open to the family room and features a beautiful oversized peninsula bar. The private master en-suite has recently been upgraded with stunning bathroom tile, custom wood vanity and sleek barn door. Bamboo wood flooring flows seamlessly throughout the entire home. Let's talk about this lot! Perfect opportunity for RV and Boat owners, or someone looking to add a ADU!! This home has it all!! Wont last!Read more</overview>
+	<listing_agent>
+		<agentName>Ryan Maxwell</agentName>
+		<phoneNumber>949-422-8145</phoneNumber>
+		<agentLicenseNumber>License #01963539</agentLicenseNumber>
+		<postingGroupName>Nautical Properties</postingGroupName>
+		<postingWebsiteLinkText>Nautical Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1987</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">7,631 sqft</key>
+		<key name="Price/sqft:">$465</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Bathroom</heading>
+			<details>
+				<detail>Features: Bathtub, Upgraded</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Kitchen</heading>
+			<details>
+				<detail>Features: Kitchen Open to Family Room</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Garbage disposal, Range / Oven</detail>
+				<detail>Laundry features: In Garage</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Common walls with other units/homes: No Common Walls</detail>
+				<detail>Total interior livable area: 1,072 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: Attached Garage</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Levels: One</detail>
+				<detail>Patio and porch details: Deck</detail>
+				<detail>Fencing: Wood</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.18 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5033104500</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1987</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1987</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Public Sewer</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 87.01</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Community</heading>
+			<details>
+				<detail>Community features: Suburban</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Lemon Grove</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $300,258</detail>
+				<detail>Annual tax amount: $3,658</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: OC20208879</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>StateOrProvince: CA</detail>
+				<detail>YearBuiltSource: Assessor</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>StreetSuffix: Street</detail>
+				<detail>EatingArea: Breakfast Nook</detail>
+				<detail>StandardStatus: Active</detail>
+				<detail>LotFeatures: Yard</detail>
+				<detail>CountyOrParish: San Diego</detail>
+				<detail>City: Lemon Grove</detail>
+				<detail>ElevationUnits: Feet</detail>
+				<detail>LotSizeSource: Assessor</detail>
+				<detail>Country: US</detail>
+				<detail>TaxTractNumber: 11017</detail>
+				<detail>InteriorFeatures: Open Floorplan</detail>
+				<detail>MLSAreaMajor: 91945 - Lemon Grove</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$765,000</price>
+		<bd>2</bd>
+		<ba>3</ba>
+		<area>1,200</area>
+	</summary>
+	<address>
+		<street_address>4400 Portola Ave,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Home Sweet Home. Come see the potential of this great corner lot. Wonderful opportunity for developers. Intersect with two cul-de-suc streets. Must see to appreciate! Airy and bright. There are green belt hilly views from the master Bedroom and Breakfast area. A Gem in the rough yet the house inside is livable. There is a 400 sq. ft. basement, with windows and 3./4 bathroom with its own entrance.  Fruit trees, and passion fruits vine surrounding the house. 5 car ports, Quiet area yet minutes from shopping, downtown and South Pasadena. House can be delivered furnished for additional cost.Read more</overview>
+	<listing_agent>
+		<agentName>Rachel Neuwirth</agentName>
+		<phoneNumber>818-908-4060</phoneNumber>
+		<agentLicenseNumber>License #00874714</agentLicenseNumber>
+		<postingGroupName>Rachel Neuwirth</postingGroupName>
+		<postingWebsiteLinkText>Rachel Neuwirth</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1929</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">5 spaces</key>
+		<key name="Lot:">8,485 sqft</key>
+		<key name="Price/sqft:">$638</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/4 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Laundry features: Laundry Area</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 1,200 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 5</item>
+				<item>Parking features: Carport, Garage - Detached, Covered</item>
+				<item>Garage spaces: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Ground Level</item>
+				<item>Stories: 1</item>
+				<item>Spa included: Yes</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,485 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Shed(s)</item>
+				<item>Parcel number: 5307021012</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1929</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1930</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: In Street</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.56</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Carbon Monoxide Detector(s), Smoke Detector</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

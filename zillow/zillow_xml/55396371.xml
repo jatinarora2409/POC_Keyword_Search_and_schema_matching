@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$599,900</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,008</area>
+	</summary>
+	<address>
+		<street_address>453 N Baldwin St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Showings start 10/3-VRP $565,000-639,000. Located in the heart of the desirable Tenney Laphan neighborhood, a half block to Tenney Park and Lake Mendota. This 4 bedroom, 2 1/2 bath is turn key, move in ready and has been meticulously maintained. Large addition in 2010. Seller spared no expense to maintain the classic Prairie/Craftsman style home. Red oak trim, oak hardwood floors throughout. Quarter sawn oak cabinets and quartz countertops in the oversized gourmet kitchen. Butlers pantry includes main level laundry area.  Custom touches abound such as central vacuum, laundry chute and built-in cabinets.  One car garage with an off street parking slab behind the house that can double as a patio!  Close proximity to the best Madison has to offer; bike trails, festivals, lakes, and much more!Read more</overview>
+	<listing_agent>
+		<agentName>Maureen Thomas</agentName>
+		<phoneNumber>608-320-0164</phoneNumber>
+		<agentLicenseNumber>License #53782-90</agentLicenseNumber>
+		<postingGroupName>My Home Realty, LLC</postingGroupName>
+		<postingWebsiteLinkText>My Home Realty, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1920</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">4,356 sqft</key>
+		<key name="Price/sqft:">$299</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,008 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco, Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 4,356 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070912404103</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1920</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1974</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Limited solar potentialSun Number™: 45.58</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,23 @@
+Column Name,Business Term
+property_year,listed residence built-in year
+address_locality,city of the residence
+property_id,listed residence mls id
+principal_interest,residences monthly mortgage payment
+property_type,listed residence of the property type
+home_style,residences style of construction
+branding_office_name,realtors office name
+price_per_sqft,price per square feet of the residence
+longitude,residences geographical coordinates
+latitude,residences geographical coordinates
+address_region,region of the residence
+streetAddress,address of the residence
+postal_code,postal code/zip code of the residence
+bath,number of bathrooms of the residence listed
+beds,number of bedrooms of the residence listed
+price,offer price of the residence in usd
+description,residence description
+lotsize,lot area size of the residence in acres
+sqft,area size of the residence in square feet
+hoa,home owners association fees of the residence
+branding_agent_name,realtors name
+property_tax_section,None

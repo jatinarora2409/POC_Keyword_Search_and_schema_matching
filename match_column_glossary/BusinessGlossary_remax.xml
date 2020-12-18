@@ -1,0 +1,170 @@
+<BusinessGlossary>
+    <term>
+        <id>1</id>
+        <value>Listings address</value>
+    </term>
+    <term>
+        <id>2</id>
+        <value>Listings city</value>
+    </term>
+    <term>
+        <id>3</id>
+        <value>Listings region</value>
+    </term>
+    <term>
+        <id>4</id>
+        <value>Listings postal code/zip code</value>
+    </term>
+    <term>
+        <id>5</id>
+        <value>Listings geographical coordinates</value>
+    </term>
+    <term>
+        <id>6</id>
+        <value>Current listing status of the house</value>
+    </term>
+    <term>
+        <id>7</id>
+        <value>Number of the Bedrooms in the listed house</value>
+    </term>
+    <term>
+        <id>8</id>
+        <value>Number of the Bathrooms in the listed house</value>
+    </term>
+    <term>
+        <id>9</id>
+        <value>Description of the listing</value>
+    </term>
+    <term>
+        <id>10</id>
+        <value>Price of the listed house in USD</value>
+    </term>
+    <term>
+        <id>11</id>
+        <value>Area of the listed house in square feet</value>
+    </term>
+    <term>
+        <id>12</id>
+        <value>Lot Area of the listed house in acres</value>
+    </term>
+    <term>
+        <id>13</id>
+        <value>Living area of the listed house in square feet</value>
+    </term>
+    <term>
+        <id>14</id>
+        <value>Home Owners Association fees of the listed house</value>
+    </term>
+    <term>
+        <id>15</id>
+        <value>Annual tax amount of the listed house for the year</value>
+    </term>
+    <term>
+        <id>17</id>
+        <value>No of Parking spaces in the listed house</value>
+    </term>
+    <term>
+        <id>18</id>
+        <value>No of Garage spaces in the listed house</value>
+    </term>
+    <term>
+        <id>19</id>
+        <value>Furnished Area of the listed house in Square feet</value>
+    </term>
+    <term>
+        <id>20</id>
+        <value>Unfurnished Area of the listed house in Square feet</value>
+    </term>
+    <term>
+        <id>21</id>
+        <value>Type of Cooling in the listed house</value>
+    </term>
+    <term>
+        <id>22</id>
+        <value>Type of Heating in the listed house</value>
+    </term>
+    <term>
+        <id>23</id>
+        <value>Type of flooring in the listed house</value>
+    </term>
+    <term>
+        <id>24</id>
+        <value>Appliances in the listed House</value>
+    </term>
+    <term>
+        <id>25</id>
+        <value>Roof Material of the listed house</value>
+    </term>
+    <term>
+        <id>26</id>
+        <value>Price per square feet of the listed house</value>
+    </term>
+    <term>
+        <id>27</id>
+        <value>Estimated price of the listing</value>
+    </term>
+    <term>
+        <id>28</id>
+        <value>monthly mortgage payment for the listed house</value>
+    </term>
+    <term>
+        <id>29</id>
+        <value>Stories in the listed house</value>
+    </term>
+    <term>
+        <id>30</id>
+        <value>Age of the listed house</value>
+    </term>
+    <term>
+        <id>31</id>
+        <value>Listed house brokers compensation</value>
+    </term>
+    <term>
+        <id>32</id>
+        <value>Listed houses style of construction</value>
+    </term>
+    <term>
+        <id>33</id>
+        <value>Listed houses property type</value>
+    </term>
+    <term>
+        <id>34</id>
+        <value>Listed House built-in year</value>
+    </term>
+    <term>
+        <id>35</id>
+        <value>Listed House renovated in year</value>
+    </term>
+    <term>
+        <id>36</id>
+        <value>Listed House APN ID</value>
+    </term>
+    <term>
+        <id>37</id>
+        <value>Listed House MLS ID</value>
+    </term>
+    <term>
+        <id>38</id>
+        <value>Listed houses nearby School Names</value>
+    </term>
+    <term>
+        <id>39</id>
+        <value>Real Estate Agents Name</value>
+    </term>
+    <term>
+        <id>40</id>
+        <value>Real Estate Agents Office Name</value>
+    </term>
+    <term>
+        <id>41</id>
+        <value>Real Estate Agents Contact Number</value>
+    </term>
+    <term>
+        <id>42</id>
+        <value>Real Estate Agents Email Address</value>
+    </term>
+    <term>
+        <id>43</id>
+        <value>Real Estate Agents license numbe</value>
+    </term>
+</BusinessGlossary>

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$689,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,750</area>
+	</summary>
+	<address>
+		<street_address>2730 N 20th Dr,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>GORGEOUS Completely Remodeled home in Encanto Estates! This beautiful home features 4 bedrooms w/walkin closets, 3 full baths, enclosed carport &amp; a stunning backyard! New wood tile flooring in common areas &amp; carpet in bedrooms! Open kitchen w/new stainless steel appliances, quartz countertops, tile backsplash, walk-in pantry &amp; large kitchen island. Adjacent family room features vaulted ceilings w/wood beams. Split master suite boasts two generously-sized walk-in closets, private enclosed yard, luxurious ensuite w/dual vanities, soaking tub &amp; large custom tile shower w/rainhead! Second Master has private ensuite with custom tile shower. Laundry Room/Mud Room. Backyard has new pavers, grass &amp; plenty of room to entertain! Come see this home today!Read more</overview>
+	<listing_agent>
+		<agentName>Elmon Krupnik</agentName>
+		<phoneNumber>480-696-5500</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Stunning Homes Realty</postingGroupName>
+		<postingWebsiteLinkText>Stunning Homes Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1956</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Refrigeration</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">10,110 sqft</key>
+		<key name="Price/sqft:">$251</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Refrigeration</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Range / Oven</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,750 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement concrete</item>
+				<item>Fencing: Block</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.23 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 11044057</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1956</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS, SW Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

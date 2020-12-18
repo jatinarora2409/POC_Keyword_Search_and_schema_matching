@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,099,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>1,040</area>
+	</summary>
+	<address>
+		<street_address>1411 Jackson St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Corner-lot home walking distance to Santa Clara University, close to fortune 500 companies, Levis Stadium &amp; CalTrain. Great commuter location minutes from 101 and 880. Close to San Jose Airport. 1040 square feet remodeled home, 2 Bedrooms, 1 Bath.  Lot size approx. 5250 square feet. Bathroom remodel: high-end fixtures and tub: Hans Grohe faucets and showerhead, Maxx tub, high-end tile, new plumbing in the bathroom, updated electrical. New main plumbing pipe. Custom build shelving unit in the living room. Refinished original flooring throughout. Updated electrical in bedrooms. New HVAC, Backyard: electric remote opening gate, established fruit trees (orange, avocado, prickly pear). New trees (apple, plum, pomegranate, peach, white peach, plum). New pavement (garage, driveway). Organic garden. Painted inside &amp; out. Back and front yard landscaping with sprinklers. HUGE basement. Fence all around. Backyard patio - pavers. Schools: Westwood Elementary, Buchser Middle, Santa Clara High.Read more</overview>
+	<listing_agent>
+		<agentName>Ismar Maslic, GRI/Broker</agentName>
+		<phoneNumber>408-867-7272</phoneNumber>
+		<agentLicenseNumber>License #01313976</agentLicenseNumber>
+		<postingGroupName>Montalvo Realty</postingGroupName>
+		<postingWebsiteLinkText>Montalvo Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1920</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">5,248 sqft</key>
+		<key name="Price/sqft:">$1,057</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: None, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Range / Oven, Washer</detail>
+				<detail>Laundry features: Washer / Dryer, In Utility Room, Electricity Hookup (220V)</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,040 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 5,248 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 26905008</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1920</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1920</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.86</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $989,400</detail>
+				<detail>Annual tax amount: $12,092</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81813425</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Family Room: No Family Room</detail>
+				<detail>Building Type: Detached</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Dining Room: No Formal Dining Room</detail>
+				<detail>Foundation: Concrete Perimeter, Crawl Space</detail>
+				<detail>Lot Size Area Maximum Units: Square Feet</detail>
+				<detail>Lot Size Area Minimum Units: Square Feet</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Flooring: Tile, Hardwood, Vinyl / Linoleum</detail>
+				<detail>Water: Public</detail>
+				<detail>Kitchen: Oven Range, Countertop - Granite, Cooktop - Gas</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Heating: Central Forced Air</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Sewer Septic: Sewer - Public</detail>
+				<detail>Garage Parking Features: Electric Gate, Room for Oversized Vehicle, Detached Garage</detail>
+				<detail>HOA Exist Y/N: 0</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Cooling: Central AC</detail>
+				<detail>Laundry: Washer / Dryer, In Utility Room, Electricity Hookup (220V)</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1715 E Shore Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$50,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>First time to offer these 2 single lots in many, many years. Great place to build a home or multi-family housing (if city allows permitting). Both lots are for sale individually but owner would like to sell them together ideally. The lots backup to a small creek and surrounded by beautiful mature trees. Your backyard view would be beautiful. Almost half an acre in Dallas for $100,000. </text_base_description>
+	<listed_by>
+		<name>Angela Yaun</name>
+		<org> • Day Realty Group </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$50,000</List_Price>
+		<Est._Mo._Payment>$257</Est._Mo._Payment>
+		<Redfin_Estimate>$44,413</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>45 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>BREEZLEY STONE ADDN</Community>
+		<Lot_Size>8,799 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14420614</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Alexander</item>
+						<item>Junior High School Name: Young</item>
+						<item>High School Name: Manns</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Sewer, City Water, Concrete, Curbs, Individual Gas Meter, Individual Water Meter, Underground Utilities</item>
+						<item>Cable Available, City Electric, Electric, Other Utilities</item>
+					</item>
+				</item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Legal Description: BLK A/6315 LOT 2 ACS 0.2020</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Restrictions: No Known Restriction(s)</item>
+					</item>
+				</item>
+				<item>
+					<item>Land Information</item>
+					<item>
+						<item>Present Use: Residential Single</item>
+						<item>Surface Rights: All</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Development: Other (See Remarks), Streets Installed, Utilities Installed, Zoned</item>
+						<item>Easements: None</item>
+						<item>Features: Creek, Cultivated, Heavily Treed, Large Backyard Grass, Some Trees, Subdivision, Water/Lake View</item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.202</item>
+						<item>Area Sq. Ft.: 8,799.12</item>
+						<item>Multi-Parcel</item>
+						<item>Parcel Number: 6315 A00 00200 4DA6315 A00</item>
+						<item>Road Frontage: Asphalt, City</item>
+						<item>Zoning: Condo, Duplex, Mixed Zoning, Multi-Family, Other (See Remarks), Residential, Townhouse</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: BREEZLEY STONE ADDN</item>
+						<item>Directions: From Highway US-175 take exit Second Ave-Bruton Rd.  Turn right on Bruton Rd.  Turn right onto N St. Augustine Dr., Turn right onto E Shore Drive.  Lot will be on the right.  No sign on lot.</item>
+					</item>
+				</item>
+				<item>
+					<item>Available Documents</item>
+					<item>
+						<item>Aerial Photo</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>8,734 Sq. Ft.</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>0063150A000020000</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2139 Green St Unit I </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94123</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,475,000</Price>
+		<Beds>2</Beds>
+		<Baths>2.5</Baths>
+		<key name="$1731 / Sq. Ft.">1,430</key>
+	</main_stats>
+	<text_base_description>Penthouse Level townhome style with un obstructed views of the Golden Gate Bridge, Palace of Fine Art and SF Bay. This has the WOW factor. Small boutique building that features elevator access from garage to unit, controlled access gate and private garage. This top floor offers hardwoods through out, wood burning fireplace, updated baths and kitchen with stainless appliances and gas range. Upper floor features oversized formal living with outdoor deck and massive views, fireplace, large dining room over looking rear garden and small deck, 1/2 bath and kitchen, Lower unit features 2 beds/2baths and utility room. Lots of custom closets. 1 block from Chic Union Street restaurants and shops. Walk to Marina Green, transportation 1 block. This has it all: Space, Views, and single door entry.  </text_base_description>
+	<listed_by>
+		<name>Steven Minchen</name>
+		<agentLicenseDisplay>•DRE #01367542</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,475,000</List_Price>
+		<Est._Mo._Payment>$11,311</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$1,731</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>6 days</Time_on_Redfin>
+		<Property_Type>Full, Townhouse, Penthouse, Mid-Rise (4-8), Top Floor, End Unit, 2 Level, Luxury, Condominium</Property_Type>
+		<HOA_Dues>$841/month</HOA_Dues>
+		<Year_Built>1988</Year_Built>
+		<Style>Traditional</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">507160</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Enclosed, Attached, Interior Access, Automatic Door, Private, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>BBQ Area, Garden/Greenbelt</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $841.65</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>Articles of Incorporation, Bylaws, CC&amp;Rs, Rules &amp; Regulations, Financial Statements, Budget</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower Over Tub, Tub in Master Bdrm, Marble, Granite, Remodeled</group_dat>
+						<group_dat># of Baths: 2.5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Has View, Deck Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Formal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1, Wood Burning, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Gas Range, Built-In Oven, Double Oven, Refrigerator, Dishwasher, Microwave, Granite Counter, Skylight(s), Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: .5 Bath/Powder, Living Room, Dining Room, Kitchen</group_dat>
+						<group_dat>Lower Level/Basement: 2 Bedrooms, 2 Baths</group_dat>
+						<group_dat># of Rooms: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Composition Roof</group_dat>
+						<group_dat>Concrete Perimeter Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+						<group_dat>Deck</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Panoramic, City Lights, Water, Bay, Golden Gate Bridge, San Francisco, Downtown, Mountains</group_dat>
+						<group_dat>Paved Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Traditional</group_dat>
+						<group_dat>Type: Full, Townhouse, Penthouse, Mid-Rise (4-8), Top Floor, End Unit, 2 Level, Luxury</group_dat>
+						<group_dat>Construction: Wood Frame</group_dat>
+						<group_dat># of Units: 8</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 0557055</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Webster</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $2,475,000</group_dat>
+						<group_dat>On Market Date: Wednesday, September 30, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,430</Total_Sq._Ft.>
+		<Stories>5</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1988</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0557 055</APN>
+	</public_facts>
+</home>

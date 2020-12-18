@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$5,795,000</price>
+		<bd>3</bd>
+		<ba>3.5</ba>
+		<area>3,061</area>
+	</summary>
+	<address>
+		<street_address>2760 Lyon St,</street_address>
+		<city_state> San Francisco, CA 94123</city_state>
+	</address>
+	<overview>Sunshine abounds in this beautifully renovated home where every detail has been meticulously planned, from the large slabs of stone in the kitchen, to exquisitely appointed bathrooms and beautiful woodworking throughout. With nothing but one-hundred-year-old trees across the street and a peek of the Golden Gate Bridge, you will enjoy the sheer magnificence of all the Presidio has to offer. This one of a kind home is truly turnkey! Upstairs bedrooms have air conditioning. Walk-out garden off family room.Read more</overview>
+	<listing_agent>
+		<agentName>Debi DiCello</agentName>
+		<phoneNumber>415-901-1700</phoneNumber>
+		<agentLicenseNumber>License #00778719</agentLicenseNumber>
+		<postingGroupName>Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1967</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">1,877 sqft</key>
+		<key name="Price/sqft:">$1,893</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 4</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,061 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: Attached Garage</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>View description: Park</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.04 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 0948025</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1967</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 86.44</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: San Francisco</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $4,995,000</detail>
+				<detail>Annual tax amount: $59,666</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 507782</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Property Subtype 1: Single-Family Homes</detail>
+				<detail>District: SF District 7</detail>
+				<detail>Driveway/Sidewalks: Paved Driveway</detail>
+				<detail>Floors: Hardwood</detail>
+				<detail>Living Room: View</detail>
+				<detail>Main Level: Living Room, Dining Room, Kitchen, .5 Bath/Powder</detail>
+				<detail>Parking: Garage, Interior Access, Attached, Auto Door</detail>
+				<detail>View(s): Golden Gate Bridge, Park, Partial</detail>
+				<detail>Status: Active</detail>
+				<detail>Exterior: Stucco</detail>
+				<detail>Fireplace: 1, Electric</detail>
+				<detail>Laundry Appliances: Washer/Dryer, 220 Volt Wiring, In Closet</detail>
+				<detail>Lot Description: Fenced</detail>
+				<detail>Bath Type/Includes: Remodeled, Shower and Tub, Stall Shower, Marble, Tub in Master Bdrm</detail>
+				<detail>Lower Level: 1 Bath, Family Room</detail>
+				<detail>Transportation: 2 Blocks</detail>
+				<detail>Upper Level: 2 Bedrooms, 3 Bedrooms</detail>
+				<detail>Shopping: 3 Blocks</detail>
+				<detail>Subdist: Cow Hollow</detail>
+				<detail>Square Footage Source: Per Graphic Artist</detail>
+				<detail>Parking Leased: On Site</detail>
+				<detail># of Parking Spaces: 2</detail>
+				<detail>Lot Measurement: SqFt</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

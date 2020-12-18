@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$285,000</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>960</area>
+	</summary>
+	<address>
+		<street_address>1598 Claude Rd,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>Great Location property with concrete home being sold as is. This property is currently zoned Rural Fringe RF (residential) land use &amp; Agricultural/ Residential (AR) zoning. Places of religious use assembly &amp; the adult living are uses that are permitted in Residential zoning category per county. This land use is also 1 house per acre.There are few surrounding parcels for sale that could be purchase and combined as a bigger investment.Read more</overview>
+	<listing_agent>
+		<agentName>Lori Wilford</agentName>
+		<phoneNumber>904-269-7117</phoneNumber>
+		<agentLicenseNumber>License #3015835</agentLicenseNumber>
+		<postingGroupName>COLDWELL BANKER VANGUARD REALTY</postingGroupName>
+		<postingWebsiteLinkText>COLDWELL BANKER VANGUARD REALTY</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1958</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">2.33 Acres</key>
+		<key name="Price/sqft:">$297</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 960 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement / Concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2.33 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 05052601420400000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Traditional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1958</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1958</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 62.03</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Fleming Island</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $131,782</item>
+				<item>Annual tax amount: $1,542</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 1076603</item>
+				<item>Measurement Source: Tax Roll</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>WaterSource: Well</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>BusinessType: Residential</item>
+				<item>ArchitecturalStyle: Traditional</item>
+				<item>CoveredSpaces: 2</item>
+				<item>Cooling: Central Air</item>
+				<item>LivingAreaSource: Tax roll</item>
+				<item>BuildingAreaSource: Tax Roll</item>
+				<item>Heating: Central Heating</item>
+				<item>LotFeatures: Regular Lot</item>
+				<item>MlsStatus: Active</item>
+			</item>
+		</item>
+	</other_details>
+</home>

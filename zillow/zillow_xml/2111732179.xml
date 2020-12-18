@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$839,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>660</area>
+	</summary>
+	<address>
+		<street_address>2121 Laguna St APT 5,</street_address>
+		<city_state> San Francisco, CA 94115</city_state>
+	</address>
+	<overview>What a location! Great exclusive outdoor space! Situated across from Lafayette Park, on a prime Pacific Heights block, this beautiful 1 bedroom condominium is quietly located in the rear of the building.  This bright corner unit has great natural light benefiting from both South and West exposure.  It has a wonderful layout.  French doors from the living room open to a spacious exclusive use patio which you are sure to love.  This mid-century modern building has an elevator and garage parking. Don't want to take the elevator during the time of Covid? No problem,  it's one floor up from the lobby. With a walk score of 92, it is close to Fillmore restaurants and shops, CPMC, the Van Ness corridor, and more.Read more</overview>
+	<listing_agent>
+		<agentName>Michelle Yelen</agentName>
+		<phoneNumber>415-738-7000</phoneNumber>
+		<agentLicenseNumber>License #00631010</agentLicenseNumber>
+		<postingGroupName>Compass SF</postingGroupName>
+		<postingWebsiteLinkText>Compass SF</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1960</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$781/mo</key>
+		<key name="Price/sqft:">$1,271</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 660 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage - Attached</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1960</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $781/mo</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

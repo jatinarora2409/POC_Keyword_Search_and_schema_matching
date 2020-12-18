@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,798,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,520</area>
+	</summary>
+	<address>
+		<street_address>318 Main St UNIT 5K,</street_address>
+		<city_state> San Francisco, CA 94105</city_state>
+	</address>
+	<overview>**Virtual tours available!**Enjoy all the conveniences modern city living has to offer. . The Lumina is a great addition to SOMA and the most premier residential building in San Francisco. High end finishes include Caesarstone quartz countertops. European porcelain flooring and shower tiles, Kohler bathroom fixtures, Gaggenau refrigerator and oven/rotisserie, five burner gas cooktop, Bosch dishwasher, In-unit washer/dryer, Custom cabinetry, Wood flooring with carpeted bedrooms, Window covering and closet built-ins. Parking Included!Read more</overview>
+	<listing_agent>
+		<agentName>Joseph Silva Gonsalves</agentName>
+		<phoneNumber>415-947-7111</phoneNumber>
+		<agentLicenseNumber>License #02067244</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2015</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">None</key>
+		<key name="HOA:">$1,125/month</key>
+		<key name="Price/sqft:">$1,183</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,520 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2015</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $1,125/mo</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

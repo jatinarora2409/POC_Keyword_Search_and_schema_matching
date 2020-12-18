@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$510,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,217</area>
+	</summary>
+	<address>
+		<street_address>8709 Jackson Park Blvd,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>The curb appeal will knock your socks off in this stunning brick &amp; stone tudor nestled in one of Tosa's most desirable neighborhoods! Every inch of this masterpiece has been lovingly restored by the current owners. Spacious living room with brick gas fireplace, leaded french windows, built-ins &amp; HWFs opens to the beautiful dining room w/ crystal chandelier. Eat-in kitchen boasts white cabinets, granite &amp; high end appliances. 4 spacious bedrooms up, all with HWFs &amp; closet organizers. Stunning spa-like bath features Carrera marble tile throughout &amp; Kohler fixtures. Lower level rec room &amp; den  are great for extra living space. Tranquil professionally landscaped outdoor oasis with brick patio &amp; extra deep, private yard. Newer 2.5 car ga. Amazing list of updates make this home truly turn key!Read more</overview>
+	<listing_agent>
+		<agentName>Mattson Real Estate Group</agentName>
+		<phoneNumber>414-962-3000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>First Weber Inc -NPW</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc -NPW</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1928</key>
+		<key name="Heating:">Radiant, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,534 sqft</key>
+		<key name="Price/sqft:">$230</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Radiant, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,217 sqft</item>
+				<item>Fireplace features: Gas</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stone, Stucco, Brick</item>
+				<item>Patio and porch details: Patio</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,534 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3420023000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Tudor/Provincial</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1928</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1985</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.32</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

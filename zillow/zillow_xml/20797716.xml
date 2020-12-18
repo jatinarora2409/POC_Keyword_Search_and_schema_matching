@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,399,000</price>
+		<bd>2</bd>
+		<ba>3</ba>
+		<area>2,355</area>
+	</summary>
+	<address>
+		<street_address>8309 Yucca Trl,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>PERFECT WORK FROM HOME SOLUTION IN HOLLYWOOD HILLS.  Escape to the mountains without leaving the city. Charming eclectic and serene musical retreat tucked in the hills of Laurel Canyon. This Tri-level home with jaw dropping views from  2 serene  balconies is the perfect place to compose, create, relax and entertain. 2 private bedrooms and 2.5 bathrooms plus a 3rd bedroom which is a large  music studio with vocal sound booth and can be used as a media room &amp; home office as well.  Not just a really cool home but a lifestyle statement as well. Features Include solar panels, Japanese soaking tub in a dedicated bathroom, new tank-less water heater, Step outside to some of the best hiking in  LA. This is the musically historical neighborhood of the Kirkwood Bowl near Sunset Strip, and is a previous residence/workshop of Grammy-winning musicians who have created cart-topping songs/albums.Read more</overview>
+	<listing_agent>
+		<agentName>Bruce Forman</agentName>
+		<phoneNumber>310-458-0091</phoneNumber>
+		<agentLicenseNumber>License #00832728</agentLicenseNumber>
+		<postingGroupName>Coldwell Banker Realty</postingGroupName>
+		<postingWebsiteLinkText>Coldwell Banker Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1977</key>
+		<key name="Heating:">Forced air, Solar</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">3,911 sqft</key>
+		<key name="Price/sqft:">$594</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Solar</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven</item>
+				<item>Laundry features: Inside</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 2,355 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Multi/Split</item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: Mountain</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,911 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5556009020</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1977</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1979</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: In Street</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 77.08</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

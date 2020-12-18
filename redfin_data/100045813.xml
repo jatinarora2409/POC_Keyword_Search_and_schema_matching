@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8205 Laurelmont Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90068</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$895,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Long private driveway provides access to four contiguous parcels (8205 Laurelmont, 5565-018-052; 8195 Laurelmont, 5565-018-051; 8201Laurelmont, 5565-018-050; and 8209 Laurelmont, 5565-018-049) on just under 3 acres, located on a quiet street in lower Laurel Canyon. All are zoned LARE15, except parcel 51, which is zoned LARE11. Lots are sold as a package deal only and are not available individually. Excellent development opportunity to build multiple homes or one grand estate. Bright, sunny exposure, wonderful canyon views, all in a private, serene setting.  </text_base_description>
+	<listed_by>
+		<name>Brad Downs</name>
+		<agentLicenseDisplay>•DRE #01230774</agentLicenseDisplay>
+		<org>•DRE #01230774</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$895,000</List_Price>
+		<Est._Mo._Payment>$4,127</Est._Mo._Payment>
+		<Redfin_Estimate>$887,438</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>14 days</Time_on_Redfin>
+		<Property_Type>Residential Land</Property_Type>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>2.91 Acres</Lot_Size>
+		<key name="MLS#">20-637660</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Taxes / Assessments, Financing, Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5565-018-052</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Listing Terms: Cash, Cash To New Loan</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Directions: LAUREL CANYON - NORTH OF SUNSET - RIGHT ON LAURELMONT</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: As Is</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Land</item>
+					</item>
+				</item>
+				<item>
+					<item>Land Information</item>
+					<item>
+						<item>Topography: Varied, Uphill, Flat</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 126,702</item>
+						<item>Lot Size (Acres): 2.89</item>
+						<item>Zoning: LARE15</item>
+						<item>Special Zoning: Property Report</item>
+						<item>Lot Description: 2-4 Lots</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item>Has View</item>
+						<item>View: Canyon, Green Belt, Tree Top</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Listing Information</item>
+			<item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Listing Terms: Cash, Cash To New Loan</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>—</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$350,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,800</area>
+	</summary>
+	<address>
+		<street_address>116 S Bell Ave APT 1,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Experience West Loop convenience for a fraction of the cost and twice the space with this gem, just minutes from the booming West Loop and Ukrainian Village neighborhoods and just blocks from the United Center and Medical District. This massive 2 floor unit is located in a small intercom gated building. Enjoy multiple levels of open living space with large windows for great natural lighting, fireplace, hardwood floors, granite counter tops, stainless steel appliances, and tons of cabinet space. Plus 2 outdoor spaces including a large personal front patio that is perfect for grilling and entertaining. Central heating and air, in-unit laundry, and attached garage parking make this a must see! Easy street parking for additional cars and visitors. Very commuter friendly location just blocks to several busses and trains as well all the main expressways.     *Make sure to check out the virtual tour!*Read more</overview>
+	<listing_agent>
+		<agentName>Jamie Lick</agentName>
+		<phoneNumber>773-581-0444</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>OAC Management Company</postingGroupName>
+		<postingWebsiteLinkText>OAC Management Company</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$229/mo</key>
+		<key name="Price/sqft:">$194</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,800 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2,645 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17181070471001</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2002</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

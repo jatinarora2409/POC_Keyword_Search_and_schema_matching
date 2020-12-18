@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$3,695,000</price>
+		<bd>5</bd>
+		<ba>7</ba>
+		<area>7,293</area>
+	</summary>
+	<address>
+		<street_address>3600 Verano Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Captivating and private 2.25-acre lot with incredible, dramatic views of a 1000+ acre nature preserve as the setting in the exclusive gated community of Verano, Barton Creek. Designed with a nod to elegant French design by world renowned architect Dan Sater, this estate features a well-appointed kitchen, study, media, and wine room. Private guest apartment with separate entrance includes a full kitchen, bath, bedroom and living area. Pool, fire-pit, screened-in summer kitchen and dining area, air conditioned 4 car garage for car enthusiasts.Read more</overview>
+	<listing_agent>
+		<agentName>Eric Copper</agentName>
+		<phoneNumber>512-901-9600</phoneNumber>
+		<agentLicenseNumber>License #0521490</agentLicenseNumber>
+		<postingGroupName>Keller Williams Realty</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2015</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="HOA:">$323/month</key>
+		<key name="Lot:">2.25 acres</key>
+		<key name="Price/sqft:">$507</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 7</item>
+				<item>Full bathrooms: 5</item>
+				<item>1/2 bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 7,293 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 4</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Other, Stone</item>
+				<item>Patio and porch details: Deck, Patio</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2.25 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01114401130000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2015</item>
+			</item>
+		</item>
+		<item>
+			<item>Other construction</item>
+			<item>
+				<item>Builder name: Steve Hughes</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.79</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Automatic Gate, Driveway Gate</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

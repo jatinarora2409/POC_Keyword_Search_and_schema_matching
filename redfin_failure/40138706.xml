@@ -1,0 +1,8 @@
+Something went wrong with: https://www.redfin.com/CA/San-Francisco/16-Jessie-94105/unit-109/home/40138706Traceback (most recent call last):
+  File "/Users/jarora/PycharmProjects/websiteScarper/scaper.py", line 60, in <module>
+    redfin_functions.record(property_link)
+  File "/Users/jarora/PycharmProjects/websiteScarper/redfin_functions.py", line 155, in record
+    listed_by_data = get_listed_by_details(property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/redfin_functions.py", line 120, in get_listed_by_details
+    if(agent_basic_detail is not None and 'href' in agent_basic_detail.keys()):
+TypeError: 'NoneType' object is not callable

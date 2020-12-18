@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.infa.products.discovery.automatedclassification.dataset.RealEstateBusinessGlossaryMatchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-16T01:01:41" hostname="USM1YN23AJG5J" time="0.986">
+  <properties/>
+  <testcase name="testAirlinesDataset" classname="com.infa.products.discovery.automatedclassification.dataset.RealEstateBusinessGlossaryMatchTest" time="0.986"/>
+  <system-out><![CDATA[Terms read: 46
+Number of columns: 33
+agent_name listing agents name
+listing_id 
+agent_id 
+cost_per_squre_feet price per square feet of the listing
+agent_org listing agents office name
+year_renovated listing renovated in year
+price offer price of the listing in usd
+lot_size lot area of the listing in acres
+mls# listing mls id
+apn listing apn id
+area area size of the listing in square feet
+listing_price offer price of the listing in usd
+stories number of stories in the listing
+locality city of the listing
+agent_license listing agents license number
+baths bathroom count in the listing
+baths bathroom count in the listing
+redfin_estimate the estimated price of the listing
+est._mo._payment listings monthly mortgage payment
+style style of construction of the listing
+style style of construction of the listing
+year_built listing built-in year
+year_built listing built-in year
+region region of the listing
+beds bedroom count in the listing
+postal_code postal code/zip code of the listing
+beds bedroom count in the listing
+status current status of the listing
+Correct Match: 0
+Incorrect Match: 0
+Correct Recommendations: 5
+Incorrect Recommendations: 4
+No Match: 28
+Precision: 0.5555556
+Dict Values: 35
+Recall: 0.14285715
+]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+</testsuite>

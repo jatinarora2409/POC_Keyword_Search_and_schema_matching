@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>601 S Van Ness Ave </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94110</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,800,000</Price>
+		<Beds>8</Beds>
+		<Baths>—</Baths>
+		<key name="$391 / Sq. Ft.">4,600</key>
+	</main_stats>
+	<text_base_description>We are d to present for sale the mixed use apartment building located at  601 S. Van Ness Ave. The property is in the vibrant Mission District, with close proximity to a number of the San Francisco's top employers including Twitter, Uber, Pinterest, Square, and AirBnB. City Hall and many other government buildings are also just down the road. The Mission District also features many options for grocery shopping, dining, and nightlife with the main retail corridors of Mission St, Valencia St, and Guerrero St just a block away. 601 S. Van Ness Ave has convenient access to Highway 101 and Highway 280, while also providing residents with many nearby public transportation options. 601 S. Van Ness Ave is a 4,600 square feet building featuring two 3 bedroom flats, two 1 bedroom apartments, and one corner commercial space. Three of the units have been recently renovated. This building is not on the Mandatory Soft Story Retrofit List.  </text_base_description>
+	<listed_by>
+		<name>Ning Ho</name>
+		<agentLicenseDisplay>•DRE #01943903</agentLicenseDisplay>
+		<org>•DRE #01943903</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,800,000</List_Price>
+		<Est._Mo._Payment>$8,225</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$391</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 days</Time_on_Redfin>
+		<Property_Type>Mixed Use, 2 Stories, Mixed Use, 5-15 Units</Property_Type>
+		<Year_Built>1906</Year_Built>
+		<Community>Van Ness/Civic Center</Community>
+		<Lot_Size>2,495 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507633</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Multi-Unit Information, Homeowners Association, Financing, Location Details</item>
+			<item>
+				<item>
+					<item>Multi-Family Features</item>
+					<item>
+						<item>Total Expenses (Estimate): 39280.00</item>
+						<item>Income/Expenses Source: Owner</item>
+						<item># of Vacant Units: 1</item>
+						<item># of Units: 5</item>
+						<item># of Rooms: 17</item>
+						<item># of Buildings: 1</item>
+						<item># of 1 Bedroom Units: 2</item>
+						<item># of 3+ Bedroom Units: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>Unconfirmed Co-op Fee: 0.00</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Cap Rate: 6.2</item>
+						<item>Actual or Scheduled: Actual</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: 17th St</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Zoning: UMU - Urban Mixed Use</item>
+						<item>Lot Measurement: Square Feet</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Commercial Units: 1</item>
+						<item>Mixed Use, 2 Stories, 2 Stories</item>
+						<item>Per Architect</item>
+						<item>APN: 3574047</item>
+						<item>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Listing Information</item>
+			<item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Original Price: $1,800,000</item>
+						<item>On Market Date: Wednesday, September 30, 2020</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Multi-Family (5+ Unit)</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3574-047</APN>
+	</public_facts>
+</home>

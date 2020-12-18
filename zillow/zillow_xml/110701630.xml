@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$259,900</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,270</area>
+	</summary>
+	<address>
+		<street_address>1815 N 116th St,</street_address>
+		<city_state> Wauwatosa, WI 53226</city_state>
+	</address>
+	<overview>Near Mayfair Mall, the Zoo and Froedtert hospital.  Remodeled kitchen and main bathroom. Newer appliances, washer, dryer.  Very well maintained yard.    Also a three season room and patio.Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1965</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">5,663 sqft</key>
+		<key name="Price/sqft:">$205</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+				<item>Laundry features: In Unit</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,270 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 5,663 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3380150000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1965</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1980</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.32</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Wauwatosa</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

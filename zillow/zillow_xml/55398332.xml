@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$525,000</price>
+		<bd>5</bd>
+		<ba>5</ba>
+		<area>3,015</area>
+	</summary>
+	<address>
+		<street_address>221 N Pinckney St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Excellent location two blocks off Capitol square, three blocks to James Madison Park and beach on Lake Mendota, and walking distance to UW-Madison campus in vibrant downtown area.  Water and Sewer paid by Owner, but each tenant contributes $25/month toward water bill.  One off-street parking space is available for $110-120 per month.  Foundation is stone and mortar.Read more</overview>
+	<listing_agent>
+		<agentName>Gaylord Plummer</agentName>
+		<phoneNumber>608-320-1521</phoneNumber>
+		<agentLicenseNumber>License #23117-90</agentLicenseNumber>
+		<postingGroupName>Arboretum Real Estate Services</postingGroupName>
+		<postingWebsiteLinkText>Arboretum Real Estate Services</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1889</key>
+		<key name="Heating:">Other, Gas</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$174</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,015 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,049 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070914414100</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1889</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1960</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 71.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

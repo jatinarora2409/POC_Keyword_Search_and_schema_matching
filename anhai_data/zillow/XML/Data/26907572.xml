@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$165,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,362</area>
+	</summary>
+	<address>
+		<street_address>10302 Brockton Dr,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>Super cute, freshly updated 3 bedroom! You will love the light &amp; bright kitchen with beautiful granite counter tops, subway tile backsplash, ceramic tile floors and stainless steel appliances! Your family will enjoy the living area with cozy fireplace this fall. The exterior and interior of this home has been freshly painted and bathrooms have been updated. There are vinyl wood looking floors in the living area and all the bedrooms and ceramic tile in kitchen, dining and bathrooms.  There is a nice backyard with privacy wood fence that would make a great space for pets, a playscape for children or entertaining friends and family. Move-in ready! Not eligible for FHA financing due to 90 day rule.Read more</overview>
+	<listing_agent>
+		<agentName>Peri Duncan</agentName>
+		<phoneNumber>469-422-0916</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Berkshire HathawayHS PenFed TX</postingGroupName>
+		<postingWebsiteLinkText>Berkshire HathawayHS PenFed TX</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1983</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">3,223 sqft</key>
+		<key name="Price/sqft:">$121</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 1</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,362 sqft</detail>
+				<detail>Fireplace features: Wood Burning</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Other</detail>
+				<detail>Fencing: Wood, Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3,223 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 0067230F000010000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Traditional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: Frame</detail>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1983</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1983</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 79.42</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Dallas</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $95,810</detail>
+				<detail>Annual tax amount: $2,619</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14436131</detail>
+				<detail>Measurement Source: Tax</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Financing Proposed: Cash, Conventional, VA</detail>
+				<detail>Architectural Style: Traditional</detail>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>Utilities: City Sewer, City Water</detail>
+				<detail>County Or Parish: Dallas</detail>
+				<detail>Energy Saving Features: Ceiling Fans</detail>
+				<detail>Fencing: Wood, Chain Link</detail>
+				<detail>Exterior Features: Covered Porch(es)</detail>
+				<detail>Interior Features: Cable TV Available, High Speed Internet Available</detail>
+				<detail>Other Equipment: Range/Oven-Electric, Vent Mechanism, Dishwasher</detail>
+				<detail>Flooring: Ceramic Tile, Vinyl</detail>
+				<detail>Heating: Central Air-Elec, Central Heat-Elec</detail>
+				<detail>Construction Materials: Siding</detail>
+				<detail>Fireplace Features: Wood Burning</detail>
+				<detail>Lot Features: Some Trees, Subdivision, Corner</detail>
+				<detail>Parking Features: Garage, Attached, Rear</detail>
+				<detail>Structural Style: Single Detached</detail>
+				<detail>Lot Size: Zero Lot</detail>
+				<detail>Foundation Details: Slab</detail>
+				<detail>Possession: Closing/Funding</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Soil Type: Unknown</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

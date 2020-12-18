@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>5326 43rd St NW </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,349,999</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$509 / Sq. Ft.">2,650</key>
+	</main_stats>
+	<text_base_description>Fabulous location in the heart of Chevy Chase, walk to Metro, shops, restaurants. Tastefully renovated, spacious 3 bdrm, 3.5 ba with open floorpan.  </text_base_description>
+	<listed_by>
+		<name>Maile Ramzi</name>
+		<org> • Fairfax Realty of Tysons </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,349,999</List_Price>
+		<Est._Mo._Payment>$5,827</Est._Mo._Payment>
+		<Redfin_Estimate>$1,314,266</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$509</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>365 days</Time_on_Redfin>
+		<HOA_Dues>$357/month</HOA_Dues>
+		<Year_Built>1998</Year_Built>
+		<Style>Federal</Style>
+		<Community>CHEVY CHASE</Community>
+		<Lot_Size>1,060 Sq. Ft.</Lot_Size>
+		<key name="MLS#">DCDC444208</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item># of Bedrooms On 2nd Upper Level: 2</item>
+						<item># of Bedrooms On 3rd Upper Level: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Bathrooms (Half) On 1st Upper Level: 1</item>
+						<item># of Bathrooms (Full) On 2nd Upper Level: 2</item>
+						<item># of Bathrooms (Full) On 3rd Upper Level: 1</item>
+						<item># of Bathrooms (Half) On All Upper Levels: 1</item>
+						<item># of Bathrooms (Full) On All Upper Levels: 3</item>
+						<item># of Bathrooms (Half): 1</item>
+						<item># of Bathrooms (Full): 3</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Information</item>
+					<item>
+						<item>Living Area Sq.Ft. Source: Estimated</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item>Laundry Type: Upper Floor</item>
+					</item>
+				</item>
+				<item>
+					<item>Fireplace Information</item>
+					<item>
+						<item>Has Fireplace</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item># of Attached Garage Spaces: 2</item>
+						<item>Garage Features: Garage - Rear Entry</item>
+						<item># of Total Garage and Parking Spaces: 2</item>
+						<item>Has Garage</item>
+						<item># of Garage Spaces: 2</item>
+						<item>Attached Garage</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>HOA/Condo/Coop Fee Includes: Common Area Maintenance, Fiber Optics at Dwelling, Lawn Care Front, Management, Reserve Funds, Snow Removal, Trash</item>
+						<item>HOA Fee: $357.51</item>
+						<item>HOA Fee Frequency: Monthly</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</item>
+						<item>School District Source: Listing Agent</item>
+					</item>
+				</item>
+				<item>
+					<item>Utilities Information</item>
+					<item>
+						<item>Central Air</item>
+						<item>Cooling Type: Central A/C</item>
+						<item>Cooling Fuel: Electric</item>
+						<item>90% Forced Air, Forced Air</item>
+						<item>Heating Fuel: Natural Gas</item>
+						<item>Hot Water: Natural Gas</item>
+						<item>Sewer Septic: Public Sewer</item>
+						<item>Water Source: Public</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Taxes / Assessments</item>
+			<item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>City/Town Tax: $11,685</item>
+						<item>Tax Assessed Value: $1,419,760</item>
+						<item>Tax Year: 2019</item>
+						<item>Tax Annual Amount: $11,685</item>
+					</item>
+				</item>
+				<item>
+					<item>Assessments Information</item>
+					<item>
+						<item>Year Assessed: 2019</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Lease / Rent Details, Location Details</item>
+			<item>
+				<item>
+					<item>Rental Information</item>
+					<item>
+						<item>Total Actual Rent: $81,600</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>In City Limits</item>
+						<item>Cross Street: Military Road</item>
+						<item>Directions: North on Wisconsin Ave towards Mazza Gallerie, R on Jenifer St (turns into 43rd St) to 5326 on Left. </item>
+						<item>Transportation: Airport less than 10 miles, Metro/Subway Station less than 1 mile</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Not Federal Flood Zone</item>
+						<item>Property Manager Present</item>
+						<item>Accessibility Features: Other</item>
+						<item>Irrigation Water Rights</item>
+						<item>Horse: No</item>
+						<item>Improvement Assessed Value: $1,007,320</item>
+						<item>Ownership Interest: Fee Simple</item>
+						<item>Property Condition: Very Good</item>
+						<item>Year Built Source: Assessor</item>
+						<item>Year Major Reno/Remodel: 2016</item>
+					</item>
+				</item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Builder Name: EYA</item>
+						<item>Construction Materials: Brick</item>
+						<item>Other Structures: Above Grade, Below Grade</item>
+						<item>Pets Allowed: Yes</item>
+						<item>Pet Restrictions: Breed Restrictions</item>
+						<item>Roof: Asphalt</item>
+						<item>Structure Type: Interior Townhouse/Rowhouse</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Tidal Water: No</item>
+					</item>
+				</item>
+				<item>
+					<item>Land Information</item>
+					<item>
+						<item>Land Assessed Value: $412,440</item>
+					</item>
+				</item>
+				<item>
+					<item>Above Grade Information</item>
+					<item>
+						<item>Finished Sq.Ft.: 2,650</item>
+						<item>Finished Sq.Ft. Source: Estimated</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<Finished_Sq._Ft.>2,250</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,250</Total_Sq._Ft.>
+		<Stories>3.5</Stories>
+		<Lot_Size>1,060 Sq. Ft.</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1998</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>1661    0826</APN>
+	</public_facts>
+</home>

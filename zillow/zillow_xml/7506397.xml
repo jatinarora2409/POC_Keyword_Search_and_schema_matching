@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$278,000</price>
+		<bd>4</bd>
+		<ba>2.5</ba>
+		<area>1,858</area>
+	</summary>
+	<address>
+		<street_address>3512 W Maricopa St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>A large new built home has 4 bedroom and 2.5 bathrooms with stainless appliances, Quartz counters, open concept,large kitchen island,pantry,ceilings,upgrade window coverings,Vinyl plank flooring,walk in closet and double sinks in master bedroom. Garage has 16 x 8 ft. door.Whirlpool   Dish washer, Microwave and Range will install  before close of escrow.Read more</overview>
+	<listing_agent>
+		<agentName>Brian Lau</agentName>
+		<phoneNumber>602-272-1400</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Sanchez &amp; Associates Realty</postingGroupName>
+		<postingWebsiteLinkText>Sanchez &amp; Associates Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">5,998 sqft</key>
+		<key name="Price/sqft:">$150</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Evaporative</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,858 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement concrete</item>
+				<item>Fencing: Block</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.14 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10625119</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.1</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

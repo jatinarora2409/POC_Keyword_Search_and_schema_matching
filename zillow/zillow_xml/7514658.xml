@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$369,000</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>2,520</area>
+	</summary>
+	<address>
+		<street_address>3216 W Jefferson St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Fourplex in Phoenix set up for long term success.  All units 2 bed 1 bath remodeled 4 years ago.  All tile throughout, brick build with large parking lot.  This is a Cash Cow property very easy to maintain.Read more</overview>
+	<listing_agent>
+		<agentName>Jason Mendoza</agentName>
+		<phoneNumber>602-888-0872</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>My Rental Superstore</postingGroupName>
+		<postingWebsiteLinkText>My Rental Superstore</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multi Family</key>
+		<key name="Year built:">1988</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">1 space</key>
+		<key name="Price/sqft:">$146</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Concrete, Tile, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,520 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.19 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10940028</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1988</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1988</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric information: APS</item>
+				<item>Sewer information: Sewer - Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.1</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

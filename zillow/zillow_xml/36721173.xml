@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$329,000</price>
+		<bd>5</bd>
+		<ba>2</ba>
+		<area>1,668</area>
+	</summary>
+	<address>
+		<street_address>2388 Ironwood Dr,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>BEAUTIFUL SPLIT LEVEL IN BRIARWOOD, BOAST  5 TOTAL BEDROOMS, AND 3 FULL BATHROOMS, RECENTLY REMODELED GOURMET KITCHEN WITH STAINLESS STEEL APPLIANCES, RECENTLY PAINTED,  NEW CARPET IN LOWER LEVELS. THIS HOME HAS 4 LEVELS 3 BEDROOMS UPSTAIRS AND 2 ADDITIONAL DEN ROOMS IN THE LOWER LEVELS. HOME AS HUGE BACK YARD. SWIMMING POOL DOES NOT CONVEY, ALL VEHICLES IN YARD WILL BE REMOVED PRIOR TO BUYER OCCUPYING HOME. VYNAL FLOORS TO BE INSTALLED IN LAUNDRY ROOM.Read more</overview>
+	<listing_agent>
+		<agentName>Chris Garcia</agentName>
+		<phoneNumber>703-642-3100</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Signature Realtors Inc</postingGroupName>
+		<postingWebsiteLinkText>Signature Realtors Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1979</key>
+		<key name="Heating:">Heat pump, Electric</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">0.36 Acres</key>
+		<key name="Price/sqft:">$197</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,668 sqft</item>
+				<item>Finished area below ground: 100</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Vinyl, Brick</item>
+				<item>View description: Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.36 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 06099084</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1979</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 80.89</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Waldorf</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $239,000</item>
+				<item>Annual tax amount: $2,782</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: MDCH218310</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Appliances: Refrigerator, Exhaust Fan, Stove, Oven/Range - Electric</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>StructureType: Detached</item>
+				<item>ConstructionMaterials: Block, Vinyl Siding, Brick</item>
+				<item>Heating: Heat Pump</item>
+				<item>Cooling: Heat Pump</item>
+				<item>StoriesTotal: 4</item>
+				<item>SpecialListingConditions: Standard</item>
+				<item>ParkingFeatures: Driveway</item>
+				<item>BelowGradeFinishedArea: 100</item>
+				<item>MlsStatus: Active</item>
+				<item>TaxAnnualAmount: 3010.0</item>
+			</item>
+		</item>
+	</other_details>
+</home>

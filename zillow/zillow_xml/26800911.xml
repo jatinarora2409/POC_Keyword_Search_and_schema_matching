@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$137,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>761</area>
+	</summary>
+	<address>
+		<street_address>1406 Holcomb Rd,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>Charming 2 bedroom 1 bath! Light and airy living room leads into the dining area. Kitchen offers beautiful dark cabinets, double sink and granite countertops. Laminate flooring throughout with a neutral color palette. Spacious bedrooms with ample closet space for storage. Plenty of room for parking including a detached 2 car garage in back. Large fenced in backyard that would be great for pets or kids to play. A must see and move in ready!Read more</overview>
+	<listing_agent>
+		<agentName>Sam Matalone</agentName>
+		<phoneNumber>214-695-7312</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>EB Brokerage Inc.</postingGroupName>
+		<postingWebsiteLinkText>EB Brokerage Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1950</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">8,232 sqft</key>
+		<key name="Price/sqft:">$180</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 761 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Other</item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,232 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 00000566542000000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Ranch</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Frame</item>
+				<item>Foundation: Piers</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1950</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1950</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 68.22</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

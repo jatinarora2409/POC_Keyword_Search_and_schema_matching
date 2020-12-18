@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>83 Mcallister St #212 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94102</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$458,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$1755 / Sq. Ft.">261</key>
+	</main_stats>
+	<text_base_description>Sophisticated contemporary San Francisco living! This location provides easy commuting and walking distance to the coming soon Whole Foods, Farmers market 3 times a week, lounges, famous Union Square, downtown, the award winning Arsicault bakery is right below, and much more! This studio loft condo features soaring ceilings, light filled oversized window, gleaming wood floors, nicely updated kitchen, a spacious open loft bedroom with a stunning exposed brick wall that boasts the architecture of the space. This building includes laundry, a place to store your bike, optional additional storage, recreational community room, rooftop patio and throughout exemplifies an industrious yet contemporary feel. Enjoy the colorful murals and culture. Live in the heart of it all! </text_base_description>
+	<listed_by>
+		<name>Roxanne Adams</name>
+		<agentLicenseDisplay>•DRE #01418292</agentLicenseDisplay>
+		<org> Exp Realty of California Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$458,000</List_Price>
+		<Est._Mo._Payment>$2,093</Est._Mo._Payment>
+		<Redfin_Estimate>$460,869</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,755</key>
+	</price_insights>
+	<home_facts>
+		<Status>New</Status>
+		<Time_on_Redfin>4 days</Time_on_Redfin>
+		<HOA_Dues>$428/month</HOA_Dues>
+		<Year_Built>2007</Year_Built>
+		<Community>San Francisco</Community>
+		<key name="MLS#">40923866</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1</group_dat>
+						<group_dat>Stall Shower, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Rooms: 1</group_dat>
+						<group_dat>Hardwood Flooring, Tile Flooring</group_dat>
+						<group_dat>Carbon Mon Detector, Smoke Detector</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Counter (Solid Surface), Dishwasher, Electric Range/Cooktop, Garbage Disposal, Refrigerator, Updated Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Features</heading>
+					<group_data>
+						<group_dat>Community Facility, Coin Operated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Ceiling Fan(s)</group_dat>
+						<group_dat>Electric Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Water &amp; Sewer</heading>
+					<group_data>
+						<group_dat>Sewer System (Public), Water (Public)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex: 63</group_dat>
+						<group_dat>% Owner Occupied: 70</group_dat>
+						<group_dat>Unit has Studio</group_dat>
+						<group_dat>Existing Construction</group_dat>
+						<group_dat>Brick Exterior, Other Exterior</group_dat>
+						<group_dat>Other Foundation</group_dat>
+						<group_dat>Unknown Roof</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Name: Not Listed</group_dat>
+						<group_dat>Has HOA</group_dat>
+						<group_dat>Dues: $428</group_dat>
+						<group_dat>Dues Frequency: Monthly</group_dat>
+						<group_dat>HOA Phone: 415-397-1044</group_dat>
+						<group_dat>Common Area Maintenance Included, Common Hot Water Included, Exterior Maintenance Included, Maintenance Grounds, Trash Removal Included, Water/Sewer Included</group_dat>
+						<group_dat>Gym/Exercise Facility, Roof Deck, Pet Restrictions</group_dat>
+						<group_dat>Budget, Bylaws, CC&amp;R's, Financial Statement, Rules and Regulations</group_dat>
+						<group_dat>Transfer Fees Paid by Buyer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Natural Hazard Disclosure, Disclosure Package Avail</group_dat>
+						<group_dat>Other Report</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Floor # Unit is on: 2</group_dat>
+						<group_dat>Sq. Ft. Source: Not Verified</group_dat>
+						<group_dat>Parcel #: 0351 -073</group_dat>
+						<group_dat>Unknown</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>No Lot</group_dat>
+						<group_dat>No Yard</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Street Level Features</heading>
+					<group_data>
+						<group_dat>1 Bath, Main Entry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Upper Level Features</heading>
+					<group_data>
+						<group_dat>Loft</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions to Property: Market - McAllister</group_dat>
+						<group_dat>Cross Street: Market</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Price Information</heading>
+					<group_data>
+						<group_dat>Original Price: $458,000</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: COE</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Selling Office Information</heading>
+					<group_data>
+						<group_dat>Board ID: CONTRA COSTA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>261</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2007</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0351 073</APN>
+	</public_facts>
+</home>

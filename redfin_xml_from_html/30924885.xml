@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8740 Odom Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$159,900</Price>
+		<Beds>3</Beds>
+		<Baths>1.5</Baths>
+		<key name="$114 / Sq. Ft.">1,401</key>
+	</main_stats>
+	<text_base_description>Calling all Investors  &amp;  Future Homeowners! Here is your opportunity to own this Lovely  &amp;  Spacious Home in Dallas. Home features 3 bedrooms, 1.5 Baths, 1 Dining, 1 Kitchen  &amp;  2 spacious Living areas. Backyard Pool is perfect for entertaining with family  &amp;  friends. Situated near Crawford Park, Shopping  &amp;  Dining. Don't miss this opportunity and come make this Gem your new home sweet home . Seller is selling AS IS, no repairs nor Seller credits will be done by Seller. Buyer  &amp;  Buyer's Agent to verify all property info. , including measurements, schools etc. (Cash or conventional only. ) This Gem needs some updating  &amp;  TLC but has lots of potential!  Hurry Don't Miss out! </text_base_description>
+	<listed_by>
+		<name>Elva Torres-Fonseca</name>
+		<org> Ultima Real Estate</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$159,900</List_Price>
+		<Est._Mo._Payment>$1,021</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$114</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>112 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1958</Year_Built>
+		<Style>Single Detached, Ranch, Traditional</Style>
+		<Community>Crawford Park Terrace Rev</Community>
+		<Lot_Size>7,318 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14369277</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 1</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 1</group_dat>
+						<group_dat>Garage Dimensions: </group_dat>
+						<group_dat>Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Macon</group_dat>
+						<group_dat>Middle School Name: Comstock</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water, Concrete, Curbs</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Decorative Lighting</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Carpet, Ceramic Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Electric)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Pier &amp; Beam, Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+						<group_dat>Has Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: CRAWFORD PARK TERRACE REV BLK B/6450 LOT 23 V</group_dat>
+						<group_dat>Unexempt Taxes: $4,131</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Crawford Park Terrace Rev</group_dat>
+						<group_dat>Directions: From Downtown Dallas, take I-45 S and US-175 E to US-175 Frontage Rd E. Take the exit toward Elam Rd from US-175 E, Take Elam Rd to Odom Dr (sign on property)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 2</group_dat>
+						<group_dat>Exclusions: All personal items, furniture, refrigerator, stove &amp; personal contents</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: B6450</group_dat>
+						<group_dat>Lot Number: 23</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.168</group_dat>
+						<group_dat>Area Sq. Ft.: 7,318.08</group_dat>
+						<group_dat>Parcel Number: 00000571594000000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>1.5</Baths>
+		<Finished_Sq._Ft.>1,401</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,401</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,296 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1958</Year_Built>
+		<Year_Renovated>1958</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000571594000000</APN>
+	</public_facts>
+</home>

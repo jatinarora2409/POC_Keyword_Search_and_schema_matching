@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,695,000</price>
+		<bd>4</bd>
+		<ba>4</ba>
+		<area>5,381</area>
+	</summary>
+	<address>
+		<street_address>8309 Club Ridge Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Come and enjoy the outstanding resort lifestyle associated with The Ridge at Barton Creek!  This stunning custom home offers panoramic Hill Country, Resort and Golf Course views backing to expansive greenbelt. Private negative edge pool, gourmet kitchen, study, game/hobby room off the kitchen.  Private entrance to Garage apartment offering  living, kitchen, bedroom and full bath.  2 car plus golf cart garage, storage galore, stone floors and cherry hardwoods, mahogany doors.  Second game room or large view 4th bedroom up.  The Ridge is a private fully fenced and gated enclave of luxury homes featuring direct golf cart access to the facilities of the Omni Resort, spa, golf and Barton Creek Country Club.Read more</overview>
+	<listing_agent>
+		<agentName>Eve Kush</agentName>
+		<phoneNumber>512-328-8200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Coldwell Banker Realty</postingGroupName>
+		<postingWebsiteLinkText>Coldwell Banker Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1994</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">0.34 Acres</key>
+		<key name="Price/sqft:">$315</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 5,381 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stone, Stucco</item>
+				<item>Patio and porch details: Deck, Patio</item>
+				<item>Fencing: Security</item>
+				<item>View description: Park</item>
+				<item>Residential vegetation: Partially Wooded</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.34 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01153401230000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1994</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Natural Gas Connected, Water Connected</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.19</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s), Security System Owned</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

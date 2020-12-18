@@ -1,0 +1,241 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2730 N 20TH Dr </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$689,000</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$251 / Sq. Ft.">2,750</key>
+	</main_stats>
+	<text_base_description>GORGEOUS Completely Remodeled home in Encanto Estates! This beautiful home features 4 bedrooms w/ walkin closets, 3 full baths, enclosed carport  &amp;  a stunning backyard! New wood tile flooring in common areas  &amp;  carpet in bedrooms! Open kitchen w/ new stainless steel appliances, quartz countertops, tile backsplash, walk-in pantry  &amp;  large kitchen island. Adjacent family room features vaulted ceilings w/ wood beams. Split master suite boasts two generously-sized walk-in closets, private enclosed yard, luxurious ensuite w/ dual vanities, soaking tub  &amp;  large custom tile shower w/ rainhead! Second Master has private ensuite with custom tile shower. Laundry Room/Mud Room. Backyard has new pavers, grass  &amp;  plenty of room to entertain! Come see this home today! </text_base_description>
+	<listed_by>
+		<name>Elmon Krupnik</name>
+		<org> Stunning Homes Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$689,000</List_Price>
+		<Est._Mo._Payment>$2,676</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$251</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>35 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1956</Year_Built>
+		<Community>ENCANTO ESTATES AMD</Community>
+		<Lot_Size>10,112 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6127474</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 4</group_dat>
+						<group_dat>2 Master Bedrooms, Walk-in Closet in Master Bedroom, Walk-in Closet in Bedroom, Separate Bedroom Exit</group_dat>
+						<group_dat>Split Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 3</group_dat>
+						<group_dat>2 Master Bathrooms, Double Sinks in Master Bathroom, Full Master Bathroom, Private Toilet Room, Separate Shower &amp; Tub in Master Bathroom</group_dat>
+						<group_dat>Bathroom(s) Fully Updated</group_dat>
+						<group_dat>Bathrooms Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Dishwasher in Kitchen, Disposal in Kitchen, Gas Stub for Range, Kitchen Island, Non-laminate Counter, Range/Oven Gas, Walk-in Pantry</group_dat>
+						<group_dat>Kitchen Fully Updated</group_dat>
+						<group_dat>Kitchen Updated In: 2020</group_dat>
+						<group_dat>Breakfast Bar, Dining in Living Room/Great Room, Formal Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Great Room</group_dat>
+						<group_dat>Addtional Room(s) Fully Updated</group_dat>
+						<group_dat>Addtional Room(s) Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Inside Laundry, Washer/Dryer Hookup Only</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane</group_dat>
+						<group_dat>Carpet, Tile Floors</group_dat>
+						<group_dat>Floors Fully Updated</group_dat>
+						<group_dat>Floors Updated In: 2020</group_dat>
+						<group_dat>No Interior Steps, Vaulted Ceiling(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Ceiling Fan(s), Programmable Thermostat, Refrigeration</group_dat>
+						<group_dat>Heating/Cooling Partially Updated</group_dat>
+						<group_dat>Heating/Cooling Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 2</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+						<group_dat>Direct Entry from Garage, Electric Door Opener, Rear Vehicle Entry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction</group_dat>
+						<group_dat>Brick Trim/Veneer Exterior, Painted Exterior, Exterior Siding</group_dat>
+						<group_dat>Composition Shingle Roof, Rolled Roof</group_dat>
+						<group_dat>Roof Fully Updated</group_dat>
+						<group_dat>Roof Updated In: 2020</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Near Bus Stop</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Not Managed</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Maie Bartlett Heard</group_dat>
+						<group_dat>Junior High School: Maie Bartlett Heard</group_dat>
+						<group_dat>High School: Central</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Wiring Fully Updated</group_dat>
+						<group_dat>Wiring Updated In: 2020</group_dat>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Plumbing Fully Updated</group_dat>
+						<group_dat>Plumbing: Dual Flush Toilet, Water Heater (Gas)</group_dat>
+						<group_dat>Plumbing Updated In: 2020</group_dat>
+						<group_dat>Utilities: APS, Southwest Gas</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 19th Ave and Thomas</group_dat>
+						<group_dat>Census Tract: 4.00</group_dat>
+						<group_dat>Directions: West on Thomas, South on 20th Dr. Home is on your right.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required, Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Covered Patio(s), Patio</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 2,751-3,000</group_dat>
+						<group_dat>Sq. Ft. Source: Owner</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 110-44-057</group_dat>
+						<group_dat>Assessor's Book #: 110</group_dat>
+						<group_dat>Assessor's Map #: 44</group_dat>
+						<group_dat>Assessor's Parcel #: 57</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 10,001 - 12,500</group_dat>
+						<group_dat>Alley, East/West Exposure</group_dat>
+						<group_dat>Block Fencing</group_dat>
+						<group_dat>Landscaping: Auto Timer H2O in Back, Auto Timer H2O in Front, Grass in Back, Grass in Front, Yard Watering System in Back, Yard Watering System in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Owner is a Licensed Real Estate Agent</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>2,107</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,107</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>10,112 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1956</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>11044057</APN>
+	</public_facts>
+</home>

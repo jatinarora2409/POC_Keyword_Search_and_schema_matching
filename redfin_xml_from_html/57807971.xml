@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>333 W Mifflin St #5030 </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$350,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$277 / Sq. Ft.">1,264</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Downtown living with and uptown attitude. Located 2 blocks from the Capitol Square, near the Overture Center, dinning, entertainment, grocery store and parking ramp for quests. This 4th floor unit offers the wonderful convenience of your parking space also on the 4th level of parking ramp with straight path into the building right to your condo. Storage unit is right across hallway also. Beautiful wood floors, Stainless steel appliances, granite counter with perfect breakfast bar and in unit laundry. Master suite has amazing jetted bathtub, walk in closet and access to west facing balcony to enjoy the sunsets. Parking stall is #4044 </text_base_description>
+	<listed_by>
+		<name>Alison Goldschmidt</name>
+		<org> Restaino &amp; Associates ERA Powered</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$350,000</List_Price>
+		<Est._Mo._Payment>$1,892</Est._Mo._Payment>
+		<Redfin_Estimate>$345,584</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$277</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>53 days</Time_on_Redfin>
+		<Property_Type>Condo</Property_Type>
+		<HOA_Dues>$395/month</HOA_Dues>
+		<Year_Built>2007</Year_Built>
+		<Community>Madison</Community>
+		<key name="MLS#">1891127</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading> Virtual Tour Branded</heading>
+					<group_data>
+						<group_dat> Branded Virtual Tour: https://www.itourmedia.com/display/index/2031828?type=nb</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Condo Fee Monthly: $395</group_dat>
+						<group_dat>Association Common Amenities: Common Green Space, Exercise Room, Security, Elevator, Rooftop Common Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Forced Air, Heat Pump, Central Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $7,098</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 12 x 14</group_dat>
+						<group_dat>Master Bedroom Level: Main</group_dat>
+						<group_dat>Bedroom 2 Dimensions: 10 x 10</group_dat>
+						<group_dat>Bedroom 2 Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): Whirlpool, At Least 1 Tub, Master Bedroom Bath (Full), Master Bedroom Bath, Tub/Shower Combo  in Master Bathroom</group_dat>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Wood or Simulation Wood Floors, Walk-In Closet(s), Cable/Satellite Available, High Speed Internet, Storage Locker Included</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Living Room Dimensions: 14 x 20</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 10 x 14</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher, Microwave, Garbage Disposal, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking: 1-5 Spaces, 1 Space, Assigned, Parking Fee</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat>Garage: Attached</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Estimated Sq. Ft. Range: 1251-1500</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior Features: Deck</group_dat>
+						<group_dat>Exterior: Brick, Stucco</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Condo Information</heading>
+					<group_data>
+						<group_dat>Condominium Name: Metropolitan Place</group_dat>
+						<group_dat>Garden</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 164</group_dat>
+						<group_dat>Units In Association: 338</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Middle School: Hamilton</group_dat>
+						<group_dat>High School: West</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Rental Information</heading>
+					<group_data>
+						<group_dat>Pets Permitted</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Stove, Refrigerator, microwave, washer, dryer, blinds</group_dat>
+						<group_dat>Exclusions: Sellers personal property</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Condo</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat> Zoning: PUDSIP</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,264</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,264</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2007</Year_Built>
+		<Year_Renovated>2009</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070923163524</APN>
+	</public_facts>
+</home>

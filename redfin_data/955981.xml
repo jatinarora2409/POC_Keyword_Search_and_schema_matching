@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>584 Mississippi St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94107</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,815,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$1008 / Sq. Ft.">1,800</key>
+	</main_stats>
+	<text_base_description>Back on the market. This quaint duplex in the Potrero District area of San Francisco has been with the same family for many years. Close to 280 and 101 Freeways, minutes from China Town, Candlestick Park and many other attractions. This building offer 2 nicely laid out units, currently being used as a 2 bedroom /1 bath upstairs and a 1 bedroom/1 bath downstairs. The garage fits 2 cars in tandem. Located mid block on a beautiful slopped street, it offers the true San Francisco flavor. Ideal for an owner/landlord or investor. Please do not walk on property or disturb tenant.  </text_base_description>
+	<listed_by>
+		<name>Lanclot Maxwell</name>
+		<agentLicenseDisplay>•DRE #01099794</agentLicenseDisplay>
+		<org>•DRE #01099794</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,815,000</List_Price>
+		<Est._Mo._Payment>$8,294</Est._Mo._Payment>
+		<Redfin_Estimate>$1,798,344</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,008</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Year_Built>1927</Year_Built>
+		<Community>San Francisco</Community>
+		<Lot_Size>2,495 Sq. Ft.</Lot_Size>
+		<key name="MLS#">SR20207637</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Has Laundry</item>
+						<item>In Garage</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Levels: Two</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage, Exterior Features, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Parking / Garage Information</item>
+					<item>
+						<item># of Garage Spaces: 2</item>
+						<item># of Parking Spaces: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Pool Features: None</item>
+					</item>
+				</item>
+				<item>
+					<item>Neighborhood Information</item>
+					<item>
+						<item>Sidewalks, Urban</item>
+					</item>
+				</item>
+				<item>
+					<item>Utilities Information</item>
+					<item>
+						<item>Sewer: Public Sewer</item>
+						<item>Water Source: District/Public</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Multi-Unit Information</item>
+			<item>
+				<item>
+					<item>Unit Type 1 Information</item>
+					<item>
+						<item>Actual Rent: $1,300</item>
+						<item>Total # of Baths: 1</item>
+						<item>Total # of Beds: 1</item>
+						<item>Furnished: Unfurnished</item>
+						<item>Total Rent: $1,300</item>
+						<item>Total # of Units: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Unit Type 2 Information</item>
+					<item>
+						<item>Total # of Baths: 1</item>
+						<item>Total # of Beds: 2</item>
+						<item>Furnished: Unfurnished</item>
+						<item>Attached Garage: Yes</item>
+						<item># of Garage Spaces: 2</item>
+						<item>Total # of Units: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Expenses</item>
+					<item>
+						<item>Total: $11,240</item>
+						<item>Insurance: $1,258</item>
+						<item>New Taxes: $9,982</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi-Unit Information</item>
+					<item>
+						<item>Net Operating Income: $12,000</item>
+						<item>Average 3 Bed Area Units: Sq. Ft.</item>
+						<item>Average 2 Bed Area Units: Sq. Ft.</item>
+						<item>Average 1 Bed Area Units: Sq. Ft.</item>
+						<item>Sq. Ft.</item>
+						<item>Total Building Area: 1,800</item>
+						<item>Gross Scheduled Income: $15,600</item>
+						<item>Gross Income: $15,600</item>
+						<item># Of Separate Water Meters: 2</item>
+						<item># Of Separate Gas Meters: 2</item>
+						<item># Of Separate Electric Meters: 2</item>
+						<item># Of Buildings: 1</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Lease / Rent Details, Location Details</item>
+			<item>
+				<item>
+					<item>Lease / Rental Details</item>
+					<item>
+						<item>Operating Expense: $3,000</item>
+						<item>Rent Control</item>
+						<item>Tenant Pays: All Utilities</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Latitude: 37.75900200</item>
+						<item>Longitude: -122.39455400</item>
+						<item>Directions: 280 Freeway to Pennsylvania Ave.  Left on Mississippi St. to property</item>
+						<item>Zoning: RH2</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Elevation Units: Feet</item>
+						<item>Lot Size Source: Assessor's Data</item>
+						<item>Lot Features: Back Yard</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Total # of Units: 2</item>
+						<item>Common Walls: No Common Walls</item>
+						<item>Parcel Number: 4102015</item>
+						<item>Total # of Stories: 2</item>
+						<item>Year Built Source: Assessor</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,800</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>2,495 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1927</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>4102 015</APN>
+	</public_facts>
+</home>

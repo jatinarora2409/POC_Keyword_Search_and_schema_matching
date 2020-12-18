@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$575,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>760</area>
+	</summary>
+	<address>
+		<street_address>5006 Williams Pl,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Private casita California Spanish style living in renovated home featuring 2 bedrooms and 1 bath. Front yard is enclosed with tall wooden fence creating a place of tranquility midst plants, ivy and bird bath. Large bougainvillea flowers attract hummingbirds, finches, and butterflies. The home sits on a corner lot, tall windows and high ceilings are filled with natural light pouring into the open living concept living room, kitchen and dining area. The 2 bedrooms are separated from the main room located toward the back of the house separated by a hallway, allowing for additional privacy when entertaining. Separate access door at side of home opens up to laundry area and back patio.  Steps to upper level terrace lead al fresco dining spacious for grilling, entertaining or relaxing.  View of Ascot Hills, neighboring Alhambra and South Pasadena. Near shopping, DTLA, and cultural venues. Central air and heating,recessed lighting, crown molding, ceiling fans, wood laminate floors.Read more</overview>
+	<listing_agent>
+		<agentName>Stefanie Pollack</agentName>
+		<phoneNumber>818-432-1500</phoneNumber>
+		<agentLicenseNumber>License #01815614</agentLicenseNumber>
+		<postingGroupName>Keller Williams Studio City</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Studio City</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1948</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">5,736 sqft</key>
+		<key name="Price/sqft:">$757</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Freezer, Microwave, Refrigerator</item>
+				<item>Laundry features: Outside, Laundry Area, In Carport</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 760 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Carport, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Ground Level</item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco, Cement / Concrete</item>
+				<item>View description: Territorial, City, Mountain</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 5,736 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5223008002</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled, Repair Cosmetic</item>
+				<item>New construction: No</item>
+				<item>Year built: 1948</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2009</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.96</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Fire and Smoke Detection System, Prewired for alarm system, Smoke Detector, T.V.</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$949,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,160</area>
+	</summary>
+	<address>
+		<street_address>140 S Van Ness Ave UNIT 529,</street_address>
+		<city_state> San Francisco, CA 94103</city_state>
+	</address>
+	<overview>City living at its finest in this luxury modern building that embodies qualities of both classic urban architecture and modern design. Stylish 2 bedrooms-2 baths condominium offers custom bedroom wall closets, maple cabinetry, granite counters, limestone bathroom floors, in unit W-D hookups, surrounded by high-tech wiring and designated deeded storage. Relax on your balcony and enjoy the city views. Private courtyard with bbq grills, conference room, gym, fitness studio with classes and secured room for all your package deliveries. Centrally located in the heart of the City's cultural hub with theaters, symphony, opera and ballet. Hayes Valley and Valencia Corridor chic shops and restaurants to satisfy all palates nearby. Easy access to freeways, public transportation and tech shuttle buses right at the front door. This is your home with everything you need within your reach!Read more</overview>
+	<listing_agent>
+		<agentName>Karen Wong-Curtis</agentName>
+		<phoneNumber>650-627-3700</phoneNumber>
+		<agentLicenseNumber>License #01794796</agentLicenseNumber>
+		<postingGroupName>KW Peninsula Estates</postingGroupName>
+		<postingWebsiteLinkText>KW Peninsula Estates</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$608/month</key>
+		<key name="Price/sqft:">$818</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,160 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement concrete</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3514118</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2002</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

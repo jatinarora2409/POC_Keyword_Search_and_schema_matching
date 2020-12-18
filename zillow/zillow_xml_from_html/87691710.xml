@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$364,900</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,200</area>
+	</summary>
+	<address>
+		<street_address>1645 W Ogden Ave UNIT 608,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Incredible steal for this highly upgraded move-in ready, showstopper home!! Prepare to be amazed the minute you walk into this 2 bed/2 bath home w/high end finishes galore at fabulous Paramount Lofts! Dramatic 14' ceilings &amp; wall of windows highlight unobstructed skyline views from this east-facing condo. Cozy up by the fireplace in winter &amp; enjoy the views from your beautifully decorated balcony on warmer days! This home has been upgraded with numerous built-ins to provide excellent use of space, custom lighting &amp; shelving, and wine fridge. Newly remodeled kitchen features gorgeous quartz counters, stainless steel appliances, and oversized peninsula with countertop seating for 4+ in addition to the dining table. Spacious master suite also showcases sweeping skyline views, a massive walk-in closet with laundry and large master bath. Both bedrooms have solid wood doors for privacy. In addition to the many closets within the home, this unit also comes with an additional private storage space. For additional $25k, parking is one of very few prime spaces in bldg for TWO cars! Parking is located in the attached heated garage and easily fits two large cars + addt'l space for storage, bikes, or motorcycle. This highly sought-after building features on-site management &amp; 24 hour doorperson; fitness center; impressive rooftop deck w/grill &amp; bluetooth speakers; entertainment room w/kitchenette, wi-fi, &amp; flat-screen tv; mail room; and dry cleaning service. Ideal West Loop location - easy access to Medical District, UIC, United Center, multiple el stops, and 290; walk to parks, restaurants, shops &amp; more right outside your door!Read more</overview>
+	<listing_agent>
+		<agentName>Lance Kirshner</agentName>
+		<phoneNumber>312-319-1168</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2006</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$500/mo</key>
+		<key name="Price/sqft:">$304</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,200 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 8</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 1.45 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 17182150191142</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2006</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Community</heading>
+			<details>
+				<detail>Community features: Doorman</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Chicago</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $500/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $284,200</detail>
+				<detail>Annual tax amount: $4,951</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10888301</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>Appliances: Oven/Range, Microwave, Dishwasher, Refrigerator, Washer, Dryer, All Stainless Steel Kitchen Appliances, Wine Cooler/Refrigerator</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Exterior Building Type: Brick, Glass</detail>
+				<detail>Foundation: Concrete</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Snow Removal, Water, Scavenger, Exercise Facilities, Doorman</detail>
+				<detail>Master Bedroom Flooring: Carpet</detail>
+				<detail>Parking Type: Garage</detail>
+				<detail>Tax Exemptions: Homeowner</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Dining Room: Combined w/ LivRm</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Common Area Amenities: Storage, Exercise Room, On Site Manager/Engineer, Party Room, Sundeck, Receiving Room, Elevator, Door Person</detail>
+				<detail>Dining Room Level: Not Applicable</detail>
+				<detail>Kitchen Flooring: Hardwood</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>Exposure: E (East)</detail>
+				<detail>Management: Manager On-site</detail>
+				<detail>Fireplace Type/Details: Gas Starter, Gas Logs</detail>
+				<detail>Roof Type: Rubber</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Status: Price Change</detail>
+				<detail>Square Feet Source: Not Reported</detail>
+				<detail>Master Bedroom Bath (Y/N): Full</detail>
+				<detail>Age: 11-15 Years</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Interior Property Features: Hardwood Floors, Laundry Hook-Up in Unit, Vaulted/Cathedral Ceilings, Bar-Dry</detail>
+				<detail>Exterior Property Features: Storms/Screens, Deck, Balcony</detail>
+				<detail>Fireplace Location: Living Room</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Garage Type: Attached2, Attached</detail>
+				<detail>2nd Bedroom Flooring: Carpet</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Garage Ownership: Deeded Sold Separately</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 17182150191142</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

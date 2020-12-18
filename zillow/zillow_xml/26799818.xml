@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$197,500</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,296</area>
+	</summary>
+	<address>
+		<street_address>8728 Milverton Dr,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>Newly Updated, adorable 4 bedroom 2.5 bathroom home in well established neighborhood.  Open concept with lots of space for entertaining! Beautiful granite counter tops with large over sized island! New stainless steel appliances in the kitchen with fresh new paint and backsplash.  Split bedrooms all having wood like flooring! All bathrooms have been updated as well.  Be sure to check out the detached garage in the back with electricity all ready for you to make your additions.  This could be used as a workshop, storage, man cave or she shed!Read more</overview>
+	<listing_agent>
+		<agentName>Tommy McMahan</agentName>
+		<phoneNumber>972-772-7000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Rockwall</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Rockwall</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1961</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">7,579 sqft</key>
+		<key name="Price/sqft:">$152</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,296 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Other</item>
+				<item>Fencing: Chain Link</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,579 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 00000563191000000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Traditional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1961</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1961</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water, Sidewalk, Curbs, Alley</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 93.82</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

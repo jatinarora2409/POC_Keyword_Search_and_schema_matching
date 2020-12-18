@@ -1,0 +1,1304 @@
+Term Name,Technical Asset
+Model,
+Claim Category Code,CLAIM_CATEGORY_CODE
+Parts Shipment Header DM Update By Program Name,DM_UPDATE_BY_PROGRAM_NM
+Distributor Price Quantity,DISTRIBUTOR PRICE AMT
+Global Service Parts System Vendor Code,GSPS VENDOR CD
+Buyoff Terminal,
+Body Style,ap_industry_veh_master
+Data Value,
+Estimated Time of Arrival,
+Latest Phase Code,MODEL_MODEL_YEAR
+DFSC base,
+Vehicle Identification Number,ap_industry_veh_master
+Scheduling carry-forward Flag,
+Frame Spare Time on the Latest TP,
+Model Year,
+Substitution Forward Indicator,
+Original Purchase Price Amount,
+Procurement Stock Indicator Code,MODEL_MODEL_YEAR
+Data Required Flag,base_tms_us_vehicle_sales
+Leadtime Production Indicator,ap_industry_veh_master
+QA Category,
+Region/Area,
+Bill to Country Code,MODEL_MODEL_YEAR
+Gate Pattern Name,
+Model Change,base_tms_us_vehicle_sales
+Fixed Continuous Chassis Build Sequence number,MODEL_MODEL_YEAR
+Bulk Inspected,
+TMC Part Center Code,
+User,
+Wrap Guard Flag,MODEL_MODEL_YEAR
+Distributor Code,
+Extract Date,base_tms_us_vehicle_sales
+Grade,FLEET_PROGRAM_CODE
+Closed Flag,
+Sample all 2,
+Defect Category,
+Source Vehicle,
+Repair Type,
+Frame Line,
+Defect Direct Run Group,ap_industry_veh_master
+Maximum Transfer days,ap_industry_veh_master
+Vehicle Identifier section,
+Business Date,MODEL_MODEL_YEAR
+Vehicle Name Code,
+Maximum value,
+Exterior Color Code,MODEL_MODEL_YEAR
+Ship to City,
+Supplier,
+Tracking Point,
+Exterior Color Code number,
+Vehicle Body Section Code,base_tms_us_vehicle_sales
+Plant,
+Full Name,
+Sequence File Line,
+Lead Contact,ap_industry_veh_master
+Substitution Backward Indicator,MODEL_MODEL_YEAR
+Global Service Parts System Part Categorization Code,
+Interface Line Number,
+Julian Date,
+DR Repair Type,base_tms_us_vehicle_sales
+Reader,
+Interior Color Code,
+Confirmation date and time,
+Counter Measure User,
+Device,
+Procurement Analyst Name,
+Creation Date Time,MODEL_MODEL_YEAR
+Final Inspection Sign,
+Surcharge Amount,
+Present Process: Process,
+Repair Confirmation Date Time,base_tms_us_vehicle_sales
+Current Year Indicator,
+Bill to Address 2,
+Extended Purchase Price Amount,
+DSS Duplicate Check Flag,ap_industry_veh_master
+Quarantined Date Time,
+MSRP Amount,MODEL_MODEL_YEAR
+Pen Pattern,
+Number of Days for Duplicate search,
+Physical Process: Process,
+Maximum File Size in MB,MODEL_MODEL_YEAR
+Status Flag,
+Supplier Code,MODEL_MODEL_YEAR
+Sub Tracking Point,
+Distributor Order Unit 2 Quantity,
+Quantity Number,MODEL_MODEL_YEAR
+Engine Code,
+Tracking Point Mandatory Flag,
+Parts Shipment Header HDS Create Date,
+Fuel Type,
+Exterior Color Name,FLEET_PROGRAM_CODE
+Date and Time,
+Production Department,ap_industry_veh_master
+Deletion Comments,
+Section Group Type,
+Accounting Customer Current Indicator,
+Procurement Order Method Code,
+Amend DFSC Time,
+Event Description,
+Sub Body Number Assign Code,base_tms_us_vehicle_sales
+File Types,base_tms_us_vehicle_sales
+Process,
+Advanced Parts System Accessory Code,
+Rank,
+Procurement Analyst Code,
+Temporary Sequence File Flag,
+Redirect Area,
+Date Identifier,base_tms_us_vehicle_sales
+Product Major Category Description,base_tms_us_vehicle_sales
+Appearance Zone,ap_industry_veh_master
+Tools Trace Confirm flag,
+Repair Type,
+New Model Mark,
+Frame Sequence Number,
+Model Active Flag,
+Account Class Code,
+Mode of ticket printing,
+Progress Warning Sign,
+Parts Shipment Header DM Update Date,base_tms_us_vehicle_sales
+Model Division Code,ap_industry_veh_master
+Latest Point: Date and Time,
+Repair Line,
+Parts Shipment Header Extract Date,base_tms_us_vehicle_sales
+Release vehicles flag,
+Date of Sale,
+"Maximum Permissible
+Load Combination Weight",
+Item visible Flag,
+Part History Load Date,
+Current Delay Time,base_tms_us_vehicle_sales
+Current Location,
+Vehicle Weight,
+Repaired Date Time,
+Order,base_tms_us_vehicle_sales
+Install Process Task Number,MODEL_MODEL_YEAR
+Parts Shipment Detail DM Create Date,
+Line Off Katashiki Code,MODEL_MODEL_YEAR
+Pilot Vehicle Flag,
+Accessory Indicator,ap_industry_veh_master
+Port Result,MODEL_MODEL_YEAR
+Role,base_tms_us_vehicle_sales
+Secure Containment,
+Brand Name,
+Fiscal Year Number,base_tms_us_vehicle_sales
+Confirm enabled,
+Price Class Code,
+Dummy (Host Status),FLEET_PROGRAM_CODE
+Port Address,ap_industry_veh_master
+Special Lead time Addition Code,
+Vendor Invoice Number,
+History Date,base_tms_us_vehicle_sales
+Attachment,
+Core Value Quantity,
+Transaction Type Name,
+Ship to Country Code,
+Kanken ticket print mode,base_tms_us_vehicle_sales
+Standard,
+Product Major Category Code,ap_industry_veh_master
+Special Tax Amount,
+Exterior Color,
+Engine Spec Name,
+Port,base_tms_us_vehicle_sales
+Model Subseries Code,MODEL_MODEL_YEAR
+Fleet Indicator,
+Maker Code,
+Sell Price Amount,
+Copied Vehicle Flag,
+Business Month Name,MODEL_MODEL_YEAR
+Welding Control Sign,
+Raw Transmission Name,
+Transparent Flag,
+Ticket Server Flag,
+Model Series Code,base_tms_us_vehicle_sales
+Coat Count,
+Replacement Part Number*,MODEL_MODEL_YEAR
+Front Tire Pressure,ap_industry_veh_master
+Dealer Direct Ship Indicator,DEALER DIRECT SHIP IND
+Log file path,
+Adhoc Flag,
+Delta Classification,
+Canceled Quantity,CANCELED_QTY
+Shift Active Flag,
+Gate number,
+Dummy Placeholder,
+ECQ Instance Identifier,ECQ_INST_ID
+User name,
+Equipment,
+Bulk Modified Flag,
+Receive containment status email flag,
+Part Distribution Center Update By Program,DM_UPDATE_BY_PROGRAM_NM
+Contact Name,
+Customer Number,DEALER_NO
+Defect Rank,
+Core Code,CORE CD
+Responsible Area,
+File Name,
+Event Code Create Date,DM_CREATE_DT
+Secondary Fleet Program Code,
+Fleet Category Code,
+Buy Off,
+Containment Color,
+Page,
+Ordered Part Identifier,ORDER_PART_CURRENT_ID
+Inspector,
+Stamp position,
+Deletion Date Time,
+Screen design,
+Engineering Control Information Number,ENGINEERING CONTROL INFO NO
+Production Sub Line,
+Allow ADHOC vehicles flag,
+Color,
+Fill Pattern,
+Latest Repairing Point: Calendar Date & Time,
+Data Unit,
+Major Inventory Class Code,MAJOR_INVENTORY_CLASS_CD
+No Loss Override Flag,
+Progress Management Disable Flag,
+Model VDS Code,
+Shipment Line Nunmber,SHIPPING_LINE_NO
+Paint Line,
+Direct Run Level,
+Fiscal Year,
+Unit Of Issue Code,UNIT OF ISSUE CD
+Ship To Address 4,SHIP_TO_ADDR_4_TXT
+Delta Flag,
+Yard Hold Time,
+Traffic Code,TRAFFIC CD
+Katashiki Identifier,
+Vehicle Status,
+Option Code,
+Business Month End Date,BUS_MONTH_END_DT
+Water Leak Flag,
+Transportation Number,TRANSPORTATION_NO
+Latest Point: Tracking Count,
+Rail,
+Product key,
+Validation Type,
+Parts Shipment Detail DM Update Date,DM_UPDATE_DT
+Direct Run Group,
+Interchangeable Part Number,INTERCHANGEABLE PART NO
+Current Port Code,
+Week of Year,WEEK_OF_YEAR_NO
+Spec Sheet Number,
+Part History Identifier,PART_HISTORY_ID
+Claim Approved Date*,CLAIM_APPROVED_DT
+Dummy (Other System Information),
+Dealer Sales District Code,
+Business Month Start Date,BUS_MONTH_START_DT
+Transaction Name,
+Source Code,SOURCE CD
+Engine,
+Buyoff Model Number,
+Extension,
+Buy Off Event Number,
+Bill To Customer Identifier,BILL_TO_CUSTOMER_ID
+Engine Katashiki,
+VIN Editor System Sign,
+Series Group Name,
+Accessory Code,
+Repaired By,
+Country,
+Inspection Date Time,
+Hits,
+Committed by Proxy flag,
+Assigned Brand Effective End Date,EFFECTIVE_END_DT
+Paper Ticket Flag,
+Direct Run Suppressed Flag,
+Quarter Month Start Date,QTR_START_DT
+Frame Current Delay Time,
+Tagged Defect,
+Containment Comment,
+Traffic Code Bypass Indicator,TRAFFIC CODE BYPASS IND
+Buyoff Comment,
+Line Off Katashiki,
+Shift,
+Production End Date,PRODUCTION END DT
+Attribute Value,
+Tracking Date,
+Audit Condition Code,
+Procurement Analyst Manager Name,PRO ANLST MANAGER NM
+Weld Dolly Lock,
+Bodystyle Short Description,
+Bitmap,
+Safety Key Point,
+Order Type Identifier,ORDER_TYPE_ID
+Assembly Line,
+Transmission Name,
+Harmonized Code,HARMONIZED CD
+Part History Extract Date,EXTRACT_DT
+High Level Package Specification Code,HIGH LEVEL PACKAGE SPEC CD
+Checked By,
+Y Co Ordinate,
+Department Contact,
+Check Digit,
+Order Cycle Number,ORDER CYCLE NO
+Broadcast Sequence Number,
+STATUS Vehicle,
+In Process Flag,
+Grid Start position,
+Grade Specification Short Description,
+Grid Y Position,
+Chassis Scheduling & Re-send Required Flag,
+Set Kit Code,SET KIT CD
+Specifications,
+This describes whether reconciliation happened,
+Shop,
+Pen Color,
+Item Type,
+Pen Width,
+Purchase Price Skip Indicator,PURCHASE PRICE SKIP IND
+Confirmed By,
+Parts Shipment Detail DM Update By Program Name,DM_UPDATE_BY_PROGRAM_NM
+Part Distribution Center Update Date,DM_UPDATE_DT
+Dealer Order number,
+Tentative Price Code,TENTATIVE PRICE CD
+Distributor Order Unit 1 Quantity,DISTRIBUTOR ORDER UNIT 1 QTY
+Engine Usage Flag,
+Order Type Effective End Date,EFFECTIVE_END_DT
+No Defect Flag,
+Grade Spec Long Description,
+Key Identifier,
+Procurement Order Unit Quantity,PROCUREMENT ORDER UNIT QTY
+Email,
+Katashiki,
+Location Name,
+Added By Yard Sweep Flag,
+Fractional Order Indicator,FRACTIONAL ORDER IND
+Containment,
+Holiday Code,
+Grid Offset,
+Shipment Type Effective Start Date,EFFECTIVE_START_DT
+Dealer Number,
+Accessory Retail Price Amount,
+Last In Chain Dealer Group Code,LAST_IN_CHAIN_NAPO_DLR_GRP_CD
+Validation Expression,
+Parts Shipment Detail DM Load Identifer,DM_LOAD_ID
+State/Province/Region Abbreviation,
+OLTP Duplicate Check Flag,
+Procurement Analyst Email Address,PRO ANLST EMAIL ADDR TXT
+TECS Order number,
+Shipped Quantity,SHIPPED_QTY
+Package Label Code,PACKAGE LABEL CD
+Scrap Vehicle Flag,
+Factory Accessory Code,
+Part Age Code,PART AGE CD
+Accessory Type Description,
+Assigned Brand Effective Start Date,EFFECTIVE_START_DT
+Numeric Code,
+Vendor Reference Number,VENDOR_REFERENCE_NO
+TOMS Distributor Code,
+Non Cancel Part Indicator,NON CANCEL PART IND
+View,
+Status Flag Identifier,
+Confirmed Date,
+Parts Shipment Detail HDS Create Date,HDS_CREATE_DT
+Customer Party Role Type Code,CUSTOMER_PARTY_ROLE_TYPE_CD
+Assigned VIN number/Name plate,
+Counter Measure,
+No of Doors,
+Production Week,
+Assembly Line Convert Flag,
+Bodystyle Name,
+Discount Sell Price Amount,DISCOUNT_SELL_PRICE_AMT
+Manufacturer Suggested Retail Price Amount,
+Production Path,
+Assigned Brand Name,ASSIGNED_BRAND_DESC_TXT
+Port Name,
+Shipment Type Update Date,UPDATE_DT
+Parts Distribution Name,PDC_NM
+Maximum Range,
+State,
+Ship From Parts Distribution Center Identifier,SHIP_FROM_PDC_ID
+Distributor Name,
+Quick Repair type default flag,
+Temporary Chassis Build Sequence No,
+Pre delivery confirmation comment,
+Toyota de Puerto Rice Free-On-Board,TMS_TDPR_FOB
+Display Sequence Number,
+Motor Basic Katashiki,
+Bulk Confirmed,
+Sold to Dealer Code,
+Katashiki,
+Suggested PPO Retail Amount,
+Engine Specification Name,
+Shipment Type Identier,SHIPMENT_TYPE_ID
+Parts Distribution Code,PDC_CD
+Ship To Address 2,SHIP_TO_ADDR_2_TXT
+Sequence Number,
+Safety Factor,
+Assigned Brand Update Date,DM_UPDATE_DT
+Sales Region Name,
+Print number,
+Frame Stamp Information,
+Is final Kanken,
+Moving Volume Code,MOVING VOLUME CD
+Existing Defects Display Flag,
+Flag type,
+TECS Build Maker Code,
+Direct Run Vehicle Status Identifier,
+Detection Type,
+Repair Status,
+Accessory Description,
+Counter Measure type,
+Image Download Flag,
+USA Model Number,
+Assigned Brand Update By Program,DM_UPDATE_BY_PROGRAM_NM
+Excluded from DPV Flag,
+Defect Repair Flag,
+Accounting Customer Load Identifier,DM_LOAD_ID
+Plate stamping KATASHIKI,
+Dealer Code*,DEALER_CODE
+Option Name,
+Comment 2,
+Procurement Analyst Parts Category Name,PRO ANLST PARTS CATEGORY NM
+General Motor Indicator,GENERAL MOTOR IND
+Front Axle Load,
+Assigned Brand Identifier,ASSIGNED_BRAND_ID
+Order Type Category Name,ORDER_CATEGORY_NM
+Submitted Flag,
+Drivetrain Short,
+Japan Classification Code,JAPAN CLASSIFICATION CD
+Sequence creation date time,
+Average Repair Time,
+Excluded from DR Flag,
+Grid X Position,
+Dealer Name*,DEALER_NAME
+Unit of Measure,
+Body Usage Flag,
+Debit Credit Indicator,DEBIT_CREDIT_IND
+Panel Outlines Display Flag,
+Model Subseries Name,
+Discrepancies View Flag,
+Part Number,PART NO
+Repair enabled,
+Suggested FIO Retail Amount,
+Part History Indicator,PART HISTORY IND
+Supply Stock Indicator Code,SUPPLY STOCK IND CD
+Terminal Group,
+Tire1: Front Rim Size,
+User Defined Data,
+Location found,
+Serial Usage Flag,
+Product Figure,
+Accounting Customer Create Date,DM_CREATE_DT
+RedTag Added by,
+Lock Days Prior,
+Order Number,
+Sale Flag,
+Inspected,
+Procurement Analyst Category Nm,PRO ANLST CATEGORY NM
+Specification Flag,
+Field required flag,
+Condition,
+NASCA,
+Built Date,
+Quality Action Report / Urgent Concern Report Name,
+Data Validation Option Identifier,
+Product Program Type,PROD PROGRAM TYP
+Quarantined Comment,
+Product Detail Category Description,PROD DETAIL CATEGORY DESC TXT
+Distributor Purchase Order Number,DISTRIBUTOR_PO_NO
+Assembly Sequence Number,
+Green Value,
+Field Visible Flag,
+Conflict Vehicle Identification Number,
+Discovered,
+Repair,
+Inspection Date Time,
+Buyoff Notice Email,
+Created By,
+Pre delivery Confirmation initiated flag,
+Line off Date,
+Start Date,
+Month Name,MONTH_NM
+TOMS Distributor Name,
+Body Style Long,
+Accounting Customer Update Date,DM_UPDATE_DT
+Part Supply Status Code,PART SUPPLY STATUS CD
+Distributor Price Amount,DISTRIBUTOR_PRICE_AMT
+Tire1: Front Tire Size,
+Repair Program Description,REPAIR_PROG_DESC
+Tire1: Rear Tire Pressure,
+Advice Code,ADVICE_CD
+Production Week of the Year,
+Responsible Process,
+Control Katashiki,
+Unique identification number,
+Drive Type,
+Previous Month Indicator,PREV_MONTH_IND
+Drivetrain Name,
+In Or Out Manufacturing Code,IN OR OUT MANUFACTURING CD
+Shift,
+Grade Spec Short Description,
+City,
+Frame Progress Warning Sign,
+Delay in commit,
+Forward Substitution Type Code,FORWARD SUBSTITUTION TYPE CD
+Part Distribution Center Effective End Date,EFFECTIVE_END_DT
+TMC Procurement Company Code,TMC PROCUREMENT COMPANY CD
+Assortment Of Build Order Sign,
+Team,
+Vehicle Identification Number - Model year,
+Ship to Postal Code,SHIP_TO_POSTAL_CD
+SECTION Vehicle,
+Primary Identifier Flag,
+Deletion Reason,
+All Purpose Vehicle Production Code,
+Enabled Flag,
+Counter Measure Action,
+Order Date Identifier,ORDER_DATE_ID
+Region Code,REGION_CD
+Virtual Reader Flag,
+Total Suggested Retail Amount,
+Scheduled Line off Date,
+X Co Ordinate,
+Advanced Parts System Last Part In Chain Number,APS LAST PART IN CHAIN NO
+Ship to State,SHIP_TO_STATE_CD
+Comments,
+TPNA No Reorder Code,TPNA NO REORDER CD
+Shipment Type Extract Date,EXTRACT_DT
+Fire Hazard,
+Assembly Sequence number Assign Date,
+JT5 Line Off Year,
+Internal Reference Price Amount,INTERNAL REFERENCE PRICE AMT
+Kata Model,
+Part Shortage Flag,
+Extended Landed Cost Amount,EXT_LANDED_COST_AMT
+Insurance Amount,INSURANCE_AMT
+Ship To Port Code,
+Country Of Origin Code,COUNTRY OF ORIGIN CD
+Standard Keyword Flag,
+TLS Location,
+Process Code,
+Bulk Quarantined,
+Segment Name,
+Dealer Order Reference Number,DEALER_ORDER_REFERENCE_NO
+Shipment Category Name,SHIPMENT_CATEGORY_NM
+Use Fill,
+Discount Program code,DISCOUNT PROGRAM CD
+Frame Type Code,
+Extented CIF Cost Amount,EXT_CIF_AMT
+Document,
+Repair Type order,
+Model TVO Bodystyle,
+Closed Date and Time,
+On-line Repair Flag,
+TOMS Division Name,
+Yard Held Vehicles,
+Raw Drivetrain Name,
+Transaction Report Type Group,
+Comment 4,
+Containment Answer,
+Delivery Region,
+Data Retention Days,
+Model Report Series Name,
+Curb Weight,
+Last Name,
+Reserved Flag,
+Blue Value,
+Business Day in Month,BUS_DAYS_IN_MONTH_NO
+Production Date,
+Sales Katashiki Code,
+TPNA Stop Sales Code,TPNA STOP SALES CD
+Portion Type,
+Dealer Group Description,NAPO_DLR_GRP_DESC_TXT
+Maximum number of files,
+Current Purchase Price Amount,CURRENT PURCHASE PRICE AMT
+Holding Date,
+Order Type Code,ORDER_TYPE_CD
+Dealer Name,
+Model TVO Name,
+New TMC Supplier Code,NEW TMC SUPPLIER CD
+auto logoff Time,
+End Date Time,
+Latest Point: Point,
+Fixed Sequence number Assign Date,
+Product Detail Category Code,PROD DETAIL CATEGORY CD
+Freight Amount,FREIGHT_AMT
+Hour Key,
+Application Flag,
+Post Date Identifier,POST_DATE_ID
+QAR UCR,
+Week Number,DAY_OF_WEEK_NO
+Day of Year,DAY_OF_YEAR_NO
+Cubic Measurement Quantity,CUBIC MEASUREMENT QTY
+Standard Quantity Limit Quantity,STANDARD QUANTITY LIMIT QTY
+Vehicle Comment,
+Drop Ship Code,DROP SHIP CD
+Actual Condition,
+Shipment Type Identifier,SHIPMENT_TYPE_ID
+Katashiki Code,
+Tagged Flag,
+UnPost Reason,
+Line Count,LINE_CNT
+Production Request Year & Month,
+Ordered Fleet Indicator,
+Order Reference Number,ORDER_REFERENCE_NO
+Discontinued Date,DISCONTINUED DT
+Claim Number*,CLAIM_NO
+Frame Spare Time for Buy-off,
+Insertion Date,
+Dealer Quantity Unit Pack Quantity,DEALER QUANTITY UNIT PACK QTY
+District Code,DISTRICT_CD
+Feedback,
+Stocking Warehouse Code,STOCKING WAREHOUSE CD
+Supply Frame Type,
+Weekday,
+Retailed Comment,
+Procurement Order Method Code,PROCUREMENT_ORDER_METHOD_CD
+Last Alarm Time,
+Fleet Program Code,
+Shipment Type Description,SHIPMENT_TYPE_DESCRIPTION_TXT
+Delete Base Plant Date,
+Page Type,
+Franchise*,FRANCHISE_IND
+color Lot (UK),
+Unique Reference Number,
+Parts Distribution Center Identifier,PDC_ID
+Tracking Flag,
+Cylinder,
+Red Tag Date,
+Seconds taken to remove one defect,
+Stop Shipment initiated date time,
+TPNA Sub Generation Number,TPNA SUB GENERATION NO
+Destination,
+Assigned Brand Identifier,ASSIGNED_BRAND_ID
+Bill To City,BILL_TO_CITY_TXT
+Created Date,
+Sample all 1,
+Measure,
+STAT Vehicle,
+Ship to Geography Code,SHIP_TO_GEO_CD
+Removed Flag,
+Temporary Build Sequence Number,
+Discrepancy,
+Section Type,
+Bill to Geography Code,BILL_TO_GEO_CD
+DR Track ID,
+Vehicle Data Item,
+Ticket printer associated,
+Amend Shop floor Entry Time,
+TPNA Last Part In Chain Number,TPNA LAST PART IN CHAIN NO
+Number of Repairs,
+Routing Code,ROUTING CD
+Interface Identifier,INTERFACE_ID
+Maximum Load,
+Model Convertible Indicator,
+Latest Tracking Point Date,
+Confirmation status,
+Reserved Station Flag,
+Holding Line,
+Shipment Date Identifier,SHIP_DATE_ID
+Attachment Type,
+TECS Dealer Code,
+All Time Buy Code,ALL TIME BUY CD
+Axle,
+Historical Data Store Event Identifier,HDS_EVENT_ID
+FBL Palette Type,
+Car Truck Indicator,
+Bill To State Code,BILL_TO_STATE_CD
+Global Assembly Line Control Hold flag,
+Production Hour,
+Landed Cost Amount,LANDED_COST_AMT
+Physical X coordination,
+Holding Code,
+Past Model At Part Level Indicator,PAST MODEL AT PART LEVEL IND
+Special Vehicle Mark,
+Model Series Name,
+Line Side Address,
+Tagged Defect Flag,
+Product PSR Category Description,PROD PSR CATEGORY DESC TXT
+Root Cause,
+Start Date Time,
+Division Name,
+Alpha Plant Code,
+In-house Location,
+A unique code that specifies a Detail Product Category.,PROD_MAJOR_CATEGORY_CD
+Containment Question Type,
+Discount Amount,DISCOUNT_AMT
+Separate List Number,
+Boolean Correct,
+Tool Trace Date Time,
+Order Type Extract Date,EXTRACT_DT
+Series Name,
+Frame Spare Time for Delivery,
+TORA code,TORA_CD
+Service Campaign Indicator,SERVICE CAMPAIGN IND
+Final Buyoff Flag,
+Buyoff Result,
+Containment Result,
+Ship to Dealer Code,
+PPO Accessory List,
+Dealer Price Amount,DEALER_PRICE_AMT
+Day of Week,DAY_OF_WEEK_NM
+Engine Basic Katashiki,
+Fixed Continuous Paint Sequential Number,
+Temporary Continuous Build Sequential Number,
+Vehicle Unique Identification Number,
+Chassis Line,
+Order Type,
+Backordered Quantity,BACKORDERED_QTY
+Region Name*,REGION_NAME
+Miscellaneous Goods Code,MISCELLANEOUS GOODS CD
+Accessory Type Abbreviation,
+Event Code Effective Start Date,EFFECTIVE_START_DT
+Dealer Group Code,NAPO_DLR_GRP_CD
+Exception date,
+Repaired and Confirmed Flag,
+JT5 Line Off Month,
+Ship to County,SHIP_TO_COUNTY_TXT
+Repair Type,
+Original Shipped Quantity,ORIGINAL_SHIPPED_QTY
+Minimum Order Quantity,MINIMUM ORDER QTY
+End Date,
+Total Dealer Invoice Amount,
+Transition Flag,
+Distributor Order Unit 3 Quantity,DISTRIBUTOR ORDER UNIT 3 QTY
+Inspection or repair flag,
+This describes whether reconciliation Required,
+Terminal Type,
+Value2,
+Order Type Update Date,UPDATE_DT
+Can Unconfirm vehicles flag,
+Production Calendar Date,
+Bill to Address 1,BILL_TO_ADDR_1_TXT
+Year Number,YEAR_NO
+Maximum Combination Load,
+Port Installed Option Indicator,PORT INSTALLED OPTION IND
+Production Line,
+Parent Item Identifier,
+Day of week Abbreviation,DAY_OF_WEEK_ABBR_NM
+Input Terminal Code,
+Color Value,
+Shift,
+Product Colors Usage Flag,
+Lexus Dealer Price Amount,LEXUS DEALER PRICE AMT
+Inspection Key,
+Reference Number,
+Install Equipment Type,
+Vehicle Identifier,
+Tracking Point Calendar Date,
+Latest Repairing Point: Tracking Count,
+Port Address2,
+Confirmed In Section Date Time,
+Stop shipment flag,
+Engine Specification Short Description,
+Model Distributor Code,
+Erase Time,
+Wrap Guard,
+Event Code Current Indicator,DM_CURR_IND
+Retail Reversal Date,
+Replacement Part Quantity*,PART_QTY
+Shop Contact,
+Category Name,
+Primary Fleet Program Code,
+Bulk Retailed,
+Theft Prevention Label Quantity,
+Region Character Code,
+Internal Delivery Flag,
+Aspiration,
+NVS Stock Type,
+Shipped Part Identifier,SHIP_PART_CURRENT_ID
+Production Suffix,
+Length Quantity,LENGTH QTY
+Retail Date,
+Fixed Continuous Build Sequential Number,
+Effective Stop Date,
+Sequence Exclusion,
+Bill to Address 4,BILL_TO_ADDR_4_TXT
+Price Formula Code,PRICE FORMULA CD
+Tool,
+Equipment Task,
+Category Description,
+Customer Name,CUSTOMER_NM
+Warehouse Control Package Specification Code,WH CONTROL PKG SPEC CD
+Frame Lead time Result,
+Updated By,
+Sales Suffix,
+Critical Form,
+Amend Time,
+Distributor Price Effective Date,DISTRIBUTOR PRICE EFFECTIVE DT
+Part Attribute,
+Kick out flag,
+Background Color,
+Validation Error Message,
+Bulk Repaired,
+Assigned Brand Status Indicator,DM_STATUS_IND
+Transmittal Serial,
+Body Style Short,
+TOMS Division Code,
+Past Model At Production Level Indicator,PAST MODEL AT PROD LEVEL IND
+Buy Off Notice Email,
+Latest Repairing Point: Repairing Point,
+Frame sequence number Length,
+Barcode Type,
+Buyoff Command,
+Frame Physical Process,
+Category Code,
+Parts Variance,
+Emission Indicator,
+Drivetrain Short Description,
+Product IMR Category Descripton,PROD IMR CATEGORY DESC TXT
+Quantity on processing,
+Actual Production Date,
+Default Flag,
+Modification Date Time,
+Bill To County,BILL_TO_COUNTY_TXT
+Inspection Date Time,
+Sort Method,
+Broadcast Type,
+item macro,
+Track Count,
+Item Condition Structure,
+Event Code Effective End Date,EFFECTIVE_END_DT
+Data Table,
+Sub Pass Sequence,
+Event Code,EVENT_CD
+Product,
+Zip Code,
+Deleted Flag,
+Accounting Customer Update By Program Name,DM_UPDATE_BY_PROGRAM_NM
+Part Current Identifier,PART CURRENT ID
+Event Identifier,EVENT_ID
+Wheel Base,
+Seconds taken for Database lookup,
+Sales Division Code,
+Check Result,
+Confirmed in Section Flag,
+Pass Number,
+Order Month,
+Claim Type Code,CLAIM_TYPE_CODE
+Task,
+Vehicle Identification Number Type,
+Shipment Detail Transaction Identifier,HDS_SHPMT_DTL_TRANSACT_ID
+Part Distribution Center Effective Start Date,EFFECTIVE_START_DT
+Dealer Invoice Amount,
+Paint Booth,
+Tag Entered At Defect Entry Flag,
+Calendar Month Name,
+Inspection Cost Amount,INSPECTION COST AMT
+Chassis Reject Flag,
+Accident Car Sign,
+Handling Charge Amount,HANDLING_CHARGE_AMT
+Un Post Reason,
+Group Condition,
+Tracking Point Multiple Pass Flag,
+Special Treatment Indicator,SPECIAL TREATMENT IND
+Business Month,
+Order Region Code,
+Regulation Type,
+Abnormal Order Quantity,ABNORMAL ORDER QTY
+Dealer,
+Physical Date,
+Transmission Long Description,
+Production Source Code,
+Containment Question,
+Emission Code,
+Tire1: Rear Tire Size,
+Repair Process,
+Repair Program Number,REPAIR_PROG_NO
+Region Long Name,
+Event Code Load Identifier,DM_LOAD_ID
+Maximum Permissible Load Weight,
+Model TVO Body Style,
+US Weight Quantity,US WEIGHT QTY
+Grade Specification Name,
+Default Quick Repair Flag,
+Hold Only,
+Special Interest Code,SPECIAL INTEREST CD
+Terminal,
+Inspection Comment,
+Specification Sheet Number,
+Front Axle Permissible Load,
+Pass Sequence,
+Spare Time for Buy-off,
+Order Type Load Date,LOAD_DT
+Valid Flag,
+Source name from where the latest data successfully received,
+Commit Date and Time,
+DUM_ cr2,
+Category,
+Install Type Indicator,
+Customer Identifier,CUSTOMER_ID
+Batch OK reason,
+Rear Axle Load,
+Set Identifier,SET_ID
+Buy Off criteria type,
+Product TSO Category Description,PROD TSO CATEGORY DESC TXT
+CIF Cost Amount,CIF_AMT
+Dealer Exclusion Code,DEALER EXCLUSION CD
+Dummy (CR Label),
+Order Type Effective Start Date,EFFECTIVE_START_DT
+Checked Date,
+Pre Delivery Confirmation initiated,
+Inspection enabled,
+Bill to Postal Code,BILL_TO_POSTAL_CD
+TECS Katashiki,
+Sample all other,
+Pre Delivery Confirmation End date,
+Claim Category Code,Claim Category Code
+Engine Number,
+Part Distribution Center Current Indicator,DM_CURR_IND
+Repaired Flag,
+Service Determination Code,SERVICE DETERMINATION CD
+Original Check Result,
+Model Code,
+Dealer Base Cost Amount,
+Special Control Code,SPECIAL CONTROL CD
+Vendor Code,VENDOR CD
+Part Name Code,PART NAME CD
+Pre-Allocation Flag,
+Shipment Type Effective End Date,EFFECTIVE_END_DT
+Commodity Code,COMMODITY CD
+Kick out Date Time,
+PTT Reference Tracking Point: Tracking Point,
+Accessory Type Classification Code,
+Captured Image,
+Assigned Brand Current Indicator,DM_CURR_IND
+Engine Spec Long Description,
+Fixed Continuous Assembly Number,
+X Coordinate,
+Accounting System Customer Identifier,ACCTG_SYSTEM_CUSTOMER_ID
+Dummy (Assembly Line Control Information),
+Height Quantity,HEIGHT QTY
+Month Number,MONTH_NO
+Shop,
+World Manufacturer Identifier,
+Make Name,
+Seconds to kill a dialogue box,
+Ship To Address 3,SHIP_TO_ADDR_3_TXT
+In Production Flag,
+Motor Basic Katashiki RR,
+Month Name Abbreviation,MONTH_ABBR_NM
+Raw TOMS Series Name,
+Accounting Period,ACCTG_PERIOD_NO
+Kit Part Indicator,KIT PART IND
+Product Toyota Rebate Category Code,PROD TOYOTA REBATE CATEGORY CD
+Discrepancy Order,
+File Description,
+Advanced Parts System Traffic Code,APS TRAFFIC CD
+Goodwill Flag,GOODWILL_IND
+Destination Processing Handling Amount,
+Cancel Movement Time,
+Car Family Code,
+Truck Away,
+VOR Standard Limit Quantity,VOR STANDARD QTY LIMIT QTY
+Federal Excise Tax Code,FEDERAL EXCISE TAX CD
+Fixed Chassis Build Sequence number,
+Fiscal Quarter,
+Minimum value,
+Tools Trace Inspect flag,
+Fiscal Quarter Number,FISCAL_QTR_NO
+Water Leak,
+Production Process Code,
+Study,
+Key Product Code,KEY PRODUCT CD
+Port Abbreviation,
+Dummy (ALC Scheduling Information),
+Repair Direct Run Group Identifier,
+Basic Katashiki,
+Part Scrapped,
+Part Name,
+KD Lot Code,
+Win Inspect sections to be refreshed,
+Body Scheduling & Re-send Required Flag,
+Frame Lead time Result from Body start,
+Vehicle Number,
+First Name,
+Retailed Flag,
+Inspection Type,
+Production Active Flag,
+Batch Welding Line,
+Closure Comments,
+Fill Color,
+Katashiki Description,
+Build Group,
+Planning Control Indicator,PLANNING CONTROL IND
+Multiple Routing Code Indicator,MULTIPLE ROUTING CODE IND
+Station Type,
+Equipment Type,
+Defect Source,
+Result,
+Confirmed flag,
+Print Kanken Flag,
+Item,
+Service Charge Amount,SERVICE_CHARGE_AMT
+Phone Number,
+Shipping Reference Number,SHIPPING_REFERENCE_NO
+Parts Shipment Header Journal Date Identifier,JOURNAL_DT_ID
+Inventory Class Code,INVENTORY CLASS CD
+Repair Process: Process,
+Calendar Month Start Date,CAL_MONTH_START_DT
+Sales Geography Type Code,
+Exchange Time,
+Sales Start Date,SALES START DT
+Part Description,PART DESCRIPTION TXT
+Load Date,LOAD DT
+Shipment Type Load Date,LOAD_DT
+RedTag Flag,
+Plant Key,
+Station,
+Assigned Brand Code,ASSIGNED_BRAND_CD
+First Scan Date,
+Fixed Sequence File Flag,
+Model Distributor Name,
+Schedule B Parmeter Name,SCHEDULE B PARM NM
+Last In Chain Dealer Number,LAST_IN_CHAIN_DEALER_NO
+Katashiki,
+Port Done flag,
+Calendar Date,CAL_DT
+Distributor Exclusion Indicator,DISTRIBUTOR EXCLUSION IND
+Actual Delivery Date,
+Production Group,
+Online Flag,
+Calendar Month End Date,CAL_MONTH_END_DT
+Repair Comments,
+Part Distribution Center Status Indicator,DM_STATUS_IND
+Lead time Result from Body start,
+Comment 1,
+Advanced Parts System Stop Sales Code,APS STOP SALES CD
+Packing Month,
+Process Equipment Identifier,
+Fleet Program Description,
+Body Number,
+Shop,
+Bed Length,
+Seconds taken to perform one repair,
+Other Status Change Time,
+TMS Procure Requirement Code,TMS PROCURE REQUIREMENT CD
+Dummy (Customer Information),
+N section information,
+Transfer To Parts Distribution Center Identifier,TRANSFER_TO_PDC_ID
+Suggested Base Retail Amount,
+DUM_ vsect2,
+Claim Category,Claim Category Text
+Maximum Order Quantity,MAXIMUM ORDER QTY
+Accounting Customer Effective End Date,EFFECTIVE_END_DT
+Repaired Date,
+Vehicle Identification Number,
+Quarantined,
+Work Y Coordination,
+Submitted Date Time,
+New Part Code,NEW PART CD
+Dealer Credit Date,
+Extended Discount Sell Price Amount,EXT_DISCOUNT_SELL_PRICE_AMT
+Advanced Part System Part Number,TMS_APS_PART_NO
+Customer Flag,
+Buyoff Criteria,
+Part Name Code Indicator,PART NAME CODE IND
+Product TDPR Rebate Category Code,PROD TDPR REBATE CATEGORY CD
+Ship to Customer Identifier,SHIP_TO_CUSTOMER_ID
+Sales Katashiki,
+Export Control Class Number,EXP CNTL CLASS NBR
+Affected vehicle,
+Color Manufactured,
+Dealer Code,
+Ship To Address 1,SHIP_TO_ADDR_1_TXT
+Optional Address Identifier,OPTN_ADDR_ID
+Engineering change Mark,
+Internal Reference Price Effective Date,IRP EFFECTIVE DT
+Repairing point,
+Expanded Accessory List,
+Spare Time,
+Royalty Cost Amount,ROYALTY COST AMT
+Procurement Stock Indicator Code,PROCUREMENT STOCK INDICATOR CD
+Product Code,PRODUCT CD
+Part Distribution Center Create Date,DM_CREATE_DT
+Duplicate Search Pattern,
+Model Division Name,
+Minimum Range,
+Business Day of Month,BUS_DAY_OF_MONTH_NO
+Import Duty Exemption,
+Part Type Indicator Code,PART TYPE IND CD
+Sequence List Number,
+ROW GUID,
+Rust Proofing Indicator,RUST PROOFING IND
+Grade Specification Long Description,
+Computerized Inspection System data warehouse path,
+Product Code Description,PRODUCT CODE DESC TXT
+Plant Date,
+Latest Repairing Point: Broadcast Sequence No,
+Active Part Indicator,ACTIVE PART IND
+Process commit skipping flag,
+Temporary Continuous Assembly Sequential Number,
+Original Shipped Count,
+Foreground Color,
+Part History Effective End Date,EFFECTIVE_END_DT
+Quantity,
+Manual Allocation Code,MANUAL ALLOCATION CD
+Rebate Code,REBATE CD
+Order Type Description,ORDER_TYPE_DESCRIPTION_TXT
+State/Province/Region,
+Scheduling Date,
+Field text,
+Page Live Flag,
+Region Area Code,
+Bulk Comment,
+Country Abbreviation,
+Posted Flag,
+Offline Gate Flag,
+Japan Product Quantity,JAPAN PRODUCT CD
+On Line Repair Flag,
+Part Distribution Center Load Identifier,DM_LOAD_ID
+Assigned Frame Stamp,
+NUMBER Vehicle,
+Where Found,
+Part History Effective Start Date,EFFECTIVE_START_DT
+Advanced Parts System Sub-Generation Number,APS SUB GENERATION NO
+TOMS Series Name,
+Current Month Indicator,CURRENT_MONTH_IND
+TECS Control Information,
+Segment Category,
+Engine Displacement,
+No Frame Number Flag,
+Approval number,
+RI Sort,
+Technical Service Bulletin Indicator,TSB IND
+Inspection Indicator,INSPECTION IND
+Division Code,
+Unit Price Amount,UNIT_PRICE_AMT
+Region Name,
+Section,
+Y Coordinate,
+Customer Information Code,
+Sales System,
+Vehicle Descriptor Section,
+Federal Excise Tax Amount,FEDERAL EXCISE TAX AMT
+Serial Number,
+Vehicle Identification Number - Series,
+Return Charge Amount,RETURN_CHARGE_AMT
+VIN,
+Spare Time for Delivery,
+Defect Exclusion,
+Current Day Indicator,CURRENT_DAY_IND
+Bodystyle Long Description,
+Destination Type,
+Tool Trace,
+User Group,
+Containment Status,
+Fiscal Year,FISCAL_YEAR_TXT
+ECAS Code,
+Dealer Active Indicator,
+Import Dimension Quantity,IMPORT DIMENSION QTY
+Model Number,
+Freight Charge Amount,FREIGHT_CHARGE_AMT
+North American Customer Satisfaction Audit,
+InHouse Time,
+Sub Frame Type Code,
+Procurement Analyst Supervisor Name,PRO ANLST SUPERVISOR NM
+Production Begin Date,PRODUCTION BEGIN DT
+Counter Measure Date Time,
+Field Name,
+Pre Delivery Confirmation Start date,
+Tire1: Front Tire Pressure,
+Taxable Indicator,TAXABLE_IND
+Red Value,
+Part,
+Comment 3,
+Quarter Number,QTR_NO
+Model Code,MODEL CD
+Dealer Wholesales Retail Price Effective Date,DLR WHLSL RETAIL PRICE EFF DT
+Reject File Flag,
+BMP image file path,
+Journal Date Identifier,JOURNAL_DT_ID
+Frame Sequence Code,
+Section Group,
+Physical Y Coordination,
+Defect Exclusion Category,
+Default Repair Type Flag,
+Checked Location,
+Procurement Analyst Group Name,PRO ANLST GROUP NM
+Buy Off Failure,
+Purchase Price Amount,PURCHASE_PRICE_AMT
+Destination Code,
+Major Moving Volume Code,MAJOR_MOVING_VOLUME_CD
+Raw Label,
+Introduction Date,INTRODUCTION DT
+Global List Flag,
+Defect Type,
+Retailed date time,
+Assigned Brand Create Date,DM_CREATE_DT
+Fixed Sequence Number,
+Inspection prompt,
+Body Section Info,
+Model Year / Production Year,
+Shipment Type Code,SHIPMENT_TYPE_CD
+Fire Hazard Flag,
+Product Lexus Rebate Category Code,PROD LEXUS REBATE CATEGORY CD
+Spec,
+Active Flag,
+Body Style Name,
+Historical Data Store Assigned Brand Identifier,HDS_ASSIGNED_BRAND_ID
+Designation,
+Stop shipment initiated,
+PASA,
+White Foreground Flag,
+Suggested Retail Price Amount,SUGGESTED RETAIL PRICE AMT
+Defect Image,
+Wholesale Price Amount,WHOLESALE PRICE AMT
+POR Flag,
+Interior Color,
+Review Indicator,REVIEW IND
+Defect Per Unit Suppressed Flag,
+Receive Non conform email/Receive No Good email flag,
+Accounting Customer Status Indicator,DM_STATUS_IND
+Informational Flag,
+Lead time Result,
+Major Moving Volume Code,MAJOR MOVING VOLUME CD
+TMD Referral Code,TMD REFERRAL CD
+Unique Confirm user,
+Package Required Indicator Code,PACKAGE REQUIRED IND CD
+Port Status,
+Update Date,
+New Dealer Number,NEW_DEALER_NO
+Brand Name Code,
+Engine Spec Short Description,
+Condition Order,
+Part Type Indicator Code,PART_TYPE_IND_CD
+Tire1: Rear Rim Size,
+Supplier Code,SUPPLIER CD
+Special Equipment Build Line,
+Shift Start Date Time,
+PTIME Vehicle,
+Method to print ticket,
+Data Store Name,
+Hazardous Material Indicator,HAZARDOUS MATERIAL IND
+Model Export Indicator,
+Current Quarter Indicator,CURRENT_QTR_IND
+Department of Transformation Indicator,DOT IND
+Assigned Brand Load Identifier,DM_LOAD_ID
+Receiving Warehouse Code,RECEIVING WAREHOUSE CD
+Vehicle Type,
+TMS TCI Released Date,
+Install Equipment Name,
+Dolly Restriction Condition Code,
+Event Code Update By Program Name,DM_UPDATE_BY_PROGRAM_NM
+Defect Comments,
+Width Quantity,WIDTH QTY
+Direct Run Area,
+TMS TCI Released By,
+Movement Type,
+Transmission,
+Vehicle Code,
+Staging Group,
+Destination Number,
+View Type,
+Report Include Indicator,REPORT_INCLUDE_IND
+US Product Code,US PRODUCT CD
+Shift Exception,
+TMS Unit Pack Quantity,TMS QUANTITY UNIT PACK QTY
+Model TVO Description,
+Defect,
+Event Code Update Date,DM_UPDATE_DT
+Day of Month,DAY_OF_MONTH_NO
+Parts Shipment Header DM Create Date,DM_CREATE_DT
+Transaction Code Group,
+Vendor Code,VENDOR_CD
+Government Approval,
+Package Cost Amount,PACKAGE COST AMT
+Parts Shipment Header DM Load Id,DM_LOAD_ID
+Panel,
+Unique identifier,
+Accounting Customer Effective Start Date,EFFECTIVE_START_DT
+Ordered Quantity,ORDERED_QTY
+Location,
+Portion,
+Tracking Point Info,
+Specification Type,
+Option List,
+Region Area Name,
+Rear Axle Permissible Load,
+Final Tracking Point,
+Defect Order,
+Procurement Analyst National Manager Name,PRO ANLST NATIONAL MANAGER NM
+Quick repair is allowed,
+Historical Data Store Party Role Identifier,HDS_PARTY_ROLE_ID
+Pilot Code,
+Responsible Group,
+Tools Trace Repair flag,
+Procurement Analyst Code,PROCUREMENT_ANALYST_CD
+Transmission Short Description,
+Bill to Address 3,BILL_TO_ADDR_3_TXT
+Advanced Parts System No Reorder Code,APS NO REORDER CD
+Major Inventory Class Code,MAJOR INVENTORY CLASS CD
+Flag Comment,
+Updated Date,
+Receipt Vehicle Base Type,
+UDEF Class A,
+Work X coordination,
+Schedule Record Sending Flag,
+Vendor Identifier,VENDOR_ID
+Image,
+Drivetrain Long,
+Frame Present Process,
+Option Checks Complete Flag,
+Value1,
+Charge back Flag,
+Criteria Name,
+Shipment Header Transaction Identifier,HDS_SHPMT_HDR_TRANSACT_ID
+Pass Date,
+Transmission Type,
+Source System Code,SOURCE SYSTEM CD
+Claim Type,Claim Type Text

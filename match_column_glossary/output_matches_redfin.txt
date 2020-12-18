@@ -1,0 +1,33 @@
+column_name: ['agent', 'name']
+glossary_term: ['listing', 'agents', 'name']
+
+column_name: ['community']
+glossary_term: ['community', 'of', 'the', 'listing']
+
+column_name: ['county']
+glossary_term: ['county', 'of', 'the', 'listing']
+
+column_name: ['postal', 'code']
+glossary_term: ['postal', 'code/zip', 'code', 'of', 'the', 'listing']
+
+column_name: ['property', 'type']
+glossary_term: ['property', 'type', 'of', 'the', 'listing']
+
+column_name: ['year', 'renovated']
+glossary_term: ['listing', 'renovated', 'in', 'year']
+
+column_name: ['status']
+glossary_term: ['current', 'status', 'of', 'the', 'listing']
+
+column_name: ['style']
+glossary_term: ['style', 'of', 'construction', 'of', 'the', 'listing']
+
+column_name: ['region']
+glossary_term: ['region', 'of', 'the', 'listing']
+
+column_name: ['stories']
+glossary_term: ['number', 'of', 'stories', 'in', 'the', 'listing']
+
+column_name: ['agent', 'license']
+glossary_term: ['listing', 'agents', 'license', 'number']
+

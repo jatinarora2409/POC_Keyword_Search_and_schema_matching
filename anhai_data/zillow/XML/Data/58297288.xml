@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$8,500,000</price>
+		<bd>5</bd>
+		<ba>7</ba>
+		<area>10,396</area>
+	</summary>
+	<address>
+		<street_address>7849 Escala Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>7849 Escala Drive, Austin, TX 78735 A dream of a magical home, although; far from just a home... Your own private resort. The Eagle Ridge was designed as a place to enjoy a lifestyle of un-imaginable dreams, the kind of life that contains everything, the most magnificent amenities, private and community. Imagine a country club within a country club. The Eagle Ridge was chosen to present itself among the most sought after estate sites of a prestigious community. Multiple estate lots were selected from the development at early stages selecting the finest home sites and combined to form a special setting for what is now Eagle Ridge. An estate poised above the magnificent rolling hills in the immediate Austin, Texas Hill Country. The Home.... Perfectly re-designed by a master of her craft Renata Marsilli, A visionary of luxury construction, design, detail and beauty. A complete design re-vision inside and out was accomplished with today's desires of what an architectural vision should be. Finish design of incredible detail and alluring appeal. Location of Austin's elite... Poised behind the gates of Escala at Barton Creek. Possibly the most prestigious area Austin has to offer. A locale just outside of the city with amenities, space and beauty of the Hill Country. Desired by all... Attained by few. The estate is offered for the first time to the fortunate lifestyle dreamer.Read more</overview>
+	<listing_agent>
+		<agentName>Brian Langlois</agentName>
+		<phoneNumber>512-261-0008</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Kuper Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Kuper Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">5 spaces</key>
+		<key name="Lot:">7.33 Acres</key>
+		<key name="Price/sqft:">$818</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 5</detail>
+				<detail>Bathrooms: 7</detail>
+				<detail>Full bathrooms: 5</detail>
+				<detail>1/2 bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Laundry features: Laundry Room, Main Level</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 10,396 sqft</detail>
+				<detail>Fireplace features: Family Room, Living Room, Bedroom</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 5</detail>
+				<detail>Parking features: Garage, Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 5</detail>
+				<detail>Covered spaces: 7</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa features: Hot Tub, In Ground</detail>
+				<detail>Exterior features: Stone, Stucco</detail>
+				<detail>Patio and porch details: Patio, Porch, Covered, Screened</detail>
+				<detail>Fencing: Fenced, Wrought Iron</detail>
+				<detail>Residential vegetation: Trees-Large (Over 40 Ft)</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 7.33 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 01073601070000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Metal</detail>
+				<detail>Windows: Window Treatments, Solar Screens</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2002</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2002</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: MUD</detail>
+				<detail>Utilities for property: Electricity Available, Natural Gas Available, Phone Connected, Internet-Cable</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 85.59</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Security Lights, Prewired</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Austin</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $131/mo</detail>
+				<detail>Services included: Common Area Maintenance</detail>
+				<detail>Association name: Barton Creek South</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $2,600,000</detail>
+				<detail>Annual tax amount: $55,628</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 7295458</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Flooring: Wood, Carpet, Tile</detail>
+				<detail>Roof: Metal</detail>
+				<detail>ViewYN: Yes</detail>
+				<detail>WaterSource: Well, MUD</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Double Oven, Microwave, Free-Standing Range, Wine Refrigerator, Built-In Oven(s)</detail>
+				<detail>AssociationYN: Yes</detail>
+				<detail>InteriorFeatures: Wet Bar, Central Vacuum, Walk-In Closet(s), Kitchen, Cathedral Ceiling(s), Built-in Features, Bookcases, Wired for Sound, Murphy Bed, Interior Steps, Multiple Dining Areas, Wine Room, Multiple Living Areas</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>SpaYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>Utilities: Electricity Available, Natural Gas Available, Phone Connected, Internet-Cable</detail>
+				<detail>PatioAndPorchFeatures: Patio, Porch, Covered, Screened</detail>
+				<detail>FoundationDetails: Slab</detail>
+				<detail>FireplacesTotal: 3</detail>
+				<detail>Furnished: Unfurnished</detail>
+				<detail>ConstructionMaterials: Stucco, Stone Veneer</detail>
+				<detail>Fencing: Fenced, Wrought Iron</detail>
+				<detail>CommunityFeatures: Gated</detail>
+				<detail>PetsAllowed: No</detail>
+				<detail>FireplaceFeatures: Family Room, Living Room, Bedroom</detail>
+				<detail>ExteriorFeatures: Balcony, Playground, Basketball Court, Barbecue, Private Yard, Exterior Steps</detail>
+				<detail>ElectricOnPropertyYN: Yes</detail>
+				<detail>PoolPrivateYN: Yes</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>SpaFeatures: Hot Tub, In Ground</detail>
+				<detail>FarmLandAreaUnits: Square Feet</detail>
+				<detail>ParkingFeatures: Attached, Detached, Gated, Door-Multi</detail>
+				<detail>PoolFeatures: In Ground, Heated, Pool/Spa Combo, Waterfall</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>AssociationFeeIncludes: Common Area Maintenance</detail>
+				<detail>LaundryFeatures: Laundry Room, Main Level</detail>
+				<detail>LotFeatures: On Golf Course, Near Golf Course, Sprinkler - Multiple Yards</detail>
+				<detail>View: Creek/Stream, Golf Course, Panoramic, Hill Country</detail>
+				<detail>Heating: Central</detail>
+				<detail>SecurityFeatures: Security Lights, Prewired</detail>
+				<detail>WindowFeatures: Window Treatments, Solar Screens</detail>
+				<detail>MainLevelBedrooms: 2</detail>
+				<detail>CoveredSpaces: 7.00</detail>
+				<detail>Sewer: MUD</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>Vegetation: Trees-Large (Over 40 Ft)</detail>
+				<detail>LivingAreaSource: See Attachment</detail>
+				<detail>AssociationName: Barton Creek South</detail>
+				<detail>TaxAnnualAmount: 55628.00</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

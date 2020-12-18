@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>7831 Hillside Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,995,000</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$883 / Sq. Ft.">3,392</key>
+	</main_stats>
+	<text_base_description>Welcome to this Spectacular Architectural home perched at the base of the famed Hollywood Hills. A unique floor plan combines a front facing open concept living space, kitchen and dining area with walls of glass showcasing the cityscape below. To the back is an oasis like private library/den overlooking a serene water feature and terraced gardens. The Primary bedroom suite is located on the upper level, along with a second bedroom suite. Both are connected to a huge balcony with firepit and seating area with jetliner views. The lower level features a separate suite, perfect for a home office or private guest quarters  with separate entrance. Amenities include two fireplaces, sound system wired throughout, tiered landscaping, BBQ area with built in seating for entertaining and much more. Enjoy all the benefits of being up in the hills, without the drive.  </text_base_description>
+	<listed_by>
+		<name>Robert Grandinetti</name>
+		<agentLicenseDisplay>•DRE #01370571</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,995,000</List_Price>
+		<Est._Mo._Payment>$13,813</Est._Mo._Payment>
+		<Redfin_Estimate>$2,989,957</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$883</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1923</Year_Built>
+		<Style>Architectural</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>4,747 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-640028</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Exterior Features, Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Three Or More Levels</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Faces South</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5551-004-014</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: North of Hollywood Blvd at Orange Grove to Hillside.  On corner.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside, Laundry Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den</group_dat>
+						<group_dat>Den, Dining Area, Pantry, Master Bedroom, Living Room, In-Law Suite, Patio Open, Powder Room, Walk-In Closet, Walk-In Pantry, Other Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Den, In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Tile Floors, Stone Floors, Mixed Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Freezer, Barbeque, Built-Ins, Dishwasher, Dryer, Garbage Disposal, Washer, Refrigerator, Range/Oven, Other, Hood Fan</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>1 Car Garage, Garage, Garage Is Detached</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 1</group_dat>
+						<group_dat># of Covered Parking Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 4,747</group_dat>
+						<group_dat>Lot Size (Acres): 0.109</group_dat>
+						<group_dat>Lot Size Dimensions: 66 x 72</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: City Lights, City, Green Belt</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>2,974</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,974</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>4,747 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1923</Year_Built>
+		<Year_Renovated>2003</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5551004014</APN>
+	</public_facts>
+</home>

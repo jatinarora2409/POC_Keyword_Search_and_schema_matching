@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$365,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,191</area>
+	</summary>
+	<address>
+		<street_address>615 W Main St APT 107,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>The perfect urban oasis - steps from The Capitol, bike paths &amp; Lake Monona yet tucked away in a quiet area of downtown! Rare personal entry condo w/ fenced &amp; landscaped outdoor space maintained by assoc! The ultimate work-from-home set up! Super layout w/10 ft ceilings &amp; split bedrooms that have new glass block upper walls - still a &quot;loft-style&quot; w/wonderful light throughout, but with privacy! High end kitchen complete w/new black stainless steel fridge &amp; granite counter-tops! Plenty of storage w/huge walk in closet &amp; bonus room that could be used for exercise/office/storage/craft space! Beautifully maintained McGrath designed building boasts a large shared courtyard w/lovely landscaping, grill &amp; gathering space! Internet &amp; cable incl. in condo fee!Read more</overview>
+	<listing_agent>
+		<agentName>Anna Trull</agentName>
+		<phoneNumber>608-256-9011</phoneNumber>
+		<agentLicenseNumber>License #53579-90</agentLicenseNumber>
+		<postingGroupName>Stark Company, REALTORS</postingGroupName>
+		<postingWebsiteLinkText>Stark Company, REALTORS</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2004</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$306</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,191 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2004</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 1893270</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Exterior Features: Private Entry, Fenced Yard, Patio</item>
+				<item>Fuel: Natural gas</item>
+				<item>Heating/Cooling: Forced air, Central air</item>
+				<item>Water/Waste: Municipal water, Municipal sewer</item>
+				<item>Laundry Level: M</item>
+				<item>Living Room Lvl: M</item>
+				<item>Kitchen Lvl: M</item>
+				<item>Master BedRm Lvl: M</item>
+				<item>Common Amenities: Common Green Space, Close to busline, Security system, Elevator</item>
+				<item>Bedroom 2 Lvl: M</item>
+				<item>Style: Garden</item>
+				<item>Other Room Lvl: M</item>
+				<item>Location: MADISON - C  W01</item>
+				<item>Interior Features: Great room, Washer, Dryer, At Least 1 tub, Walk-in closet(s), Wood or sim. wood floors, Cable/Satellite Available, Hi-Speed Internet Avail, Split bedrooms</item>
+				<item>Kitchen Features: Breakfast bar, Range/Oven, Refrigerator, Dishwasher, Microwave, Disposal</item>
+				<item>Fireplace: 1 fireplace, Gas</item>
+				<item>Source of Fin SqFt: Assessor</item>
+				<item>Source of Year Built: Assessor</item>
+				<item>Exterior: Brick</item>
+				<item>Parcel ID: 0709-234-1105-6</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

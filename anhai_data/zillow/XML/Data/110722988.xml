@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$369,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,155</area>
+	</summary>
+	<address>
+		<street_address>2638 N 85th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Enchanting throughout! This stone cape favors function, and charm. Open floor plan lends towards casual living  with adjacent dining room and living area. Updates are plenty in this property with meticulous care and attention to detail. Features, newly refinished hardwood flooring, several new windows, finished basement, newer carpet and easy to care for landscape front and back! Enjoy this updated kitchen highlighting the combination of efficiency and custom design w/ stainless appliances, quartz counters and wood cabinetry! Additional living space expands with the generous sized lower level recreation room and utility/storage space. This home is for those that admire pride in home ownership!Read more</overview>
+	<listing_agent>
+		<agentName>Double Boldt Real Estate Team*</agentName>
+		<phoneNumber>414-807-6812</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams~WFB</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams~WFB</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1950</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,098 sqft</key>
+		<key name="Price/sqft:">$171</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Full, Block</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,155 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Bedroom on Main Level, Full Bath on Main Level</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Stone</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,098 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 3330014000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: CAPE COD</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1950</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1970</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 73.72</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $279,100</detail>
+				<detail>Annual tax amount: $7,073</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1712718</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Microwave, Washer, Oven/Range</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>Basement: Full, Block</detail>
+				<detail>RoomsTotal: 6</detail>
+				<detail>ConstructionMaterials: Stone</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Detached, Paved, Garage Door Opener</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>ArchitecturalStyle: CAPE COD</detail>
+				<detail>CoveredSpaces: 2.00</detail>
+				<detail>AccessibilityFeatures: Bedroom on Main Level, Full Bath on Main Level</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>InteriorFeatures: At least one Bathtub, Ceramic Tile, Shower Over Tub</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

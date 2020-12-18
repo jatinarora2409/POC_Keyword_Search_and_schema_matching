@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>454 W Doty St </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$560,000</Price>
+		<Beds>8</Beds>
+		<Baths>2</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Public Remarks: This 3 flat in the heart of downtown/campus area is a great income property. First and second floor units are 3 bedroom and top floor is 2 bedroom. New mechanicals - water softener, 2 water heaters, HVAC cleaned and checked, new heater for top floor unit. New paint, updated kitchen and bathroom in first floor unit. New Facia  &amp;  soffits, roof and siding checked and sealed. New paint on front porch and balcony. New smoke and CO2 detectors. Coin-operated laundry in basement. All leases secured for 2020-2021. Tenant occupied - See virtual tour and photos.  </text_base_description>
+	<listed_by>
+		<name>Charlie Wills</name>
+		<org> First Weber Inc</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$560,000</List_Price>
+		<Est._Mo._Payment>$2,948</Est._Mo._Payment>
+		<Redfin_Estimate>$538,505</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>171 days</Time_on_Redfin>
+		<Property_Type>Multi-Family</Property_Type>
+		<Year_Built>1909</Year_Built>
+		<Community>Madison</Community>
+		<Lot_Size>2,178 Sq. Ft.</Lot_Size>
+		<key name="MLS#">1880429</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading> Virtual Tour Branded</heading>
+					<group_data>
+						<group_dat> Branded Virtual Tour: https://my.matterport.com/show/?m=EB8Y9nR6TRg</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking: No Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Separate Electric Meters, Separate Gas Meters</group_dat>
+						<group_dat>Heating/Cooling: Forced Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $10,410</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Water Softener, High Speed Internet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Full</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Type: 3+ Story, 2 Flat</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior: Vinyl</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 1 Information</heading>
+					<group_data>
+						<group_dat>Sq. Ft.: 1,192</group_dat>
+						<group_dat># of Baths (1/2): 0</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Bedrooms: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 2 Information</heading>
+					<group_data>
+						<group_dat>Sq. Ft.: 1,192</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Bedrooms: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 3 Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Elementary School: Franklin/Randall</group_dat>
+						<group_dat>Middle School: Hamilton</group_dat>
+						<group_dat>High School: West</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Multi-Family</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Acreage: 0.05</group_dat>
+						<group_dat> Zoning: DR2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Refrigerators (3), Stove/oven (3), Washer/Dryer (1), Dishwasher (2), water heater (3), water softener</group_dat>
+						<group_dat>Exclusions: Personal Property</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>8</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>3,338</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,338</Total_Sq._Ft.>
+		<Stories>2.5</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1909</Year_Built>
+		<Year_Renovated>1971</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070923126225</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>989 Sutter St #2 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94109</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,888,888</Price>
+		<Beds>4</Beds>
+		<Baths>3.5</Baths>
+		<key name="$889 / Sq. Ft.">2,125</key>
+	</main_stats>
+	<text_base_description>Three stories of luxury living with a private rooftop deck  &amp;  Air Conditioning. Exit the garage and the private elevator takes you up to your home. There aren't many homes in San Francisco with their own private elevator. The main level has an open dining/living room area with white oak floors and an open kitchen, perfect for entertaining. Each floor has high ceilings and tremendous light throughout. This floor has gorgeous half bath. The middle living level has the master bedroom suite with gorgeous en-suite bath including a large soaking tub to relax your day away and a big corner glass enclosed stall shower. There is a second bedroom on this level and a full bath with shower-over-tub. The 1st level has two bedrooms, a full bathroom with shower-over-tub and the laundry room. Too many extras to list. * Custom cabinetry in the dining area   *  You need to work at home?  There are custom desks and cabinetry for everyone. *  Custom blinds throughout with remote controls.  </text_base_description>
+	<listed_by>
+		<name>Herb Alston</name>
+		<agentLicenseDisplay>•DRE #01326246</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,888,888</List_Price>
+		<Est._Mo._Payment>$8,631</Est._Mo._Payment>
+		<Redfin_Estimate>$1,903,659</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$889</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>6 days</Time_on_Redfin>
+		<Property_Type>Low-Rise (1-3), 3 Level, Condominium</Property_Type>
+		<HOA_Dues>$538/month</HOA_Dues>
+		<Year_Built>2013</Year_Built>
+		<Style>Modern/High Tech</Style>
+		<Community>Downtown</Community>
+		<key name="MLS#">506923</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Interior Access, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Deck</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 2 Blocks Away</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Tile</group_dat>
+						<group_dat># of Baths: 3.5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Living/Dining Room Combo, Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Laundry Room</group_dat>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer, Laundry Room, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Energy Star Appl(s), Gas Range, Hood Over Range, Self-Cleaning Oven, Refrigerator, Ice Maker, Freezer, Dishwasher, Microwave, Garbage Disposal, Granite Counter, Pantry, Skylight(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 2 Bedrooms, 2 Baths, 1 Master Suite</group_dat>
+						<group_dat>Lower Level/Basement: 2 Bedrooms, 1 Bath</group_dat>
+						<group_dat>Upper Level: .5 Bath/Powder, Dining Room, Kitchen</group_dat>
+						<group_dat># of Rooms: 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating, Central Air</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Ext Bldg Maintenance</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $538.47</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Hyde Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,888,888</group_dat>
+						<group_dat>On Market Date: Saturday, October 3, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights, Twin Peaks</group_dat>
+						<group_dat>Paved Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Modern/High Tech</group_dat>
+						<group_dat>Type: Low-Rise (1-3), 3 Level</group_dat>
+						<group_dat># of Units: 4</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 0300234</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,125</Total_Sq._Ft.>
+		<Stories>5</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2013</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0300 234</APN>
+	</public_facts>
+</home>

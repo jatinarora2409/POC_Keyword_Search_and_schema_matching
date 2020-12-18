@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$245,000</price>
+		<bd>4</bd>
+		<ba>1</ba>
+		<area>1,169</area>
+	</summary>
+	<address>
+		<street_address>4144 W Sheridan St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Clean and move in ready home. Open kitchen with espresso cabinets and new handles. New interior and exterior paint, new dual pane windows with blinds. new exterior doors, new flooring in kitchen &amp; bathroom, remodeled bathroom with custom tile shower/tub and new vanity and lights.  Nice size backyard with a covered patio. RV Gate. North/South Exposure. NO HOARead more</overview>
+	<listing_agent>
+		<agentName>Lauren Rosin</agentName>
+		<phoneNumber>602-942-4200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>West USA Realty</postingGroupName>
+		<postingWebsiteLinkText>West USA Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1962</key>
+		<key name="Heating:">Other, Electric</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,080 sqft</key>
+		<key name="Price/sqft:">$210</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Range / Oven</detail>
+				<detail>Laundry features: Wshr/Dry HookUp Only, 220 V Dryer Hookup</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,169 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Carport, Off-street, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Other, Brick</detail>
+				<detail>Fencing: Block</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,080 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10833083</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1962</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: SRP</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $119,300</detail>
+				<detail>Annual tax amount: $670</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6131351</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Additional Bedroom: Other Bdrm Split</detail>
+				<detail>Cooling: Refrigeration</detail>
+				<detail>Dining Area: Eat-in Kitchen</detail>
+				<detail>Exterior Features: Covered Patio(s)</detail>
+				<detail>Heating: Electric Heat</detail>
+				<detail>Kitchen Features: Disposal, Range/Oven Elec</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Property Description: North/South Exposure, Alley</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Utilities: SRP</detail>
+				<detail>Water: City Water</detail>
+				<detail>Source of SqFt: County Assessor</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Construction: Block</detail>
+				<detail>Const - Finish: Painted</detail>
+				<detail>Items Updated: Kitchen Partial/Full: Partial</detail>
+				<detail>Services: City Services</detail>
+				<detail>Items Updated: Bath(s) Partial/Full: Full</detail>
+				<detail>Items Updated: Floor Partial/Full: Partial</detail>
+				<detail>Flooring: Laminate, Tile</detail>
+				<detail>Complex Feature: Near Bus Stop</detail>
+				<detail>Laundry: Wshr/Dry HookUp Only, 220 V Dryer Hookup</detail>
+				<detail>Fencing: Block</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Parking: RV Parking, RV Gate</detail>
+				<detail>Tax Municipality: Maricopa - COUNTY</detail>
+				<detail>Landscaping: Dirt Back</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>Status - Contingent: UCB (Under Contract-Backups)</detail>
+				<detail>New Financing: Cash, VA, FHA, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Carl Hayden High School</detail>
+				<detail>Windows: Dual Pane, Low-E</detail>
+				<detail>Plumbing: Electric Hot Wtr Htr</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

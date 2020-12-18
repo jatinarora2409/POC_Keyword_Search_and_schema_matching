@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>5201B Wisconsin Ave NW #104 </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$629,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$531 / Sq. Ft.">1,185</key>
+	</main_stats>
+	<text_base_description>Incredible location! Just steps to the hustle and bustle of Friendship Heights, this property truly has access to everything, including fine dining, great shopping, Metro access, and a short drive to both American University and Downtown Bethesda. 5201B Wisconsin Ave NW #104 is a fantastic 2 bedroom/2 bathroom, 1st Floor unit with convenient access from the main lobby of the building. Windows flood this unit with natural light! Includes stainless steel appliances, separate pantry, wood floors, large private patio (approximately 175 SF), separate den or dining space open to the rest of the living area, and a brand new wine refrigerator in the kitchen. New washer and dryer as well. Building includes 24/7 secure access and an outdoor communal terrace as well. Unit also includes one parking space.  </text_base_description>
+	<listed_by>
+		<name>Lindsay Reishman</name>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$629,000</List_Price>
+		<Est._Mo._Payment>$2,735</Est._Mo._Payment>
+		<Redfin_Estimate>$628,845</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$531</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 hours</Time_on_Redfin>
+		<HOA_Dues>$904/month</HOA_Dues>
+		<Year_Built>2010</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>CHEVY CHASE</Community>
+		<key name="MLS#">DCDC488128</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On Main Level: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On Main Level: 2</group_dat>
+						<group_dat># of Bathrooms (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Living Area Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Garage Features: Garage - Front Entry</group_dat>
+						<group_dat># of Total Garage and Parking Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Parking Garage - # of Spaces: 1</group_dat>
+						<group_dat>Parking Garage, Off Street, On Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Condo/Coop Fee: $904</group_dat>
+						<group_dat>Condo/Coop Fee Frequency: Monthly</group_dat>
+						<group_dat>HOA/Condo/Coop Fee Includes: Water, Sewer, Common Area Maintenance, Ext Bldg Maint, Insurance, Lawn Maintenance, Reserve Funds, Snow Removal, Trash</group_dat>
+						<group_dat>HOA/Condo/Coop Amenities: Common Grounds, Elevator, Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>School District Source: Listing Agent</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Cooling Type: Heat Pump(s)</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>Heat Pump(s)</group_dat>
+						<group_dat>Heating Fuel: Electric</group_dat>
+						<group_dat>Hot Water: Other</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>City/Town Tax: $5,683</group_dat>
+						<group_dat>Tax Assessed Value: $659,320</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $5,683</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Total Below Grade Sq. Ft.: 0</group_dat>
+						<group_dat>Improvement Assessed Value: $461,520</group_dat>
+						<group_dat>Ownership Interest: Condominium</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Unit Building Type: Garden 1 - 4 Floors</group_dat>
+						<group_dat>Building Name: CHEVY CHASE</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Structure Type: Unit/Flat</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $197,800</group_dat>
+						<group_dat>Soil Types: Urban Land-Sassafras-Chillum</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 1,185</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft. Source: Assessor</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>In City Limits</group_dat>
+						<group_dat>Directions: Traveling Northwest on Wisconsin Ave NW, turn right onto Harrison Street NW. Building is on the left. </group_dat>
+						<group_dat>Entry Floor Number: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>1665//2006</APN>
+	</public_facts>
+</home>

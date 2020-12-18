@@ -1,0 +1,128 @@
+
+import java.time.temporal.ChronoUnit
+
+/****************************************
+ * instructions for all projects
+ ****************************************/
+
+allprojects {
+    apply from: "$rootDir/dependencies.gradle"
+    apply plugin: 'project-report'
+    apply plugin: 'java'
+    apply plugin: 'maven-publish'
+}
+
+
+/****************************************
+ * instructions for each sub project
+ ****************************************/
+subprojects {
+    apply plugin: 'jacoco'
+    //apply plugin: 'checkstyle'
+    
+    repositories {
+        mavenCentral()
+		mavenLocal()
+        maven { url nexusURL }
+    }
+
+    publishing {
+        repositories {
+            maven {
+                credentials {
+                    username System.getenv()['nexusUser']
+                    password System.getenv()['nexusPassword']
+                }
+                url nexusURL
+            }
+        }
+    }
+
+    sourceCompatibility = 1.11
+    targetCompatibility = 1.11
+
+    group = projectName
+    version = projectVersion
+
+    jacoco {
+        toolVersion = "0.8.5"
+        reportsDir = file("$buildDir/reports/jacoco")
+    }
+	
+	jacocoTestReport {
+        def coverageSourceDirs = ['impl/src/main/java/']			
+		reports {
+            xml.enabled true
+            csv.enabled false
+            html.enabled true
+            xml.destination file("$rootProject.buildDir/reports/coverage/xml/jacoco.xml")
+            html.destination file("$rootProject.buildDir/reports/coverage/html")
+        }
+    }
+    
+//    checkstyle {
+//        toolVersion '7.8.1'
+//        configFile file("../config/checkstyle/checkstyle.xml")
+//    }
+
+//    checkstyleMain {
+//        source = 'src/main/java'
+//    }
+
+    // common dependencies
+    dependencies {
+        testImplementation(
+                libs.testng
+        )
+    }
+
+    sourceSets {
+        main {
+            java {
+                srcDir 'src/main/java'
+                srcDir 'src/test/java'
+            }
+        }
+    }
+
+    test {
+        useTestNG()
+        testLogging.showStandardStreams = true
+        testLogging.exceptionFormat = 'full'
+        testLogging {
+            events "passed", "skipped", "failed"
+        }
+    }
+    
+    ext {
+        buildDate = Instant.now().truncatedTo(ChronoUnit.SECONDS).toString();
+    }
+
+    jar {
+        manifest {
+            attributes(
+                    'Implementation-Build-Date' : buildDate,
+                    'Implementation-Version'    : version,
+                    'Implementation-Vendor'     : 'Informatica',
+            )
+        }
+    }
+    
+    configurations.all {
+        resolutionStrategy {
+            // fail eagerly on version conflict (includes transitive dependencies)
+            // e.g. multiple different versions of the same dependency (group and name are equal)
+            //failOnVersionConflict()
+
+            // Auto force all of our explicit dependencies.
+            libs.each { k, v -> force(v) }
+            force(libs.googleGson)
+            force(libs.googleGuava)
+
+            // cache dynamic versions for 600 minutes
+            cacheDynamicVersionsFor 10 * 60, 'minutes'
+            // 30 min cache changing modules 
+            cacheChangingModulesFor 30, 'minutes'
+        }
+    }
+}

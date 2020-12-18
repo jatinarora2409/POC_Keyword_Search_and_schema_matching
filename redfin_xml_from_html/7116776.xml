@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1546 N Fairfax Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,175,000</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$777 / Sq. Ft.">2,798</key>
+	</main_stats>
+	<text_base_description>Private and gated 1920's Tudor in Sunset Square. Remarkably remodeled with exquisite style best describes this no-excuse home. Nestled at the base of the historic Hollywood Hills and a block from the iconic Sunset Strip. Walk to the Chateau Marmont and all that West Hollywood and the Sunset Strip have to offer. This home is chic and sophisticated yet modern and luxurious. Gorgeous entry way with high cove ceilings, leads to the regal living room with fireplace and casement windows. Formal yet very open floor plan from the dining room to the gourmet kitchen that features custom cabinets  &amp;  top of the line appliances. Upstairs you will find three large bedrooms, two with en-suite bathrooms, plus a third bathroom. Outdoors is a perfect setting to unwind with an entertaining seating area, grassy backyard and an oyster shell Bocce Ball court. Romantic outdoor dining for 10 with built-in kitchen. 2-Car garage + 4 more in gated drive. Perfect setup for an ADU conversion. Stellar property.  </text_base_description>
+	<listed_by>
+		<name>Mark A. Diffie</name>
+		<agentLicenseDisplay>•DRE #01727235</agentLicenseDisplay>
+		<org> Lotus Estate Properties</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,175,000</List_Price>
+		<Est._Mo._Payment>$10,031</Est._Mo._Payment>
+		<Redfin_Estimate>$2,128,152</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$777</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>22 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1925</Year_Built>
+		<Style>Tudor</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>6,049 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-631874</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den</group_dat>
+						<group_dat>Den</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Gas Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Refrigerator, Range/Oven, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Garage Is Detached</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+						<group_dat># of Open Other Spaces: 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Faces West</group_dat>
+						<group_dat>Security Features: Gated, Automatic Gate</group_dat>
+						<group_dat>Builder's Tract Name: Sunset Square</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Room For Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: Bocce Ball Court</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5551-019-007</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: East side of Fairfax between Sunset and Hollywood Blvds</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,049</group_dat>
+						<group_dat>Lot Size (Acres): 0.1389</group_dat>
+						<group_dat>Lot Size Dimensions: 50 x 121</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,798</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,798</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>6,049 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1925</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5551019007</APN>
+	</public_facts>
+</home>

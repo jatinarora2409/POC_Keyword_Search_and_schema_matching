@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$670,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,591</area>
+	</summary>
+	<address>
+		<street_address>211 S Henry St UNIT 402,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Only 3 units left to choose from! Estimated completion of 10/30. Barracuda Condos presents the next generation of condo living in Downtown Madison! Prime location a block from the Capitol square w/views of Lake Monona, State Capitol &amp; Cityscape! Sophisticated modern design boasts dreamy kitchens w/Sub Zero Fridge, Wolf Range, Cove dishwasher, wine fridge, 9 ft island, tile backsplash &amp; quartz counter-tops! Owners suite w/walk-in closet, bath w/tile flrs &amp; walk in shower w/partial glass wall, Koehler waterfall shower head &amp; dual vanities! Expansive windows, 10 ft ceilings w/exposed beam wd ceilings, winter gardens/sleeping porches, plaster walls, 8 ft solid core drs, Cat 5 wiring, perimeter heat, laundry rm w/room for storage &amp; heated parking! Pictures represent finishes of a sold unit.Read more</overview>
+	<listing_agent>
+		<agentName>Liz Lauer</agentName>
+		<phoneNumber>608-467-3220</phoneNumber>
+		<agentLicenseNumber>License #56139-90</agentLicenseNumber>
+		<postingGroupName>Lauer Realty Group, Inc.</postingGroupName>
+		<postingWebsiteLinkText>Lauer Realty Group, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2019</key>
+		<key name="Heating:">Heat pump, Radiant</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">$421</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump, Radiant</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,591 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923179216</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2019</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $65,500</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

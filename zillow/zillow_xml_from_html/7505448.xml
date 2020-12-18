@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$139,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,500</area>
+	</summary>
+	<address>
+		<street_address>3605 W Latham St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Investors Property Opportunity!! House has not been finish but it has permits for 3 beds and 2 bath. No HOA. Easy access  to the freeway I.10, restaurants and schools.Read more</overview>
+	<listing_agent>
+		<agentName>Analia Cool</agentName>
+		<phoneNumber>602-900-1717</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>neXGen Real Estate</postingGroupName>
+		<postingWebsiteLinkText>neXGen Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1946</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">6,459 sqft</key>
+		<key name="Price/sqft:">$93</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Evaporative</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,500 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Garage spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+				<detail>Fencing: Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.15 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10608146</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1946</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: APS</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 86.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $76,100</detail>
+				<detail>Annual tax amount: $955</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6136437</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Water: City Water</detail>
+				<detail>Dining Area: Other (See Remarks)</detail>
+				<detail>Construction: Frame - Wood</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Const - Finish: Painted</detail>
+				<detail>Source of SqFt: Owner</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Tax Municipality: Phoenix</detail>
+				<detail>Landscaping: Dirt Back, Dirt Front</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Phoenix Coding Academy</detail>
+				<detail>Tax Year: 2020</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

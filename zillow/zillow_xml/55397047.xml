@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$209,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>975</area>
+	</summary>
+	<address>
+		<street_address>1106 E Johnson St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Affordable all brick ranch in Downtown Madison! Priced for condition, will need TLC and updating; but what a great location! Three bedrooms, wooden floors, screen porch, decent sized back yard. No garage or driveway, but plenty of street parking available. Walking distance to numerous local bars &amp; restaurants, newer hot water heater and boiler. Great opportunity to stop paying rent and own your own home in Downtown Madison! Property sold as-is.Read more</overview>
+	<listing_agent>
+		<agentName>John O'Connor</agentName>
+		<phoneNumber>608-873-8700</phoneNumber>
+		<agentLicenseNumber>License #55519-94</agentLicenseNumber>
+		<postingGroupName>Real Living Matson &amp; Associates, Inc.</postingGroupName>
+		<postingWebsiteLinkText>Real Living Matson &amp; Associates, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1955</key>
+		<key name="Heating:">Radiant</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">4,791 sqft</key>
+		<key name="Price/sqft:">$215</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Radiant, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 975 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.11 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913111179</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1955</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1965</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

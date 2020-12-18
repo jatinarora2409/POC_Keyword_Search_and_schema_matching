@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$575,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>760</area>
+	</summary>
+	<address>
+		<street_address>5006 Williams Pl,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Private casita California Spanish style living in renovated home featuring 2 bedrooms and 1 bath. Front yard is enclosed with tall wooden fence creating a place of tranquility midst plants, ivy and bird bath. Large bougainvillea flowers attract hummingbirds, finches, and butterflies. The home sits on a corner lot, tall windows and high ceilings are filled with natural light pouring into the open living concept living room, kitchen and dining area. The 2 bedrooms are separated from the main room located toward the back of the house separated by a hallway, allowing for additional privacy when entertaining. Separate access door at side of home opens up to laundry area and back patio.  Steps to upper level terrace lead al fresco dining spacious for grilling, entertaining or relaxing.  View of Ascot Hills, neighboring Alhambra and South Pasadena. Near shopping, DTLA, and cultural venues. Central air and heating,recessed lighting, crown molding, ceiling fans, wood laminate floors.Read more</overview>
+	<listing_agent>
+		<agentName>Stefanie Pollack</agentName>
+		<phoneNumber>818-432-1500</phoneNumber>
+		<agentLicenseNumber>License #01815614</agentLicenseNumber>
+		<postingGroupName>Keller Williams Studio City</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Studio City</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1948</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">5,736 sqft</key>
+		<key name="Price/sqft:">$757</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Freezer, Microwave, Refrigerator</detail>
+				<detail>Laundry features: Outside, Laundry Area, In Carport</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Common walls with other units/homes: Detached/No Common Walls</detail>
+				<detail>Total interior livable area: 760 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Carport, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Levels: Ground Level</detail>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Stucco, Cement / Concrete</detail>
+				<detail>View description: Territorial, City, Mountain</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 5,736 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5223008002</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>Property condition: Updated/Remodeled, Repair Cosmetic</detail>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1948</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2009</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.96</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Fire and Smoke Detection System, Prewired for alarm system, Smoke Detector, T.V.</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Los Angeles</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $494,190</detail>
+				<detail>Annual tax amount: $5,898</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 20633368</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Cooling: Central, Air Conditioning, Ceiling Fan</detail>
+				<detail>County: Los Angeles</detail>
+				<detail>Equipment: Alarm System, Dishwasher, Microwave, Range/Oven, Refrigerator, Built-Ins, Freezer, Hood Fan, Ceiling Fan, Electric Dryer Hookup</detail>
+				<detail>Heating: Central, Natural Gas</detail>
+				<detail>ListingStatus: Active</detail>
+				<detail>PropertyType: Residential</detail>
+				<detail>SecurityFeatures: Fire and Smoke Detection System, Prewired for alarm system, Smoke Detector, T.V.</detail>
+				<detail>SourceLivingArea: Assessor</detail>
+				<detail>SourceLotSizeArea: Assessor</detail>
+				<detail>Laundry: Outside, Laundry Area, In Carport</detail>
+				<detail>Rooms: Living Room, Patio Open</detail>
+				<detail>ViewDescription: Mountains, Hills, City</detail>
+				<detail>Country: US</detail>
+				<detail>Flooring: Carpet, Laminate, Ceramic Tile</detail>
+				<detail>ParkingGarage: Direct Entrance, Carport Attached, On street</detail>
+				<detail>CookingAppliances: Microwave, Gas, Oven-Gas, Cooktop - Gas</detail>
+				<detail>WaterHeaterFeatures: Gas, Water Heater Unit</detail>
+				<detail>PropertyCondition: Updated/Remodeled, Repair Cosmetic</detail>
+				<detail>BathroomFeatures: Shower Over Tub, Tile</detail>
+				<detail>BedroomFeatures: Ground Floor Master, Main Floor Master Bedroom, Main Floor Bedroom</detail>
+				<detail>EatingAreas: Dining Area, Kitchen Island, Living Room</detail>
+				<detail>LotDescription: Fenced, Street Asphalt, Fenced Yard, Walk Street, Curbs</detail>
+				<detail>LotLocation: Hillside, City, Corner Lot</detail>
+				<detail>PatioFeatures: Porch - Rear, Concrete Slab, Porch - Front</detail>
+				<detail>InteriorFeatures: Detached/No Common Walls, High Ceilings (9 Feet+), Built-Ins, Crown Moldings, Mirrored Closet Door(s)</detail>
+				<detail>KitchenFeatures: Open to Family Room, Ceramic Counters</detail>
+				<detail>OtherStructuralFeatures: Barbecue Private, High Ceilings (9 Feet+)</detail>
+				<detail>Style: California Bungalow</detail>
+				<detail>Windows: Drapes/Curtains, Window Blinds</detail>
+				<detail>ExteriorConstruction: Detached/No Common Walls</detail>
+				<detail>Levels: Ground Level</detail>
+				<detail>Fence: Cedar Fence, Privacy</detail>
+				<detail>ListingArea: El Sereno</detail>
+				<detail>TVServices: TV Satellite Dish - Leased</detail>
+				<detail>DisabilityAccess: No Interior Steps, Vehicle Transfer Area</detail>
+				<detail>CommonWalls: Detached/No Common Walls</detail>
+				<detail>FoundationDetails: Slab</detail>
+				<detail>Furnished: Unfurnished</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>861 Wixom Ln </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$28,900</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>This is 2 Lots for sale as seen in the picture. Lot 2A and 3 for a total . 478 Acres. Ready for you to build your dream home in a great neighborhood located 20 minutes away from Downtown Dallas. Close proximity to restaurants, dining, and entertainment. This property will require Flood Insurance. Please view the property before submitting an offer.  </text_base_description>
+	<listed_by>
+		<name>Marla Valle</name>
+		<org> Encore Fine Properties</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$28,900</List_Price>
+		<Est._Mo._Payment>$186</Est._Mo._Payment>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>237 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>Kissell Homes Add</Community>
+		<Lot_Size>0.48 Acres</Lot_Size>
+		<key name="MLS#">14282670</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Dunbar</group_dat>
+						<group_dat>Middle School Name: Rusk</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+						<group_dat>Electric</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BLK 7817 LT 2A &amp; 3 INT201800199977 DD07052018</group_dat>
+						<group_dat>Unexempt Taxes: $765</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Kissell Homes Add</group_dat>
+						<group_dat>Directions: Take I 20W, US 175 towards Dallas, Exit St. Augustin, Left on S Saint, right on Fireside DR and Right on Wixon.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Restrictions: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: 7817</group_dat>
+						<group_dat>Development: City Limits</group_dat>
+						<group_dat>Easements: Utilities</group_dat>
+						<group_dat>Lot Number: 2A</group_dat>
+						<group_dat>Features: Subdivision</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.478</group_dat>
+						<group_dat>Area Sq. Ft.: 20,821.68</group_dat>
+						<group_dat>Parcel Number: 00000770863000000</group_dat>
+						<group_dat>Zoning: Residential</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>0.48 Acres</Lot_Size>
+		<Style>Other</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000770863000000</APN>
+	</public_facts>
+</home>

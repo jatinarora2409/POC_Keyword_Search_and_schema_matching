@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$800,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,009</area>
+	</summary>
+	<address>
+		<street_address>7250 Franklin Ave UNIT 814,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Commanding western views create dramatic sunsets delivering the Hollywood Hills, Century City skyline &amp; beyond to the Pacific Ocean from this modern luxury appointed condo. Creatively utilizing every aspect of the spacious floor plan, combining seamless transitions perfect for entertaining, LED accent lighting, automatic blinds, privacy for each bedroom. Clean lines enhance sleek kitchen w/ bar seating, quartz counters, induction cooktop, drop-down range hood, built-in microwave, high gloss cabinetry. Floor-to-ceiling sliders connect living room &amp; kitchen nook to outdoor terrace. Guest bath w/ floating cabinet sink, stall shower w/ bench. Large en-suite primary bedroom w/ private terrace, high ceilings, spa-like bath, updated sink cabinetry, dual shower w/ hand wand, soaking tub. Updated AC, in-unit Miele stackable laundry, 2 car parking. Full-service amenities offer refined lobby, updated hallways, valet guest parking, concierge, pool/spa, clubhouse, rooftop sundeck, yoga room &amp; gym.Read more</overview>
+	<listing_agent>
+		<agentName>Ian and Kimberly Rhodes</agentName>
+		<phoneNumber>323-300-1000</phoneNumber>
+		<agentLicenseNumber>License #01844869</agentLicenseNumber>
+		<postingGroupName>Keller Williams Realty Los Feliz</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Realty Los Feliz</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1964</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$785/mo</key>
+		<key name="Price/sqft:">$793</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</item>
+				<item>Laundry features: In Unit, Laundry Closet Stacked</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 1,009 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Stories: 9</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Other</item>
+				<item>View description: Territorial, City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1.23 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5548025121</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1964</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2015</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.68</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: 24 Hour</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Doorman, Fitness Center</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

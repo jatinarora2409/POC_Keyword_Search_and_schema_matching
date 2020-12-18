@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>839 N Ogden Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,850,000</Price>
+		<Beds>5</Beds>
+		<Baths>5.5</Baths>
+		<key name="$792 / Sq. Ft.">4,860</key>
+	</main_stats>
+	<text_base_description>Luxurious newly built Modern farmhouse conveniently located in the center of West Hollywood. Boasting 5,300 square feet of living space. Featuring five ample en suite bedrooms and five and a half bathrooms, this designer estate is perfect for a large family. This meticulously executed open floor plan produces a favorably larger space while boasting tons of natural light into the living room and kitchen. The chefs kitchen is equipped with stainless steel appliances, modern finishes, a large center island, and opens up to the living room. A large glass-door wine cellar is perfect for displaying and storing your favorite beverages. The large living room is designed with built-in bookshelves, a modern fireplace, and finished with warm colorful tones. The theater is equipped with state of the art speakers and projector system, perfect for enjoying sports games, gaming, and films. The landscaped, private backyard boasts a swanky pool and spa, grassy area, and a built-in barbecue.  </text_base_description>
+	<listed_by>
+		<name>Danielle Peretz</name>
+		<agentLicenseDisplay>•DRE #01897529</agentLicenseDisplay>
+		<org> The Agency</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,850,000</List_Price>
+		<Est._Mo._Payment>$17,753</Est._Mo._Payment>
+		<Redfin_Estimate>$3,710,284</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$792</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>38 days</Time_on_Redfin>
+		<Property_Type>Residential Single-Family</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Farm House</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,498 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-626642</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Remote Controls: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5527-003-022</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Fairfax Ave turn onto Willoughby Ave, turn onto Ogden Dr.</group_dat>
+						<group_dat>Cross Streets: Willoughby</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 5</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Built-In BBQ</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry on Upper Level, Laundry Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Kitchen Island, Living Room, Formal Dining Room, Family Room, Family Kitchen, Dining Area, Breakfast Area, Breakfast Counter / Bar, Breakfast Nook</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Breakfast Bar, Breakfast Area, Separate Family Room, Powder Room, Family Room, Living Room, Home Theatre, Walk-In Closet, Walk-In Pantry, Wine Cellar, Dining Area</group_dat>
+						<group_dat>Maids Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Family Room, In Living Room, In Master Bedroom</group_dat>
+						<group_dat># of Fireplaces: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Marble Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Barbeque, Built-Ins, Central Vacuum, Dishwasher, Microwave, Intercom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Attached</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Security Features: Exterior Security Lights, Carbon Monoxide Detector(s), Automatic Gate, Smoke Detector</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Heated And Filtered Pool, Private Pool</group_dat>
+						<group_dat>Private Spa, Heated Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,498</group_dat>
+						<group_dat>Lot Size (Acres): 0.1492</group_dat>
+						<group_dat>Lot Size Dimensions: 50 x 130</group_dat>
+						<group_dat>Zoning: LAR2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Any</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>1,637</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,637</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>6,498 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1923</Year_Built>
+		<Year_Renovated>1933</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5527003022</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$249,500</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,250</area>
+	</summary>
+	<address>
+		<street_address>2349 W Harrison St APT 1,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Matterport/3D tour available. Close to all that Tri-taylor has to offer including West Taylor Street with local cafes, shops and restaurants, medical district, UIC shuttle and minutes to the Loop via Blue Line or 290. 2 bedroom, 2 bath, almost 1,200 appx square foot home. Brand new, white Shaker cabinets, stainless steel/quartz eat-in kitchen with breakfast bar opens to extra-wide living room with gas fireplace and dining area. Recess lighting and hardwood floors throughout main living area. Stone baths with en-suite primary bedroom with spa tub and walk-in closet. Tons of storage and in-unit washer/dryer. Outdoor space includes south-facing covered private patio. Secured assigned parking space included.Read more</overview>
+	<listing_agent>
+		<agentName>Mario Greco</agentName>
+		<phoneNumber>773-687-4696</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Berkshire Hathaway HomeServices Chicago</postingGroupName>
+		<postingWebsiteLinkText>Berkshire Hathaway HomeServices Chicago</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2001</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$175/mo</key>
+		<key name="Price/sqft:">$200</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,250 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,000 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17183000641001</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2001</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.57</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

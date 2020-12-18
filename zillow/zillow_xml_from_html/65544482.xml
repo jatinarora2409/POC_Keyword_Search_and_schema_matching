@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$139,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>700</area>
+	</summary>
+	<address>
+		<street_address>9514 Lawrence Ave APT 2604,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>Recently renovated beautiful and spacious 1bed 1 bath condo with a terrace. New kitchen with granite countertop and stainless steel appliances. New bathroom. New windows. New light fixtures. New wood laminate flooring. Freshly painted throughout. The building has 2 laundry rooms, pool, exercise facilities and a clubhouse.Read more</overview>
+	<listing_agent>
+		<agentName>Nasko Ivanov</agentName>
+		<phoneNumber>708-856-1440</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Home Realty Group  Inc</postingGroupName>
+		<postingWebsiteLinkText>Home Realty Group  Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1970</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$204/mo</key>
+		<key name="Price/sqft:">$199</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 700 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 6</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.39 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 12103130191045</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1970</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Candidate for a community solar programSun Number™: 18.98</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $204/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $55,120</detail>
+				<detail>Annual tax amount: $2,746</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10810682</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Dining Room: Separate</detail>
+				<detail>Exterior Building Type: Brick</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Forced Air</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Lawn Care, Snow Removal, Water, Scavenger, Parking, Clubhouse, Exercise Facilities, Pool</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Parking Type: Space/s</detail>
+				<detail>2nd Bedroom Level: Not Applicable</detail>
+				<detail>Kitchen Flooring: Hardwood</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Other Information: Commuter Bus, Interstate Access</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Status: Price Change</detail>
+				<detail>Square Feet Source: Landlord/Tenant/Seller</detail>
+				<detail>Age: 41-50 Years</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Recent Rehab (Y/N): Yes</detail>
+				<detail>Disability Access and/or Equipped: Yes</detail>
+				<detail>Disability Access/Equipment Details: 2+ Access Exits J, Wheelchair Ramp(s)</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Managing Broker (Y/N): Yes</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 12103130191045</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

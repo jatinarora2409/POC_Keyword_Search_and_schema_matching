@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,695,000</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>2,468</area>
+	</summary>
+	<address>
+		<street_address>875 Madison St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>This 2468 square foot multi family home has 0 bedrooms and 0.0 bathrooms. This home is located at 875 Madison St, Santa Clara, CA 95050.Read more</overview>
+	<listing_agent>
+		<agentName>Steve and Christine Perry</agentName>
+		<phoneNumber>408-335-1400</phoneNumber>
+		<agentLicenseNumber>License #70000661</agentLicenseNumber>
+		<postingGroupName>Sereno Group</postingGroupName>
+		<postingWebsiteLinkText>Sereno Group</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1951</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Price/sqft:">$687</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 0</item>
+				<item>Bathrooms: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,468 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 10,489 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 2692607801</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1951</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Individual Electric Meters</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.06</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

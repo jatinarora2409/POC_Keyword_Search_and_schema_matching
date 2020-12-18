@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1922 N Curson Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,645,000</Price>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<key name="$1070 / Sq. Ft.">1,538</key>
+	</main_stats>
+	<text_base_description>A peaceful Hollywood Hills retreat, backed up to one of the few parks in Los Angeles, boasts privacy and serenity, while simultaneously offering close access to Sunset Strip, Runyon Canyon  &amp;  Wattles Park. This 3 bed, 3 bath oasis is perfect for entertaining guests, working from home, or spending time with your family  &amp;  pets. The open kitchen leads to a fenced in, newly designed, outdoor patio with canyon views that make you feel miles away from the city center. Located on a no through traffic street above Hollywood Boulevard, this rare location allows for both the quietness, and access desired.  </text_base_description>
+	<listed_by>
+		<name>Brian Griffin</name>
+		<agentLicenseDisplay>•DRE #01736172</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,645,000</List_Price>
+		<Est._Mo._Payment>$7,587</Est._Mo._Payment>
+		<Redfin_Estimate>$1,621,515</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,070</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>23 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1951</Year_Built>
+		<Style>Garden Home</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>4,491 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-632144</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat>2 Master Baths, Low Flow Toilet(s), Linen Closet, Granite</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Microwave, Oven, Oven-Gas, Range Hood, Range</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Breakfast Area, Breakfast Room, Bonus Room, Crafts Room, Den/Office, Pantry, Patio Covered, Study, Patio Open, Entry Room, Family Room, Library/Study, Living Room, Loft, Master Bedroom, Office, Other Room, Dining Room, Dining Area, Den, Dressing Area, Powder Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Dishwasher, Garbage Disposal, Gas Or Electric Dryer Hookup, Stackable W/D Hookup, Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>None</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+						<group_dat># of Open Other Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>Multi Levels</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Faces East</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Other Structural Features: Balcony</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Remote Controls: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5571-030-008</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: North on Curson just past Wattles Park Walk in Entrance</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: None</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 4,491</group_dat>
+						<group_dat>Lot Size (Acres): 0.1031</group_dat>
+						<group_dat>Lot Size Dimensions: 54 x 85</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, Hills</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Negotiate</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,538</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,538</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>4,491 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1951</Year_Built>
+		<Year_Renovated>1951</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5571030008</APN>
+	</public_facts>
+</home>

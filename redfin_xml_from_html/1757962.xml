@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>4576 19th St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94114</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,899,000</Price>
+		<Beds>3</Beds>
+		<Baths>1.5</Baths>
+		<key name="$1032 / Sq. Ft.">1,840</key>
+	</main_stats>
+	<text_base_description>Situated on one of the best streets in Eureka Valley this wonderful view home is a move-in ready delight and an incredible expansion opportunity. Enjoying easy Castro Village access and views, this comfortable home currently boasts 2 living levels but expansion potential within the envelope of the home. The foyer leads to a light filled main level with a living room, spacious formal dining room, functional kitchen and lovely breakfast room with downtown and Corona Heights views. Direct access to an outdoor deck and yard below. A 1/2 bath completes. Up the gracious staircase sits a highly desiable and rare floorplan of three bedrooms on one level. The rear bedroom is a perfect office space boasting incredible views. A full bath completes. Off the main level is a staircase connecting to a vast undeveloped level with high ceilings, access to the yard. There is also an additional lower level with expansion potential. Large yard and a possibility for 2 side by side parking.  </text_base_description>
+	<listed_by>
+		<name>William Kitchen</name>
+		<agentLicenseDisplay>•DRE #01395888</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,899,000</List_Price>
+		<Est._Mo._Payment>$8,677</Est._Mo._Payment>
+		<Redfin_Estimate>$1,987,831</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,032</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>6 days</Time_on_Redfin>
+		<Property_Type>Attached, Single-Family Home</Property_Type>
+		<Year_Built>1918</Year_Built>
+		<Style>Traditional</Style>
+		<Community>Eureka Valley/Dolore</Community>
+		<Lot_Size>2,326 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507265</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 3</group_dat>
+						<group_dat>3 Bedrooms on Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1.5</group_dat>
+						<group_dat>1 Bath on Upper Level</group_dat>
+						<group_dat>1.5 Baths on Main Level</group_dat>
+						<group_dat>Shower &amp; Tub</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room on Main Level</group_dat>
+						<group_dat>Formal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat># of Fireplace(s): 1, Wood Burning, In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: Hookups Only, In Basement</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Cooktop Stove, Hood Over Range, Double Oven, Island, Breakfast Area</group_dat>
+						<group_dat>Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Partial Carpet, Partial Hardwood, Tile</group_dat>
+						<group_dat># of Rooms (Total): 0</group_dat>
+						<group_dat>1.5 Baths on Main Level, Living Room on Main Level, Dining Room on Main Level, Kitchen on Main Level</group_dat>
+						<group_dat>3 Bedrooms on Upper Level, 1 Bath on Upper Level</group_dat>
+						<group_dat>Formal Entry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Heating/Cooling: Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Water &amp; Sewer</heading>
+					<group_data>
+						<group_dat>Public Water</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Driveway/Sidewalks: Paved Sidewalks</group_dat>
+						<group_dat>Exterior: Stucco, Wood Siding</group_dat>
+						<group_dat>Deck(s), Fenced Yard, Garden, Landscaping (Front)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information, Homeowners Association, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Douglas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail, Prelim Title Report, Sellers Sup to TDS, Geological Report, Strctrl Pst Cntr Rpt, Gen'l Prop Insp Rpt, Energy Audit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights, San Francisco, Hills</group_dat>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Transportation: 3 Blocks</group_dat>
+						<group_dat>Shopping: 3 Blocks</group_dat>
+						<group_dat>Type: Attached</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>Garden, Landscaping (Front), Fenced Yard, Deck(s), Formal Entry</group_dat>
+						<group_dat>APN: 2700-017</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,899,000</group_dat>
+						<group_dat>On Market Date: Saturday, October 3, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,840</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>2,326 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1918</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>2700 017</APN>
+	</public_facts>
+</home>

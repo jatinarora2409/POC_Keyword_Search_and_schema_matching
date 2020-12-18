@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$324,900</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,816</area>
+	</summary>
+	<address>
+		<street_address>9204 Jackson Park Blvd,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Once in a lifetime opportunity to own a home steeped in Wauwatosa history. Prestigious Jackson Park Blvd, convenient to Menomonee River Pkwy, Colectivo, and soon to be newly constructed McKinley Elementary, also the Pool, Village, Medical College and County Grounds! 4 beds, plus den and FR. Large rooms feature oversized windows with amazing exposure. Imagine large family gatherings in this special home. DR will amaze with inset paneling. KIT open to a vaulted FR. Main floor den conveniently located near the main floor half bath. Upstairs, find 4 beds and home's full bath. LL is open and spacious. Backyard is oversized with two car garage that has great convenience being the first off the alley entrance. This home has great bones and ready for the lucky new buyer to make it theirs!Read more</overview>
+	<listing_agent>
+		<agentName>Katie Wakefield</agentName>
+		<phoneNumber>414-477-8066</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Firefly Real Estate, LLC</postingGroupName>
+		<postingWebsiteLinkText>Firefly Real Estate, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1953</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">9,583 sqft</key>
+		<key name="Price/sqft:">$179</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 1</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Full</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,816 sqft</detail>
+				<detail>Fireplace features: Gas</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Grip-Accessible Features</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Patio and porch details: Patio</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 9,583 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 3419998000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Colonial</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1953</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1970</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 91.32</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $174,100</detail>
+				<detail>Annual tax amount: $4,412</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1713391</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Washer, Other, Oven/Range</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>PatioAndPorchFeatures: Patio</detail>
+				<detail>Basement: Full</detail>
+				<detail>FireplaceFeatures: Gas</detail>
+				<detail>RoomsTotal: 9</detail>
+				<detail>LotFeatures: Corner Lot, Sidewalk</detail>
+				<detail>ArchitecturalStyle: Colonial</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Detached, Paved, Garage Door Opener, Alley Access, Parking Space</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>AccessibilityFeatures: Grip-Accessible Features</detail>
+				<detail>ConstructionMaterials: Aluminum/Steel</detail>
+				<detail>CoveredSpaces: 2.00</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>InteriorFeatures: At least one Bathtub, Ceramic Tile, Shower Over Tub</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

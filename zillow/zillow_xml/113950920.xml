@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$564,900</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>2,400</area>
+	</summary>
+	<address>
+		<street_address>2455 W Ohio St UNIT 13E,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Absolutely gorgeous gated community townhome with designer finishes throughout! Owner has completely updated this home with a $65k chef's dream kitchen renovation, featuring horizontal cabinets with top pivot hinges, huge 6ft x 6ft marble island with storage under, Bosch gas cooktop, Bosch range hood, Kitchen-Aid wall oven/microwave combo, and sink hot water tap! Custom grey stained hardwood floors through 3 of the 4 floor levels compliment this spectacular kitchen! Awesome outdoor deck right off kitchen for easy barbecue access while entertaining guests! Professional deck Astro-Turf makes the decks comforting on the feet and easy maintenance! Large bright and airy living room with built in gas ventless fireplace and stone surround make for a great movie night at home! 1960's vintage chandelier from a Kansas City Church compliment the decor! Newly remodeled master bath with new tiling from floor to ceiling, and all new fixrures with an awesome wall hung vanity with sinks for 2! Custom lighting in both the master bedroom and bath, as well as a professional closet organizer system, and a custom sliding panel closet door assembly! 4rth floor office with built in cabinetry and easy access to the HUGE outdoor wrap around deck with magnificent full city skyline views! This is a beautiful retreat! 1st floor bedroom currently set up as an office with another full bath! Bedroom #2 is currently set up as a spectacular shoe and wardrobe room, however it is easily ample as a queen sized bedroom. Window coverings throughout! Let's not forget the awesome Smith Park location right across from Smith Park itself. This hidden gem has a swimming Pool and Tennis Courts, Ball fields, playground, Summer camps, etc. Also just 1-1/2 blocks away from the Metra station with a 7 minute commute to down in the loop! HOA has 92K and is very well run. Must See!Read more</overview>
+	<listing_agent>
+		<agentName>Mark Allen Glusker</agentName>
+		<phoneNumber>773-938-5220</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Mark Allen Realty  LLC</postingGroupName>
+		<postingWebsiteLinkText>Mark Allen Realty  LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">2001</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">No Data</key>
+		<key name="Price/sqft:">$235</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,400 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 16122170231036</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Townhouse</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2001</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

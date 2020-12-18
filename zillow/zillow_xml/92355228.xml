@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,050,000</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>3,726</area>
+	</summary>
+	<address>
+		<street_address>3021 W Fillmore St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>*PRICE REDUCTIONS! SEE DOC TAB FOR OM.  Income is ACTUAL! This wonderfully redone property has been revamped from the ground up. Buildings have been painted, apartments remodeled with floors cabinets, and counters, bathrooms etc. Blacktop redone as of 8/19/20, Brick wall built up for privacy and security, as well as gravel, gazebo, barbecues for tenants!  There is improvement possible on rents, and further potential for any new owner. Sellers will be sad to see this one go, but are on to the next! Easy pro forma already started can have this property at an 8 CAP in no time!Read more</overview>
+	<listing_agent>
+		<agentName>Lee Garner</agentName>
+		<phoneNumber>480-649-3536</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Real Living S.J. Fowler Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Real Living S.J. Fowler Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1985</key>
+		<key name="Heating:">Wall, Electric</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$282</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 0</item>
+				<item>Bathrooms: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,726 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.33 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10926073B</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: concrete</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1985</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1985</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric information: City Electric</item>
+				<item>Sewer information: Sewer - Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.9</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

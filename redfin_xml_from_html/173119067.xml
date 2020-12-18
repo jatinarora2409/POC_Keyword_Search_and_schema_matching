@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1915 Education Way </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$249,900</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$136 / Sq. Ft.">1,833</key>
+	</main_stats>
+	<text_base_description>its a quiet, friendly neighborhood, close to parks, shopping and minutes away from downtown Dallas. Includes 3 bedrooms, 2 full and 1 half bath. The open kitchen and living areas provide a spacious, cozy environment for family gatherings and for entertaining friends. The large master suite has plenty of closet space, a bathroom with double sinks and separate shower and tub. The kitchen offers stained wood cabinets, new appliances, granite countertops, and ceramic tiled floors. This is an amazing property and is perfect for the right family.  </text_base_description>
+	<listed_by>
+		<name>Reuben Riojas</name>
+		<org> Insight Realty Network</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$249,900</List_Price>
+		<Est._Mo._Payment>$1,326</Est._Mo._Payment>
+		<Redfin_Estimate>$247,702</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$136</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>29 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Single Detached, Other (See Remarks)</Style>
+		<Community>CAMDEN HOMES</Community>
+		<key name="MLS#">14427748</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Features: Walk-In Closets</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Kitchen</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Other (See Remarks)</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Ceramic Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Electric)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, School / Neighborhood, Utilities, Financing</heading>
+			<details>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 2</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 2</group_dat>
+						<group_dat>Garage Dimensions: 21 x 21</group_dat>
+						<group_dat>Attached, Covered, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Ebby Halliday</group_dat>
+						<group_dat>Middle School Name: Seagoville</group_dat>
+						<group_dat>High School Name: H Grady Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional, FHA, TX VET Assumable, VA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>New Construction (Incomplete)</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Covered Porch(es), Patio Covered</group_dat>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 1</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Built-In Microwave, Cooktop (Electric), Dishwasher, Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.000</group_dat>
+						<group_dat>Parcel Number: 000000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: CAMDEN HOMES</group_dat>
+						<group_dat>Directions: Navigate to 1915 Education Way Dallas, TX 75217</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>000000</APN>
+	</public_facts>
+</home>

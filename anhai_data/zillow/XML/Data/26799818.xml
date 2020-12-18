@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$197,500</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,296</area>
+	</summary>
+	<address>
+		<street_address>8728 Milverton Dr,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>Newly Updated, adorable 4 bedroom 2.5 bathroom home in well established neighborhood.  Open concept with lots of space for entertaining! Beautiful granite counter tops with large over sized island! New stainless steel appliances in the kitchen with fresh new paint and backsplash.  Split bedrooms all having wood like flooring! All bathrooms have been updated as well.  Be sure to check out the detached garage in the back with electricity all ready for you to make your additions.  This could be used as a workshop, storage, man cave or she shed!Read more</overview>
+	<listing_agent>
+		<agentName>Tommy McMahan</agentName>
+		<phoneNumber>972-772-7000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Rockwall</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Rockwall</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1961</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">7,579 sqft</key>
+		<key name="Price/sqft:">$152</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Microwave</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,296 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Other</detail>
+				<detail>Fencing: Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 7,579 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 00000563191000000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Traditional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: Frame</detail>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1961</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1961</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water, Sidewalk, Curbs, Alley</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 93.82</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Dallas</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $105,190</detail>
+				<detail>Annual tax amount: $2,875</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14433580</detail>
+				<detail>Measurement Source: Tax</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Financing Proposed: Cash, Conventional, FHA, VA</detail>
+				<detail>Architectural Style: Traditional</detail>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>Other Equipment: Built-in Microwave, Cooktop - Gas, Dishwasher, Oven-Electric</detail>
+				<detail>Construction Materials: Brick</detail>
+				<detail>Utilities: City Sewer, City Water, Sidewalk, Curbs, Alley</detail>
+				<detail>County Or Parish: Dallas</detail>
+				<detail>Exterior Features: Patio Open, Covered Porch(es), Workshop, Storage Building</detail>
+				<detail>Heating: Central Heat-Gas, Central Air-Elec</detail>
+				<detail>Interior Features: Cable TV Available, High Speed Internet Available, Flat Screen Wiring</detail>
+				<detail>Parking Features: On Street, Garage, Open, Detached, Front, Garage Conversion, Rear, 2-Car Single Doors</detail>
+				<detail>Flooring: Wood</detail>
+				<detail>Fencing: Chain Link</detail>
+				<detail>Lot Features: Interior Lot, Subdivision, Irregular, Landscaped</detail>
+				<detail>Lot Size: Less Than .5 Acre (not Zero)</detail>
+				<detail>Structural Style: Single Detached</detail>
+				<detail>Foundation Details: Slab</detail>
+				<detail>Possession: Negotiable</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Soil Type: Black</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Lake Pump: 0</detail>
+				<detail>Waterfront YN: 0</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

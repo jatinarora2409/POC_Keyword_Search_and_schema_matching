@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$225,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,232</area>
+	</summary>
+	<address>
+		<street_address>3383 Ryon Ct,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>Welcome Home!! Beautifully maintained two level townhome. Updated kitchen/bathrooms, separate dining area, nice sized bedrooms, patio and yard space.Read more</overview>
+	<listing_agent>
+		<agentName>Rukaiyah Tyler</agentName>
+		<phoneNumber>240-737-5000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Preferred Properties</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Preferred Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1981</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">3,001 sqft</key>
+		<key name="Price/sqft:">$183</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,232 sqft</item>
+				<item>Finished area below ground: 0</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,001 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 06108156</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Traditional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1981</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 82.47</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Waldorf</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $54/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $171,700</item>
+				<item>Annual tax amount: $2,107</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: MDCH218320</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>AssociationYN: Yes</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>ConstructionMaterials: Aluminum Siding, Brick</item>
+				<item>StoriesTotal: 2</item>
+				<item>Heating: Heat Pump</item>
+				<item>ArchitecturalStyle: Traditional</item>
+				<item>SpecialListingConditions: Standard</item>
+				<item>Cooling: Central Air</item>
+				<item>BelowGradeFinishedArea: 0</item>
+				<item>ParkingFeatures: Parking Lot</item>
+				<item>MlsStatus: Active</item>
+				<item>StructureType: Interior Row/Townhouse</item>
+				<item>TaxAnnualAmount: 2334.0</item>
+			</item>
+		</item>
+	</other_details>
+</home>

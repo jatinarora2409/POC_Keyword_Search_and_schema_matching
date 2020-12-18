@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,030,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,294</area>
+	</summary>
+	<address>
+		<street_address>5540 32nd St NW,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Charming 4 BR 3 BA cape in Chevy Chase DC. Sun filled home w spacious BRs &amp; closets, renovated baths, hrdwd flrs, arched doorways, upgraded kit appl, sep DR, LR with FP &amp; sunrm to flagstone patio w fenced yrd. Private access to in-law suite/Apt w sep BR, full bath &amp; kit. Walk to Redline Metro Bus to Friendship Heights. 3 blocks to &amp; Lafayette Elementary &amp; Broad Branch Mkt.  See Virtual TourRead more</overview>
+	<listing_agent>
+		<agentName>Andrew Silverberg</agentName>
+		<phoneNumber>301-610-0026</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Structure Realty LLC</postingGroupName>
+		<postingWebsiteLinkText>Structure Realty LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1947</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">5,000 sqft</key>
+		<key name="Price/sqft:">$449</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,294 sqft</item>
+				<item>Finished area below ground: 816 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.11 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 20230028</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Slate</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1947</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 19.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

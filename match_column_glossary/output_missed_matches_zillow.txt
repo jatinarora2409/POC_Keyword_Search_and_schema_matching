@@ -1,0 +1,75 @@
+C: street_address
+G: address of the house
+
+C: home_type
+G: listed houses style of construction
+
+C: house_type
+G: listed houses style of construction
+
+C: home_type
+G: listed houses property type
+
+C: house_type
+G: listed houses property type
+
+C: state
+G: region of the house
+
+C: zipcode
+G: postal code/zip code of the house
+
+C: major_remodel_year
+G: listed house renovated in the year
+
+C: phone_number
+G: listing house agents contact number
+
+C: posting_group_name
+G: listing house agents office name
+
+C: beds
+G: bedroom count in the house
+
+C: overview
+G: house description
+
+C: baths
+G: bathroom count in the house
+
+C: living_area
+G: area of the house in square feet
+
+C: total_interior_livable_area
+G: area of the house in square feet
+
+C: price
+G: offer price of the house in usd
+
+C: year_built
+G: listed house built-in year
+
+C: lot_size
+G: lot area of the house in acres
+
+C: total_spaces
+G: parking spaces count in the house
+
+C: parking
+G: parking spaces count in the house
+
+C: annual_tax_amount
+G: tax amount of the house for the year
+
+C: total_interior_livable_area
+G: living area of the house in square feet
+
+C: price_per_sqft
+G: price per square feet of the house
+
+C: stories
+G: number of units in the listed house
+
+C: price
+G: estimated price of the house
+

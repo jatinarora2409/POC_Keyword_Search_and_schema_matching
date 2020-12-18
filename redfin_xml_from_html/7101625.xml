@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>836 N Poinsettia Pl </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,549,000</Price>
+		<Beds>4</Beds>
+		<Baths>4</Baths>
+		<key name="$898 / Sq. Ft.">1,725</key>
+	</main_stats>
+	<text_base_description>5 Brand NEW Construction Single Family Homes with exceptional quality and luxury amenities including: Control4 home security and entertainment automation systems: fully equipped custom designer kitchens complete with high-end appliances and stone counters; high quality designer baths with decorative tiles, finishes and backlit mirrors; stunning hardwood floors and decorative lighting throughout; in-unit laundry equipped with washer and dryer. Gated and secure over-sized two car private garages with direct entrance. Bright sunny open floor plans, panoramic views, bedrooms with en-suite baths, abundant custom closet and storage spaces. Top floor master suites feature spectacular baths with double vanities, large dual showers and oversized closets. Spectacular prime location central to WEHO, Melrose District, The Grove and just minutes to Beverly Hills and Downtown LA. Close proximity to world class restaurants, parks, entertainment venues, all city services and public transportation.  </text_base_description>
+	<listed_by>
+		<name>Rande Gray</name>
+		<agentLicenseDisplay>•DRE #01233483</agentLicenseDisplay>
+		<org> Keller Williams Hollywood Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,549,000</List_Price>
+		<Est._Mo._Payment>$7,144</Est._Mo._Payment>
+		<Redfin_Estimate>$1,583,870</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$898</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>10 days</Time_on_Redfin>
+		<Property_Type>Residential Single-Family</Property_Type>
+		<Baths>2 full, 2 partial</Baths>
+		<HOA_Dues>$290/month</HOA_Dues>
+		<Year_Built>2020</Year_Built>
+		<Style>Modern</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>1,826 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-639256</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: None</group_dat>
+						<group_dat>Fee #1: $290</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 5</group_dat>
+						<group_dat>Athletic Court: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: Public, In Street</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Main Floor Bedroom, Master Suite, WalkInCloset</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 2</group_dat>
+						<group_dat># of Baths (3/4): 2</group_dat>
+						<group_dat>Double Shower, Double Vanity(s), Linen Closet, Low Flow Shower(s), Low Flow Toilet(s), Shower Over Tub, Shower Stall, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Built-In And Free Standing, Microwave, Gas/Electric Range, Oven, Range Hood, Continuous Clean Oven</group_dat>
+						<group_dat>Stone Counters, Pantry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside, Laundry on Upper Level, Laundry Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area</group_dat>
+						<group_dat>Dining Area, Office, Master Bedroom, Living Room, Walk-In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Built-Ins, Drywall Walls, Home Automation System, Living Room Balcony, Open Floor Plan, Pre-wired for high speed Data, Pre-wired for surround sound, Recessed Lighting, Storage Space</group_dat>
+						<group_dat>Foyer</group_dat>
+						<group_dat>Windows: Double Pane Windows, Tinted Windows</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Mixed Floors, Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Built-Ins, Cable, Dishwasher, Dryer, Freezer, Garbage Disposal, Gas Or Electric Dryer Hookup, Hood Fan, Microwave, Network Wire, Range/Oven, Refrigerator, Vented Exhaust Fan, Washer, Water Line to Refrigerator</group_dat>
+						<group_dat>Cable TV</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Central Cooling</group_dat>
+						<group_dat>Central Heat, Forced Air Heating</group_dat>
+						<group_dat>Water Heater Features: Gas, Tankless</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Driveway Gate, 2 Car Garage, Garage Is Attached, Gated, Private, Side By Side, Driveway - Concrete, Door Opener, Direct Entrance</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+						<group_dat># of Open Other Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Three Or More Levels</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Entry Floor Number: 1</group_dat>
+						<group_dat>Faces West</group_dat>
+						<group_dat>Security Features: Carbon Monoxide Detector(s), Exterior Security Lights, Fire and Smoke Detection System, Fire Rated Drywall, Fire Sprinklers, Gated, Owned, Smoke Detector, T.V., Prewired for alarm system</group_dat>
+						<group_dat>Exterior Construction: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Patio Features: Balcony, Living Room Balcony, Tile</group_dat>
+						<group_dat>Other Structural Features: Balcony, End Unit, Energy Efficient, Full Copper Plumbing, Insulated Doors, Rain Gutters, Sliding Glass Doors, Sprinkler System</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5525-001-027</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Listing Terms: Cash, Cash To New Loan</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: North of Melrose, West of La Brea, South of Willoughby</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is, Building Permit, CC and R, Property Report</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Land Lease Type: Fee</group_dat>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: New Construction</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 1,826</group_dat>
+						<group_dat>Special Zoning: Property Report</group_dat>
+						<group_dat>Lot Location: City, Flats</group_dat>
+						<group_dat>Lot Description: Curbs, Exterior Security Lights, Lot Shape-Rectangular, Lot-Level/Flat, Utilities - Overhead, Street Paved, Street Lighting, Street Asphalt, Storm Drains, Single Lot, Sidewalks, Fenced</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Stucco Wall</group_dat>
+						<group_dat>Sprinkler System, Sprinkler Timer</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: City, Hills</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow</group_dat>
+						<group_dat>Listing Terms: Cash, Cash To New Loan</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>7,709 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5525001027</APN>
+	</public_facts>
+</home>

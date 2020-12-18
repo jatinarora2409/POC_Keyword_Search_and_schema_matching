@@ -1,0 +1,88 @@
+com/infa/products/discovery/automatedclassification/util/SearchTask.java
+ com.infa.products.discovery.automatedclassification.util.SearchTask
+com/infa/products/discovery/automatedclassification/dataset/InvescoDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.InvescoDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/CommunicationsDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.CommunicationsDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/MichiganERPMDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.MichiganERPMDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/MichiganDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.MichiganDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/RealEstateFileReader.java
+ com.infa.products.discovery.automatedclassification.dataset.RealEstateFileReader
+com/infa/products/discovery/automatedclassification/AlignmentTest.java
+ com.infa.products.discovery.automatedclassification.AlignmentTest
+com/infa/products/discovery/automatedclassification/dataset/RetailDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.RetailDatasetReader
+com/infa/products/discovery/automatedclassification/util/Constants.java
+ com.infa.products.discovery.automatedclassification.util.Constants
+com/infa/products/discovery/automatedclassification/dataset/AnthemColsDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.AnthemColsDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/HealthcareDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.HealthcareDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/FranklinDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.FranklinDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/Toyota2DatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.Toyota2DatasetReader
+com/infa/products/discovery/automatedclassification/dataset/AnthemTablesDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.AnthemTablesDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/FinanceDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.FinanceDatasetReader
+com/infa/products/discovery/automatedclassification/BagOfWordsScoreTest.java
+ com.infa.products.discovery.automatedclassification.BagOfWordsScoreTest
+com/infa/products/discovery/automatedclassification/dataset/AirlinesDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.AirlinesDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/ToyotaDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.ToyotaDatasetReader
+com/infa/products/discovery/automatedclassification/util/FileUtils.java
+ com.infa.products.discovery.automatedclassification.util.FileUtils
+com/infa/products/discovery/automatedclassification/AlignmentScoreTest.java
+ com.infa.products.discovery.automatedclassification.AlignmentScoreTest
+com/infa/products/discovery/automatedclassification/dataset/AnaCreditDatasetReader.java
+ com.infa.products.discovery.automatedclassification.dataset.AnaCreditDatasetReader
+com/infa/products/discovery/automatedclassification/dataset/AnthemAbbreviationReader.java
+ com.infa.products.discovery.automatedclassification.dataset.AnthemAbbreviationReader
+com/infa/products/discovery/automatedclassification/dataset/FranklinBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.FranklinBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/AnaCreditBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.AnaCreditBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/MichiganBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.MichiganBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/engine/search/BagOfWordsSearcherTest.java
+ com.infa.products.discovery.automatedclassification.engine.search.BagOfWordsSearcherTest
+com/infa/products/discovery/automatedclassification/engine/BusinessTermSearchEngineTest.java
+ com.infa.products.discovery.automatedclassification.engine.BusinessTermSearchEngineTest
+com/infa/products/discovery/automatedclassification/dataset/ToyotaBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.ToyotaBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/AnthemBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.AnthemBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/SplitRegexTest.java
+ com.infa.products.discovery.automatedclassification.dataset.SplitRegexTest
+com/infa/products/discovery/automatedclassification/dataset/AnthemTablesBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.AnthemTablesBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/CommunicationsBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.CommunicationsBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/Toyota2BusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.Toyota2BusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/AirlinesBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.AirlinesBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/engine/search/ParentContextAssetTest.java
+ com.infa.products.discovery.automatedclassification.engine.search.ParentContextAssetTest
+com/infa/products/discovery/automatedclassification/QuickSearchTest.java
+ com.infa.products.discovery.automatedclassification.QuickSearchTest
+com/infa/products/discovery/automatedclassification/BusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.BusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/HealthcareBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.HealthcareBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/RetailBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.RetailBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/FinanceBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.FinanceBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/SpecialCharactersTest.java
+ com.infa.products.discovery.automatedclassification.dataset.SpecialCharactersTest
+com/infa/products/discovery/automatedclassification/dataset/MichiganERPMBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.MichiganERPMBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/InvescoBusinessTermSearchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.InvescoBusinessTermSearchTest
+com/infa/products/discovery/automatedclassification/dataset/RealEstateBusinessGlossaryMatchTest.java
+ com.infa.products.discovery.automatedclassification.dataset.RealEstateBusinessGlossaryMatchTest

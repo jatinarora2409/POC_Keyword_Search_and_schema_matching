@@ -1,0 +1,434 @@
+Physical Element Name,Logical Element Name,Format Type,Format Length,Data Set,Table Locations,Element Definition,Examples of Valid Values
+ACAD_CAR_FIRST_TERM,Academic Career First Term Code,VARCHAR2,4,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A code representing the term in which a student was first eligible to enroll in a specific academic career at U of M.  For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the reporting term, e.g., 1220, 1280.","Examples of valid values:  1220 =
+Winter 1999;  1280 =
+Spring 2000"
+ACAD_CAR_FIRST_TERM_DE SCR,Academic Career First Term Description,VARCHAR2,30,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A textual description of the code representing the term in which a student was first eligible to enroll in a specific academic career at Uof M.  For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are
+rolled to the reporting term, e.g., 1220, 1280.","Examples of valid values:  Winter 1999;
+Spring 2000"
+ACAD_CAREER,Academic Career Code,VARCHAR2,4,M_3WKDW1,"THIRDWK_ACAD_PLAN THIRDWK_ACAD_PROG THIRDWK_ACAD_SUBPLAN THIRDWK_CLASS_TBL THIRDWK_PERSISTENCE_VW THIRDWK_STDNT_CAR_TERM
+THIRDWK_STDNT_ENRL",A code representing a grouping of academic programs for statistical purposes.  An academic career exists for each school/college by level of program offered.,"Examples of valid values:  ULSA = UG LS&A;   UENG =
+Ugrad Engr;   GRAC
+= Rackham"
+ACAD_CAREER,Academic Career Code,VARCHAR2,4,M_SRDW1,ACAD_DEGR ACAD_DEGR_PLAN,A code representing a grouping of academic programs for statistical purposes.  An academic career exists for each school/college by level of program offered.,"Examples of valid values:  ULSA = UG LS&A;   UENG =
+Ugrad Engr;   GRAC
+= Rackham"
+ACAD_CAREER_DESCR,Academic Career Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A textual description of the code representing a grouping of academic programs for statistical purposes.  An academic career exists for each school/college by level of program
+offered.","Examples of valid values: Undergraduate L S & A;  Undergraduate Engineering;
+Rackham"
+ACAD_CAREER_DESCR,Academic Career Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR,A textual description of the code representing a grouping of academic programs for statistical purposes.  An academic career exists for each school/college by level of program offered.,Examples of valid values: Undergraduate L S & A;  Undergraduate Engineering; Rackham
+ACAD_CAREER_DESCRSHOR T,Academic Career Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"An abbreviated textual description of the code representing a grouping of academic programs for statistical purposes.  An academic career exists for each school/college by level of
+program offered.",Examples of valid values:  UG LS&A; Ugrad Engr; Rackham
+ACAD_DEGR_STATUS,Academic Degree Status Code nan,VARCHAR2,1,M_SRDW1,ACAD_DEGR ACAD_DEGR_PLAN,A code indicating whether a degree for a student has been awarded or revoked. nan,Examples of valid values:  A = Awarded; R = Revoked
+ACAD_GROUP,Academic Group Code,VARCHAR2,5,M_SRDW1,ACAD_DEGR_PLAN,"A code representing a school or college, including Officer Education Programs.",Examples of valid values:  DEN = Dentistry;  NUR = Nursing;  PH = Public Health
+ACAD_GROUP_AREA,Academic Group Area Code,VARCHAR2,5,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A code used to further group academic groups, used specifically for reporting. It combines academic groups Dental Hygiene into DEN and Residential
+College into LSA.","Examples of valid values:  DEN = Dental;  NUR = Nursing;  PH = Public
+Health"
+ACAD_GROUP_AREA_DESCR,Academic Group Area Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A textual description of the code used to further group academic groups, used specifically for reporting.  It combines academic groups Dental Hygiene into DEN and Residential College into LSA.",Examples of valid values:  Dentistry; Nursing;  Public Health
+ACAD_GROUP_DESCR,Academic Group Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR_PLAN,"A textual description of the code representing a school or college, including Officer Education Programs.",Examples of valid values:  Dentistry; Nursing;  Public Health
+ACAD_GROUP_SUBGROUP,Academic Group Subgroup Code,VARCHAR2,6,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A code used to split special academic programs from their normal academic group, used specifically for reporting.  It separates academic groups Business Administration Evening from Business Administration, and LSA Inteflex and Residential College from LSA.",Examples of valid values: INTFLX = LSA Inteflex;  RC = Residential College; BAEVE = Business Admin - Evening
+ACAD_GROUP_SUBGROUP_D ESCR,Academic Group Subgroup Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A textual description of the code used to split special academic programs from their normal academic group, used specifically for reporting.  It separates academic groups Business Administration Evening from Business
+Administration, and LSA Inteflex and Residential College from LSA.",Examples of valid values: LSA Inteflex; Residential College; Business Admin - Evening
+ACAD_LEVEL_BOT,Academic Level Beginning Of Term Code,VARCHAR2,3,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A code representing the student's academic level, based on number of credits completed toward a degree, at the beginning of the term.",Examples of valid values:  11 = Freshman;  23 = Grad Mastr;  31 = Pro 1st Yr
+ACAD_LEVEL_BOT_DESCR,Academic Level Beginning Of Term Description,VARCHAR2,30,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A textual description of the code representing the student's academic level, based on number of credits earned toward a degree, at the
+beginning of the term.","Examples of valid values:  Freshman; Graduate Master; Professional First
+Year"
+ACAD_LEVEL_BOT_DESCRSH ORT,Academic Level Beginning Of Term Short Description nan,VARCHAR2,10,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"An abbreviated textual description of the code representing the student's academic level, based on number of credits earned toward a degree, at the beginning of the term.",Examples of valid values:  Freshman; Grad Mastr;  Pro 1st Yr
+ACAD_LEVEL_GROUP,Academic Level Group Code,VARCHAR2,3,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A code, similar to PROG_ACAD_LEVEL_GROUP (but for only the THIRDWK_STUDENT_CAR_TERM
+primary program, rather than all active programs), used to group academic levels into categories used specifically for reporting.  Differs from PROG_ACAD_LEVEL_GROUP in that graduate and professional non-degree programs are identified as MA, DR, or
+GP.",Examples of valid values:  FR = Freshman;  SO = Sophomore;  JR = Junior;  SR = Senior; ND = Non-Cand. for Degree;  MA = Masters;  DR = Doctorate;  GP = Professional;
+ACAD_LEVEL_GROUP_DESCR,Academic Level Group Description,VARCHAR2,20,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A textual description of the code, similar to PROG_ACAD_LEVEL_GROUP (but
+for only the THIRDWK_STUDENT_CAR_TERM
+primary program, rather than all active programs), used to group academic levels into categories used specifically for reporting.  Differs from PROG_ACAD_LEVEL_GROUP in that graduate and professional non-degree
+programs are identified as MA, DR, or GP.",Examples of valid values:  Freshman; Sophomore;  Junior; Senior;  Non-Cand. for Degree;  Masters; Doctorate; Professional;
+ACAD_PLAN,Academic Plan Code,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_ACAD_PLAN_OWNER THIRDWK_ACAD_SUBPLAN,A code representing an area of study within an academic program; usually consisting of a field/concentration and degree.,"Examples of valid values:  7740ABLSA
+= Psychology BA; 7740PHD =
+Psychology PhD; 4920LSA = LSA
+Undeclared"
+ACAD_PLAN,Academic Plan Code,VARCHAR2,10,M_SRDW1,ACAD_DEGR_PLAN ACAD_DEGR_SPLN,A code representing an area of study within an academic program; usually consisting of a field/concentration and degree.,"Examples of valid values:  7740ABLSA
+= Psychology BA; 7740PHD =
+Psychology PhD; 4920LSA = LSA
+Undeclared"
+ACAD_PLAN_DESCR,Academic Plan Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PLAN,A textual description of the code representing an area of study within an academic program; usually consisting of a field/concentration and degree.,Examples of valid values:  Psychology BA;  Psychology PhD; Undeclared
+ACAD_PLAN_DESCR,Academic Plan Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR_PLAN,A textual description of the code representing an area of study within an academic program; usually consisting of a field/concentration and degree.,Examples of valid values:  Psychology BA;  Psychology PhD; Undeclared
+"ACAD_PLAN_ONLINE_STATUS
+_CD",Academic Plan Online Status Code,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN,A code describing the online status of an area of study represented by an academic plan.,"Examples of valid values: ONLINE = Fully Online; IN_RESID = Fully in Residence; > 50% = Can be > 50% Online;
+< 50% = Can be < 50% Online"
+"ACAD_PLAN_ONLINE_STATUS
+_DESCR",Academic Plan Online Status Description,VARCHAR2,100,M_3WKDW1,THIRDWK_ACAD_PLAN,A textual description of the code describing the online status of an area of study represented by an academic plan.,"Examples of valid values: Fully Online; Fully in Residence;
+Can be > 50% Online; Can be < 50% Online"
+ACAD_PLAN_PERCENT_OWN ED,Academic Plan Percent Owned,NUMBER,6.3,M_3WKDW1,THIRDWK_ACAD_PLAN_OWNER,A number representing the percentage of responsibility that an academic unit has for an academic plan.,"Examples of valid values:  50.000;
+100.000"
+ACAD_PLAN_PRIORITY,Academic Plan Priority Code,VARCHAR2,1,M_3WKDW1,THIRDWK_ACAD_PLAN,"A code indicating that an academic plan within an academic program is the student's priority academic plan.  The priority plan was determined by selecting the lowest plan sequence
+number within each academic program.",Examples of valid values:  1;  blank
+ACAD_PLAN_TYPE,Academic Plan Type Code,VARCHAR2,3,M_3WKDW1,THIRDWK_ACAD_PLAN,A code representing how an area of study within an academic program may be pursued.,"Examples of valid values:  MAJ = Major; MIN = Minor;  CON =
+Concentrtn"
+ACAD_PLAN_TYPE_DESCRSH ORT,Academic Plan Type Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN,An abbreviated textual description of the code representing how an area of study within an academic program may be pursued.,Examples of valid values:  Major;  Minor; Concentrtn
+ACAD_PROG,Academic Program Code,VARCHAR2,5,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,A code which uniquely identifies the area within the University to which an applicant is admitted and from which a student graduates.,"Examples of valid values:  00008 = UG LSA;  00093 = Biolo- M.S.;  00409 = Psych-
+Ph.D"
+ACAD_PROG,Academic Program Code,VARCHAR2,5,M_SRDW1,ACAD_DEGR_PLAN,A code which uniquely identifies the area within the University to which an applicant is admitted and from which a student graduates.,Examples of valid values:  00008 = UG LSA;  00093 = Biolo- M.S.;  00409 = Psych- Ph.D
+ACAD_PROG_DESCR,Academic Program Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A textual description of the code which uniquely identifies the area within the University to which an applicant is admitted and from which a student
+graduates.","Examples of valid values:  Lit, Science & Arts UG Degree; Biology Mas;
+Psychology Doc"
+ACAD_PROG_DESCR,Academic Program Description nan,VARCHAR2,30,M_SRDW1,ACAD_DEGR_PLAN,A textual description of the code which uniquely identifies the area within the University to which an applicant is admitted and from which a student graduates.,"Examples of valid values:  Lit, Science & Arts UG Degree; Biology Mas; Psychology Doc"
+ACAD_PROG_DUAL,Dual Academic Program Code,VARCHAR2,5,M_3WKDW1,THIRDWK_ACAD_PROG,A code representing an academic program which has an inseparable relationship with another academic program.,"Examples of valid values:  00791 = MDDP Bus Admin & Law MBA/JD;  00671
+= MDDP Law & Bus Admin JD/MBA"
+ACAD_PROG_DUAL_DESCR,Dual Academic Program Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG,A textual description of the code representing an academic program which has an inseparable relationship with another academic program.,"Examples of valid values:  MDDP Bus Admin & Law MBA/JD;  MDDP Law
+& Bus Admin JD/MBA"
+ACAD_PROG_PRIMARY,Primary Academic Program Code,VARCHAR2,5,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,A code representing the student's primary academic program within a specific career for a term.,"Examples of valid values:  00042 = Aerospace Engineering Int; 00008 = Lit, Science & Arts UG Degree; 00801 = MDDP LSA
+& Archit UG Degree/BS"
+ACAD_PROG_PRIORITY,Academic Program Priority Code,VARCHAR2,1,M_3WKDW1,THIRDWK_ACAD_PROG,"A code, used for official reporting, indicating that a specific academic program is the student's priority program over all academic careers for a term.
+The priority is determined as follows:  If the student is enrolled in only one program that program is their priority program.  If they are enrolled in multiple programs the priority program is assigned based on academic level in this order: PhD or Doc, Masters, Certificate, Bachelor, Non-Degree.  Ties are resolved by selecting the program with the most units taken progress for the term.  If there is still a tie, the program with the highest Tot_Cumulative is considered the
+priority program.  If there is still a tie a priority program is randomly selected.",Examples of valid values:  1;  blank
+ACAD_SUB_PLAN,Academic Sub Plan Code,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_SUBPLAN,A code representing a further specialization within an academic plan.,"Examples of valid values: EARLYCHILD =
+EarlyChild;  TERRES
+= Terrestria; ETHSTDS = EthStds"
+ACAD_SUB_PLAN,Academic Sub Plan Code nan,VARCHAR2,10,M_SRDW1,ACAD_DEGR_SPLN,A code representing a further specialization within an academic plan. nan,"Examples of valid values: EARLYCHILD =
+EarlyChild;  TERRES
+= Terrestria; ETHSTDS = EthStds"
+ACAD_SUB_PLAN_DESCR,Academic Sub Plan Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_SUBPLAN,A textual description of the code representing a further specialization within an academic plan.,"Examples of valid values:  Early Childhood Education; Terrestrial Ecosystem;  Ethnic
+Studies"
+ACAD_SUB_PLAN_DESCR,Academic Sub Plan Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR_SPLN,A textual description of the code representing a further specialization within an academic plan.,Examples of valid values:  Early Childhood Education; Terrestrial Ecosystem;  Ethnic Studies
+ACAD_SUBPLAN_TYPE,Academic Sub Plan Type Code,VARCHAR2,3,M_3WKDW1,THIRDWK_ACAD_SUBPLAN,A code representing how a further specialization within an academic plan may be pursued.,Examples of valid values:  MAJ = Major; SUB = Sub Field; MIN = Minor
+ACAD_SUBPLAN_TYPE_DESC R,Academic Sub Plan Type Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_SUBPLAN,"A textual description of the code representing how a further specialization
+within an academic plan may be pursued.",Examples of valid values:  Major;  Sub Field;  Minor
+ACAD_SUBPLAN_TYPE_DESC RSHORT,Academic Sub Plan Type Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_SUBPLAN,An abbreviated textual description of the code representing how a further specialization within an academic plan may be pursued.,Examples of valid values:  Major;  Sub Field;  Minor
+ACAD_YEAR,Academic Year,VARCHAR2,4,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_ACAD_PROG THIRDWK_ACAD_SUBPLAN THIRDWK_CLASS_TBL THIRDWK_PERSISTENCE_VW THIRDWK_PERSONAL_DATA THIRDWK_STDNT_CAR_TERM THIRDWK_STDNT_ENRL,"The school year; beginning with the Summer term and ending with the following Spring-Summer term. An academic year can span two calendar years. Every term has an associated academic year.  The date of the end of the academic year determines the code value of this element.  For example, ""2002"" represents the academic year beginning July 2001 and ending June
+2002.","Examples of valid values:  1998;  1999;
+2000"
+ACADEMIC_LOAD,Academic Load Code,VARCHAR2,1,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,A code representing a student's academic load based on units taken for the term and definition of full-time (12 units for undergrad in a full term).,Examples of valid values:  F = Full- Time;  H = Half-Time; N = No Units
+ACADEMIC_LOAD_DESCRSHO RT,Academic Load Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"An abbreviated textual description of the code representing a student's academic load based on units taken for the term
+and definition of full-time (12 units for undergrad in a full term).",Examples of valid values:  Full-Time; Half-Time;  No Units
+ADMIT_TERM,Admit Term Code,VARCHAR2,4,M_3WKDW1,THIRDWK_ACAD_PROG,"A code representing the term for which a student has been admitted to a particular program.  For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the
+reporting term, e.g., 1220, 1280.","Examples of valid values:  1070 = WN 1998;  1080 = SP
+1998;  1210 = FA
+1998"
+ADMIT_TERM_DESCR,Admit Term Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG,"A textual description of the code representing the term for which a student has been admitted to a particular program.  For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the
+reporting term, e.g., 1220, 1280.","Examples of valid values:  Winter 1998;
+Spring 1998;  Fall
+1998"
+AGE,Age,NUMBER,3,M_3WKDW1,THIRDWK_PERSONAL_DATA,A value representing the student's age as of September 1 of the calendar year of the respective term.,Examples of valid values:  19;  24;  32
+ASIAN_IND,Asian Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether a person has self-identified as having Asian ethnicity.
+*Data populated beginning term 1760.",Examples of valid values: 1 = Yes; 0 = No
+ATHL_PART_STAT_EFFDT,Athletic Participation Status Effective Date,DATE,,M_3WKDW1,THIRDWK_ATHL_PART_STAT,"The date on which the status of a person, with regard to their athletic participation in a National Collegiate Association (NCAA) sport at U of M, is effective.  This date changes to reflect the beginning or ending of their involvement in recruiting activities,
+official practice, etc.",Examples of valid values:  01/06/1999
+ATHL_PARTIC_CD,Athletic Participation Code,VARCHAR2,5,M_3WKDW1,THIRDWK_ATHL_PART_STAT,A code representing the level at which an applicant will be participating in a National Collegiate Athletic Association (NCAA) sport at U of M.,Examples of valid values:  T1 = Tendered;  T2 = Participnt
+ATHL_PARTIC_DESCR,Athletic Participation Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ATHL_PART_STAT,"A textual description of the code representing the level at which an applicant will be participating in a
+National Collegiate Athletic Association (NCAA) sport at U of M.",Examples of valid values:  Tendered with Scholarship; Team Participant
+ATHL_PARTIC_DESCRSHORT,Athletic Participation Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ATHL_PART_STAT,An abbreviated textual description of the code representing the level at which an applicant will be participating in a National Collegiate Athletic Association (NCAA) sport at U of M.,Examples of valid values:  Tendered; Participnt
+ATP_CD,ATP Code,VARCHAR2,6,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,"A code assigned by an external vendor to uniquely identify schools.  If the first character of the code is ""U"", the code has been assigned by the University in
+the absence of an official ATP code.","Examples of valid values:  052916;
+004015;  UM3319; U00478"
+ATTENDANCE_FROM_DT,Attendance From Date nan,DATE,,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,The date on which the person began their academic career at the prior school.,Examples of valid values:  09/06/1985 nan
+ATTENDANCE_TO_DT,Attendance To Date,DATE,,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,The date on which the person ended their academic career at the prior school.,Examples of valid values:  05/18/1995
+BILLING_CAREER,Billing Career Code,VARCHAR2,4,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,A code representing the academic career for which the student is being charged tuition.,"Examples of valid values:  ULSA = UG LS&A;  UENG =
+Ugrad Engr;  GRAC = Rackham"
+BIRTHDATE,Birth-Date,DATE,,M_3WKDW1,THIRDWK_PERSONAL_DATA,The self-reported birth-date of the person.,Examples of valid values:  01/01/1962
+BLACK_IND,Black Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether a person has self-identified as having Black ethnicity.
+*Data populated beginning term 1760.",Examples of valid values: 1 = Yes; 0 = No
+CAMPUS,Campus Code,VARCHAR2,5,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_CLASS_TBL THIRDWK_PERSISTENCE_VW,A code representing a specific U of M campus.,Examples of valid values:  A = Ann Arbor;  D = Dbn Campus ;  OC = Off Campus
+CAMPUS_DESCR,Campus Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_CLASS_TBL THIRDWK_PERSISTENCE_VW,A textual description of the code representing a specific U of M campus.,"Examples of valid values:  Ann Arbor Campus;  Dearborn
+Campus ;  Off Campus"
+CAMPUS_LOCATION,Campus Location Code,VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,A code representing the registration location.,"Examples of valid values:  AA CAMPUS
+= Ann Arbor;  BIO = BioStation;  EXT = Extension"
+CAMPUS_LOCATION_DESCR,Campus Location Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL,The name of the registration location.,"Examples of valid values:  Ann Arbor Campus;  Biological
+Station;  Extension"
+CAMPUS_LOCATION_DESCRS HORT,Campus Location Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,The abbreviated name of the registration location,Examples of valid values:  Ann Arbor; BioStation;  Extension
+CAREER_LEVEL,Career Level Code,VARCHAR2,1,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,A code representing the level of a student's career.,Examples of valid values:  U = Undergraduate;  G = Graduate;  P = Graduate- Professional;  A = Academic Outreach
+CAREER_LEVEL_DESCR,Career Level Description nan,VARCHAR2,21,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,A textual description of the code representing the level of a student's career. nan,"Examples of valid values: Undergraduate;
+Graduate;  Graduate- Professional; Academic Outreach"
+CAREER_LEVEL_SUBGROUP,Career Level Subgroup Code,VARCHAR2,2,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A code representing the level of a particular academic career, used specifically for reporting.  It designates Rackham graduate students separately from Non-Rackham graduate students.",Examples of valid values:  UG = Undergraduate;  RK = Rackham;  NR = Non- Rackham;  PG = Graduate Professional
+CAREER_LEVEL_SUBGROUP_ DESCR,Career Level Subgroup Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A textual description of the code representing the level of a particular academic career, used specifically for reporting.  It designates Rackham
+graduate students separately from Non- Rackham graduate students.","Examples of valid values: Undergraduate; Rackham;  Non-
+Rackham;  Graduate Professional"
+CATALOG_NBR,Catalog Number,VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,"A number which along with the subject uniquely identifies an instructional course at U of M.  For reporting purposes, all cross-listed courses are converted to their home catalog number.","Examples of valid values:  455;  500;
+803"
+CIP_ALTERNATIVE_CD,Classification Of Instructional Programs Alternative Code,VARCHAR2,13,M_3WKDW1,THIRDWK_CLASS_TBL,A code representing the state budget category code.,"Examples of valid values:  115 =
+EngLangLit;  140 =
+ConstrTrd;  160 = Medicine"
+CIP_ALTERNATIVE_DESCR,Classification Of Instructional Programs Alternative Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL,A textual description of the code representing the state budget category code.,"Examples of valid values:  English Language, Literature; Construction Trades; Medicine"
+CIP_ALTERNATIVE_DESCRSH ORT,"Classification Of Instructional Programs Alternative
+Short Description",VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,An abbreviated textual description of the code representing the state budget category code.,Examples of valid values:  EngLangLit; ConstrTrd;  Medicine
+CIP_CODE,Classification Of Instructional Programs Code,VARCHAR2,13,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_CLASS_TBL,A code representing the Classification of Instructional Programs. This code represents a classification of a specific academic field for use in governmental reporting.,"Examples of valid values:  52.0301 =
+Accounting;  14.0201
+=
+Aerospace,Aeronautic al and As;  05.0201 = African- American/Black Studies"
+CIP_DESCR,Classification Of Instructional Programs Description nan,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_CLASS_TBL,A textual description of the code representing the Classification of Instructional Programs. nan,"Examples of valid values:  Accounting; Aerospace, Aeronautical and As;
+African- American/Black Studies"
+CIP_DESCR254,Classification Of Instructional Programs Long Description,VARCHAR2,254,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_CLASS_TBL,A full textual description of the code representing the Classification of Instructional Programs.,"Examples of valid values:  Accounting; Aerospace, Aeronautical and Astronautical Engineering;  African- American/Black Studies"
+CITIZENSHIP_COUNTRY,Citizenship Country Code,VARCHAR2,3,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code representing the country of citizenship.,Examples of valid values:  USA = United States;  DEU = Germany;  DNK = Denmark
+CITIZENSHIP_COUNTRY_DES CR,Citizenship Country Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,A textual description of the code representing the country of citizenship.,Examples of valid values:  United States;  Germany; Denmark
+CITIZENSHIP_COUNTRY_DES CRSHORT,Citizenship Country Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,An abbreviated textual description of the code representing the country of citizenship.,Examples of valid values:  US; Germany;  Denmark
+CITIZENSHIP_STATUS,Citizenship Status Code,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code representing the person's current status relative to United States citizenship.  A blank value in this field indicates that the data was not available in HEPROD.,Examples of valid values:  1 = U.S. Citzn;  2 = Perm. Res.;  3 = Non Res.; 4 = Tax Treaty;  N = Not Indic.
+CITIZENSHIP_STATUS_DESCR SHORT,Citizenship Status Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,"An abbreviated textual description of the code representing the person's current status relative to United States citizenship. A blank value in this field indicates that the data was not available
+in HEPROD.",Examples of valid values:  U.S. Citzn; Perm. Res.;  Non Res.;  Tax Treaty; Not Indic.
+CLASS_ACAD_GROUP,Class Academic Group,VARCHAR2,5,M_3WKDW1,THIRDWK_CLASS_TBL,"A code representing a school or college which offers classes, including Division of Kinesiology and Officer Education Programs. For reporting purposes, all cross-listed courses are converted to their home academic group.",Examples of valid values:  DEN = Dental;  NUR = Nursing;  PH = Public Health
+CLASS_ACAD_GROUP_DESC R,Class Academic Group Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL,"A textual description of the code representing a school or college which offers classes, including Division of Kinesiology and Officer Education Programs. For reporting purposes, all
+cross-listed courses are converted to their home academic group.",Examples of valid values:  Dentistry; Nursing;  Public Health
+CLASS_ACAD_GROUP_DESC RSHORT,Class Academic Group Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,"An abbreviated textual description of the code representing a school or college which offers classes, including Division of Kinesiology and Officer Education Programs. For reporting purposes, all cross-listed courses are converted to their home academic group.",Examples of valid values:  Dent; Nursing;  PH
+CLASS_NBR,Class Number,NUMBER,5,M_3WKDW1,THIRDWK_CLASS_TBL THIRDWK_STDNT_ENRL,"A number which uniquely identifies a class section  within a term. This number prints on the schedule of classes and is the number entered for
+student enrollment requests.","Examples of valid values:  186;  10088;
+10569;  10757"
+CLASS_RANK_NBR,Class Rank Number,NUMBER,5,M_SRDW1,ACAD_DEGR ACAD_DEGR_PLAN,A number which indicates a student's position in their graduating class.,Examples of valid values:  8;  75;  440
+CLASS_RANK_TOT,Class Rank Total,NUMBER,5,M_SRDW1,ACAD_DEGR ACAD_DEGR_PLAN,The total number of graduating students in a career.,"Examples of valid values:  1,700;  13;
+44"
+CLASS_SECTION,Class Section Code,VARCHAR2,4,M_3WKDW1,THIRDWK_CLASS_TBL,"A number, assigned by the instructional department, which in conjunction with a course subject and catalog number uniquely identifies each section of every course.","Examples of valid values:  011;  019;
+052;"
+COMPLETION_TERM,Completion Term Code,VARCHAR2,4,M_SRDW1,ACAD_DEGR,A code representing the term in which a student completed or is expected to complete their degree.,"Examples of valid values:  1224 =
+Winter 1999 M4;
+1250 = Summer
+1999;  1260 = Fall
+1999"
+COMPLETION_TERM_DESCR,Completion Term Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR,A textual description of the code representing the term in which a student completed or is expected to complete their degree.,"Examples of valid values:  Winter 1999
+M4;  Summer 1999;
+Fall 1999"
+CRSE_DESCR,Course Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL,The name of a course that prints on a student transcript.,"Examples of valid values:  19-20TH Cent Drama;  1st Yr Macedonian;  2nd
+Year Korean"
+CRSE_ID,Course Identification Code,VARCHAR2,6,M_3WKDW1,THIRDWK_CLASS_TBL,A sequential number which uniquely identifies an instructional course at U of M.,"Examples of valid values:  001040;
+001630;  002131"
+CRSE_OFFER_NBR,Course Offering Number,NUMBER,2,M_3WKDW1,THIRDWK_CLASS_TBL,A number which identifies each offering of a course.  A course may have multiple offerings if the same course is offered by more than one department i.e: cross listing.,Examples of valid values:  1;  2;  3
+CUM_GPA,Cumulative Grade Point Average,NUMBER,8.3,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,A number representing the student's cumulative grade point average at the end of the term.,"Examples of valid values:  2.437;  3.860;
+3.940"
+CURR_ALT_IDENT,Current Alternate Identifier nan,VARCHAR2,9,M_3WKDW1,THIRDWK_PERS_ALTIDENT,The current Social Security Number (SSN) or Student Identification Number Office Assigned (SINOA) associated with an Emplid.,Examples of valid values:  123456789 nan
+DEGR_CONFER_DT,Degree Conferred Date,DATE,,M_SRDW1,ACAD_DEGR,The official date on which the degree or certificate was awarded.  This is the date that prints on the official transcript and the diploma.,Examples of valid values:  04/30/2000
+DEGR_STATUS_DATE,Degree Status Date,DATE,,M_SRDW1,ACAD_DEGR ACAD_DEGR_PLAN,The date that the most recent action was taken on a student's degree.,Examples of valid values:  11/26/2001
+DEGREE,Degree Code,VARCHAR2,8,M_SRDW1,ACAD_DEGR,A code representing degrees offered by U of M.,"Examples of valid values:  BMA = B.Mus.A;  BS = B.S.;
+DIP = Diploma"
+DEGREE_DESCR,Degree Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR,A textual description of the code representing the degrees offered by the U of M.,Examples of valid values:  Bachelor of Musical Arts; Bachelor of Science; Diploma
+DEPT_DESCRFORMAL,Department Formal Description,VARCHAR2,50,M_3WKDW1,THIRDWK_ACAD_PLAN_OWNER THIRDWK_CLASS_TBL,"A textual description used for formal purposes of the code that identifies each academic or administrative unit that has programmatic, operational and fiscal (including budgetary) responsibility. For reporting purposes, all cross-listed courses are converted to
+their home department .","Examples of valid values:  Physics Department;  College of Literature, Science and the Arts"
+DEPT_DESCRSHORT,Department Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN_OWNER THIRDWK_CLASS_TBL,"An abbreviated textual description of the code that identifies each academic or administrative unit that has programmatic, operational and fiscal (including budgetary)  responsibility. For reporting purposes, all cross-listed courses are converted to their home
+department .",Examples of valid values:  Physics De; L S & A;
+DEPTID,Department Identification Code,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN_OWNER THIRDWK_CLASS_TBL,"A code that identifies each academic or administrative unit that has programmatic, operational and fiscal (including budgetary) responsibility. For reporting purposes, all cross-listed courses are converted to their home department .","Examples of valid values:  184500 = Physics Department; 170000 = College of Lit, Science & Arts"
+DMSTC_MNRTY_CD,Domestic Minority Code nan,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether U.S. Citizens or U.S. Permanent Residents have self- identified as any of the following races/ethnicity (Hispanic; Native American; Black or African American; Native Hawaiian or Other Pacific Islander; Asian).  Note: Non-U.S.
+Citizens, Non-Resident Aliens, and persons with an unconfirmed residency status are excluded from this count and will have a null value.  Data for this element should never be released in a name linked fashion.  *Data populated beginning term 1760.","Examples of valid values: 1 = Minority; 0
+= Non-Minority; Null = International nan"
+DMSTC_MNRTY_DES,Domestic Minority Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A textual description of the code indicating whether U.S. Citizens or U.S. Permanent Residents have self- identified as any of the following races/ethnicity (Hispanic; Native American; Black or African American; Native Hawaiian or Other Pacific Islander; Asian).  Note: Non-U.S. Citizens, Non-Resident Aliens, and persons with an unconfirmed residency status are excluded from this count and will have a null value.  Data for this element should never be released in a name linked fashion.  *Data populated
+beginning term 1760.",Examples of valid values: Minority; Non- Minority; International
+DMSTC_UNDREP_MNRTY_CD,Domestic Underrepresented Minority (URM) Code,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether U.S. Citizens or U.S. Permanent Residents have self- identified as any of the following races/ethnicity (Hispanic; Native American; Black or African American; Native Hawaiian or Other Pacific Islander).  Note: Non-U.S. Citizens, Non-Resident Aliens, and persons with an unconfirmed residency status are excluded from this count and will have a null value.  Data for this element should never be released in a name linked fashion.  *Data populated beginning
+term 1760.",Examples of valid values: 1 = Underrepresented Minority; 0 = Non- Underrepresented Minority; Null = International
+DMSTC_UNDREP_MNRTY_DE S,Domestic Underrepresented Minority (URM) Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A textual description of the code indicating whether U.S. Citizens or U.S. Permanent Residents have self- identified as any of the following races/ethnicity (Hispanic; Native American; Black or African American; Native Hawaiian or Other Pacific Islander).  Note: Non-U.S. Citizens, Non-Resident Aliens, and persons with an unconfirmed residency status are excluded from this count and will have a
+null value.   Data for this element should never be released in a name linked fashion.  *Data populated beginning term 1760.",Examples of valid values: Underrepresented Minority; Non- Underrepresented Minority; International
+DW_DATA,Data Warehouse Data,VARCHAR2,50,M_3WKDW1,THIRDWKSTATUS,"The names of the data warehouse objects that were loaded.  These objects could be a data set, a group of tables, or an individual table.",Examples of valid values:  Third Week; Acad Degree Tables
+DW_OWNER,Data Warehouse Owner,VARCHAR2,8,M_3WKDW1,THIRDWKSTATUS,The owner (oracle schema) of the data warehouse objects that were loaded.,Examples of valid values:  m_3wkdw1; m_srdw1
+EMPLID,Employee Identification Code,VARCHAR2,11,M_3WKDW1,"THIRDWK_ACAD_PLAN THIRDWK_ACAD_PROG THIRDWK_ACAD_SUBPLAN THIRDWK_ATHL_PART_STAT THIRDWK_ETHNICITY_DTL THIRDWK_EXT_ACAD_DATA THIRDWK_EXT_DEGREE THIRDWK_PERS_ALTIDENT THIRDWK_PERSISTENCE_VW THIRDWK_PERSONAL_DATA THIRDWK_STDNT_CAR_TERM THIRDWK_STDNT_ENRL
+THIRDWK_STDNT_GRPS",A system assigned number to uniquely identify a person at U of M.  Commonly referred to as UMID.,Examples of valid values:  25582542
+EMPLID,Employee Identification Code,VARCHAR2,11,M_SRDW1,"ACAD_DEGR ACAD_DEGR_HONS
+ACAD_DEGR_PLAN ACAD_DEGR_SPLN",A system assigned number to uniquely identify a person at U of M.  Commonly referred to as UMID.,Examples of valid values:  25582542
+ETH_VALIDATED,Ethnicity Validated,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating whether the individual has self-identified using the federal data collection standards.  Data for this element should never be released in a name linked fashion.,Examples of valid values:  Y = Yes;  N = No
+ETHNC_UNKNWN_IND,Ethnicity Unknown Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating whether a person did not self-report their ethnicity.  *Data populated beginning term 1760.,Examples of valid values: 1 = Yes; 0 = No
+ETHNIC_GROUP,Ethnic Group Code,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code representing a person's single race/ethnicity reporting category as defined by the federal government's reporting requirements. Data for this element should never be released in a name linked fashion.,"Examples of valid values:  1 = White, Not of Hispanic Origin; 2 = Black/African- American; 3 =
+Hispanic/Latino; 4 = Asian; 5 = American Indian/Alaskan Native; 6 = Not Indicated; 7 = Native Hawaiian/Oth Pac Island; 8 = Non- Resident Alien; T =
+Two or More Races"
+ETHNIC_GROUP_DESCR,Ethnic Group Description nan,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,A textual description of the code representing a person's ethnic group as defined by the federal government's ethnic group reporting requirements. Data for this element should never be released in a name linked fashion.,"Examples of valid values:  White, Not of Hispanic Origin; Black/African- American; Hispanic/Latino; Asian; American Indian/Alaskan Native; Not Indicated; Native Hawaiian/Oth Pac Island; Non- Resident Alien; Two
+or More Races"
+ETHNIC_GROUP_DESCRSHOR T,Ethnic Group Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,An abbreviated textual description of the code representing a person's ethnic group as defined by the federal government's ethnic group reporting requirements. Data for this element should never be released in a name linked fashion.,Examples of valid values:  White; Black; Hispanic; Asian; Native Amr; Not Indic; Hawaiian; Non Res. 2 or More
+ETHNICITY_CODE,Ethnicity Code,VARCHAR2,8,M_3WKDW1,THIRDWK_ETHNICITY_DTL,"A code indicating the person's self- identified race/ethnicity.   A person may have zero, one, or many such codes. The combination of codes is used to derive the person's ethnic group as defined by the federal government's ethnic group reporting requirements.
+Data for this element should never be released in a name linked fashion.","Examples of valid values:  AMIND = American Indian/Alaskan Native; ASIAN = Asian; BLACK = Black/African- American; HISPA = Hispanic/Latino; NOINDIC = Not
+Indicated; PACIF = Native Hawaiian/Oth Pac Island; WHITE = White, Not of Hispanic Origin"
+ETHNICITY_DESCR50,Ethnicity Description,VARCHAR2,50,M_3WKDW1,THIRDWK_ETHNICITY_DTL,A textual description of the code indicating the person's self-identified race/ethnicity using the federal data collection standards.  Data for this element should never be released in a name linked fashion.,"Examples of valid values:  American Indian/Alaskan Native; Asian; Black/African American; Hispanic/Latino; Not Indicated; Native Hawaiian/Other Pacific Islander; White, Not of Hispanic Origin"
+ETHNICITY_DESCRSHORT,Ethnicity Short Description nan,VARCHAR2,10,M_3WKDW1,THIRDWK_ETHNICITY_DTL,An abbreviated textual description of the code indicating the person's self- identified race/ethnicity using the federal data collection standards.  Data for this element should never be released in a name linked fashion.,Examples of valid values:  Native Amr; Asian; Black; Hispanic; Not Indic; Hawaiian; White
+ETHNICITY_DTL_LAST_UPDT_ DT,Ethnicity Detail Last Update Date,DATE,,M_3WKDW1,THIRDWK_ETHNICITY_DTL,The date on which the ethnicity detail was last updated.,Examples of valid values: 9/5/2009; 8/6/2009; 5/1/2010
+ETHNICITY_DTL_LAST_UPDT_ OPRID,Ethnicity Detail Last Update Operator Identification,VARCHAR2,30,M_3WKDW1,THIRDWK_ETHNICITY_DTL,"The last user id (batch, M-Pathways operational user, or EmplID of individuals who self-identified) to modify the record or table for a given EmplID.","Examples of valid values: BDLENZ; JSZYMANK; STRISTE;
+SABATCH1"
+EXT_CAREER,External Career Code,VARCHAR2,4,M_3WKDW1,THIRDWK_EXT_ACAD_DATA THIRDWK_EXT_DEGREE,A code representing the level of study at an external organization.,Examples of valid values:  HS = High Schl;  MAST = Masters;  PDOC = Post Doc
+EXT_CAREER_DESCRSHORT,External Career Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,An abbreviated textual description of the code representing the level of study at an external organization.,Examples of valid values:  High Schl; Masters;  Post Doc
+EXT_DATA_NBR,External Data Number,NUMBER,3,M_3WKDW1,THIRDWK_EXT_ACAD_DATA THIRDWK_EXT_DEGREE,"A number, assigned sequentially, to assist with distinguishing between multiple occurrences of similar data (most frequently the external career) for the same external organization.    NOTE 1: The counter is used WITHIN an external organization, not across external organizations for the same
+person.  NOTE 2: Do not confuse this with EXT_DEGREE_NBR.",Examples of valid values:  1;  2
+EXT_DEGREE,External Degree Code,VARCHAR2,8,M_3WKDW1,THIRDWK_EXT_DEGREE,"A code representing the degree or certificate which was awarded to an individual at a prior institution of learning which is deemed relevant to the student's pursuit of another degree.
+This code is not required.  If the code is supplied, the description of the degree will be found in EXT_DEGREE_DESCR. If the code is NOT supplied, the description is required (as a free form entry).",Examples of valid values:  MPH = Master of Public Health;  NUC = Nuclear Engineer; TCR = Teaching Certification
+EXT_DEGREE_DESCR,External Degree Description nan,VARCHAR2,30,M_3WKDW1,THIRDWK_EXT_DEGREE,"A textual description of the code representing the degree or certificate which was awarded to an individual at a prior institution of learning which is deemed relevant to the student's pursuit of another degree.  This code is not required.  If the code is supplied, the description of the degree will be found in EXT_DEGREE_DESCR.  If the code is
+NOT supplied, the description is required (as a free form entry).",Examples of valid values:  Master of Public Health; Nuclear Engineer; Teaching Certification nan
+EXT_DEGREE_DT,External Degree Date,DATE,,M_3WKDW1,THIRDWK_EXT_DEGREE,The date on which the degree or certificate was awarded to an individual at an external organization.,Examples of valid values:  05/13/1989
+EXT_DEGREE_NBR,External Degree Number,NUMBER,3,M_3WKDW1,THIRDWK_EXT_DEGREE,The number assigned to sequentially identify one or more degrees from the same external organization.,Examples of valid values:  1;  2;  3
+EXT_ORG_CITY,External Organization City,VARCHAR2,30,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,The name of the address city for the external organization.,Examples of valid values:  Ann Arbor
+EXT_ORG_COUNTRY,External Organization Country Code,VARCHAR2,3,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,A code representing the address country for the external organization.,"Examples of valid values:  TWN = Taiwan, Republic of China;  USA = United States;  VEN = Venezuela"
+EXT_ORG_COUNTRY_DESCR,External Organization Country Description,VARCHAR2,30,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,The name of the address country for the external organization.,"Examples of valid values:  Taiwan, Republic of China; United States; Venezuela;"
+EXT_ORG_COUNTY,External Organization County,VARCHAR2,30,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,The name of the county associated with the address of the external organization. This field may contain county names from both Michigan and other states or it may be blank.,Examples of valid values:  Washtenaw
+EXT_ORG_DESCR,External Organization Description,VARCHAR2,30,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,The name of the external organization.,Examples of valid values:  Wayne State Univ;  Western Mich Univ
+EXT_ORG_ID,External Organization Identification Code,VARCHAR2,11,M_3WKDW1,THIRDWK_EXT_ACAD_DATA THIRDWK_EXT_DEGREE,"The identification number assigned to uniquely identify an external organization associated with U of M through business (including student)
+processes such as third party billing, sponsoring, admissions, etc.",Examples of valid values:  000006325 = Wayne State Univ; 000006328 = Western Mich Univ
+EXT_ORG_POSTAL,External Organization Postal Code,VARCHAR2,12,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,A code representing the postal or zip code of the address of the external organization.,"Examples of valid values:  48104-2316;
+481042316"
+EXT_ORG_STATE,External Organization State Code,VARCHAR2,6,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,"A code representing the address state of the external organization. This field will accommodate US states as well as states, territories or provinces that have been identified for other countries (e.g., Canada).","Examples of valid values:  MI = Michigan (when country is USA);  ON
+= Ontario (when country is Canada)"
+EXT_ORG_STATE_DESCR,External Organization State Description nan,VARCHAR2,30,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,"The name of the address state of the external organization. This field will accommodate US states as well as states, territories or provinces that have been identified for other countries (e.g., Canada).",Examples of valid values:  Michigan; Ontario nan
+EXTRACT_DT,Extract Date,DATE,,M_3WKDW1,THIRDWKSTATUS,The date and time at which the data was extracted from the source system.,Examples of valid values:  07/22/2000
+FA_PRIMACY_NBR,Financial Aid Primacy Number,NUMBER,3,M_3WKDW1,THIRDWK_ACAD_PROG,A number representing a ranking of academic programs for determining the primary program for financial aid purposes.,Examples of valid values:  0;  35;  70
+FERPA,Family Education Rights and Privacy Act Code,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating if an individual has invoked their Family Education Rights and Privacy Act (FERPA) option to restrict the release of public information from their records.  FERPA does not
+become effective until the individual is a student.",Examples of valid values:  Y = Yes;  N = No
+FIRST_TERM,First Term Code,VARCHAR2,4,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code representing the first term a student attended U of M.  For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the
+reporting term, e.g., 1220, 1280.","Examples of valid values:  1220 =
+Winter 1999;  1280 =
+Spring 2000"
+FIRST_TERM_DESCR,First Term Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A textual description of the code representing the first term a student attended U of M. For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the
+reporting term, e.g., 1220, 1280.","Examples of valid values:  Winter 1999;
+Spring 2000"
+FIRST_YEAR_FIRST_TERM,First Year First Term,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating that a specific term and year is the first time an individual student attended U of M.,Examples of valid values:  Y = Yes;  N = No
+GEOLOC_COUNTRY,Geographical Location Country Code,VARCHAR2,3,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code identifying the country where a person resides at the time of applying.,"Examples of valid values:  CAF = Central African Republic;  NLD =
+Netherlands;  UKR = Ukraine"
+GEOLOC_COUNTRY_DESCR,Geographical Location Country Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,The name of the country where a person resides at the time of applying.,Examples of valid values:  Central African Republic; Netherlands;  Ukraine
+GEOLOC_MICOUNTY,Geographical Location Michigan County Code,VARCHAR2,3,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code representing the county in Michigan where a person resides at the time of applying.  If the applicant is not from Michigan, there will be no county data.",Examples of valid values:  CHB = Cheboygan;  GTR = Grand Traverse; WAS = Washtenaw
+GEOLOC_MICOUNTY_DESCR,Geographical Location Michigan County Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"The name of the county in Michigan where a person resides at the time of applying.  If the applicant is not from Michigan, there will be no county data.",Examples of valid values:  Cheboygan; Grand Traverse; Washtenaw
+GEOLOC_STATE,Geographical Location State Code,VARCHAR2,6,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code representing the state within the United States where a person resides at the time of applying. If the applicant is not from the United States, there will be no state data.",Examples of valid values:  OH = Ohio; CA = California;  MI = Michigan
+GEOLOC_STATE_DESCR,Geographical Location State Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"The name of the state within the United States where a person resides at the time of applying.  If the applicant is not from the United States, there will be no
+state data.",Examples of valid values:  Ohio; California;  Michigan
+GPA_DEGREE,Degree Grade Point Average,NUMBER,9.3,M_SRDW1,ACAD_DEGR,A number representing the Grade Point Average earned for a degree upon graduation.,"Examples of valid values:  0.00;  2.50;
+3.52"
+GPA_PLAN,Plan Grade Point Average,NUMBER,9.3,M_SRDW1,ACAD_DEGR_PLAN,A number representing the Grade Point Average earned for a student's plan upon graduation.,"Examples of valid values:  0.00;  3.00;
+4.00"
+HEGIS_CODE,Higher Education General Information Survey Code,VARCHAR2,8,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_CLASS_TBL,A code representing the Higher Education General Information Survey. Also known as Integrated Post- Secondary Education Data System (IPEDS).,"Examples of valid values:  11.00 = Foreign Lang Unclassifd;  19.99 = Other, Physical Sciences;  22.02 =
+Anthropology"
+HEGIS_DESCR,Higher Education General Information Survey Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_CLASS_TBL,A textual description of the code representing the Higher Education General Information Survey.  Also known as Integrated Post-Secondary Education Data System (IPEDS).,"Examples of valid values:  Foreign Lang Unclassifd;  Other, Physical Sciences; Anthropology"
+HEGIS_DESCR60,Higher Education General Information Survey Long Description,VARCHAR2,60,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_CLASS_TBL,"A full textual description of the code representing the Higher Education General Information Survey.  Also known as Integrated Post-Secondary
+Education Data System (IPEDS).","Examples of valid values:  Foreign Lang Unclassifd;  Other, Physical Sciences;
+Anthropology"
+HISP_LATINO,Hispanic or Latino,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating whether the respondent has self-identified as Hispanic or Latino using the federal data collection standards.  Respondents who have self-identified as Hispanic or  Latino will be categorized as such even if they identify other races or ethnicities within which they belong.  Data for this element should never be released in a name linked fashion.,Examples of valid values:  Y = Yes;  N = No
+HONORS_CODE,Honors Code,VARCHAR2,3,M_SRDW1,ACAD_DEGR_HONS,A code representing the level of academic excellence achieved by a student for their degree work.,"Examples of valid values:  CUM = Cum Laude;  MAG = Magna Cum Laude;
+WHS = With Highest Honors"
+HONORS_DESCR,Honors Description,VARCHAR2,30,M_SRDW1,ACAD_DEGR_HONS,A textual description of the code representing the level of excellence achieved by a student for their degree work.,"Examples of valid values:  Cum Laude, Magna Cum Laude; With Highest Honors"
+HONORS_NBR,Honors Number,NUMBER,1,M_SRDW1,ACAD_DEGR_HONS,A numeric value to uniquely identify honors if student has more than one.,Examples of valid values:  1;  2;  3
+HSPNC_IND,Hispanic Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether a person has self-identified as having Hispanic ethnicity.  *Data populated beginning
+term 1760.",Examples of valid values: 1 = Yes; 0 = No
+HWIAN_IND,Hawaiian Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating whether a person has self-identified as having Hawaiian ethnicity.  *Data populated beginning term 1760.,Examples of valid values: 1 = Yes; 0 = No
+INSTRUCTION_MODE,Instruction Mode Code,VARCHAR2,2,M_3WKDW1,THIRDWK_CLASS_TBL,A code representing the instruction delivery method for a course.,Examples of valid values: P = In Person
+INSTRUCTION_MODE_DESCR SHORT,Instruction Mode Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,An abbreviated textual description of the code representing the instruction delivery method for a course.,Examples of valid values: In Person
+JOINT_PROG_APPR,Joint Program Approval Code,VARCHAR2,1,M_3WKDW1,THIRDWK_ACAD_PROG,A code indicating whether an individual has been approved to enroll/pursue a joint program.,Examples of valid values:  Y = Yes;  N = No
+LOAD_DT,Load Date,DATE,,M_3WKDW1,THIRDWKSTATUS,"The date and time at which the data was loaded into the data warehouse. This data may have been loaded into a single table, a group of tables or an entire data set, as designated by the information provided in the field DW_DATA.",Examples of valid values:  08/04/2000
+LOCAL_POSTAL,Local Postal Code,VARCHAR2,12,M_3WKDW1,THIRDWK_PERSONAL_DATA,"The postal code of a student's current address.  This will accommodate the 5 and 9 digit US zip code as well as
+international postal codes.","Examples of valid values:  48104-2316;
+75254;  234 E65"
+MULTI_ETHNIC,Multi-Ethnic Code,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating whether a person has self-identified as more than one race/ethnicity.  Data for this element should never be released in a name linked fashion.,Examples of valid values:  Y = Yes;  N = No
+NAME,Name,VARCHAR2,50,M_3WKDW1,THIRDWK_PERSONAL_DATA,"The name by which person is known. In the THIRDWK_PERSONAL_DATA
+table this is a person's preferred name if available; otherwise, this is a person's primary name.  Person name format is Last, First Middle.","Examples of valid values:  de la Garza, Barbara Marie;  Smith Jr, Joseph L; Washington, Bill Boyd"
+NTV_AMRCN_IND,Native American Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code indicating whether a person has self-identified as having Native American ethnicity.  *Data populated beginning term 1760.,Examples of valid values: 1 = Yes; 0 = No
+PERMANENT_POSTAL,Permanent Postal Code,VARCHAR2,12,M_3WKDW1,THIRDWK_PERSONAL_DATA,The postal code of a student's permanent address.  This will accommodate the 5 and 9 digit US zip code as well as international postal codes.,"Examples of valid values:  48104-2316;
+75254;  234 E65"
+PLAN_SEQUENCE,Plan Sequence Number,NUMBER,2,M_SRDW1,ACAD_DEGR_PLAN,A numeric value to uniquely distinguish among multiple plans within a program for a student.,Examples of valid values:  0;  1;  10
+PREV_ALT_IDENT,Previous Alternate Identifier,VARCHAR2,9,M_3WKDW1,THIRDWK_PERS_ALTIDENT,"The Student Identification Number Office Assigned (SINOA) associated with an Emplid.  If the Curr_Alt_Ident associated with an Emplid is Social Security Number (that is if an SSN exists), the Prev_Alt_Ident can contain a
+SINOA.  If the Curr_Alt_Ident contains a SINOA, the Prev_Alt_Ident will be blank.",Examples of valid values:  123456789
+PREVIOUS_TERM,Previous Term Code,VARCHAR2,4,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating the last term in which a student was enrolled at U of M prior to the current term. For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the
+reporting term, e.g., 1220, 1280.","Examples of valid values:  1220 =
+Winter 1999;  1280 =
+Spring 2000"
+PREVIOUS_TERM_DESCR,Previous Term Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A textual description of the code indicating the last term in which a student was enrolled at U of M prior to the current term. For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the
+reporting term, e.g., 1220, 1280.","Examples of valid values:  Winter 1999;
+Spring 2000"
+PRIMARY_NAME,Primary Name,VARCHAR2,50,M_3WKDW1,THIRDWK_PERSONAL_DATA,"The name by which a person is known. This is a person's primary name which is generally used for legal purposes.
+Person name format is Last, First Middle","Examples of valid values:  de la Garza, Barbara Marie; Smith Jr, Joseph L; Washington, William
+Boyd"
+PROG_ACAD_LEVEL_GROUP,Program Academic Level Group Code nan,VARCHAR2,3,M_3WKDW1,THIRDWK_ACAD_PROG,"A code, similar to ACAD_LEVEL_GROUP (but for all active programs, not just the THIRDWK_STUDENT_CAR_TERM
+primary program), used to group academic levels into categories used specifically for reporting, based on the student's Acad_Level_BOT (for the same Acad Career and Term) if it is less than 20, otherwise based on the highest possible academic level for the  program. Differs from ACAD_LEVEL_GROUP in that graduate
+and professional non-degree programs are identified as non-degree.   This field contains blanks prior to Winter 2010.","Examples of valid values:  ND = Undergrad Non- Degree;  FR = Freshman;  SO = Sophomore;  JR = Junior;  SR = Senior; GN = Grad Non- Degree;  MA = Masters;  DR = Doctorate;  PN = Grad Prof Non-
+Degree;  GP = Grad Professional nan"
+PROG_ACAD_LEVEL_GROUP_ DESCR,Program Academic Level Group Description,VARCHAR2,20,M_3WKDW1,THIRDWK_ACAD_PROG,"A textual description of the code, similar to ACAD_LEVEL_GROUP (but for all active programs, not just the THIRDWK_STUDENT_CAR_TERM
+primary program), used to group academic levels into categories used specifically for reporting, based on the student's Acad_Level_BOT (for the same Acad Career and Term) if it is less than 20, otherwise based on the highest possible academic level for the  program. Differs from ACAD_LEVEL_GROUP in that graduate and professional non-degree programs are identified as non-degree.    This field
+contains blanks prior to Winter 2010.",Examples of valid values:  Undergrad Non-Degree; Freshman; Sophomore;  Junior; Senior;  Grad Non- Degree;  Masters; Doctorate;  Grad Prof Non-Degree;  Grad Professional
+RACK_DIVSN_CD,Rackham Division Code,VARCHAR2,1,M_3WKDW1,THIRDWK_ACAD_PLAN,"A code representing a general, categorical grouping of Rackham field of study programs.","Examples of valid values:  1 = Bio Health;  2 = Sci
+Engin;  3 = Social Sci"
+RACK_DIVSN_DESCR,Rackham Division Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PLAN,"A textual description of the code representing a general, categorical grouping of Rackham field of study programs.",Examples of valid values:  Biological and Health Sciences; Phys Sciences and Engineering;  Social Sciences
+RACK_DIVSN_DESCRSHORT,Rackham Division Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN,"An abbreviated textual description of the code representing a general, categorical grouping of Rackham field of study programs.",Examples of valid values:  Bio Health; Sci Engin;  Social Sci
+RESIDENCY,Residency Code,VARCHAR2,5,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code representing a person's residency for fee assessment purposes as defined by University policy.
+Residency is also used to calculate a student's financial aid budget or estimated cost of attendance for a given term.",Examples of valid values:  IS = In State; OS = Out State
+RESIDENCY_DESCR,Residency Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A textual description of the code representing a person's residency for fee assessment purposes as defined by University policy.  Residency is also used to calculate a student's financial aid budget or estimated cost of
+attendance for a given term.",Examples of valid values:  In State;  Out State
+RESIDENCY_DESCRSHORT,Residency Short Description nan,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,An abbreviated textual description of the code representing a person's residency for fee assessment purposes as defined by University policy.  Residency is also used to calculate a student's financial aid budget or estimated cost of attendance for a given term.,Examples of valid values:  In State;  Out State nan
+RPTING_CRSE_LEVEL,Reporting Course Level Code,VARCHAR2,2,M_3WKDW1,THIRDWK_CLASS_TBL,A code used specifically for reporting that indicates the level for which a course was offered.,"Examples of valid values:  10 =
+LOWER;  20 =
+UPPER;  30 =
+MASTERS;  40 =
+DOCTORAL;  50 = GRAD-PROF"
+RPTING_CRSE_LEVEL_DESCR,Reporting Course Level Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL,A textual description of the code used specifically for reporting that indicates the level for which a course was offered.,Examples of valid values:  LOWER; UPPER;  MASTERS; DOCTORAL;  GRAD- PROF
+RPTING_ENTRY_TYPE,Reporting Entry Type Code,VARCHAR2,3,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A code, used for reporting, representing a student's entry status in a specific academic career for a specific term.","Examples of valid values:  2 = Cross Campus Transfer;  3
+= Readmit"
+RPTING_ENTRY_TYPE_DESC R,Reporting Entry Type Description,VARCHAR2,30,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"A textual description of the code, used for reporting, representing a student's
+entry status in a specific academic career for a specific term.","Examples of valid values:  Cross
+Campus Transfer; Readmit"
+RPTING_ENTRY_TYPE_DESC RSHORT,Reporting Entry Type Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,"An abbreviated textual description of the code, used for reporting, representing a student's entry status in a specific academic career for a specific term.",Examples of valid values:  CC;  Readmit
+RPTING_RESIDENCY,Reporting Residency Code,VARCHAR2,5,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code, used for reporting purposes, representing the residency status of a student for a specific term.  Out State students will have a reporting residency of In State if they have an academic program of Bus Ad Evening, IC Traveling Scholars or they have a class location of Center Grad Study, Camp Davis Biological Station or they have an
+academic level of Grad Candidate.",Examples of valid values:  IS = In State; OS = Out State
+RPTING_RESIDENCY_DESCR,Reporting Residency Description,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A textual description of the code, used for reporting purposes, representing the residency status of a student for a specific term.  Out State students will have a reporting residency of In State if they have an academic program of Bus Ad Evening, IC Traveling Scholars or they have a class location of Center Grad Study, Camp Davis Biological
+Station or they have an academic level of Grad Candidate.",Examples of valid values:  In State;  Out State
+RPTING_RESIDENCY_DESCR SHORT,Reporting Residency Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,"An abbreviated textual description of the code, used for reporting purposes, representing the residency status of a student for a specific term.  Out State students will have a reporting residency of In State if they have an academic program of Bus Ad Evening, IC Traveling Scholars or they have a class location of Center Grad Study, Camp Davis Biological Station or they have an
+academic level of Grad Candidate.",Examples of valid values:  In State;  Out State
+RPTING_TERM,Reporting Term Code,VARCHAR2,4,M_3WKDW1,"THIRDWK_ACAD_PLAN THIRDWK_ACAD_PLAN_OWNER THIRDWK_ACAD_PROG THIRDWK_ACAD_SUBPLAN THIRDWK_ATHL_PART_STAT THIRDWK_CLASS_TBL THIRDWK_ETHNICITY_DTL THIRDWK_EXT_ACAD_DATA THIRDWK_EXT_DEGREE THIRDWK_PERS_ALTIDENT THIRDWK_PERSISTENCE_VW THIRDWK_PERSONAL_DATA THIRDWK_STDNT_CAR_TERM THIRDWK_STDNT_ENRL
+THIRDWK_STDNT_GRPS","A code representing the administrative time period within which students are billed and statistics are accumulated. For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled into the reporting term, e.g., 1220, 1280.","Examples of valid values:  1220 =
+Winter 1999;  1280 =
+Spring 2000"
+RPTING_TERM_DESCR,Reporting Term Description,VARCHAR2,30,M_3WKDW1,"THIRDWK_ACAD_PLAN THIRDWK_ACAD_PROG THIRDWK_ACAD_SUBPLAN THIRDWK_CLASS_TBL THIRDWK_PERSISTENCE_VW THIRDWK_PERSONAL_DATA THIRDWK_STDNT_CAR_TERM
+THIRDWK_STDNT_ENRL","A textual description of the code representing the administrative time period within which students are billed and statistics are accumulated.  For reporting purposes, Medical School terms, e.g., 1221, 1222, 1283, 1284 are rolled to the reporting term, e.g., 1220,
+1280.","Examples of valid values:  Winter 1999;
+Spring 2000"
+SCHOOL_TYPE,School Type Code,VARCHAR2,3,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,A code representing a category in which external schools are classified.,Examples of valid values:  AFL = Affiliate;  COL = College;  CLC = Clsd Comm
+SCHOOL_TYPE_DESCRSHOR T,School Type Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_EXT_ACAD_DATA,An abbreviated textual description of the code representing a category in which external schools are classified.,Examples of valid values:  Affiliate; College;  Clsd Comm
+SESSION_CODE,Session Code,VARCHAR2,3,M_3WKDW1,THIRDWK_CLASS_TBL,A code representing a class scheduling/enrollment time period within a term.,"Examples of valid values:  00A = M2 Seq 1;  00B = M2 Seq 2;  092 = Pd3 Wk2;
+391 = Pd10.5 Wk1;
+410 = Pd11 Wk0"
+SEX,Sex Code,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code representing the gender of a person.,"Examples of valid values:  M = Male;  F
+= Female;  U = Unknown"
+SEX_DESCRSHORT,Sex Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,An abbreviated textual description of the code representing the gender of a person.,Examples of valid values:  Male; Female;  Unknown
+SPORT,Sport Code,VARCHAR2,3,M_3WKDW1,THIRDWK_ATHL_PART_STAT,"A code indicating which sport an individual  anticipates or is participating in as a National Collegiate Athletic
+Association (NCAA) athlete.","Examples of valid values:  70 =
+Wgymnast;  24 = Mgymnast"
+SPORT_DESCRSHORT,Sport Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ATHL_PART_STAT,An abbreviated textual description of the code indicating which sport an individual anticipates or is participating in as a National Collegiate Athletic Association (NCAA) athlete.,Examples of valid values:  Wgymnast; Mgymnast
+STDNT_ACAD_GROUP,Student Academic Group,VARCHAR2,5,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A code representing a school or college including Division of Kinesiology, which enrolls students.  As of fall term 2001, for reporting purposes, Residential College remains a separate student academic group, rather than being
+included in LSA.",Examples of valid values:  DEN = Dental;  NUR = Nursing;  PH = Public Health
+STDNT_ACAD_GROUP_DESC R,Student Academic Group Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"A textual description of the code representing a school or college including Division of Kinesiology, which enrolls students. As of fall term 2001, for reporting purposes, Residential College remains a separate student academic group, rather than being included in LSA.",Examples of valid values:  Dentistry; Nursing;  Public Health
+STDNT_ACAD_GROUP_DESC RSHORT,Student Academic Group Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PROG THIRDWK_PERSISTENCE_VW,"An abbreviated textual description of the code representing a school or college including Division of Kinesiology, which enrolls students. As of fall term 2001, for reporting purposes, Residential College remains a separate student
+academic group, rather than being included in LSA.",Examples of valid values:  Dent; Nursing;  PH
+STDNT_CAR_NBR,Student Career Number,NUMBER,3,M_3WKDW1,THIRDWK_ACAD_PLAN THIRDWK_ACAD_PROG THIRDWK_ACAD_SUBPLAN,A code uniquely identifying a student's program(s) within the same career.,Examples of valid values:  0;  1;  2
+STDNT_CAR_NBR,Student Career Number,NUMBER,3,M_SRDW1,ACAD_DEGR_PLAN,A code uniquely identifying a student's program(s) within the same career.,Examples of valid values:  0;  1;  2
+STDNT_DEGR,Student Degree Number,VARCHAR2,2,M_SRDW1,ACAD_DEGR ACAD_DEGR_HONS ACAD_DEGR_PLAN ACAD_DEGR_SPLN,A sequentially assigned number to uniquely identify every degree a student has earned at U of M.,Examples of valid values:  01;  02;  03
+STDNT_GROUP,Student Group Code,VARCHAR2,4,M_3WKDW1,THIRDWK_STDNT_GRPS,A code representing a particular grouping of students for an administrative or financial purpose.,Examples of valid values:  UCSP = Comp Studies Program;  SWAS = Advanced Standing; SWED = Track Extended Degree
+STDNT_GROUP_DESCR,Student Group Description,VARCHAR2,30,M_3WKDW1,THIRDWK_STDNT_GRPS,A textual description of the code representing a particular grouping of students for an administrative or financial purpose.,"Examples of valid values:  Comp Studies Program; Advanced Standing; Track Extended
+Degree"
+STDNT_GROUP_DESCRSHOR T,Student Group Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_STDNT_GRPS,An abbreviated textual description of the code representing a particular grouping of students for an administrative or financial purpose.,Examples of valid values:  CSP; SWAS;  SWED
+STDNT_GRPS_EFF_STATUS,Student Groups Effective Status Code,VARCHAR2,1,M_3WKDW1,THIRDWK_STDNT_GRPS,A code representing the current status of the student group.,"Examples of valid values:  A = Active;  I
+= Inactive"
+STDNT_GRPS_EFFDT,Student Groups Effective Date,DATE,,M_3WKDW1,THIRDWK_STDNT_GRPS,The date from which the student group is considered in effect.,Examples of valid values:  10/26/1999
+STDNT_TOT_ACAD_LOAD,Student Total Academic Load Code,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code representing a student's full or part time status.,Examples of valid values:  F = Full- Time;  P = Part-Time
+STDNT_TOT_ACAD_LOAD_DE SCR,Student Total Academic Load Description,VARCHAR2,10,M_3WKDW1,THIRDWK_PERSONAL_DATA,A textual description of the code representing a student's full or part time status.,Examples of valid values:  Full-Time; Part-Time
+STDNT_TOT_UNITS,Student Total Units,NUMBER,5.2,M_3WKDW1,THIRDWK_PERSONAL_DATA,The sum of all elected hours for a student in a specific  term.,"Examples of valid values:  12.00;  8.00;
+4.00"
+STUDY_FIELD,Study Field Code,VARCHAR2,10,M_3WKDW1,THIRDWK_ACAD_PLAN,A code representing the area of study of an academic plan.,"Examples of valid values:  0300 =
+Anthro;  0320 =
+APTIS;  0460 =
+Astron & A"
+STUDY_FIELD_DESCR,Study Field Description,VARCHAR2,30,M_3WKDW1,THIRDWK_ACAD_PLAN,A textual description of the code representing the area of study of an academic plan.,"Examples of valid values:  Anthropology; Arab, Pers, Turk & Islami;  Astronomy & Astrophysics"
+STUDY_FIELD_DESCRFORMA L,Study Field Formal Description,VARCHAR2,50,M_3WKDW1,THIRDWK_ACAD_PLAN,"A textual description used for formal purposes, of the code representing the area of study of an academic plan.","Examples of valid values:  Anthropology; Arabic, Persian, Turkish and Islamic Studies;  Astronomy
+and Astrophysics"
+SUB_PLAN_SEQUENCE,Sub Plan Sequence Number,NUMBER,2,M_SRDW1,ACAD_DEGR_SPLN,A numeric value to uniquely distinguish between many sub plans for a student.,Examples of valid values:  10;  20;  30
+SUBJECT,Subject Code,VARCHAR2,8,M_3WKDW1,THIRDWK_CLASS_TBL,"A code representing an aggregate of courses by instructional area, under which a particular course is offered at U of M.  For reporting purposes, all cross- listed courses are converted to their home subject.",Examples of valid values:  ENGR = Engineering;  HUM = Humanities;  PATH = Pathology
+SUBJECT_DESCR,Subject Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL,"A textual description of the code representing an aggregate of courses by instructional area, under which a particular course is offered at the U of
+M.",Examples of valid values:  Engineering; Humanities; Pathology
+SUBJECT_DESCRSHORT,Subject Short Description,VARCHAR2,10,M_3WKDW1,THIRDWK_CLASS_TBL,"An abbreviated textual description of code representing an aggregate of courses by instructional area, under which a particular course is offered at the U of M.",Examples of valid values:  Engr;  Hum; Path
+TERM,Term Code,VARCHAR2,4,M_3WKDW1,THIRDWK_CLASS_TBL THIRDWK_STDNT_CAR_TERM THIRDWK_STDNT_ENRL,A code representing the administrative time period within which students are billed and statistics are accumulated.,"Examples of valid values:  1070 = WN 1998;  1080 = SP
+1998;  1210 = FA
+1998"
+TERM_DESCR,Term Description,VARCHAR2,30,M_3WKDW1,THIRDWK_CLASS_TBL THIRDWK_STDNT_CAR_TERM THIRDWK_STDNT_ENRL,"A textual description of the code representing the administrative time period within which students are billed and statistics are accumulated. Note: Describes the element ""Term"" not the element ""Term_Code"".","Examples of valid values:  Winter 1998;
+Spring 1998;  Fall
+1998"
+TIME_FROM_CAND_TO_DGR_ DY_CNT,Time From Candidacy to Degree Days Count,NUMBER,6,M_SRDW1,ACAD_DEGR_PLAN,"The number of days from the first date of the term in which the student is eligible to register as a candidate in their doctoral program to the date Rackham verifies all requirements have been met for that earned Rackham doctoral degree. Deductions of time are made for time attributed to approved leave of absence as well as time from discontinued status to reinstatement during Candidacy to the date verified for
+all met requirements.","Examples of Valid Values: 729; 1267;
+2343"
+TIME_TO_CAND_DY_CNT,Time To Candidacy Days Count nan,NUMBER,6,M_SRDW1,ACAD_DEGR_PLAN,"For a graduate student who was advanced to candidacy in a Rackham doctoral program, the number of days from the first date of the Adjusted Admit Term to the doctoral program in which candidacy was earned to the first date of the term in which the student is
+eligible to register as a candidate in that doctoral program. Deductions of time are made for time attributed to approved leave of absence as well as time from discontinued status to reinstatement during Precandidacy.","Examples of valid values: 601; 973;
+1164 nan"
+TIME_TO_DGR_DY_CNT,Time To Degree Days Count,NUMBER,6,M_SRDW1,ACAD_DEGR_PLAN,"The number of days from the first date of the Adjusted Admit Term to the date Rackham verifies all requirements have been met for that earned Rackham doctoral degree. Deductions of time are made for time attributed to approved leave of absence as well as time from
+discontinued status to reinstatement.","Examples of valid values: 350; 604;
+1868; 3507"
+TOT_CUMULATIVE,Total Cumulative Units,NUMBER,8.3,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,A number representing the cumulative total of credit hours passed and all transfer credit hours for a specific academic career.,"Examples of valid values:  0.000;
+73.000;  119.500"
+TUITION_AMT,Tuition Amount,NUMBER,16.2,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,The dollar amount a student is assessed for tuition in a term.  Does not include registration and miscellaneous fees.,"Examples of valid values:  -12,436.33;
+50.00;  263.00;
+2,172.00"
+UNDREP_MNRTY_IND,Underrepresented Minority Indicator,VARCHAR2,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether a person is considered an underrepresented minority as defined institutionally.  The code is set to 'Y' when the student has an ethnicity detail code of AMIND, BLACK, PACIF, or HISPA.  Data for this element should never be released in a name linked fashion.  *NOTE: THIS FIELD HAS BEEN SUPERSEDED BY DMSTC_UNDREP_MNRTY_CD/DESC R AND SHOULD NO LONGER BE USED FOR REPORTING.  IT WILL BE REMOVED FROM THE DATA
+WAREHOUSE IN 2019.",Examples of Valid Values: Y = Yes; N = No
+UNT_PRGRSS,Units Taken Toward Academic Progress,NUMBER,5.2,M_3WKDW1,THIRDWK_STDNT_ENRL,A number representing the total credit hours earned by a student in a particular course that is applicable toward a degree.,"Examples of valid values:  0.00;  1.00;
+25.00"
+UNT_TAKEN_PRGRSS,Units Taken For Progress,NUMBER,8.3,M_3WKDW1,THIRDWK_STDNT_CAR_TERM,A number representing the sum of a student's credit hours taken in a particular term that may be applied toward academic progress.,"Examples of valid values:  0.000;
+12.500;  18.000"
+VISA_PERMIT_TYPE,Visa Workpermit Type Code,VARCHAR2,3,M_3WKDW1,THIRDWK_PERSONAL_DATA,A code representing the type of current non-immigrant visa a person holds.,"Examples of valid values:  F1 = Student;
+J1 = Exchg-Vis;  Q = Cult- Exchg"
+VISA_PERMIT_TYPE_DESCR,Visa Workpermit Type Description nan,VARCHAR2,30,M_3WKDW1,THIRDWK_PERSONAL_DATA,A textual description of the code representing the type of current non- immigrant visa a person holds. nan,Examples of valid values:  Student; Exchange Visitor; InternationalCultural Exchang
+WHITE_IND,White Indicator,NUMBER,1,M_3WKDW1,THIRDWK_PERSONAL_DATA,"A code indicating whether a person has self-identified as having White ethnicity.
+*Data populated beginning term 1760.",Examples of valid values: 1 = Yes; 0 = No

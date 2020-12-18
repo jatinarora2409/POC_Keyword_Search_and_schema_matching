@@ -1,0 +1,10 @@
+Something went wrong with: https://www.zillow.com/homedetails/13960-Kimlin-Pl-Waldorf-MD-20601/54476227_zpid/Traceback (most recent call last):
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_scarper.py", line 49, in <module>
+    zillow.zillow_functions.record(property_link,save_xml=False)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 234, in record
+    dom = record_xml_util(property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 206, in record_xml_util
+    summary = get_summary(pageSoup=property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 15, in get_summary
+    ba = span_bed_bath_la[1].find_all('span',recursive=False)[0].text
+IndexError: list index out of range

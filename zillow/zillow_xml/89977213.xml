@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,400,000</price>
+		<bd>4</bd>
+		<ba>5</ba>
+		<area>3,000</area>
+	</summary>
+	<address>
+		<street_address>2449 W Superior St,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Incredible 4 bedroom/4.1 bath custom home in ideal Smith Park location! The main level offers a wide open floor plan with fire place that opens up to the back deck and patio via floor to ceiling sliding doors. Chef's kitchen incl a massive island/work space, 36&quot; Thermador refrigerator &amp; 36&quot; freezer, professional range w/double ovens, Fisher Paykel DW drawers + another DW, espresso machine, pantry &amp; broom space. To-die-for outdoor space is no-maintenance and has plenty of room for dining and lounging. Custom wood party-door on the coach-house style garage allows you to expand the party into the finished garage space. This home also has a rare front patio space too! All upstairs bedrooms have en-suite baths including a walk-in shower w/rain shower &amp; whirlpool tub in the primary bath. The primary bdrm also has a fireplace and an organized walk-in closet. Bdrm 2 offers WIC as well. Lower level family room with fireplace has radiant heat, wine-storage nook and a killer laundry room with 2 sets of W/D, slop sink, storage and folding/hanging space &amp; laundry shoot! The 4th bedroom (used as office) and 4th full bath round out the lower level. Brick and limestone exterior. 5 zone radiant heated floors through out and space pack AC, two hot water heaters. Located on a quiet one-way street in Smith Park near all the conveniences West Town has to offer plus good expressway, Metra and bus access. 1 block from the Smith Park play lot, huge green space, pool &amp; clubhouse.Read more</overview>
+	<listing_agent>
+		<agentName>Beth Gomez</agentName>
+		<phoneNumber>773-727-1707</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Berkshire Hathaway HomeServices Chicago</postingGroupName>
+		<postingWebsiteLinkText>Berkshire Hathaway HomeServices Chicago</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2010</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">3,075 sqft</key>
+		<key name="Price/sqft:">$467</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 4</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Trash compactor, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,000 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,075 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 1612207005</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: masonry</item>
+				<item>Roof: Built-up</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2010</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.97</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

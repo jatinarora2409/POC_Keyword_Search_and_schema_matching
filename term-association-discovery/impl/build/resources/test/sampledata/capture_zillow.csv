@@ -1,0 +1,37 @@
+Column Name,Business Term
+mls_id,listed house mls id
+flooring,flooring material in the house
+appliances,type of appliances in the house
+street_address,address of the house
+city,city of the house
+home_type,listed houses style of construction
+house_type,listed houses style of construction
+home_type,listed houses property type
+house_type,listed houses property type
+heating,heating system in the house
+state,region of the house
+zipcode,postal code/zip code of the house
+major_remodel_year,listed house renovated in the year
+agent_name,listed house agents name
+phone_number,listing house agents contact number
+posting_group_name,listing house agents office name
+agents_license_number,listing house agents license number
+beds,bedroom count in the house
+overview,house description
+baths,bathroom count in the house
+living_area,area of the house in square feet
+total_interior_livable_area,area of the house in square feet
+price,offer price of the house in usd
+year_built,listed house built-in year
+lot_size,lot area of the house in acres
+total_spaces,parking spaces count in the house
+parking,parking spaces count in the house
+annual_tax_amount,tax amount of the house for the year
+garage_spaces,garage spaces count in the house
+living_area,living area of the house in square feet
+total_interior_livable_area,living area of the house in square feet
+price_per_sqft,price per square feet of the house
+roof_material,roof material of the house
+stories,number of units in the listed house
+price,estimated price of the house
+cooling,cooling system in the house

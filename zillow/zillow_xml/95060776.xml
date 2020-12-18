@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$309,900</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>1,782</area>
+	</summary>
+	<address>
+		<street_address>715 N 117th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Feel like you live in your own private park in Wauwatosa! This rare home is on 1/2 acre of land abutting private land connecting to the Underwood Creek Parkway! Privacy and loads of indoor and outdoor space to play and entertain in makes this home a dream. Master bedroom has private patio doors that open to a huge deck overlooking the massive backyard. LL with 3rd bedroom currently used as a rec room has full walk out to backyard, driveway and patio spaces. Loads of character, natural light and sunshine in every room, gorgeous hardwood floors, 2 fireplaces, and so much more. Amazing flow for when you have family and friends over.  Attic can be built out or added on to as well as other opportunities.Read more</overview>
+	<listing_agent>
+		<agentName>Lisa Ashley</agentName>
+		<phoneNumber>414-964-2000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Mahler Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Mahler Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1947</key>
+		<key name="Heating:">Forced air, Wall, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.50 Acres</key>
+		<key name="Price/sqft:">$174</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished, Partially Finished, Partial, Walk-Out Access, Block, Sump Pump, Full Size Windows, Exposed Basement</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Wall, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,782 sqft</item>
+				<item>Fireplace features: Wood Burning, 2 or more Fireplaces</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Bedroom on Main Level, Full Bath on Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stone</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.50 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3780171000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Ranch</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1947</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1975</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+				<item>Utilities for property: Cable Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 85.72</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

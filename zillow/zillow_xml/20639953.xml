@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$370,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>1,120</area>
+	</summary>
+	<address>
+		<street_address>4751 Klamath Pl,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>El Sereno great area   two bedrooms one Bathroom, parking in the driveway, close to schools and Parks!!!Read more</overview>
+	<listing_agent>
+		<agentName>Guliano Porras</agentName>
+		<phoneNumber>562-863-2121</phoneNumber>
+		<agentLicenseNumber>License #01815229</agentLicenseNumber>
+		<postingGroupName>Century 21 Allstars</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Allstars</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1950</key>
+		<key name="Heating:">Wall, Electric</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">4,042 sqft</key>
+		<key name="Price/sqft:">$330</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 1,120 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Stories: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 4,042 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5214019007</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1950</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1950</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.56</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

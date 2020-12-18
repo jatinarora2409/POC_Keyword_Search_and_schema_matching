@@ -1,0 +1,276 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>7800 Southwest Pkwy #1611 </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$474,900</Price>
+		<Beds>2</Beds>
+		<Baths>2.5</Baths>
+		<key name="$240 / Sq. Ft.">1,975</key>
+	</main_stats>
+	<text_base_description>Little turnover in this gated community conveniently located on SW Parkway. This condo offers a pleasant location within the community--lots of green space out the front and back doors; covered patio; spacious rooms; recently painted cabinets. Appealing layout with a large Family Room downstairs and a flexible space upstairs that can be used as a study/office area or another living area. Master Suite offers fantastic views and a bathroom with a jetted tub, separate shower, double vanity, large closet. Restrictions: Yes  Sprinkler Sys:Yes </text_base_description>
+	<listed_by>
+		<name>Vince Martinez</name>
+		<agentLicenseDisplay>•TREC #0437898</agentLicenseDisplay>
+		<org> Keller Williams Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$474,900</List_Price>
+		<Est._Mo._Payment>$2,803</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$240</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>150 days</Time_on_Redfin>
+		<Property_Type>Residential, Condominium</Property_Type>
+		<HOA_Dues>$404/month</HOA_Dues>
+		<Year_Built>2008</Year_Built>
+		<Community>Escondera Condo Amd</Community>
+		<Lot_Size>0.33 Acres</Lot_Size>
+		<key name="MLS#">6425086</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Branded (External Link)</group_dat>
+						<group_dat>Virtual Tour Unbranded(External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi Unit Information</heading>
+					<group_data>
+						<group_dat>Pets Allowed: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Escondera HOA</group_dat>
+						<group_dat>Association Fee: $404</group_dat>
+						<group_dat>Monthly</group_dat>
+						<group_dat>Association Fee Includes: Common Areas, Maintenance Grounds, Maintenance Structure</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 2</group_dat>
+						<group_dat># of Half Bathrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Foyer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Bar, Galley Kitchen, Granite Counters, Kitchen/Family Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Master Bathroom</group_dat>
+						<group_dat>Features: Double Vanity, Garden Tub/Roman Tub, Jetted Tub, Separate Shower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Loft</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Workshop</group_dat>
+						<group_dat>Features: Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 8 Information</heading>
+					<group_data>
+						<group_dat>Laundry</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Oven, Convection Oven, Dishwasher, Exhaust Fan, Gas Cooktop, Disposal, Gas Water Heater, Microwave, Self Cleaning Oven, Stainless Steel Appliance(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Unfurnished</group_dat>
+						<group_dat>Flooring: Carpet, Tile</group_dat>
+						<group_dat>Other Features: Breakfast Bar, Crown Molding, Double Vanity, Entrance Foyer, High Ceilings, Multiple Master Suites, Pantry, Recessed Lighting, Walk-In Closet(s), Wired for Sound</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat>Has Attached Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Attached, Garage, Garage Door Opener</group_dat>
+						<group_dat># of Covered Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Roof Details: Tile</group_dat>
+						<group_dat>Construction Details: Stone Veneer, Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Private Yard, Rain Gutters</group_dat>
+						<group_dat>Patio And Porch Features: Covered, Patio, Porch</group_dat>
+						<group_dat>Security Features: Pre Wired, Fire Alarm, Smoke Detector(s), Security Lights</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Pool Features: Community</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Natural Gas Available, Underground Utilities</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central, Natural Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $9,512</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Common Grounds/Area, Community Mailbox, Gated, Pet Amenities, Pool, Sidewalks, Trails/Paths, Curbs</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.33</group_dat>
+						<group_dat>Lot Size Acres: 0.33</group_dat>
+						<group_dat>Lot Features: Backs to Greenbelt/Park, Private, Many Trees, Sprinklers Automatic, Sprinklers Multiple Locations</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>1,975</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,975</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2008</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>749069</APN>
+	</public_facts>
+</home>

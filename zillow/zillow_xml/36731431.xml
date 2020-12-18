@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$260,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,349</area>
+	</summary>
+	<address>
+		<street_address>2372 Hazelwood Ct,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>This beautiful townhome has been update.  3/ bedroom, 2.5 bath, Sun room.  New floors, laminate wood flooring in all living areas, carpet on stairs only.  Kitchen appliances new, counter tops new, New bathroom cabinet and sink in half bath, freshly painted.  Close to shopping, schools and restaurants.  This home will not disappoint.Read more</overview>
+	<listing_agent>
+		<agentName>Teresa Klopfer</agentName>
+		<phoneNumber>301-843-5100</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX 100</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX 100</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1995</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">1,598 sqft</key>
+		<key name="Price/sqft:">$193</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,349 sqft</item>
+				<item>Finished area below ground: 0</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,598 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 06231500</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Colonial</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1995</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.87</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Waldorf</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $83/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $200,100</item>
+				<item>Annual tax amount: $2,355</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: MDCH217164</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Appliances: Dishwasher, Disposal, Built-in Microwave, Exhaust Fan, Water Heater, Dryer, Washer, Oven/Range - Gas</item>
+				<item>AssociationYN: Yes</item>
+				<item>InteriorFeatures: Ceiling Fan(s), Walk-In Closet(s), Eat-in Kitchen, Carpet, Open Floorplan, Combination Dining/Living, Upgraded Countertops</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>ConstructionMaterials: Vinyl Siding</item>
+				<item>StoriesTotal: 2</item>
+				<item>Heating: Heat Pump</item>
+				<item>Cooling: Heat Pump</item>
+				<item>ArchitecturalStyle: Colonial</item>
+				<item>SpecialListingConditions: Standard</item>
+				<item>ParkingFeatures: Assigned, Parking Lot, Asphalt</item>
+				<item>BelowGradeFinishedArea: 0</item>
+				<item>MlsStatus: Active</item>
+				<item>StructureType: Interior Row/Townhouse</item>
+				<item>TaxAnnualAmount: 2583.0</item>
+			</item>
+		</item>
+	</other_details>
+</home>

@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$340,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,438</area>
+	</summary>
+	<address>
+		<street_address>2218 W Cambridge Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Must see this well-established Phoenix home! Completely remodeled in 2017! New All new plumbing, new electrical, new flooring throughout, new insulation, all new energy efficient windows and doors, all appliances convey! Huge open Kitchen, cabinets, granite countertops and stainless-steel appliances (frig, stove, oven and dishwasher). New lighting, water fixtures and ceiling fans. Enjoy your oversized backyard from your back covered patio. Opportunity for kids to walk to school, close to Encanto park, golf course, shopping and all the downtown Phoenix has to offer.Read more</overview>
+	<listing_agent>
+		<agentName>Tom Brown</agentName>
+		<phoneNumber>480-452-6989</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>TCB Realty</postingGroupName>
+		<postingWebsiteLinkText>TCB Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Other, Gas</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">6 spaces</key>
+		<key name="Lot:">8,929 sqft</key>
+		<key name="Price/sqft:">$236</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Evaporative</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Washer</detail>
+				<detail>Laundry features: Dryer Included, Washer Included</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,438 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 6</detail>
+				<detail>Parking features: Carport, Covered</detail>
+				<detail>Garage spaces: 6</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Cement / Concrete</detail>
+				<detail>Fencing: Wood</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 8,929 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 11043094</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1954</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: APS, SW Gas</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $187,800</detail>
+				<detail>Annual tax amount: $1,833</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6134558</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Cooling: Refrigeration</detail>
+				<detail>Dining Area: Eat-in Kitchen, Formal</detail>
+				<detail>Exterior Features: Childrens Play Area, Patio, Storage Shed(s)</detail>
+				<detail>Fencing: Wood</detail>
+				<detail>Fireplace: Firepit</detail>
+				<detail>Heating: Gas Heat</detail>
+				<detail>Master Bathroom: Full Bth Master Bdrm</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Roofing: Foam</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Utilities: APS, SW Gas</detail>
+				<detail>Water: City Water</detail>
+				<detail>Source of SqFt: County Assessor</detail>
+				<detail>Laundry: Dryer Included, Washer Included</detail>
+				<detail>Construction: Frame - Wood</detail>
+				<detail>Const - Finish: Stucco, Painted</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Complex Feature: Children's Playgrnd, Golf Course, Biking/Walking Path</detail>
+				<detail>Services: City Services</detail>
+				<detail>Technology: Pre-Wire Sat Dish</detail>
+				<detail>Flooring: Tile</detail>
+				<detail>Features: 9+ Flat Ceilings</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Kitchen Features: Granite Countertops, Cook Top Gas</detail>
+				<detail>Parking: RV Gate</detail>
+				<detail>Landscaping: Grass Back, Gravel/Stone Front, Gravel/Stone Back</detail>
+				<detail>Tax Municipality: Maricopa - CITY</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash, VA, FHA, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>Master Bedroom: Not Split</detail>
+				<detail>High School: Central High School</detail>
+				<detail>Windows: Dual Pane</detail>
+				<detail>Plumbing: Gas Hot Wtr - Tnklss</detail>
+				<detail>Tax Year: 2020</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

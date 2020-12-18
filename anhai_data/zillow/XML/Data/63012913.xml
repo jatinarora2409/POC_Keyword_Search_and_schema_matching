@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$220,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>700</area>
+	</summary>
+	<address>
+		<street_address>614 W Doty St APT 305,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Great Downtown Condo close to everything! Updated luxury vinyl plank flooring and new fridge in 2017. High ceilings, wide hallway and large windows create an open and spacious feel in this urban retreat. Stainless appliances and granite counter tops. Convenient to the Capitol Square, UW Madison Athletic Venues, Farmers Market, Restaurants, Lake Monona, Brittingham Bay and boat rentals. The Southwest Commuter Bike Trail is steps from your front door. Quiet dead-end street and heated underground parking with available guest parking. Beautiful courtyard. Great condo community and neighborhood make this a wonderful place to call home.Read more</overview>
+	<listing_agent>
+		<agentName>Lena Oberwetter</agentName>
+		<phoneNumber>608-836-7433</phoneNumber>
+		<agentLicenseNumber>License #80810-94</agentLicenseNumber>
+		<postingGroupName>First Weber Inc</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2004</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$314</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 700 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 070923411593</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2004</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2006</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.78</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Madison</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $153,500</detail>
+				<detail>Annual tax amount: $3,379</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1890626</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Fuel: Natural gas</detail>
+				<detail>Heating/Cooling: Forced air, Central air</detail>
+				<detail>Water/Waste: Municipal water, Municipal sewer</detail>
+				<detail>Laundry Level: M</detail>
+				<detail>Living Room Lvl: M</detail>
+				<detail>Kitchen Lvl: M</detail>
+				<detail>Master BedRm Lvl: M</detail>
+				<detail>Common Amenities: Common Green Space, Close to busline, Security system, Elevator</detail>
+				<detail>Style: Garden</detail>
+				<detail>Location: MADISON - C  W01</detail>
+				<detail>Interior Features: Washer, Dryer, Wood or sim. wood floors, Cable/Satellite Available, Hi-Speed Internet Avail, Intercom</detail>
+				<detail>Kitchen Features: Range/Oven, Refrigerator, Dishwasher, Microwave, Disposal</detail>
+				<detail>Source of Fin SqFt: Assessor</detail>
+				<detail>Source of Year Built: Assessor</detail>
+				<detail>Exterior: Brick, Aluminum/Steel</detail>
+				<detail>Parcel ID: 0709-234-1159-3</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

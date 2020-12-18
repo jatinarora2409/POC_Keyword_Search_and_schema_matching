@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2505 Woodstock Rd </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,995,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Exceptional development opportunity for builders, investors or owner users. The subject property is a collection of 5 total properties on Woodstock Road (total lot size 34,770 sqft). The following APNs are included in the sale: 5565-020-028, 5565-020-027, 5565-021-043, 5565-021-042. The Woodstock property is under the Jurisdiction of the City of Los Angeles, and is subject to the Los Angeles Baseline Hillside Ordinance (BHO), the Los Angeles Municipal Code Development Standards, the Mulholland Scenic Parkway Specific Plan, Zoning Information File number 2334, 2462, 2374, and 2467. Please review private remarks and MLS docs tab for details.  </text_base_description>
+	<listed_by>
+		<name>Joyce Essex Harvey</name>
+		<agentLicenseDisplay>•DRE #00935813</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,995,000</List_Price>
+		<Est._Mo._Payment>$9,200</Est._Mo._Payment>
+		<Redfin_Estimate>$1,862,787</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>Residential Land</Property_Type>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.80 Acres</Lot_Size>
+		<key name="MLS#">20-640530</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5565-020-029</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Sunset Blvd to Laurel Canyon Blvd to Willow Glen Road to Woodstock Rd (Hollywood Hills West/Mount Olympus area)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: Lender Owned/REO, As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Land</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 34,770</group_dat>
+						<group_dat>Lot Size (Acres): 0.1263</group_dat>
+						<group_dat>Zoning: LARE11</group_dat>
+						<group_dat>Special Zoning: Other</group_dat>
+						<group_dat>Lot Location: Canyon</group_dat>
+						<group_dat>Lot Description: 5 + Lots</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, City Lights, Mountains</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>5,503 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5565020029</APN>
+	</public_facts>
+</home>

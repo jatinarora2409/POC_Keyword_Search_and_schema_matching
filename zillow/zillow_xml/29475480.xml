@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$625,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>2,165</area>
+	</summary>
+	<address>
+		<street_address>3823 Gaines Ct,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Welcome Home to this quaint gated community with an unbeatable location.  Off Mopac with easy access to 290 and 71 and 360, close to Southwest Parkway, greenbelt, shopping and dining districts.  Home is in amazing school district along with the close proximity to private schools in area.  Spacious 2 story, 3 bedroom home, 2 dining spaces, 1 large formal living with a fireplace.  You have a new roof and new paint on exterior and new Pergola outback. Come take a look, homes in this community dont last long.Restrictions: Yes  Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Jahna Cathey</agentName>
+		<phoneNumber>512-448-4111</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Realty</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2000</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$260/month</key>
+		<key name="Lot:">3,615 sqft</key>
+		<key name="Price/sqft:">$289</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Refrigerator</item>
+				<item>Laundry features: Laundry Room, Upper Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,165 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco</item>
+				<item>Patio and porch details: Patio, Covered</item>
+				<item>Fencing: Fenced, Wood, Wrought Iron</item>
+				<item>Residential vegetation: Partially Wooded</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.08 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Gazebo</item>
+				<item>Parcel number: 04042107480000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2000</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Sewer information: Public Sewer</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.19</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Playground, Pool</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

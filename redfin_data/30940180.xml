@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>818 N Saint Augustine Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$142,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$131 / Sq. Ft.">1,080</key>
+	</main_stats>
+	<text_base_description>Cute 3 bedroom 2 bath! Spacious living room flows easily in the dining area and kitchen. Tons of cabinet storage in the kitchen. Roomy bedrooms with plenty of closet space. Large back yard with trees allows for fun for pets and kids! Close to schools and parks! A must see! </text_base_description>
+	<listed_by>
+		<name>Sam Matalone</name>
+		<org> • EB Brokerage Inc. </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$142,000</List_Price>
+		<Est._Mo._Payment>$718</Est._Mo._Payment>
+		<Redfin_Estimate>$140,201</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$131</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>42 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1956</Year_Built>
+		<Style>Single Detached, Traditional</Style>
+		<Community>Upchurch Sub</Community>
+		<Lot_Size>10,716 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14418672</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking &amp; Garage</item>
+					<item>
+						<item># of Parking Spaces (Carport): 1</item>
+						<item># of Parking Spaces (Total Covered): 1</item>
+						<item>Garage Dimensions: </item>
+						<item>Covered</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Pleasantgr</item>
+						<item>Middle School Name: Florence</item>
+						<item>High School Name: Spruce</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Sewer, City Water, Curbs, Sidewalk</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item># of Rooms: 6</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 1 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Dimensions: 12 x 12</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 2 Information</item>
+					<item>
+						<item>Room Type: Breakfast Room</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 10</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 3 Information</item>
+					<item>
+						<item>Room Type: Living Room</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 18 x 13</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 4 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 12</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 5 Information</item>
+					<item>
+						<item>Room Type: Kitchen</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 7</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 6 Information</item>
+					<item>
+						<item>Room Type: Master Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 12</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Cable TV Available</item>
+						<item># of Dining Areas: 1</item>
+						<item>Flooring: Laminate</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central A/C (Electric), Central Heat (Gas)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Pre-Owned</item>
+						<item>Building Area Source: Tax</item>
+						<item>Foundation: Slab</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Roof: Composition</item>
+						<item>Exterior Construction: Siding</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Taxes / Assessments, Financing, Location Details</item>
+			<item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Legal Description: UPCHURCH SUBD BLK 6677 LT 1 INT201200384588 D</item>
+						<item>Unexempt Taxes: $1,403</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Financing Proposed: Cash, Other (See Remarks)</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: Upchurch Sub</item>
+						<item>Directions: From NB 635 take the Elam Rd exit and go west. Turn right onto N St Augustine Dr.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Living Areas: 1</item>
+						<item>For Sale</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item># of Stories: 1</item>
+						<item>Water Line to Refrigerator</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Block: 6677</item>
+						<item>Lot Number: 1</item>
+						<item>Features: Interior Lot</item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.246</item>
+						<item>Area Sq. Ft.: 10,715.76</item>
+						<item>Parcel Number: 00000623788000000</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>1,080</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,080</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>10,694 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1956</Year_Built>
+		<Year_Renovated>1956</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000623788000000</APN>
+	</public_facts>
+</home>

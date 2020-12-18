@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2027 Joan Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$159,700</Price>
+		<Beds>3</Beds>
+		<Bath>1</Bath>
+		<key name="$118 / Sq. Ft.">1,352</key>
+	</main_stats>
+	<text_base_description>Well maintained brick home in an established neighborhood. It features 3 bedrooms, 1 baths with the garage converted into an extra living space. Original hardwood floors. The oversized fenced in back yard is ideal for outdoor cookouts and family enjoyment. Huge tool shed with access from the alley for the “Man Cave” dream! Front yard has been beautifully maintained with lush plants, gorgeous flowers and healthy St Augustine grass for an inviting curb appeal. A new roof with a ridge vent was recently installed in 2016 as well as storm windows and doors. This amazing home will be sold as is.  </text_base_description>
+	<listed_by>
+		<name>Andrea Moody</name>
+		<org> Call It Closed Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$159,700</List_Price>
+		<Est._Mo._Payment>$919</Est._Mo._Payment>
+		<Redfin_Estimate>$161,606</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$118</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>14 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1953</Year_Built>
+		<Style>Single Detached</Style>
+		<Community>Pleasant Mdws Add</Community>
+		<Lot_Size>7,536 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14441840</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat>Front</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Thelma Richardson</group_dat>
+						<group_dat>Middle School Name: Hood</group_dat>
+						<group_dat>High School Name: Samuell</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: 18 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 16 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 12 x 15</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 10 x 13</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 3</group_dat>
+						<group_dat>Room Dimensions: 12 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Cable TV Available</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>No A/C, No Heat, Window Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Pier &amp; Beam</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BLK G/6229 LOT 8 INT201100115731 DD05062011 C</group_dat>
+						<group_dat>Unexempt Taxes: $2,923</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional, FHA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Pleasant Mdws Add</group_dat>
+						<group_dat>Directions: Gps</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 2</group_dat>
+						<group_dat>Exclusions: Stove, refrigerator, washer, dryer and all tv mounts.</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Oven (Gas)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: G/622</group_dat>
+						<group_dat>Lot Number: 8</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.173</group_dat>
+						<group_dat>Area Sq. Ft.: 7,535.88</group_dat>
+						<group_dat>Parcel Number: 00000543877000000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,202</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,202</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,549 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1953</Year_Built>
+		<Year_Renovated>1953</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000543877000000</APN>
+	</public_facts>
+</home>

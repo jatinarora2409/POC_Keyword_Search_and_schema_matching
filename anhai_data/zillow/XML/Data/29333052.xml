@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$5,500,000</price>
+		<bd>7</bd>
+		<ba>9</ba>
+		<area>9,579</area>
+	</summary>
+	<address>
+		<street_address>2300 Portofino Ridge Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Exquisite Classical Mediterranean masterpiece, with panoramic views of the Barton Creel Resort and Fazio Foothills Golf Course. Beautiful design including domes, barrel vault, sculptured stair railings, 2 slab marble staircase and Mariner Chandeliers. Patterned marble tile, tile and wood floors. Gorgeous pool and jacuzzi. Private courtyard and fountains. Sq ft larger than TCAD.
+Sally Daneshjou /Owner also real estate broker Daneshjou Properties Inc.Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Other, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">1.37 Acres</key>
+		<key name="Price/sqft:">$574</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 7</detail>
+				<detail>Bathrooms: 9</detail>
+				<detail>Full bathrooms: 7</detail>
+				<detail>1/2 bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Other, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 9,579 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Parking features: Garage - Attached</detail>
+				<detail>Garage spaces: 0</detail>
+				<detail>Covered spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>Patio and porch details: Deck, Porch-Enclosed, Porch-Open, Patio-Covered, Patio-Uncovered</detail>
+				<detail>View description: Territorial</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 1.37 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 01133402010000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Tile</detail>
+				<detail>Windows: Plantation Shutters, Shutters</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2002</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Natural Gas Connected, Electricity Connected, Phone Connected</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 84.79</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Fire Alarm, Smoke Detector(s), Security System Owned</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Austin</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $306/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $2,969,281</detail>
+				<detail>Annual tax amount: $62,748</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Flooring: Wood, Stone</detail>
+				<detail>ViewYN: Yes</detail>
+				<detail>Roof: Tile</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Gas Cooktop, Trash Compactor, Double Oven, Convection Oven, Microwave, Ice Maker, Built-In Oven(s)</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>InteriorFeatures: Wet Bar, High Ceilings, Coffered Ceiling(s), Crown Molding, Wired for Sound</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>Utilities: Natural Gas Connected, Electricity Connected, Phone Connected</detail>
+				<detail>PatioAndPorchFeatures: Deck, Porch-Enclosed, Porch-Open, Patio-Covered, Patio-Uncovered</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>Heating: Natural Gas</detail>
+				<detail>PoolPrivateYN: 1</detail>
+				<detail>FireplacesTotal: 3</detail>
+				<detail>ConstructionMaterials: Stucco, All Sides Masonry</detail>
+				<detail>LotFeatures: Cul-de-Sac, Backs to Golf Course</detail>
+				<detail>ElectricOnPropertyYN: Yes</detail>
+				<detail>FarmLandAreaUnits: Square Feet</detail>
+				<detail>ParkingFeatures: Attached, Garage Door Opener, Entry-Side</detail>
+				<detail>DoorFeatures: French Doors</detail>
+				<detail>CoveredSpaces: 4</detail>
+				<detail>WindowFeatures: Plantation Shutters, Shutters</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>ExteriorFeatures: Garden, Water Feature, Private Yard, Gutters Full, Decorative Pond</detail>
+				<detail>SecurityFeatures: Fire Alarm, Smoke Detector(s), Security System Owned</detail>
+				<detail>View: Golf Course, Panoramic, Pond, Hill Country</detail>
+				<detail>CommunityFeatures: In Golf Course Community</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

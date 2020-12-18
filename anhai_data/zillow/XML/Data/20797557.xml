@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,100,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,729</area>
+	</summary>
+	<address>
+		<street_address>8121 Gould Ave,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Absolutely striking Hollywood Hills Modern tree house! Extensively remodeled from top to bottom with the finest finishes! A stunning contemporary showplace with beautiful views and complete privacy! A gated entrance takes you to this open concept floor plan with three bedroom suites, gorgeous all new center island kitchen, new wood floors and bathrooms and so much more! Boasting epic walls of glass to enhance the views and setting amongst the spectacular mature trees and landscape. The outdoor lounge area provides a waterfall, built in seating, fire pit, sound system and custom tile. There is a 2 car covered carport and ample street parking. Among the homes many other attributes are a killer master suite with built in center island drawers, two walk in closets and a stunning bathroom with new steam shower. Specialty lighting, state of the art kitchen appliances and much more complete this exciting Laurel Canyon Estate!Read more</overview>
+	<listing_agent>
+		<agentName>Jordan Cohen</agentName>
+		<phoneNumber>818-879-2266</phoneNumber>
+		<agentLicenseNumber>License #01103362</agentLicenseNumber>
+		<postingGroupName>RE/MAX One</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX One</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1960</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">4,826 sqft</key>
+		<key name="Price/sqft:">$1,215</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Bathroom</heading>
+			<details>
+				<detail>Features: Remodeled, Separate tub and shower</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Kitchen</heading>
+			<details>
+				<detail>Features: Kitchen Island, Kitchen Open to Family Room, Remodeled Kitchen</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood, Tile</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Freezer, Garbage disposal, Refrigerator</detail>
+				<detail>Laundry features: Individual Room</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Common walls with other units/homes: No Common Walls</detail>
+				<detail>Total interior livable area: 1,729 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: Carport</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Levels: Two</detail>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Other, Stucco</detail>
+				<detail>Patio and porch details: Tile, Patio</detail>
+				<detail>View description: Territorial</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.11 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5556001007</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Metal</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>Property condition: Turnkey, Updated/Remodeled</detail>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1960</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2010</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Public Sewer</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 91.48</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Community</heading>
+			<details>
+				<detail>Community features: Urban</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Los Angeles</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $1,534,589</detail>
+				<detail>Annual tax amount: $18,231</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: SR20208991</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>CountyOrParish: Los Angeles</detail>
+				<detail>StateOrProvince: CA</detail>
+				<detail>StreetSuffix: Avenue</detail>
+				<detail>YearBuiltSource: Assessor</detail>
+				<detail>EatingArea: Area, Breakfast Counter / Bar</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>InteriorFeatures: Recessed Lighting, Wired for Sound, Balcony, Open Floorplan</detail>
+				<detail>StandardStatus: Active</detail>
+				<detail>City: Los Angeles</detail>
+				<detail>MLSAreaMajor: C03 - Sunset Strip - Hollywood Hills West</detail>
+				<detail>ElevationUnits: Feet</detail>
+				<detail>LotSizeSource: Assessor</detail>
+				<detail>Roof: Flat</detail>
+				<detail>Country: US</detail>
+				<detail>TaxTractNumber: 2019</detail>
+				<detail>LotFeatures: Sloped Down</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$647,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>974</area>
+	</summary>
+	<address>
+		<street_address>3126 Chadwick Dr,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Welcome to this charming 2 bedroom, 1 bathroom on the top of the Chadwick Dr! This wonderful home sits on a large lot with plenty of potential for expansion. The kitchen has been recently updated with new cabinets and granite counters, all the appliances are new and come with the home. The bathroom is light and bright with stone and tile finishes and new fixtures! The front living room has a beautiful fireplace perfect for a cozy night. Enjoy the front yard in the evening and take in the city lights as this property is high on the top of the street with a peek a boo view from the front yard.     This property is central to DTLA with short commutes to other surrounding areas and city night life, come see this one.Read more</overview>
+	<listing_agent>
+		<agentName>Deborah Zeolla</agentName>
+		<phoneNumber>562-321-5192</phoneNumber>
+		<agentLicenseNumber>License #01375860</agentLicenseNumber>
+		<postingGroupName>Real Consultants</postingGroupName>
+		<postingWebsiteLinkText>Real Consultants</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1955</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">8,128 sqft</key>
+		<key name="Price/sqft:">$664</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Range / Oven, Refrigerator</detail>
+				<detail>Laundry features: Individual Room, Inside, Gas Dryer Hookup</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Common walls with other units/homes: No Common Walls</detail>
+				<detail>Total interior livable area: 974 sqft</detail>
+				<detail>Fireplace features: Living Room</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Levels: One</detail>
+				<detail>Stories: 1</detail>
+				<detail>Patio and porch details: Slab, Concrete, Patio, See Remarks</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 8,128 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Additional structures included: Shed(s)</detail>
+				<detail>Parcel number: 5218002031</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Conventional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>Property condition: Fixer, Updated/Remodeled</detail>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1955</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1955</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Public Sewer</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.96</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Los Angeles</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $519,180</detail>
+				<detail>Annual tax amount: $6,345</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: SR20203052</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>CommonWalls: No Common Walls</detail>
+				<detail>CountyOrParish: Los Angeles</detail>
+				<detail>PropertyType: Residential</detail>
+				<detail>StateOrProvince: CA</detail>
+				<detail>YearBuiltSource: Assessor</detail>
+				<detail>LaundryFeatures: Individual Room, Inside, Gas Dryer Hookup</detail>
+				<detail>CommunityFeatures: Sidewalks, Foothills, Street Lights, Park</detail>
+				<detail>LotFeatures: Back Yard, Front Yard, Treed Lot, Gentle Sloping</detail>
+				<detail>PropertyCondition: Fixer, Updated/Remodeled</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>FireplaceFeatures: Living Room</detail>
+				<detail>RoomType: Living Room, Kitchen, Laundry</detail>
+				<detail>EatingArea: In Kitchen</detail>
+				<detail>PatioAndPorchFeatures: Slab, Concrete, Patio, See Remarks</detail>
+				<detail>StreetSuffix: Drive</detail>
+				<detail>Appliances: Refrigerator, Gas Range, Gas Water Heater</detail>
+				<detail>StandardStatus: Active</detail>
+				<detail>View: Neighborhood, Trees/Woods, Peek-A-Boo</detail>
+				<detail>ParkingFeatures: Driveway, Street, Garage Faces Front, Concrete</detail>
+				<detail>InteriorFeatures: Granite Counters, Ceiling Fan(s)</detail>
+				<detail>FoundationDetails: See Remarks</detail>
+				<detail>HighSchoolDistrict: Los Angeles Unified</detail>
+				<detail>MLSAreaMajor: 621 - El Sereno</detail>
+				<detail>City: El Sereno</detail>
+				<detail>Levels: One</detail>
+				<detail>ElevationUnits: Feet</detail>
+				<detail>LivingAreaUnits: Square Feet</detail>
+				<detail>WaterSource: Public</detail>
+				<detail>LotSizeSource: Assessor</detail>
+				<detail>RoadFrontageType: City Street</detail>
+				<detail>Flooring: Tile, Wood, Laminate</detail>
+				<detail>AttachedGarageYN: 1</detail>
+				<detail>Country: US</detail>
+				<detail>RoomKitchenFeatures: Granite Counters, Remodeled Kitchen</detail>
+				<detail>RoomBathroomFeatures: Shower, Remodeled, Granite Counters</detail>
+				<detail>OtherStructures: Shed(s)</detail>
+				<detail>TaxTractNumber: 060372</detail>
+				<detail>Sewer: Public Sewer</detail>
+				<detail>RoadSurfaceType: Maintained</detail>
+				<detail>Cooling: Wall/Window Unit(s)</detail>
+				<detail>SeniorCommunityYN: 0</detail>
+				<detail>ParcelNumber: 5218002031</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

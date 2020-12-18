@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$229,900</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,500</area>
+	</summary>
+	<address>
+		<street_address>9702 Glengreen Dr,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>This gorgeous two story home located on a huge corner lot in the St. Augustine Park Estates. As soon as you walk in you are presented the charming first floor living and dining area, with luxury tile floors throughout, granite countertops, wooden kitchen cabinets with a breakfast bar &amp; gas stove with pot filler, &amp; a beautiful staircase. This home is 4 bedrooms, 3 baths, includes a master bedroom with a walk in closet, a stand up shower with extravagant tile work showcased in all showers, a study &amp; a huge 2nd floor living space. Need a big backyard with easy access to bring any big trailers or park multiple cars, this property is ideal for that or just a nice private place to enjoy in your down time.Read more</overview>
+	<listing_agent>
+		<agentName>Olivia Izaguirre</agentName>
+		<phoneNumber>469-358-1120</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Decorative Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Decorative Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1972</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">10,454 sqft</key>
+		<key name="Price/sqft:">$92</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,500 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+				<item>Fencing: Wood, Iron</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 10,454 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 00000626487710000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1972</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1972</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water, Sidewalk, Curbs, Alley</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.62</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1400 N Fuller Ave #8 </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,399,000</Price>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<key name="$637 / Sq. Ft.">2,195</key>
+	</main_stats>
+	<text_base_description>Amazing home in prime W Hollywood location on quiet tree-lined block; walk to farmers market, Runyon Cnyn, Sunset strip  &amp;  more! 3 bd, 3.5 ba  &amp;  stunning views from 2 rooftop decks. Both decks are upgraded w/ Ipe wood decking  &amp;  offer stunning views of downtown  &amp;  the Hollywood Hills. The rooftop also has  TV, gas fire pit, BBQ  &amp;  retractable awning. Inside the entry level is the 1st ensuite bedroom, mud room w/ custom wood finishings  &amp;  access to 2-car garage w/ storage room, epoxy flooring  &amp;  wired for electric vehicle. Dining area opens to chefs kitchen w/ top of the line appliances, custom cabinetry, Caesarstone counters, &amp;  center island w/ breakfast bar. High ceilings, recessed + pendant lighting  &amp;  sliding doors to private balcony make this a 1st-class kitchen! Upstairs are 2 ensuite masters, each w/ spacious walk-in closets. Dual sinks  &amp;  large shower give the 1st master suite a luxurious feel. The 2nd master suite includes a large bathroom w/ soaking tub  &amp;  additional storage room.  </text_base_description>
+	<listed_by>
+		<name>Dennis Chernov</name>
+		<agentLicenseDisplay>•DRE #01850113</agentLicenseDisplay>
+		<org> Keller Williams Studio City</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,399,000</List_Price>
+		<Est._Mo._Payment>$6,450</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$637</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>10 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<HOA_Dues>$165/month</HOA_Dues>
+		<Year_Built>2014</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Hollywood</Community>
+		<Lot_Size>1,373 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-639518</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Fee #1: $165</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5548-005-046</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>WalkInCloset, Master Suite</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Gourmet Kitchen, Stone Counters, Island</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Living Room, Dining Area, Entry Room, Master Bedroom, Walk-In Closet, Patio Open</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Built-Ins, Detached/No Common Walls, High Ceilings (9 Feet+), Recessed Lighting, Storage Space, Turnkey</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Wood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Microwave, Ceiling Fan, Built-Ins, Dishwasher, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Garage Is Attached, 2 Car Garage, Built-In Storage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Three Or More Levels</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Roof Top Deck</group_dat>
+						<group_dat>Other Structural Features: Balcony, High Ceilings (9 Feet+)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 1,373</group_dat>
+						<group_dat>Lot Size (Acres): 0.0315</group_dat>
+						<group_dat>Zoning: LAR3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Hills, City Lights</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: South of Sunset</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: CC and R</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>2,086</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,086</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>1,371 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2014</Year_Built>
+		<Year_Renovated>2014</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5548005046</APN>
+	</public_facts>
+</home>

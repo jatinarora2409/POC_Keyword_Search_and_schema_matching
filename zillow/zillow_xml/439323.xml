@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,799,000</price>
+		<bd>6</bd>
+		<ba>5</ba>
+		<area>4,099</area>
+	</summary>
+	<address>
+		<street_address>4425 Harrison St NW,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Wonderful opportunity to live in Friendship Heights! This gorgeous fully renovated four-story semi-detached home has it all! The open contemporary floor plan grants enough space for dining, living, and a beautiful chef's kitchen with wrap-around windows and french doors that opens up to an expansive deck suited for all of your entertaining. The soaring 9-foot ceilings, lovely hardwood throughout, and the abundance of windows really provides a light and airy feel! Attention to detail was not overlooked in any aspect of this renovation you'll notice it through the custom stair railing and, stunning tiling! The lower level boasts 8.5-foot ceilings, custom wet bar, guest suite, a ton of extra storage, and access to additional private outdoor space. The sizable yard and off-street parking complete your new home!Read more</overview>
+	<listing_agent>
+		<agentName>Katri Hunter</agentName>
+		<phoneNumber>202-386-6330</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1927</key>
+		<key name="Heating:">Forced air, Other</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">3,902 sqft</key>
+		<key name="Price/sqft:">$439</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 6</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 4</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 4,099 sqft</item>
+				<item>Finished area below ground: 1124</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Carport, Garage - Attached, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Other, Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,902 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 15800804</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Contemporary</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Slate</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1927</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 19.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

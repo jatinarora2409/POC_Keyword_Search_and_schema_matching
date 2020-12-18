@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$219,900</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>713</area>
+	</summary>
+	<address>
+		<street_address>333 W Mifflin St UNIT 4040,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Best value for a Downtown condo in Madison. Desirable City Views side of building (not the &quot;fishbowl&quot; / staring at 100 other units courtyard view). Sun filled unit with  large foyer and oversize coat closet. Cooks kitchen with granite counters, SS appliances, breakfast bar, new dishwasher (2019), tile floor, maple cabinets and gas stove. Living room with access to balcony. Full bathroom (granite counter, tons of cabinets, tile floor). Bedroom with walk in closet (California closet organizer). Spacious laundry room with washer/dryer. Building has Fitness center (2nd floor), 1-acre courtyard (6th floor), gated dog run, secure package room (for UPS/Fed-X/Amazon deliveries). Storage unit (4th floor - 10'x5'). 1 deeded parking space included (5th floor). Parking fee $40.93/month.Read more</overview>
+	<listing_agent>
+		<agentName>Jeff Kramer</agentName>
+		<phoneNumber>608-665-2060</phoneNumber>
+		<agentLicenseNumber>License #53816-90</agentLicenseNumber>
+		<postingGroupName>Century 21 Affiliated</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Affiliated</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Price/sqft:">$308</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 713 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923163384</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2008</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 77.58</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Fitness Center</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

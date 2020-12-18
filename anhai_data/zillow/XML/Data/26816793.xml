@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$125,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>761</area>
+	</summary>
+	<address>
+		<street_address>8908 Briley Rd,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>Perfect starter home in an established neighborhood! This 2 bedroom 1 bath is ready for a new owner to move right in! Large windows in the living room offers plenty of natural light for family gatherings. Step into the kitchen where you'll find granite countertops, double sink and an abundance of cabinets for storage. Updated bathroom and fixtures. Large bedrooms with ample closet space. Enjoy the large fenced in backyard that would be great for entertaining. Extending driveway offers plenty of extra space for parking.  A must see!Read more</overview>
+	<listing_agent>
+		<agentName>Sam Matalone</agentName>
+		<phoneNumber>214-695-7312</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>EB Brokerage Inc.</postingGroupName>
+		<postingWebsiteLinkText>EB Brokerage Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.26 Acres</key>
+		<key name="Price/sqft:">$164</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 761 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Off-street, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Other</detail>
+				<detail>Fencing: Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.26 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 00000621688000000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Traditional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: Frame</detail>
+				<detail>Foundation: Piers</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1954</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1954</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Limited solar potentialSun Number™: 41.02</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Dallas</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $71,510</detail>
+				<detail>Annual tax amount: $1,955</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14429049</detail>
+				<detail>Measurement Source: Tax</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Financing Proposed: Cash, Conventional, FHA, Other</detail>
+				<detail>Architectural Style: Traditional</detail>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>Utilities: City Sewer, City Water</detail>
+				<detail>County Or Parish: Dallas</detail>
+				<detail>Energy Saving Features: Ceiling Fans</detail>
+				<detail>Exterior Features: Gutters</detail>
+				<detail>Heating: Central Heat-Gas, Central Air-Gas</detail>
+				<detail>Interior Features: Cable TV Available</detail>
+				<detail>Other Equipment: Refrigerator, Water Line to Refrigerator, Range/Oven-Gas</detail>
+				<detail>Parking Features: On Street, Front, Outside Entry</detail>
+				<detail>Flooring: Laminate</detail>
+				<detail>Fencing: Chain Link</detail>
+				<detail>Lot Features: Lrg. Backyard Grass, Some Trees, Interior Lot, Subdivision, Landscaped</detail>
+				<detail>Lot Size: Less Than .5 Acre (not Zero)</detail>
+				<detail>Structural Style: Single Detached</detail>
+				<detail>Construction Materials: Vinyl Siding</detail>
+				<detail>Possession: Closing/Funding</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Foundation Details: Pier &amp; Beam</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

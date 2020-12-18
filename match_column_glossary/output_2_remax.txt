@@ -1,0 +1,260 @@
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 1.0
+Recall: 0.130434782609
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 1.0
+Recall: 0.130434782609
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 1.0
+Recall: 0.130434782609
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 1.0
+Recall: 0.173913043478
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.461538461538
+Recall: 0.260869565217
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.416666666667
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 1.0
+Recall: 0.173913043478
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.3125
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.3125
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.285714285714
+Recall: 0.173913043478
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.166666666667
+Recall: 0.0434782608696
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.461538461538
+Recall: 0.260869565217
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.833333333333
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.3125
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.3125
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.294117647059
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.3125
+Recall: 0.217391304348
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.75
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.75
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.785714285714
+Recall: 0.478260869565
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.75
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+
+Measure: OverlapCoefficient
+tokenizer:QgramTokenizer
+Precision: 0.8
+Recall: 0.521739130435
+

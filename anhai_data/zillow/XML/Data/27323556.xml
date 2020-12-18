@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$250,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,512</area>
+	</summary>
+	<address>
+		<street_address>2115 Rose Hill Rd,</street_address>
+		<city_state> Carrollton, TX 75007</city_state>
+	</address>
+	<overview>Home is located in the heart of Carrollton, convenient to Shopping and elementary school.  Spacious family room with large WBFP as the focal point.  This home is a 3 bedroom, 2 full bath. Large back yard has room for a pool and play area.  No interior pictures on line, tenant is still occupying.  This home is being SOLD AS IS, NO REPAIRS.  Foundation done, newish roof. Foundation &amp; SD will be on line soon. No survey available,Read more</overview>
+	<listing_agent>
+		<agentName>Carmen Palmer</agentName>
+		<phoneNumber>972-539-3550</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX DFW Associates</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX DFW Associates</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1979</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">7,492 sqft</key>
+		<key name="Price/sqft:">$165</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,512 sqft</detail>
+				<detail>Fireplace features: Brick, Wood Burning</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 7,492 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: R48229</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Traditional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1979</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1989</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water, Alley</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.64</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Carrollton</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $173,000</detail>
+				<detail>Annual tax amount: $1,410</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14447669</detail>
+				<detail>Measurement Source: Tax</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Architectural Style: Traditional</detail>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>Construction Materials: Brick</detail>
+				<detail>Utilities: City Sewer, City Water, Alley</detail>
+				<detail>County Or Parish: Denton</detail>
+				<detail>Fireplace Features: Brick, Wood Burning</detail>
+				<detail>Flooring: Carpet, Ceramic Tile</detail>
+				<detail>Heating: Central Air-Elec, Central Heat-Elec</detail>
+				<detail>Interior Features: High Speed Internet Available</detail>
+				<detail>Lot Size: Less Than .5 Acre (not Zero)</detail>
+				<detail>Other Equipment: Dishwasher, Disposal</detail>
+				<detail>Structural Style: Single Detached</detail>
+				<detail>Foundation Details: Slab</detail>
+				<detail>Possession: Closing/Funding, Other</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Parking Features: Attached, Rear</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

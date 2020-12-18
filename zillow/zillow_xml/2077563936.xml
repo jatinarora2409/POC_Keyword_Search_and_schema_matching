@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$939,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>1821 Hayes St,</street_address>
+		<city_state> San Francisco, CA 94117</city_state>
+	</address>
+	<overview>Classic Edwardian details are melded beautifully with modern enhancements in this exceptional NOPA TIC flat. Period details include an ornate box beam ceiling, high wainscoting, decorative fireplace, and built-in cabinetry in the living room. An adjacent large formal dining room boasts a built-in sitting bench and bay windows. The modernized chef's kitchen includes a Wolf range and adjacent in-unit laundry room. Spacious rear-facing bedrooms open to a private deck overlooking a peaceful south-facing shared yard. High ceilings and hardwood throughout.  A HUGE basement room to store one's gear or use as a home office is deeded to complete the unit. Both a walker's (97) and biker's (91) paradise with good transit options, 1821 Hayes is surrounded by local eateries and boutique shops and a close walk to Golden Gate Park. Secured leased parking available 2.5 blocks away on Fulton for $340/month.Read more</overview>
+	<listing_agent>
+		<agentName>Chris Carrigg</agentName>
+		<phoneNumber>415-332-7769</phoneNumber>
+		<agentLicenseNumber>License #01361235</agentLicenseNumber>
+		<postingGroupName>Proximity Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Proximity Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1908</key>
+		<key name="Heating:">Baseboard</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">None</key>
+		<key name="HOA:">$200/month</key>
+		<key name="Price/sqft:">No Data</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Baseboard</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: None</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1908</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $200/mo</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

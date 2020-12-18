@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$5,795,000</price>
+		<bd>3</bd>
+		<ba>3.5</ba>
+		<area>3,061</area>
+	</summary>
+	<address>
+		<street_address>2760 Lyon St,</street_address>
+		<city_state> San Francisco, CA 94123</city_state>
+	</address>
+	<overview>Sunshine abounds in this beautifully renovated home where every detail has been meticulously planned, from the large slabs of stone in the kitchen, to exquisitely appointed bathrooms and beautiful woodworking throughout. With nothing but one-hundred-year-old trees across the street and a peek of the Golden Gate Bridge, you will enjoy the sheer magnificence of all the Presidio has to offer. This one of a kind home is truly turnkey! Upstairs bedrooms have air conditioning. Walk-out garden off family room.Read more</overview>
+	<listing_agent>
+		<agentName>Debi DiCello</agentName>
+		<phoneNumber>415-901-1700</phoneNumber>
+		<agentLicenseNumber>License #00778719</agentLicenseNumber>
+		<postingGroupName>Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1967</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">1,877 sqft</key>
+		<key name="Price/sqft:">$1,893</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,061 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: Park</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.04 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0948025</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1967</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.44</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

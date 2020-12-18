@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2317 W YUMA St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$200,000</Price>
+		<Beds>5</Beds>
+		<Baths>2</Baths>
+		<key name="$123 / Sq. Ft.">1,626</key>
+	</main_stats>
+	<text_base_description>This is a very unique opportunity. The County Zoning is (C-G), Commercial General, The City Zoning is (C-3)Commercial and General  Commercial. It has been used as a residence and the tax bill shows it is a residential parcel as the ''property type'' and ''legal class''. There is an alley access to the property in back. It is located very close to I-17 and frontage road. The main house is 1626 square feet with 4 bedroom and one bathroom. There is a separate quest quarters in the back yard that is 495 square feet, with one bedroom, one bathroom, living room, kitchen and dining room. Some of the plumbing has been removed from the main house from the laundry room as well as the swamp cooler. Therefore, this will be sold in as-is condition with cash only (no loans).  </text_base_description>
+	<listed_by>
+		<name>Deborah Carlsen</name>
+		<org> HomeSmart</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$200,000</List_Price>
+		<Est._Mo._Payment>$746</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$123</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>13 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1946</Year_Built>
+		<Style>Ranch</Style>
+		<Community>RAINBOW VISTA</Community>
+		<Lot_Size>6,363 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6138174</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Range/Oven Electric</group_dat>
+						<group_dat>Eat-in Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Family Room, Guest Quarters (Separate Entrance)</group_dat>
+						<group_dat>Has Separate Den/Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Inside Laundry, Washer/Dryer Hookup Only</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Linoleum Floors</group_dat>
+						<group_dat>Fixer-Upper/Needs Repair</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Other Heating (See Remarks)</group_dat>
+						<group_dat>Other Cooling (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Multi-Unit Information, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 1</group_dat>
+						<group_dat># of Parking Spaces (Slab): 1</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 1</group_dat>
+						<group_dat>RV Gate, RV Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Planned Community Name: Rainbow Vista</group_dat>
+						<group_dat>Planned Community Name: Rainbow Vista</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Acacia</group_dat>
+						<group_dat>Junior High School: Acacia</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>Elementary School District: 021 - Murphy Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Wood Frame Construction</group_dat>
+						<group_dat>Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 2,122</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Utilities: Salt River Project</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Buckeye Rd and 25th Avenue</group_dat>
+						<group_dat>Census Tract: 6.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required, Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Childrens Play Area, Private Yard(s)/Courtyard(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 2,122</group_dat>
+						<group_dat>Approximate Sq. Ft. Range: 2,001-2,250</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Marketing Name: Rainbow Vista</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Additional Property Use: Other (See Remarks)</group_dat>
+						<group_dat>Tax Municipality: Peoria</group_dat>
+						<group_dat>Assessor Number: 105-07-057</group_dat>
+						<group_dat>Assessor's Book #: 105</group_dat>
+						<group_dat>Assessor's Map #: 7</group_dat>
+						<group_dat>Assessor's Parcel #: 57</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Alley, North/South Exposure</group_dat>
+						<group_dat>Chain Link Fencing</group_dat>
+						<group_dat>Landscaping: Dirt in Back, Dirt in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,626</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,626</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>6,363 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1946</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10507057</APN>
+	</public_facts>
+</home>

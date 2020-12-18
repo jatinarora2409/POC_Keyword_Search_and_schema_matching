@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$239,900</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>713</area>
+	</summary>
+	<address>
+		<street_address>360 W Washington Ave UNIT 1110,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Live, Work &amp; Play Downtown Madison!  Awesome 11th Fl, 1BR Condo w/private deck &amp; views of the city, lakes &amp; beautiful one acre Metro Place courtyard below.  Spacious LR, gas fireplace, open concept kitchen w/ breakfast bar, stainless appl (gas stove) &amp; new LVT flooring in kitchen/LR.  Large BR w/deep closet, full bath/ jetted tub &amp; stacked washer &amp; dryer.  All the perks of living downtown ... close to Lakes, State Street, Farmer's Market Capital, Overture Center, UW, grocery store, restaurants, shops, public transportation &amp; more!  Guest parking, fitness center, gated dog run, separate dog-friendly elevators &amp; on-site mgmt! Parking &amp; Storage located on 4th Fl, Parking #P526  Storage #414.  Assessment &amp; taxes reflect unit &amp; parking parcels. Condo fee $313.67, Parking fee $40.97 = $354.64.Read more</overview>
+	<listing_agent>
+		<agentName>Wendy Grunewald</agentName>
+		<phoneNumber>608-665-2060</phoneNumber>
+		<agentLicenseNumber>License #46618-90</agentLicenseNumber>
+		<postingGroupName>Century 21 Affiliated</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Affiliated</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2003</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">$336</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 713 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick, Stone</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923143550</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2003</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.78</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

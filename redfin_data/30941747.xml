@@ -1,0 +1,295 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>9702 Glengreen </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$229,900</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$92 / Sq. Ft.">2,500</key>
+	</main_stats>
+	<text_base_description>This gorgeous two story home located on a huge corner lot in the St. Augustine Park Estates. As soon as you walk in you are presented the charming first floor living and dining area, with luxury tile floors throughout, granite countertops, wooden kitchen cabinets with a breakfast bar  &amp;  gas stove with pot filler, &amp;  a beautiful staircase. This home is 4 bedrooms, 3 baths, includes a master bedroom with a walk in closet, a stand up shower with extravagant tile work showcased in all showers, a study  &amp;  a huge 2nd floor living space. Need a big backyard with easy access to bring any big trailers or park multiple cars, this property is ideal for that or just a nice private place to enjoy in your down time.  </text_base_description>
+	<listed_by>
+		<name>Olivia Izaguirre</name>
+		<org> • Decorative Real Estate </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$229,900</List_Price>
+		<Est._Mo._Payment>$1,435</Est._Mo._Payment>
+		<Redfin_Estimate>$223,449</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$92</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>30 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1972</Year_Built>
+		<Style>Single Detached</Style>
+		<Community>ST AUGUSTINE PARK ESTATES</Community>
+		<Lot_Size>10,454 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14430407</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, School / Neighborhood, Location Details</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking &amp; Garage</item>
+					<item>
+						<item># of Parking Spaces (Garage): 1</item>
+						<item># of Parking Spaces (Total Covered): 1</item>
+						<item>Garage Dimensions: 10 x 12</item>
+						<item>Attached, Covered, Front, Garage, On Street, Rear, Side</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Pleasantgr</item>
+						<item>Middle School Name: Florence</item>
+						<item>High School Name: Samuell</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: ST AUGUSTINE PARK ESTATES</item>
+						<item>Directions: Please use navigation.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 3</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item># of Rooms: 12</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 1 Information</item>
+					<item>
+						<item>Room Type: Living Room</item>
+						<item>Level: 1</item>
+						<item>Dimensions: 16 x 15</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 2 Information</item>
+					<item>
+						<item>Room Type: Master Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 19 x 11</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 3 Information</item>
+					<item>
+						<item>Room Type: Full Bath</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 6 x 5</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 4 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 11 x 9</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 5 Information</item>
+					<item>
+						<item>Room Type: Full Bath</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 6 x 5</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 6 Information</item>
+					<item>
+						<item>Room Type: Kitchen</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 8 x 7</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 7 Information</item>
+					<item>
+						<item>Room Type: Dining Room</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 11</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 8 Information</item>
+					<item>
+						<item>Room Type: Living Room</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: 21 x 18</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 9 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: 17 x 11</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 10 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: 17 x 10</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 11 Information</item>
+					<item>
+						<item>Room Type: Library/Study</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: 17 x 10</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 12 Information</item>
+					<item>
+						<item>Room Type: Full Bath</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: 8 x 6</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Cable TV Available, High Speed Internet Available</item>
+						<item># of Dining Areas: 1</item>
+						<item>Flooring: Ceramic Tile, Luxury Vinyl Plank</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central A/C (Electric), Central Heat (Electric)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Pre-Owned</item>
+						<item>Building Area Source: Tax</item>
+						<item>Foundation: Slab</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Covered Porch(es), Patio Covered, Private Outdoor Space</item>
+						<item>Roof: Composition</item>
+						<item>Exterior Construction: Brick</item>
+						<item>Fencing: Iron, Wood</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Utilities</item>
+			<item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>Alley, City Sewer, City Water, Curbs, Sidewalk</item>
+					</item>
+				</item>
+				<item>
+					<item>Green Features</item>
+					<item>
+						<item>Ceiling Fans</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Living Areas: 2</item>
+						<item>For Sale</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item># of Stories: 2</item>
+						<item>Cooktop (Gas), Disposal, Water Line to Refrigerator</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Features: Corner</item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.240</item>
+						<item>Area Sq. Ft.: 10,454.4</item>
+						<item>Parcel Number: 00000626487710000</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Agent &amp; Office Information</item>
+			<item>
+				<item>
+					<item>Listing Agent &amp; Office Information</item>
+					<item>
+						<item>Co-Listing Agent Direct Work Phone: 214-422-0195</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>2,500</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,500</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>8,398 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1972</Year_Built>
+		<Year_Renovated>1972</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000626487710000</APN>
+	</public_facts>
+</home>

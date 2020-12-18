@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8314 Utica Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$249,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>APN 5567-021-022  &amp;  023.  TWO side by side lots sold as one!  Take this rare opportunity to build a brand new luxury home perched on top of Hollywood Hills with canyon views! These two side by side lots are paper street lots with paved road nearby and lots are appx 8,000 SF (lots combined), zoned R1. Utilities should be nearby. No reports or survey. Surrounded by million dollar homes and minutes to Laurel Canyon, Sunset Strip, freeway access, restaurants, shops, and entertainment! Lots like this don't last long in this market. Drive by and make an offer. Buyer to verify all information and rely on their own investigations. Sold AS IS  &amp;  WHERE IS.  </text_base_description>
+	<listed_by>
+		<name>Shawn S. Kormondy</name>
+		<agentLicenseDisplay>•DRE #01451888</agentLicenseDisplay>
+		<org>•DRE #01451888</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$249,000</List_Price>
+		<Est._Mo._Payment>$1,148</Est._Mo._Payment>
+		<Redfin_Estimate>$243,233</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Residential Land</Property_Type>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>8,000 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-642472</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Taxes / Assessments, Financing, Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5567-021-023</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Listing Terms: Cash, Cash To New Loan</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Directions: Lots are to the right of 8312 Utica Dr</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: As Is</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Land</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 8,000</item>
+						<item>Lot Size (Acres): 0.0918</item>
+						<item>Zoning: LAR1</item>
+						<item>Special Zoning: Property Report</item>
+						<item>Lot Description: 2-4 Lots</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item>Has View</item>
+						<item>View: City Lights, Canyon</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Listing Information</item>
+			<item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Listing Terms: Cash, Cash To New Loan</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5567-021-023</APN>
+	</public_facts>
+</home>

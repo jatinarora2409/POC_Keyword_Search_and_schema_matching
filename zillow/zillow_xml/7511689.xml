@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$210,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,361</area>
+	</summary>
+	<address>
+		<street_address>4019 W Almeria Rd,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Wow! Incredible opportunity to own this genuine single level home located in popular Phoenix. Providing great curb appeal, slab parking, RV gate, and beautiful grassy front landscaping. You will absolutely love this welcoming interior complete with 4 bed, 3 bath, designer paint tones, living/dining room, and perfectly sized bedrooms. Come take a look at this unique kitchen with plenty cabinet/counter space and appliances ready to be used. Inside this bright master bedroom you will find a walk-in closet and spotless full bathroom. Out the back you have a covered patio, 2 detached car garage, RV parking, and so much potential to get creative and make this place your own. You know you have found the one. Hurry come see this inviting home today before it's too late!Read more</overview>
+	<listing_agent>
+		<agentName>Gonzalo Contreras</agentName>
+		<phoneNumber>480-685-2760</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>My Home Group Real Estate</postingGroupName>
+		<postingWebsiteLinkText>My Home Group Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1946</key>
+		<key name="Heating:">Other, Electric</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">7,457 sqft</key>
+		<key name="Price/sqft:">$154</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Laundry features: Inside Laundry</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,361 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement / Concrete</item>
+				<item>Fencing: Chain Link, Block, Wrought Iron</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,457 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10822013</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1946</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: SRP</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

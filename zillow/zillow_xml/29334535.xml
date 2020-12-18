@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,275,000</price>
+		<bd>5</bd>
+		<ba>5</ba>
+		<area>4,516</area>
+	</summary>
+	<address>
+		<street_address>1817 Chalk Rock Cv,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>NEW PRICE! Austin's coveted Barton Creek neighborhood is an ideal location to love a community that offers a renowned Country Club/Resort lifestyle that can be enjoyed with a social membership that includes dining, fitness and pool amenities. This custom home has a timeless exterior and interior design. A generous sized study plus the 5th bedroom or 2nd study on the main level offers many choices. The main living, kitchen, breakfast area and master suite look out to a large private back yard with Sport Court and plenty of room for a pool. 3 bedrooms with their own private baths, a study loft plus a great media room completes the second level. St. Michaels &amp; St. Gabriel's schools located in neighborhood.Read more</overview>
+	<listing_agent>
+		<agentName>Jeanne White</agentName>
+		<phoneNumber>512-327-4800</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Kuper Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Kuper Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2001</key>
+		<key name="Heating:">Forced air, Electric, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">0.35 Acres</key>
+		<key name="Price/sqft:">$282</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 4,516 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stone, Stucco</item>
+				<item>Patio and porch details: Patio, Covered</item>
+				<item>Residential vegetation: Trees-Medium (20 Ft - 40 Ft)</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.35 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01153601120000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2001</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2001</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 80.79</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

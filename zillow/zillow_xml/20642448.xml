@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,549,000</price>
+		<bd>6</bd>
+		<ba>3</ba>
+		<area>2,232</area>
+	</summary>
+	<address>
+		<street_address>5339 Oakland St,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Welcome to 5339 Oakland St located int he heart of Los Angeles surrounded by South Pasadena,El Sereno,Monterey Hills &amp; Alhambra. This triplex features 2 bedrooms &amp; 1 bathroom each unit. Each unit is also detached so your not sharing common walls &amp; its centrally located supermarkets,parks,freeways etc. This property is zoned LARD1.5 so you may have the opportunity to build new units from scratch or keep this units for as an investment property.Front unit has been completely remodeled &amp; the the other 2 units need some updating. Water mainline is brand new,copper plumbing,roofs are in good condition.Please reach out to your local Realtor for more info today!Read more</overview>
+	<listing_agent>
+		<agentName>Cesar Hernandez</agentName>
+		<phoneNumber>818-892-9314</phoneNumber>
+		<agentLicenseNumber>License #01943094</agentLicenseNumber>
+		<postingGroupName>Century 21 Plaza</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Plaza</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$694</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 6</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 2,232 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: On-street</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Exterior features: Stucco</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,331 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5219003020</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Windows: Double Pane Windows</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1959</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1959</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric information: Standard</item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.56</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

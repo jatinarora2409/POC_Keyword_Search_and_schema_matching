@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,350,000</price>
+		<bd>4</bd>
+		<ba>5</ba>
+		<area>3,908</area>
+	</summary>
+	<address>
+		<street_address>3836 Oak Hill Ave,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Come see this spectacular 3,908 sq/ft home in the secluded hillside of Los Angeles.  This beautiful home features an open floor plan with hardwood flooring and high ceilings throughout. Gourmet kitchen boasts a walk-in panty, granite countertops and cabinets with ample space. The upstairs family room is spacious enough to hold a pool table.  Master suite features balcony, walk-in closet and relaxing bathroom. Lush front and backyard for family gatherings, entertainment or gardening. Conveniently located nearby 5, 10, 60, 101 and 110 freeways.  Centrally located: 3 miles from DTLA, 4 miles from Pasadena and 4.5 miles from AlhambraRead more</overview>
+	<listing_agent>
+		<agentName>Brian Ngoy</agentName>
+		<phoneNumber>626-444-6696</phoneNumber>
+		<agentLicenseNumber>License #01821280</agentLicenseNumber>
+		<postingGroupName>MILANO REALTY</postingGroupName>
+		<postingWebsiteLinkText>MILANO REALTY</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">7,535 sqft</key>
+		<key name="Price/sqft:">$345</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 4</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Washer</item>
+				<item>Laundry features: Individual Room, Inside, Washer Hookup, Gas &amp; Electric Dryer Hookup, Upper Level, Common Area</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 3,908 sqft</item>
+				<item>Fireplace features: Family Room</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Doors - Swing in, Parking</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Two</item>
+				<item>Stories: 1</item>
+				<item>Spa features: Bath</item>
+				<item>Exterior features: Stone, Stucco</item>
+				<item>Patio and porch details: Deck, Patio Open, Wood, Patio</item>
+				<item>View description: Territorial, City, Mountain</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,535 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5302024005</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Tile</item>
+				<item>Windows: Shutters, Screens, Plantation Shutters</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2005</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.36</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>10311 Elam Rd </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$75,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>This Lot is in a great location, and also have 3 additional lots attached, aprox 1.601 ac's + or - total. Great for investment property. House does need some updating, Great location, would be good for rental or new builds good deep lots for building on, Perfect site if you need lot's of parking, you will have room for anything, Conveniently located, access to HWY 635 and HWY 175, Lot's 4,5,and 6, 7 also listed individually. Great area for growth. Please contact Listing Agent if you have any questions.  </text_base_description>
+	<listed_by>
+		<name>Julie Henderson</name>
+		<org> Coldwell Banker Apex, REALTORS</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$75,000</List_Price>
+		<Est._Mo._Payment>$363</Est._Mo._Payment>
+		<Redfin_Estimate>$67,738</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>48 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>BIRD SONG ACRES</Community>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<key name="MLS#">14418963</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Cuellar</group_dat>
+						<group_dat>Middle School Name: Florence</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BIRD SONG ACRES UNREC BLK A/6690 PT LT 7 LESS</group_dat>
+						<group_dat>Unexempt Taxes: $547</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Restrictions: Deed</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: A/669</group_dat>
+						<group_dat>Development: City Limits</group_dat>
+						<group_dat>Easements: Utilities</group_dat>
+						<group_dat>Lot Number: 7</group_dat>
+						<group_dat>Features: Interior Lot</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.394</group_dat>
+						<group_dat>Area Sq. Ft.: 17,162.64</group_dat>
+						<group_dat>Parcel Number: 00000624646000000</group_dat>
+						<group_dat>Road Frontage: Concrete, Sidewalk</group_dat>
+						<group_dat>Will Subdivide</group_dat>
+						<group_dat>Zoning: Residential</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: BIRD SONG ACRES</group_dat>
+						<group_dat>Directions: From Mesquite Tx, Take I-635 South, Exit 1B onto Elam Rd, Turn Right and go aprox one a 1.6 the destination is on your Right, signs are on property.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000624646000000</APN>
+	</public_facts>
+</home>

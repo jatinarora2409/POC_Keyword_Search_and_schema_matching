@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,375,000</price>
+		<bd>4</bd>
+		<ba>4</ba>
+		<area>2,464</area>
+	</summary>
+	<address>
+		<street_address>7851 Electra Dr,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Situated in the prestigious Mount Olympus, this 4 bedroom Mediterranean gem evokes architectural charm with classic upgrades. Upon entering this home you will find a well-appointed floor plan with the living, dining, kitchen, and family rooms all leading to their own outside portion of the large lushly landscaped backyard equipped with pool and spa. Exceptional chefs kitchen with granite counter-tops and stainless steel appliances connects seamlessly to the formal dining room and spacious family room. The Master retreat includes a walk-in closet and spa-like bath. Spacious backyard boasts canyon views, pool, spa and exceptional areas for lounging and dining al fresco. Conveniently located within minutes from the Sunset Strip and the  best shopping and dining LA has to offer.Read more</overview>
+	<listing_agent>
+		<agentName>Benj Lester</agentName>
+		<phoneNumber>310-623-1300</phoneNumber>
+		<agentLicenseNumber>License #02033314</agentLicenseNumber>
+		<postingGroupName>Keller Williams Hollywood Hills</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Hollywood Hills</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1975</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">0.29 acres</key>
+		<key name="Price/sqft:">$964</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, None</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 2,464 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Other</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.29 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5569018049</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1975</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1975</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 93.88</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

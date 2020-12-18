@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8121 Gould Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,100,000</Price>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<key name="$1215 / Sq. Ft.">1,729</key>
+	</main_stats>
+	<text_base_description>Absolutely striking Hollywood Hills Modern tree house! Extensively remodeled from top to bottom with the finest finishes! A stunning contemporary showplace with beautiful views and complete privacy! A gated entrance takes you to this open concept floor plan with three bedroom suites, gorgeous all new center island kitchen, new wood floors and bathrooms and so much more! Boasting epic walls of glass to enhance the views and setting amongst the spectacular mature trees and landscape. The outdoor lounge area provides a waterfall, built in seating, fire pit, sound system and custom tile. There is a 2 car covered carport and ample street parking. Among the homes many other attributes are a killer master suite with built in center island drawers, two walk in closets and a stunning bathroom with new steam shower. Specialty lighting, state of the art kitchen appliances and much more complete this exciting Laurel Canyon Estate! </text_base_description>
+	<listed_by>
+		<name>Jordan Cohen</name>
+		<agentLicenseDisplay>•DRE #01103362</agentLicenseDisplay>
+		<org> RE/MAX One</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,100,000</List_Price>
+		<Est._Mo._Payment>$9,683</Est._Mo._Payment>
+		<Redfin_Estimate>$2,078,905</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,215</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 days</Time_on_Redfin>
+		<Property_Type>Single Family Residence</Property_Type>
+		<Year_Built>1960</Year_Built>
+		<Style>Contemporary, Modern</Style>
+		<Community>C03 - Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>4,828 Sq. Ft.</Lot_Size>
+		<key name="MLS#">SR20208991</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Has Laundry</group_dat>
+						<group_dat>Individual Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Appliances: Dishwasher, Electric Stove, Freezer, Garbage Disposal, Refrigerator, Warmer Oven Drawer</group_dat>
+						<group_dat>Has Appliances</group_dat>
+						<group_dat>Area, Breakfast Counter / Bar</group_dat>
+						<group_dat>Kitchen Island, Kitchen Open to Family Room, Remodeled Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat>Remodeled, Separate tub and shower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Cooling Information</heading>
+					<group_data>
+						<group_dat>Central</group_dat>
+						<group_dat>Has Cooling</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Family Room, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Has Fireplace</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile, Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating Information</heading>
+					<group_data>
+						<group_dat>Central Furnace</group_dat>
+						<group_dat>Has Heating</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Balcony, Open Floor Plan, Recessed Lighting, Wired for Sound</group_dat>
+						<group_dat>Levels: Two</group_dat>
+						<group_dat>Main Level Bathrooms: 1</group_dat>
+						<group_dat>Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking / Garage Information</heading>
+					<group_data>
+						<group_dat># of Carport Spaces: 2</group_dat>
+						<group_dat>Carport Detached</group_dat>
+						<group_dat>Has Parking</group_dat>
+						<group_dat># of Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: District/Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.10591800</group_dat>
+						<group_dat>Longitude: -118.36768300</group_dat>
+						<group_dat>Directions: Laurel Canyon to Gould Avenue</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Exterior Information</heading>
+					<group_data>
+						<group_dat>House</group_dat>
+						<group_dat>Roof: Flat Roof</group_dat>
+						<group_dat>Construction Materials: Other, Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio And Porch Features: Patio, Tile</group_dat>
+						<group_dat>Has Patio</group_dat>
+						<group_dat>Pool Features: None</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Urban</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>High School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Elevation Units: Feet</group_dat>
+						<group_dat>Lot Size Source: Assessor's Data</group_dat>
+						<group_dat>Lot Features: Down Slope from Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Total # of Units: 1</group_dat>
+						<group_dat>Common Walls: No Common Walls</group_dat>
+						<group_dat>Parcel Number: 5556001007</group_dat>
+						<group_dat>Property Condition: Turnkey, Updated/Remodeled</group_dat>
+						<group_dat>Total # of Stories: 2</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>1,698</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,698</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>4,828 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1960</Year_Built>
+		<Year_Renovated>1998</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5556001007</APN>
+	</public_facts>
+</home>

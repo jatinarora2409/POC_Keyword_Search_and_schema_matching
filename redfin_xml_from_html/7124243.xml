@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8400 Edwin Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,735,000</Price>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<key name="$1140 / Sq. Ft.">2,400</key>
+	</main_stats>
+	<text_base_description>Welcome to this COMPLETELY REBUILT CONTEMPORARY RENOVATION in 2020 in Wonderland School District. This exclusive, private  &amp;  quiet retreat w/ a wide-open floor plan has tremendous INDOOR  &amp;  OUTDOOR FLOW for entertaining. Home features: Fleetwood sliding glass doors, high soaring ceilings, large walls for art installations, gourmet kitchen w/ oversized island, large fireplace, wide plank hardwood floors throughout  &amp;  touch screen controls. The huge backyard w/ VIEWS of the canyons  &amp;  mountains features an oversized wonderful grass area for picnicking, entertaining, ball games, play w/ ample room for a pool. The spacious  &amp;  inviting cul-de-sac is also great for kids  &amp;  perfect for bike riding, skating  &amp;  hoops. If nature, peace, tranquility  &amp;  privacy is your thing, this modern gem can be called HOME. Ideal practical location super close to Beverly Hills, West Hollywood, Studio City  &amp;  seconds from LAs best hiking trails. An exceptional value for quality construction in desirable Laurel Hills.  </text_base_description>
+	<listed_by>
+		<name>Tony Berns</name>
+		<agentLicenseDisplay>•DRE #01737527</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,735,000</List_Price>
+		<Est._Mo._Payment>$12,611</Est._Mo._Payment>
+		<Redfin_Estimate>$2,731,831</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,140</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>9 days</Time_on_Redfin>
+		<Property_Type>Residential Single-Family</Property_Type>
+		<Year_Built>1962</Year_Built>
+		<Style>Mid-Century</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>10,198 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-640122</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Tennis</group_dat>
+						<group_dat>Athletic Court: Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Suite, All Bedrooms Down, Master Retreat, WalkInCloset, Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat>Double Vanity(s), Low Flow Toilet(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Cooktop - Gas</group_dat>
+						<group_dat>Gourmet Kitchen, Remodeled, Open to Family Room, Island</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Room, Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area, In Kitchen, Kitchen Island, Formal Dining Room, Breakfast Area</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Center Hall, Master Bedroom, Walk-In Closet, Living Room, Family Room, Entry Room, Utility Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Furnished Or Unfurnished</group_dat>
+						<group_dat>Furnished, Storage Space, Recessed Lighting, Open Floor Plan, Common Walls</group_dat>
+						<group_dat>Main Level</group_dat>
+						<group_dat>Windows: Double Pane Windows, Garden Window</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Family Room</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Built-Ins, Cable, Ceiling Fan, Dishwasher, Garbage Disposal, Range/Oven, Refrigerator</group_dat>
+						<group_dat>220V In Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Dual Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+						<group_dat>Water Heater Features: Gas, Tankless</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Above Street Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>One Level</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Accessibility: Doors - Swing In</group_dat>
+						<group_dat>Faces South</group_dat>
+						<group_dat>Security Features: Carbon Monoxide Detector(s), Prewired for alarm system</group_dat>
+						<group_dat>Foundation - Concrete Slab</group_dat>
+						<group_dat>Exterior Construction: Frame, Glass</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Patio Features: Concrete Slab, Covered, Patio Open</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Lease / Rent Details, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5565-040-035</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Lease Option</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Off Allenwood, south of Mulholland</group_dat>
+						<group_dat>Cross Streets: Allenwood and Mulholland</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled, New Construction</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 10,198</group_dat>
+						<group_dat>Lot Size (Acres): 0.2341</group_dat>
+						<group_dat>Lot Size Dimensions: 106 x 84</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+						<group_dat>Lot Location: Cul-De-Sac</group_dat>
+						<group_dat>Lot Description: Back Yard</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Block Wall</group_dat>
+						<group_dat>Front Sprinklers, Rear Sprinklers</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, City</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,369</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,369</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>10,198 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1962</Year_Built>
+		<Year_Renovated>1962</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5565040035</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$698,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>554</area>
+	</summary>
+	<address>
+		<street_address>1075 Market St #610,</street_address>
+		<city_state> San Francisco, CA 94103</city_state>
+	</address>
+	<overview>This modern 1bd/1ba condo in the midst of Market Street is the embodiment of urban living in San Francisco. In this location, everything you need is a short walk or bike ride away. The unit features a sleek modern design and appliances with peak energy efficiency. It comes with a dedicated bike parking space, a spacious storage area, in-unit washer/dryer and a balcony. The building, Stage 1075, totes a historic background and LEED Gold status.Read more</overview>
+	<listing_agent>
+		<agentName>Canlas Brothers</agentName>
+		<phoneNumber>661-917-2224</phoneNumber>
+		<agentLicenseNumber>License #01777889</agentLicenseNumber>
+		<postingGroupName>JSL Realty, Inc.</postingGroupName>
+		<postingWebsiteLinkText>JSL Realty, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2018</key>
+		<key name="Heating:">Baseboard</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">None</key>
+		<key name="HOA:">$665/month</key>
+		<key name="Price/sqft:">$1,260</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Baseboard</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 554 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Cement concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3703311</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2018</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $665/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $424,377</item>
+				<item>Annual tax amount: $5,810</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

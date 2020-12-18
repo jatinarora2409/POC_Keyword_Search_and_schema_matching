@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$275,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2145 W Warren Blvd #3,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Top floor 2 bed 2 bath condo with interior stairs to rooftop and skyline views just waiting to be finished out to your liking! 1 secured exterior parking spot included in the price. This unit spared no expense on windows. You'll have the option for natural light throughout. Living room with treetop views from the Juliette balcony and a 7.1 hardwired surround speaker system. Kitchen with ample storage, granite counters, stainless steel appliances, wine fridge, backsplash, under-mount sink, a window above the sink, under cabinet lighting, and an island. Owner's suite with dual vanity in the bath and an additional new deck off the back. Newly finished oak hardwood floors throughout. Freshly painted. Aprilaire Humidifier on HVAC. Newer water heater. Newer stackable in-unit washer/dryer. Additional storage closet in the basement. Healthy well run association. Terrific location. Close proximity to loads of public transit options including the planned Green Line Damen stop (currently scheduled to be completed in 2021). United center, Pete's Fresh Market, Metric Coffee, Union Park all part of your new neighborhood!Read more</overview>
+	<listing_agent>
+		<agentName>Jenna Chandler</agentName>
+		<phoneNumber>312-319-1168</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$108/mo</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Off-street, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,019 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17073300571003</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2005</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

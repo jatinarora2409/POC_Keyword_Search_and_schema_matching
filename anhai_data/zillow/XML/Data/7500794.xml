@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$200,000</price>
+		<bd>5</bd>
+		<ba>2</ba>
+		<area>1,626</area>
+	</summary>
+	<address>
+		<street_address>2317 W Yuma St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>This is a very unique opportunity. The County Zoning is (C-G), Commercial General, The City Zoning is (C-3)Commercial and General  Commercial. It has been used as a residence and the tax bill shows it is a residential parcel as the ''property type'' and ''legal class''. There is an alley access to the property in back. It is located very close to I-17 and frontage road. The main house is 1626 square feet with 4 bedroom and one bathroom.There is a separate quest quarters in the back yard that is 495 square feet, with one bedroom, one bathroom, living room, kitchen and dining room.Some of the plumbing has been removed from the main house from the laundry room as well as the swamp cooler. Therefore, this will be sold in as-is condition with cash only (no loans).Read more</overview>
+	<listing_agent>
+		<agentName>Deborah Carlsen</agentName>
+		<phoneNumber>623-889-7100</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>HomeSmart</postingGroupName>
+		<postingWebsiteLinkText>HomeSmart</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1946</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,364 sqft</key>
+		<key name="Price/sqft:">$123</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 5</detail>
+				<detail>Bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Range / Oven</detail>
+				<detail>Laundry features: Inside Laundry, Wshr/Dry HookUp Only</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,626 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Carport, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+				<detail>Fencing: Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,364 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10507057</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1946</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: SRP</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $84,500</detail>
+				<detail>Annual tax amount: $394</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6138174</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Architecture: Ranch</detail>
+				<detail>Dining Area: Eat-in Kitchen</detail>
+				<detail>Exterior Features: Childrens Play Area, Pvt Yrd(s)/Crtyrd(s)</detail>
+				<detail>Features: Fix-Up Needs Repair</detail>
+				<detail>Fencing: Chain Link</detail>
+				<detail>Other Rooms: Family Room, Guest Qtrs-Sep Entrn</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Property Description: North/South Exposure, Alley</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Utilities: SRP</detail>
+				<detail>Water: City Water</detail>
+				<detail>Cooling: Other (See Remarks)</detail>
+				<detail>Heating: Other (See Remarks)</detail>
+				<detail>Source of SqFt: County Assessor</detail>
+				<detail>Laundry: Inside Laundry, Wshr/Dry HookUp Only</detail>
+				<detail>Construction: Frame - Wood</detail>
+				<detail>Const - Finish: Stucco</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Services: City Services</detail>
+				<detail>Add'l Property Use: Other (See Remarks)</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Flooring: Linoleum</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Kitchen Features: Range/Oven Elec</detail>
+				<detail>Parking: RV Parking, RV Gate</detail>
+				<detail>Landscaping: Dirt Back, Dirt Front</detail>
+				<detail>Tax Municipality: Peoria</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>Separate Den/Office: Sep Den/Office Y/N: Y</detail>
+				<detail>High School: Carl Hayden High School</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

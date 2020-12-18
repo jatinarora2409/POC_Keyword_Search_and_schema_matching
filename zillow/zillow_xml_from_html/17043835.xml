@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$545,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,540</area>
+	</summary>
+	<address>
+		<street_address>3240 Sweetwater Rd,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>Nestled up in Lemon Grove this spacious 4 Bed 2 Bath Ranch Style home is the home you have been looking for! This home offers wood flooring, granite counter tops, stainless steel appliances and large backyard complete with playground. This home is conveniently located next to 125 freeway and easy to access without compromising privacy. Perfect combination of Comfort and accessibility.Read more</overview>
+	<listing_agent>
+		<agentName>Blake Miller</agentName>
+		<phoneNumber>619-233-5935</phoneNumber>
+		<agentLicenseNumber>License #02071634</agentLicenseNumber>
+		<postingGroupName>Keller Williams SD Metro</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams SD Metro</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2013</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">9 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">0.25 acres</key>
+		<key name="Price/sqft:">$354</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,540 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Garage spaces: 9</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Wood</detail>
+				<detail>Fencing: Partial, Full, Good Condition, Privacy</detail>
+				<detail>Topography of land: Slope Gentle</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.25 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5031402600</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2013</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1980</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 77.41</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Lemon Grove</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $443,957</detail>
+				<detail>Annual tax amount: $5,408</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 200045421</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Sale/Rent: For Sale</detail>
+				<detail>Heat Equipment: Forced Air Unit</detail>
+				<detail>Heat Source: Natural Gas</detail>
+				<detail>Laundry Location: Laundry Room</detail>
+				<detail>Laundry Utilities: Gas</detail>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Exterior: Wood, Asphalt</detail>
+				<detail>Pool: N/K</detail>
+				<detail>Searchable Rooms: N/K</detail>
+				<detail>Prop Restrictions Known: None Known</detail>
+				<detail>Water: Available</detail>
+				<detail>Sales Restrictions: Call Agent</detail>
+				<detail>Complex Features: Playground</detail>
+				<detail>Community: LEMON GROVE</detail>
+				<detail>Additional Property Use: With Structures</detail>
+				<detail>Market Area: East County</detail>
+				<detail>Age Restrictions: N/K</detail>
+				<detail>Equipment: Dishwasher, Microwave, Refrigerator, Shed(s), Dryer, Gas Stove, Counter Top, Ice Maker, Gas Oven</detail>
+				<detail>Roof: Shingle</detail>
+				<detail>Sewer/Septic: Unknown</detail>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bedrooms Total: 4</detail>
+				<detail>Bedroom 2 Dimensions: 12X11</detail>
+				<detail>Optional Bedrooms: 0</detail>
+				<detail>Master Bedroom Dimensions: 12x13</detail>
+				<detail>Bedroom 3 Dimensions: 11x9</detail>
+				<detail>Dining Room Dimensions: 10x8</detail>
+				<detail>Kitchen Dimensions: 12x7</detail>
+				<detail>Bedroom 4 Dimensions: 11x9</detail>
+				<detail>Family Room Dimensions: 19x16</detail>
+				<detail>Neighborhood: Lemon Grove</detail>
+				<detail>Assessors Parcel #: 503-140-26-00</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

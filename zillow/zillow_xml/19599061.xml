@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$899,900</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>1,019</area>
+	</summary>
+	<address>
+		<street_address>644 Scott Blvd,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>COME HOME to your classic ranch retreat! Half a block from the neighborhood organic market in the middle of beautiful Santa Clara, you'll benefit from quality Santa Clara schools.  You'll have more avocados than you can ever eat from the huge tree in the cool newly landscaped backyard. The ample lot provides opportunities for expansion of the home.  Newly refinished red oak floors original from the 1940s await your arrival.   As well,  this home boasts a new kitchen floor, newly painted lath and plaster walls. The original heating system was updated to a forced air system.  As well, the electrical service panel was updated.  Dual pane windows have been installed throughout except in two locations of the home's living space.  This is one of the last homes in the Old Mission Tract to retain its octagonal guest closet window in the entry. The new landscaping was installed with automatic sprinklers.  Washer and dryer in the garage are included. Termite and roof reports are provided. Lot and living area size and year constructed are from public record: buyers to verify these and all representations.  Buyer to verify schools in the listing. Room for RV parking on right side of home with wide double gate admitting entry to back yard.Read more</overview>
+	<listing_agent>
+		<agentName>George Milinovich</agentName>
+		<phoneNumber>949-388-3888</phoneNumber>
+		<agentLicenseNumber>License #00512130</agentLicenseNumber>
+		<postingGroupName>George Milinovich, Broker</postingGroupName>
+		<postingWebsiteLinkText>George Milinovich, Broker</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1947</key>
+		<key name="Heating:">Forced air, Electric, Gas</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,172 sqft</key>
+		<key name="Price/sqft:">$883</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Garbage disposal, Washer</item>
+				<item>Laundry features: Dryer Included, Washer Included, In Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 1,019 sqft</item>
+				<item>Fireplace features: Living Room, Masonry, Wood Burning</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco, Brick</item>
+				<item>Patio and porch details: Slab, Patio</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,172 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 29406010</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Ranch</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Additions/Alterations</item>
+				<item>New construction: No</item>
+				<item>Year built: 1947</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1947</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric information: 220 Volts in Garage</item>
+				<item>Sewer information: Public Sewer</item>
+				<item>Utilities for property: Water Connected, Phone Connected, Sewer Connected, Electricity Connected, Natural Gas Connected, Cable Connected</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.46</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

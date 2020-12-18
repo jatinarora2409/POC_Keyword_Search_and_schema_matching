@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>5326 43rd St NW </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,349,999</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$509 / Sq. Ft.">2,650</key>
+	</main_stats>
+	<text_base_description>Fabulous location in the heart of Chevy Chase, walk to Metro, shops, restaurants. Tastefully renovated, spacious 3 bdrm, 3.5 ba with open floorpan.  </text_base_description>
+	<listed_by>
+		<name>Maile Ramzi</name>
+		<org> Fairfax Realty of Tysons</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,349,999</List_Price>
+		<Est._Mo._Payment>$5,827</Est._Mo._Payment>
+		<Redfin_Estimate>$1,314,266</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$509</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>365 days</Time_on_Redfin>
+		<HOA_Dues>$357/month</HOA_Dues>
+		<Year_Built>1998</Year_Built>
+		<Style>Federal</Style>
+		<Community>CHEVY CHASE</Community>
+		<Lot_Size>1,060 Sq. Ft.</Lot_Size>
+		<key name="MLS#">DCDC444208</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On 2nd Upper Level: 2</group_dat>
+						<group_dat># of Bedrooms On 3rd Upper Level: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Half) On 1st Upper Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On 2nd Upper Level: 2</group_dat>
+						<group_dat># of Bathrooms (Full) On 3rd Upper Level: 1</group_dat>
+						<group_dat># of Bathrooms (Half) On All Upper Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Upper Levels: 3</group_dat>
+						<group_dat># of Bathrooms (Half): 1</group_dat>
+						<group_dat># of Bathrooms (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Living Area Sq.Ft. Source: Estimated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Laundry Type: Upper Floor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Attached Garage Spaces: 2</group_dat>
+						<group_dat>Garage Features: Garage - Rear Entry</group_dat>
+						<group_dat># of Total Garage and Parking Spaces: 2</group_dat>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat>Attached Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA/Condo/Coop Fee Includes: Common Area Maintenance, Fiber Optics at Dwelling, Lawn Care Front, Management, Reserve Funds, Snow Removal, Trash</group_dat>
+						<group_dat>HOA Fee: $357.51</group_dat>
+						<group_dat>HOA Fee Frequency: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>School District Source: Listing Agent</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>90% Forced Air, Forced Air</group_dat>
+						<group_dat>Heating Fuel: Natural Gas</group_dat>
+						<group_dat>Hot Water: Natural Gas</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>City/Town Tax: $11,685</group_dat>
+						<group_dat>Tax Assessed Value: $1,419,760</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $11,685</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Rental Information</heading>
+					<group_data>
+						<group_dat>Total Actual Rent: $81,600</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>In City Limits</group_dat>
+						<group_dat>Cross Street: Military Road</group_dat>
+						<group_dat>Directions: North on Wisconsin Ave towards Mazza Gallerie, R on Jenifer St (turns into 43rd St) to 5326 on Left. </group_dat>
+						<group_dat>Transportation: Airport less than 10 miles, Metro/Subway Station less than 1 mile</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Not Federal Flood Zone</group_dat>
+						<group_dat>Property Manager Present</group_dat>
+						<group_dat>Accessibility Features: Other</group_dat>
+						<group_dat>Irrigation Water Rights</group_dat>
+						<group_dat>Horse: No</group_dat>
+						<group_dat>Improvement Assessed Value: $1,007,320</group_dat>
+						<group_dat>Ownership Interest: Fee Simple</group_dat>
+						<group_dat>Property Condition: Very Good</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+						<group_dat>Year Major Reno/Remodel: 2016</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Builder Name: EYA</group_dat>
+						<group_dat>Construction Materials: Brick</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Pets Allowed: Yes</group_dat>
+						<group_dat>Pet Restrictions: Breed Restrictions</group_dat>
+						<group_dat>Roof: Asphalt</group_dat>
+						<group_dat>Structure Type: Interior Townhouse/Rowhouse</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $412,440</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 2,650</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Estimated</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<Finished_Sq._Ft.>2,250</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,250</Total_Sq._Ft.>
+		<Stories>3.5</Stories>
+		<Lot_Size>1,060 Sq. Ft.</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1998</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>1661    0826</APN>
+	</public_facts>
+</home>

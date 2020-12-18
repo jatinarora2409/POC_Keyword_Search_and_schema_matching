@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$474,900</price>
+		<bd>3</bd>
+		<ba>4</ba>
+		<area>3,228</area>
+	</summary>
+	<address>
+		<street_address>1082 N 123rd St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Breathtaking move-in ready Tosa home. Unique features abound in this open concept Craftsman style gem. Living/Family room has wood columns/beams, mosaic gas fireplace. Expansive chef's kitchen w/6 burner cooktop, double ovens, dual sinks, and wine fridge. Gallery style dining room. Den/office or 4th bedroom with Tigerwood floor; adjacent to  mudroom. Deck has Summit natural gas grill. 2nd floor features remodeled master bedroom/bath with walk-in closet, double sinks, heated bathroom floor, and spa shower. Upstairs includes two more bedrooms and another full bath. Lower level features large bar, wine cellar, 1/2 bath, bonus room and laundry room. Huge, 3+ car garage with cedar doors, full walk-up storage attic. Sellers downsizing, furniture and artwork available for purchase. A must see!Read more</overview>
+	<listing_agent>
+		<agentName>Mary Skanavis</agentName>
+		<phoneNumber>414-258-7778</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Homeowners Concept</postingGroupName>
+		<postingWebsiteLinkText>Homeowners Concept</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1982</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">0.52 Acres</key>
+		<key name="Price/sqft:">$147</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 4</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished, Full, Walk-Out Access</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,228 sqft</detail>
+				<detail>Fireplace features: Gas</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 3</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 3</detail>
+				<detail>Covered spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Stone, Cement / Concrete</detail>
+				<detail>Patio and porch details: Patio</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.52 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 3770119001</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Prairie/Craftsman</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1982</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1990</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+				<detail>Utilities for property: Cable Available</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.12</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $376,800</detail>
+				<detail>Annual tax amount: $9,549</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1711222</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Microwave, Washer, Other, Oven/Range</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>Basement: Finished, Full, Walk-Out Access</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>InteriorFeatures: Wet Bar, Pantry, Walk-In Closet(s), High Speed Internet, At least one Bathtub, Ceramic Tile, MBR Bath Walk-in Shower, Shower Over Tub, Shower Stall</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>Utilities: Cable Available</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>PatioAndPorchFeatures: Patio</detail>
+				<detail>FireplaceFeatures: Gas</detail>
+				<detail>RoomsTotal: 11</detail>
+				<detail>ConstructionMaterials: Stone, Fiber Cement</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Attached, Paved, Garage Door Opener</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>OtherEquipment: Intercom</detail>
+				<detail>ArchitecturalStyle: Prairie/Craftsman</detail>
+				<detail>Flooring: Wood or Sim. Wood Floors</detail>
+				<detail>CoveredSpaces: 3.75</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2218 W CAMBRIDGE Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$340,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$236 / Sq. Ft.">1,438</key>
+	</main_stats>
+	<text_base_description>Must see this well-established Phoenix home! Completely remodeled in 2017! New All new plumbing, new electrical, new flooring throughout, new insulation, all new energy efficient windows and doors, all appliances convey! Huge open Kitchen, cabinets, granite countertops and stainless-steel appliances (frig, stove, oven and dishwasher). New lighting, water fixtures and ceiling fans. Enjoy your oversized backyard from your back covered patio. Opportunity for kids to walk to school, close to Encanto park, golf course, shopping and all the downtown Phoenix has to offer.  </text_base_description>
+	<listed_by>
+		<name>Thomas Brown</name>
+		<org> TCB Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$340,000</List_Price>
+		<Est._Mo._Payment>$1,365</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$236</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>21 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1954</Year_Built>
+		<Community>HENSON TRACT</Community>
+		<Lot_Size>8,930 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6134558</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 2</group_dat>
+						<group_dat># of Parking Spaces (Slab): 4</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+						<group_dat>RV Gate</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Wood Frame Construction</group_dat>
+						<group_dat>Painted Exterior, Stucco Exterior</group_dat>
+						<group_dat>Foam Roof</group_dat>
+						<group_dat>Builder Name: unknown</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Biking/Walking Path, Children's Playground, Golf Course</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 3</group_dat>
+						<group_dat>Master Bedroom Not Split</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 2</group_dat>
+						<group_dat>Full Master Bathroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Cook Top Gas, Granite Countertops</group_dat>
+						<group_dat>Eat-in Kitchen, Formal Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Dryer Included, Washer Included</group_dat>
+						<group_dat>Pre-Wired Satellite Dish</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane</group_dat>
+						<group_dat>Firepit</group_dat>
+						<group_dat>Tile Floors</group_dat>
+						<group_dat>9+ Ft. Flat Ceilings</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Gas Heating</group_dat>
+						<group_dat>Refrigeration</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, School / Neighborhood, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Maie Bartlett Heard</group_dat>
+						<group_dat>Junior High School: Maie Bartlett Heard</group_dat>
+						<group_dat>High School: Central</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 001 - Phoenix Elementary District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Plumbing: Tankless Water Heater (Gas)</group_dat>
+						<group_dat>Utilities: APS, Southwest Gas</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 19th Ave &amp; Thomas Rd</group_dat>
+						<group_dat>Census Tract: 3.00</group_dat>
+						<group_dat>Directions: South on 19th Ave to Cambridge. West on Cambridge to your new home on the North side!</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Childrens Play Area, Patio, Storage Shed(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 1,401-1,600</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: unknown</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Maricopa City</group_dat>
+						<group_dat>Assessor Number: 110-43-094</group_dat>
+						<group_dat>Assessor's Book #: 110</group_dat>
+						<group_dat>Assessor's Map #: 43</group_dat>
+						<group_dat>Assessor's Parcel #: 94</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 7,501 - 10,000</group_dat>
+						<group_dat>Wood Fencing</group_dat>
+						<group_dat>Landscaping: Grass in Back, Gravel/Stone in Back, Gravel/Stone in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,438</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,438</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>8,930 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1954</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>11043094</APN>
+	</public_facts>
+</home>

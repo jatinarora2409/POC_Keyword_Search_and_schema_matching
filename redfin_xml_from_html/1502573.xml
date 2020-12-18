@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>319 Arkansas St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94107</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,825,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Featured in Dwell Magazine, this inspiring custom home exudes charm and warmth. Designed by renowned architect Jim Jennings, this stylized property on Potrero's North Slope boasts elegant private outdoor spaces and lush trees including 2 mature redwoods. Inside, natural light floods through windows and skylights filling the gracious rooms with 12'+ ceilings. The large fireplace anchors the family room while designer lighting creates a relaxing and refined environment. The open concept dining area features a chef's kitchen fully equipped with a Michelin-grade 6 top range, custom cabinets, and stainless appliances. Double French doors leading to the patio provide the ultimate indoor-outdoor experience. A garden casita makes for a perfect private office or guest suite. Back inside, find a remodeled bath and lavish bedroom. Completing this masterful home is the garage, with 1 car parking, storage and laundry. Adjacent to 18th St. , enjoy bustling restaurants, cafes, wine bars and shopping! </text_base_description>
+	<listed_by>
+		<name>Jason Hoffman</name>
+		<agentLicenseDisplay>•DRE #01865372</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,825,000</List_Price>
+		<Est._Mo._Payment>$8,339</Est._Mo._Payment>
+		<Redfin_Estimate>$1,853,974</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>18 days</Time_on_Redfin>
+		<Property_Type>Single-Family Home</Property_Type>
+		<Year_Built>1991</Year_Built>
+		<Style>Contemporary, Custom</Style>
+		<Community>Potrero Hill</Community>
+		<Lot_Size>2,500 Sq. Ft.</Lot_Size>
+		<key name="MLS#">504026</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Type: On Site</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat># of Parking Spaces: 1</group_dat>
+						<group_dat>Attached, Garage</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Fenced Yard, Garden, Landscaping (Front), Landscaping (Rear), Patio(s), Security Gate</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+						<group_dat>2 Bedrooms on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1</group_dat>
+						<group_dat>1 Bath on Main Level</group_dat>
+						<group_dat>Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Living Room: Open Beam Ceiling, Cathedral/Vaulted, Skylight(s)</group_dat>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room on Main Level</group_dat>
+						<group_dat>Combination Living/Dining Room, Dining Area, Skylight(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+						<group_dat>Studio, Partial Basement, Bonus Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat># of Fireplace(s): 1, Wood Burning, In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: Washer/Dryer, In Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Gas Range, Cooktop Stove, Refrigerator, Dishwasher, Island, Breakfast Area, Skylight(s)</group_dat>
+						<group_dat>Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Hardwood</group_dat>
+						<group_dat># of Rooms (Total): 4</group_dat>
+						<group_dat>2 Bedrooms on Main Level, 1 Bath on Main Level, Living Room on Main Level, Dining Room on Main Level, Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 18th Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,825,000</group_dat>
+						<group_dat>On Market Date: Monday, September 21, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Description: Fenced</group_dat>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+						<group_dat>Shed</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block</group_dat>
+						<group_dat>Shopping: 1 Block</group_dat>
+						<group_dat>Garden, Landscaping (Front), Landscaping (Rear), Fenced Yard, Patio(s), Security Gate</group_dat>
+						<group_dat>APN: 4035027</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>990</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>2,500 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1991</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>4035 027</APN>
+	</public_facts>
+</home>

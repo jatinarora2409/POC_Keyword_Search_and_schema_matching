@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>5229 Connecticut Ave NW #1009 </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$799,000</Price>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<key name="$640 / Sq. Ft.">1,248</key>
+	</main_stats>
+	<text_base_description>Stunning, sophisticated, &amp;  fully renovated - you must see this rarely available end-unit condo townhome in Christopher Mews. .. located on upper Connecticut Ave -a short distance to Friendship Heights Metro, Politics and Prose, and all the shops of Conn Ave. This light-filled home includes 2-bedroom plus separate office/bedroom with 2.5 baths. Meander from Connecticut Ave through the gardened private mews to the back of the residences to this quiet home with a private parking space. Enter your private home to an expansive smashing kitchen renovation, living room, dining room, &amp;  working fireplace, plus powder room. On the Second floor, rest at the cozy reading nook with built-in bookcases. .plus full bath and Owner's suite with large closets. .. 3rd floor boasts another large bedroom with bath - plus a third bedroom/office/exercise area with stairs that lead up to the private expansive rooftop deck!   We got you on this home . .. condition, location, private entrance, outdoor space, and parking! </text_base_description>
+	<listed_by>
+		<name>Meredith Margolis</name>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$799,000</List_Price>
+		<Est._Mo._Payment>$3,202</Est._Mo._Payment>
+		<Redfin_Estimate>$799,192</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$640</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<HOA_Dues>$496/month</HOA_Dues>
+		<Year_Built>1924</Year_Built>
+		<Community>CHEVY CHASE</Community>
+		<key name="MLS#">DCDC489836</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Unbranded (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Total Garage and Parking Spaces: 1</group_dat>
+						<group_dat>Parking Lot - # of Spaces: 1</group_dat>
+						<group_dat>Parking Space Conveys</group_dat>
+						<group_dat>Parking Lot</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Condo/Coop Fee: $496</group_dat>
+						<group_dat>Condo/Coop Fee Frequency: Monthly</group_dat>
+						<group_dat>HOA/Condo/Coop Fee Includes: Water, Trash, Sewer, Insurance, Lawn Maintenance, Management, Taxes</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>School District Source: Listing Agent</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On 1st Upper Level: 1</group_dat>
+						<group_dat># of Bedrooms On 2nd Upper Level: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On 1st Upper Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On 2nd Upper Level: 1</group_dat>
+						<group_dat># of Bathrooms (Half) On Main Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Upper Levels: 2</group_dat>
+						<group_dat># of Bathrooms (Half): 1</group_dat>
+						<group_dat># of Bathrooms (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Microwave, Dryer, Dishwasher, Oven/Range - Electric, Stainless Steel Appliances, Washer</group_dat>
+						<group_dat>Interior Features: Built-Ins, Combination Kitchen/Living, Combination Kitchen/Dining, Dining Area, Floor Plan - Open, Kitchen - Gourmet, Recessed Lighting, Stall Shower, Tub Shower, Wood Floors</group_dat>
+						<group_dat>Living Area Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Living Room, Bedroom 2, Kitchen, Bedroom 1, Laundry, Office, Bathroom 1, Bathroom 2, Bathroom 3</group_dat>
+						<group_dat>Laundry Type: Dryer In Unit, Upper Floor, Washer In Unit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Lease / Rent Details, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>Heat Pump(s)</group_dat>
+						<group_dat>Heating Fuel: Electric</group_dat>
+						<group_dat>Hot Water: Electric</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Lease Considered: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>In City Limits</group_dat>
+						<group_dat>Directions: To get to the community from Connecticut Ave, follow the slate pathway on the left side of the Christopher Mews Condominium sign. Follow the path straight back and to the right, then the courtyard will be on your left. The unit is the last one on the left. </group_dat>
+						<group_dat>Entry Floor Number: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>City/Town Tax: $3,957</group_dat>
+						<group_dat>Tax Assessed Value: $571,880</group_dat>
+						<group_dat>Tax Year: 2020</group_dat>
+						<group_dat>Tax Annual Amount: $3,957</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Total Below Grade Sq. Ft.: 0</group_dat>
+						<group_dat>Improvement Assessed Value: $400,320</group_dat>
+						<group_dat>Ownership Interest: Condominium</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Name: CHRISTOPHER MEWS CONDOMINIUM</group_dat>
+						<group_dat>Construction Materials: Brick</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Outdoor Living Structures: Deck(s), Roof</group_dat>
+						<group_dat>Structure Type: Semi-Detached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $171,560</group_dat>
+						<group_dat>Soil Types: Urban Land Not Rated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 1,248</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft. Source: Assessor</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,248</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1924</Year_Built>
+		<Year_Renovated>1991</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>1874    2017</APN>
+	</public_facts>
+</home>

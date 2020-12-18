@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$829,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>658</area>
+	</summary>
+	<address>
+		<street_address>201 Sansome St UNIT 501,</street_address>
+		<city_state> San Francisco, CA 94104</city_state>
+	</address>
+	<overview>The Landmark Royal Insurance Building presents a rare opportunity to live in San Francisco's oldest post-earthquake building. The Royal is the first fire proofed commercial building built after 1906 earthquake; converted to condos in 2005/6. Unit 501 is a beautifully appointed, rarely available corner condo. This sharp condo displays Brazilian hardwood floors, high ceilings, recessed lighting, tile floors, chef's kitchen, in unit washer/dryer, keyless entry system &amp; large storage room. ONLY 1 shared wall. Floor to ceiling windows on three sides allow for abundance of natural light. 4 zip car locations. HOA secured discounted parking @ 750 Kearny for $300/month Walker's Paradise 100 out of 100.Read more</overview>
+	<listing_agent>
+		<agentName>Erik McIntosh</agentName>
+		<phoneNumber>415-664-9400</phoneNumber>
+		<agentLicenseNumber>License #01489813</agentLicenseNumber>
+		<postingGroupName>Berkshire Hathaway-Franciscan</postingGroupName>
+		<postingWebsiteLinkText>Berkshire Hathaway-Franciscan</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1909</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$646/mo</key>
+		<key name="Price/sqft:">$1,260</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 658 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 11</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0260034</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1909</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.44</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

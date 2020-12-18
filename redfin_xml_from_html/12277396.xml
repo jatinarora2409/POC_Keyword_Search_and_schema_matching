@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1963A Clay St </street-address>
+		<locality>SAN FRANCISCO, </locality>
+		<region>CA</region>
+		<postal-code>94109</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$588,000</Price>
+		<Beds>—</Beds>
+		<Bath>1</Bath>
+		<key name="$1153 / Sq. Ft.">510</key>
+	</main_stats>
+	<text_base_description>Rare opportunity to own a piece of Pacific Heights! Enjoy a newly remodeled, light-filled studio in a boutique 4-unit 1938 Art Deco building. Perfect for a city dweller to call home or pied a terre amongst the most luxurious areas in San Francisco. An open-concept floor plan with contemporary interior finishes and a patio overlooking the serene shared garden. Features hardwood floors, modern white-on-white kitchen with quartz countertops, eat-in with extended counters, updated appliances, convenient in-unit laundry, multiple built-in storage spaces, customizable walk-in closet, full bathroom, recessed lighting, and top-down bottom-up shades. Nestled in the most expensive district of San Francisco, this turn-key studio is 1/2 block to Lafayette Park and walking distance to CPMC Sutter Health, Whole Foods, and nearby local restaurants/nightlife/amenities.  </text_base_description>
+	<listed_by>
+		<name>Nero Chualong</name>
+		<agentLicenseDisplay>•DRE #01848651</agentLicenseDisplay>
+		<org> KW Peninsula Estates</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$588,000</List_Price>
+		<Est._Mo._Payment>$2,687</Est._Mo._Payment>
+		<Redfin_Estimate>$649,078</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,153</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$172</HOA_Dues>
+		<Year_Built>1938</Year_Built>
+		<Style>Art Deco</Style>
+		<Community>SAN FRANCISCO</Community>
+		<key name="MLS#">ML81814288</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat>Bathroom Description: Shower and Tub, Updated Bath(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room Description: Breakfast Bar, Eat in Kitchen</group_dat>
+						<group_dat>Kitchen Description: Countertop - Quartz, Dishwasher, Microwave, Oven Range (Electric), Refrigerator(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Laundry: Inside, Washer/Dryer</group_dat>
+						<group_dat>Flooring: Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling Information</heading>
+					<group_data>
+						<group_dat>Heating: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Description: On Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has HOA</group_dat>
+						<group_dat>Fees Include: Common Area Electricity, Exterior Painting, Insurance (Common Area), Landscaping/Gardening, Reserves</group_dat>
+						<group_dat>HOA Fee: $172</group_dat>
+						<group_dat>HOA Name: 1963A-1963-1965-1967 Clay St HOA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School District: San Francisco Unified</group_dat>
+						<group_dat>High School District: San Francisco Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Concrete Perimeter, Concrete Slab</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Unit Information</heading>
+					<group_data>
+						<group_dat>Unit Description: End Unit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer Septic: Sewer (Public)</group_dat>
+						<group_dat>Utilities: Public Utilities</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Water Information</heading>
+					<group_data>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Amenities: Walk-In Closet</group_dat>
+						<group_dat>Living Sq. Ft.: 510</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Ownership Type: Condominium Ownership</group_dat>
+						<group_dat>Property Master ID: 648710</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Source: Assessor</group_dat>
+						<group_dat>Zoning: RH-2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>497</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1938</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0624 100</APN>
+	</public_facts>
+</home>

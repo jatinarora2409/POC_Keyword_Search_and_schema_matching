@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8700 Hollywood Hills Rd </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,499,000</Price>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<key name="$1575 / Sq. Ft.">1,587</key>
+	</main_stats>
+	<text_base_description>Presenting this reimagined 1954 Mid Century Modern masterpiece, which includes collectable designer pieces from Milo Baughmann, Francois Monnet, Curtis Jere, Paul Evans and inspired Lambert Onda. Remodeled from the inside out - this Shangri-LA combines modern luxuries, coveted views and privacy while featuring the architectural details of a California Mid Century. Located  just a short drive from Sunset Blvd, this 3 bed, 2.5 bath home features an expansive entertainers backyard, fire pit, dual sided fireplace, enclosed dine al fresco area, detached garage with built-ins, epicurean kitchen, master retreat with indulgent master bath, walls of glass, Fleetwood and Western pivoting doors. Private and gated, this curated oasis boasts electrifying day and evening views of the Hollywood Hills. Design palate and finishes from around the world. Home will be delivered fully furnished *  including indoor and outdoor pieces. This striking view home is a perfect retreat for the most discerning buyer.  </text_base_description>
+	<listed_by>
+		<name>Catherine Ammann</name>
+		<agentLicenseDisplay>•DRE #01894083</agentLicenseDisplay>
+		<org> Keller Williams Hollywood Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,499,000</List_Price>
+		<Est._Mo._Payment>$11,521</Est._Mo._Payment>
+		<Redfin_Estimate>$2,492,718</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,575</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>2 days</Time_on_Redfin>
+		<Property_Type>Residential Single-Family</Property_Type>
+		<Year_Built>1954</Year_Built>
+		<Style>Mid-Century</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>8,582 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-642478</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5564-013-014</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Retreat</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 2</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat>Double Vanity(s), Remodeled, Shower and Tub</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Built-In BBQ, Oven, Range</group_dat>
+						<group_dat>Gourmet Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Unit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area, Kitchen Island</group_dat>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Breakfast Bar, Dining Room, Entry Room, Living Room, Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Furnished</group_dat>
+						<group_dat>Detached/No Common Walls, Built-Ins, Furnished, Open Floor Plan, Recessed Lighting, Turnkey</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room, Two Way</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Barbeque, Built-Ins, Cable, Dishwasher, Dryer, Freezer, Garbage Disposal, Hood Fan, Range/Oven, Refrigerator, Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C</group_dat>
+						<group_dat>Central Heat</group_dat>
+						<group_dat>Water Heater Features: Tankless</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Garage Is Detached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>One Level</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Faces East</group_dat>
+						<group_dat>Security Features: Smoke Detector, Carbon Monoxide Detector(s), Gated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Deck(s)</group_dat>
+						<group_dat>Other Structural Features: Barbecue Private, Sliding Glass Doors</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 8,582</group_dat>
+						<group_dat>Lot Size (Acres): 0.197</group_dat>
+						<group_dat>Lot Size Dimensions: 80 x 110</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+						<group_dat>Lot Location: Hillside, Greenbelt</group_dat>
+						<group_dat>Lot Description: Front Yard, Fenced Yard, Fenced, Back Yard, Lawn, Landscaped, Yard, Secluded</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Privacy Fence</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, City Lights, Hills, Tree Top, Panoramic</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Laurel Canyon to Lookout Mountain</group_dat>
+						<group_dat>Cross Streets: Sunset Crest/ Hollywood Hills Rd</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,474</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,474</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>8,582 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1954</Year_Built>
+		<Year_Renovated>1971</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5564013014</APN>
+	</public_facts>
+</home>

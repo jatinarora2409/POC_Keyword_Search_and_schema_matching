@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8418 Lookout Mountain Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,280,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$970 / Sq. Ft.">1,319</key>
+	</main_stats>
+	<text_base_description>A chic  &amp;  private artist's retreat set in the serene hills of Laurel Canyon. Just minutes away from the world famous Sunset Strip  &amp;  all the best shopping, dining  &amp;  entertainment the city has to offer. This 2-bed, 2-bath traditional ranch home is a cozy entertainers paradise complete w/ an open main living area that includes a dining/breakfast lounge, kitchen  &amp;  living room w/ brick fireplace, post  &amp;  beam vaulted ceilings  &amp;  skylight. A large master suite is complete w/ walk-in closet, updated bathroom  &amp;  French doors that lead to a charming outdoor dining patio  &amp;  garden. Guest suite includes a large walk-in closet  &amp;  updated bathroom. Just off the kitchen is a large laundry room, walk-in pantry and adjoining two-car garage with storage. There is also space for two additional cars in the private driveway. Just steps away from the Wonderland Avenue Elementary School (a California Distinguished School) this is a fabulous opportunity to live in one of the most desirable neighborhoods in the city.  </text_base_description>
+	<listed_by>
+		<name>Rayni Williams</name>
+		<agentLicenseDisplay>•DRE #01496786</agentLicenseDisplay>
+		<org>•DRE #01496786</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,280,000</List_Price>
+		<Est._Mo._Payment>$5,902</Est._Mo._Payment>
+		<Redfin_Estimate>$1,288,469</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$970</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>27 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1974</Year_Built>
+		<Style>Ranch</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>5,028 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-631092</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Laundry Room, Laundry Inside</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Dining Room</item>
+						<item>Breakfast Area, Dining Room, Living Room, Master Bedroom, Patio Open, Walk-In Closet, Walk-In Pantry</item>
+					</item>
+				</item>
+				<item>
+					<item>Fireplace Information</item>
+					<item>
+						<item>Gas Fireplace, In Living Room, Wood Burning</item>
+						<item># of Fireplaces: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Flooring Information</item>
+					<item>
+						<item>Hardwood Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Alarm System, Built-Ins, Cable, Dishwasher, Dryer, Range/Oven, Refrigerator, Washer</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central Cooling</item>
+						<item>Central Heat</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Garage</item>
+					<item>
+						<item>Built-In Storage, Driveway, 2 Car Garage, Garage, Private, Private Garage</item>
+						<item># of Garage Spaces: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking</item>
+					<item>
+						<item># of Parking Spaces (Total): 4</item>
+						<item># of Covered Parking Spaces: 2</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features, Taxes / Assessments, Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Total Floors: 1</item>
+						<item>Detached</item>
+						<item>Detached/No Common Walls</item>
+					</item>
+				</item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5567-004-045</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Directions: Laurel Canyon to Lookout Mountain</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: As Is</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Single-Family</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 5,028</item>
+						<item>Zoning: LAR1</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,319</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,319</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>5,028 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1974</Year_Built>
+		<Year_Renovated>1974</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5567004045</APN>
+	</public_facts>
+</home>

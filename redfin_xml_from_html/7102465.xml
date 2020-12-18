@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>828 N Sierra Bonita Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,999,000</Price>
+		<Beds>5</Beds>
+		<Baths>5.5</Baths>
+		<key name="$769 / Sq. Ft.">5,200</key>
+	</main_stats>
+	<text_base_description>Elegantly designed newly constructed 5 bedroom home in the prestigious West Hollywood vicinity offers unparalleled craftsmanship and exceptional amenities. From designer finishes, to a flawless open floor plan, this 5200 sqft home with a seamless design provides a sense of freshness with brilliant uses of clean whites and an abundance of natural light. The Master suite boast double entry doors, high ceilings, walk-in closet, luxurious spa-like bathroom and a spacious balcony. Fully equipped chef's kitchen is dressed with Marble counter-tops, a butler's pantry and for the enthusiast - a wine cellar. Expansive kitchen/family room combo with wall-to-wall pocket doors provides a true indoor/outdoor living. Entertain in the backyard by the pool and spa equipped with an outdoor BBQ or in your private state-of-art movie theater. Control4 smart home automation, this home is a perfect blend of traditional elegance and modern amenities. Available For Purchase $4,179,000 </text_base_description>
+	<listed_by>
+		<name>Scott Ammann</name>
+		<agentLicenseDisplay>•DRE #01295980</agentLicenseDisplay>
+		<org> Keller Williams Hollywood Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,999,000</List_Price>
+		<Est._Mo._Payment>$18,440</Est._Mo._Payment>
+		<Redfin_Estimate>$3,965,484</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$769</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>High Tech</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,695 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-642530</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 5</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Unit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Bonus Room, Breakfast Room, Breakfast Area, Den, Dining Room, Dining Area, Entry Room, Family Room, Home Theatre, Living Room, Master Bedroom, Media Room, Office, Patio Covered, Patio Open, Powder Room, Separate Family Room, Walk-In Closet, Wine Tasting, Other Room</group_dat>
+						<group_dat>Maids Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Family Room, In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Attic Fan, Barbeque, Built-Ins, Cable, Dishwasher, Dryer, Freezer, Garbage Disposal, Hood Fan, Ice Maker, Range/Oven, Refrigerator, Washer, Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Driveway, 2 Car Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+						<group_dat># of Open Other Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Heated Pool, In Ground Pool</group_dat>
+						<group_dat>Heated Spa, In Ground Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, School / Neighborhood, Taxes / Assessments, Lease / Rent Details</heading>
+			<details>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5526-003-020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Available for Lease</group_dat>
+						<group_dat>Lease Option</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,695</group_dat>
+						<group_dat>Zoning: LAR2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Melrose Ave to Sierra Bonita</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,972</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,972</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>6,614 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1923</Year_Built>
+		<Year_Renovated>1923</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5526003020</APN>
+	</public_facts>
+</home>

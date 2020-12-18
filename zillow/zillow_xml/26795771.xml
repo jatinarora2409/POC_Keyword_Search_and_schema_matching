@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$169,900</price>
+		<bd>4</bd>
+		<ba>1</ba>
+		<area>1,440</area>
+	</summary>
+	<address>
+		<street_address>1603 Houghton Rd,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>OPPORTUNITY OPPORTUNITY OPPORTUNItY!!! ATTENTION ALL AGENTS AND HOME BUYERS!! Heres your chance to own a very nice family home or rental. This home offer 4 large bedrooms, 1 large bathroom, a huge living room and kitchen with lots of cabinets and large utility room. This home sits on a nice large corner lot in a well established family neighborhood. Close to schools and all shopping and just minutes from Town East Mall. This Home is priced right and won't last long. CALL NOW!!!Read more</overview>
+	<listing_agent>
+		<agentName>Daniel Franklin</agentName>
+		<phoneNumber>214-929-5555</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Flip Your House, Inc</postingGroupName>
+		<postingWebsiteLinkText>Flip Your House, Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">8,799 sqft</key>
+		<key name="Price/sqft:">$118</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Laminate, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,440 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Other</item>
+				<item>Fencing: Chain Link</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.2 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 00000548458000000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1954</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1954</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water, Sidewalk, Curbs</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.42</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

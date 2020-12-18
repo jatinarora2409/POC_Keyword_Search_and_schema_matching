@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$459,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>3,070</area>
+	</summary>
+	<address>
+		<street_address>1800 Waterbury Ln,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>Come live in one of Fleming Islands most desired neighborhoods, HABERSHAM HARBOUR.  This community is sought after for its private boat ramp to Doctors Lake, storage for your boat or RV, community pool and tennis court, mature trees and custom homes. 
+This charming home offers 4 bedrooms and 3 bath plus loft. Backs to preservation of over 8 acres. Park like back yard with enclosed back patio. Large custom kitchen with ceramic faux wood tile and 2 way fireplace into the family room. Master downstairs along with 2nd bedroom, 2 large bedrooms with Jack and Jill bath, and bonus room upstairs.  Home has many upgrades including new custom kitchen island, remodeled two way fireplace with wrapped brick, granite counter tops in kitchen, remodeled shower/bath, plantation shutters, outdoor pavers with fire-pit, gutters with french drain, oversized garage with above attic storage.  This Immaculate home has a freshly painted interior and is turn key ready for immediate move in.  Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1992</key>
+		<key name="Heating:">Forced air, Heat pump, Electric</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.59 Acres</key>
+		<key name="Price/sqft:">$150</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Concrete, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Heat pump, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Microwave</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,070 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Exterior features: Vinyl</detail>
+				<detail>View description: Water</detail>
+				<detail>On waterfront: Yes</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.59 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 31042601317800204</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Asphalt</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1992</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1992</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Water - Public, Sewer - Public, DSL Available, Underground Util.</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 70.83</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Fleming Island</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $48/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $319,257</detail>
+				<detail>Annual tax amount: $4,546</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Type of Dwelling: Sngl. Fam.-Detached</detail>
+				<detail>Square Foot Source: Tax Roll</detail>
+				<detail>Bedrooms: Split Bedrooms, MBR - First Floor</detail>
+				<detail>Dining: Living/Dining Combo</detail>
+				<detail>Interior Amenities: Built-in-Bookshelves, Wall-to-Wall Carpet, French Door(s), Ceiling 8+ Ft., Thermal Window(s), Window Treatment(s), Greenhouse Window(s)</detail>
+				<detail>Type of Cooling: Electric Source</detail>
+				<detail>Energy Features: Ridge Vents</detail>
+				<detail>Utilities: Water - Public, Sewer - Public, DSL Available, Underground Util.</detail>
+				<detail>Structure: Wood Frame</detail>
+				<detail>Pool/Hot Tub: No Pool</detail>
+				<detail>Parking Facilities: Concrete, Side Entry Garage, Garage Door Opener, Driveway</detail>
+				<detail>Possible Financing: Conventional, Cash, FHA, VA</detail>
+				<detail>Major Appliances: Washer/Dryer Connect, Disposer, Self Cleaning Oven, Down-Draft Cook top</detail>
+				<detail>Presently Zoned: Residential, Single Family</detail>
+				<detail>Road Surface: Asphalt Road</detail>
+				<detail>Export Options: Publish Address, Publish Public Rmrks, Publish Directions, Publish Square Feet</detail>
+				<detail>All Bedrooms Conform: Y</detail>
+				<detail>Kitchen: Pantry - Closet, Food Prep Island, Cooking Island</detail>
+				<detail>Additional Equipment: Smoke Detector, Security Sys.-Owned</detail>
+				<detail>Additional Rooms: Lndry/Util. (inside), Great Room, Bonus Room/Game Room</detail>
+				<detail>Roof: Shingle Roof</detail>
+				<detail>Approx Parcel Size: 1/2 to 1 Acre</detail>
+				<detail>Lot Description: Irregular Lot</detail>
+				<detail>Common/ClubAmenities: Club Pool, Club Facilities, Playground</detail>
+				<detail>Lot Location: Suburban</detail>
+				<detail>Road Frontage: City Street, 2 Lane Road</detail>
+				<detail>Bath: MBR BathTub Sep Shwr</detail>
+				<detail>Association Fee: Y</detail>
+				<detail>Assoc Fee Freq: Annually</detail>
+				<detail>Status: Pending</detail>
+				<detail>Publish to Internet: Yes</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

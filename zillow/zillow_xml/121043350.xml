@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>Zestimate®: $1,012,122</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>985</area>
+	</summary>
+	<address>
+		<street_address>1971 Jackson St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Buy this foreclosure deal the right way. Visit us at Auction.com, then login or create a free account to save this property and receive important alerts. We'll let you know if the Est. Credit Bid has posted, when the property has cleared for sale, is postponed or canceled, and the property's winning bid amount if it sells. Auction.com is your source for 30,000+* discounted foreclosure and bank-owned properties and auction events nationwide. Find the best deals in your market now. *Based on data from August 2019.Read more</overview>
+	<listing_agent>
+		<agentName>auction com</agentName>
+		<phoneNumber>800-793-6107</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Auction.com</postingGroupName>
+		<postingWebsiteLinkText>Auction.com</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">6,098 sqft</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 985 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,098 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 22423095</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1954</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1954</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 69.26</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

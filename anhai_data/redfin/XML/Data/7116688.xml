@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1525 N Hayworth Ave #101 </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$779,500</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$654 / Sq. Ft.">1,191</key>
+	</main_stats>
+	<text_base_description>PRIME LOCATION: Enjoy coveted living just north of Sunset Blvd in this large, 1191 Sqft, recently remodeled front desirable condo. Rare 2 bedrooms, 2 bath condo at the Versailles Terrace. Fall in love immediately upon entry with the sophisticated open floor plan, beautifully accented with sleek laminate floors and beautiful tiles. A luxurious  kitchen with quartz countertops, that boasts stainless steel appliances, stylish custom solid wood cabinetry that graciously flows to the dining space. Beautiful new remodeled deco guest bathroom and Master Bathroom. Relax in this one of a kind ultra luxurious 26 sqft master shower with custom seated area and high pressure rain shower head. You'll feel like you're in a spa. Has HVAC system with Hepa air filtration. Must see to believe. Revel in the beauty of this tropical courtyard mid century complex with a beautiful sparkling swimmers pool. New copper plumbing and water purifier throughout the unit as well as the building. Move-in today. With this Super central location right in the heart of everything off Sunset Boulevard. Located across from Starbucks, Veggie Grill, just moments from Trader Joe's, Bristol Farms, Château Marmont, Crunch gym, all local banks, as well as the famous Laugh Factory and Greenblats Deli. This unit comes with 1 secured underground parking spot and in-unit washer/dryer hook up, in addition to guest parking. Low HOA dues. Hurry this property won't last.  </text_base_description>
+	<listed_by>
+		<name>Keith Jacobson</name>
+		<agentLicenseDisplay>•DRE #00865982</agentLicenseDisplay>
+		<org> Option Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$779,500</List_Price>
+		<Est._Mo._Payment>$3,595</Est._Mo._Payment>
+		<Redfin_Estimate>$773,783</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$654</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>10 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$394/month</HOA_Dues>
+		<Year_Built>1959</Year_Built>
+		<Style>High or Mid-Rise Condo, Mid Century</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.50 Acres</Lot_Size>
+		<key name="MLS#">220010053</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full): 2</group_dat>
+						<group_dat>Remodeled, Shower Stall, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Quartz Counters</group_dat>
+						<group_dat>Eating Areas: Dining Area</group_dat>
+						<group_dat>Cooking Appliances: Gas/Electric Range, Range Hood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Flooring: Ceramic Tile, Laminated</group_dat>
+						<group_dat>Common Walls: Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Garbage Disposal, Stackable W/D Hookup</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Cooling Type: Ceiling Fan(s), Central A/C</group_dat>
+						<group_dat>Heating Type: Central Furnace</group_dat>
+						<group_dat>Fuel: Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Locations: Laundry Area</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Utilities, Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Type: Assigned, Community Garage, Gated Underground</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat># of Floors (Total): 3</group_dat>
+						<group_dat>Levels: Three or More</group_dat>
+						<group_dat>Entry Location: Ground Level - No Steps, Ground Level w/Steps</group_dat>
+						<group_dat>Foundation: Concrete Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: District/Public</group_dat>
+						<group_dat>Water Heater Feature: Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Zoning: LAR3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Fees</heading>
+					<group_data>
+						<group_dat>Has HOA 1</group_dat>
+						<group_dat>HOA Fee 1: $394</group_dat>
+						<group_dat>HOA 1 Frequency: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Association Amenities: Gated Parking, Pet Rules</group_dat>
+						<group_dat>Association Fees Include: Trash Paid, Water Paid</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision/Tract Code: Other - 0011</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,191</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,191</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1959</Year_Built>
+		<Year_Renovated>1961</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5551017067</APN>
+	</public_facts>
+</home>

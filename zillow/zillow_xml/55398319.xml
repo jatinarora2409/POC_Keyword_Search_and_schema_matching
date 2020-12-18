@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$449,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>2,242</area>
+	</summary>
+	<address>
+		<street_address>21 W Gilman St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Downtown 3 flat located just 2 blocks from State St. near the intersection of N. Carroll St. &amp; W. Gilman St. Beautiful hardwood floors, spacious layouts, one parking stall in front and near many restaurants/retailers. Apt #1 is a one bedroom, one full bath with washer/dryer, Apt #2 is an efficiency with one full bath, washer/dryer and Apt #3 is a two bedroom with one full bath. Fully leased out until Aug. 2021 with an annual gross income of $33,600.Read more</overview>
+	<listing_agent>
+		<agentName>Jim Stopple</agentName>
+		<phoneNumber>608-251-8777</phoneNumber>
+		<agentLicenseNumber>License #12003-90</agentLicenseNumber>
+		<postingGroupName>Madison Property Management, Inc.</postingGroupName>
+		<postingWebsiteLinkText>Madison Property Management, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multi Family</key>
+		<key name="Year built:">1904</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$200</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,242 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.06 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070914412047</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1904</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1969</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Separate elec meters</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,750,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,468</area>
+	</summary>
+	<address>
+		<street_address>1129 Douglass St,</street_address>
+		<city_state> San Francisco, CA 94131</city_state>
+	</address>
+	<overview>Stunning 3-level residence featuring 4 bedrooms, 3 bathrooms, open and dramatic living spaces. On the expansive main level the kitchen, dining room, living room, and deck flow together to create gathering areas for casual daily living and formal entertaining. Kitchen and dining room skylights infuse the space with light. Classic architectural elements - parquet floors, vaulted ceilings, and a fireplace add elegance and character. From the living room step out to the deck and enjoy sweeping City views plus the mature garden below. 2 bedrooms and 1 bathroom complete this level. The generous primary suite with 2 walk-in closets, and extraordinary views provides a peaceful retreat. The lower level houses a family room with garden access, handsome built-in storage, a wet bar, and 1 additional bedroom and bathroom. Perfectly situated across from Douglass Playground &amp; Dog Park. This special Noe home presents an opportunity to surround yourself with urban sophistication in a serene environmentRead more</overview>
+	<listing_agent>
+		<agentName>Kristina Hansen</agentName>
+		<phoneNumber>415-738-7000</phoneNumber>
+		<agentLicenseNumber>License #01387897</agentLicenseNumber>
+		<postingGroupName>Compass SF</postingGroupName>
+		<postingWebsiteLinkText>Compass SF</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1937</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="Lot:">1,999 sqft</key>
+		<key name="Price/sqft:">$1,114</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,468 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>View description: City, Park</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.05 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 6561019C</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1937</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 78.88</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

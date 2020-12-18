@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>36 Camp St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94110</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,290,000</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$996 / Sq. Ft.">2,300</key>
+	</main_stats>
+	<text_base_description>This elegant and luxurious 2-level, TIC has been expertly renovated for today's sophisticated urbanite. Flow seamlessly through the gourmet kitchen to dining and living space, complete with all the luxe features one would expect including white oak floors, quartz counters, Liebherr, Wolf, and Bosch appliances, wine fridge, and linear fireplace. Take the spiral staircase off the kitchen to a roof deck to enjoy the 360 degree views of the city. You'll also find two generously sized bedrooms and a spa like bathroom on this level. The lower level features two large bedrooms (use one for the ultimate work from home space) and two bathrooms. The bedrooms each open up to the Zen-like backyard perfect for meditation, social distancing soirees, grilling and more. 2.91kW LG Solar system, and the latest iPad home technology for audio, lighting, intercom entry and security complete this sophisticated, tech-savvy home. 1-car parking, storage and laundry.  </text_base_description>
+	<listed_by>
+		<name>Lisa Blackwell</name>
+		<agentLicenseDisplay>•DRE #01981018</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,290,000</List_Price>
+		<Est._Mo._Payment>$10,465</Est._Mo._Payment>
+		<Redfin_Estimate>$2,301,768</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$996</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>2 Level, Tenancy In Common</Property_Type>
+		<Year_Built>1922</Year_Built>
+		<Style>Contemporary, Modern/High Tech</Style>
+		<Community>Mission Dolores</Community>
+		<key name="MLS#">507398</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Tandem</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Guerrero</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower Over Tub, Stall Shower</group_dat>
+						<group_dat># of Baths: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Living/Dining Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Built-In Oven, Refrigerator, Freezer, Microwave, Garbage Disposal, Marble Counter, Island, Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 2 Bedrooms, 1 Bath</group_dat>
+						<group_dat>Lower Level/Basement: 2 Bedrooms, 2 Baths</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Concrete Perimeter Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Paved Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Contemporary, Modern/High Tech</group_dat>
+						<group_dat>Type: 2 Level</group_dat>
+						<group_dat>Energy Conservation: Low-Flow Toilet(s)</group_dat>
+						<group_dat># of Units: 2</group_dat>
+						<group_dat>Per Graphic Artist</group_dat>
+						<group_dat>APN: 3568054</group_dat>
+						<group_dat>Tenancy In Common Agreement</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $2,290,000</group_dat>
+						<group_dat>On Market Date: Friday, October 2, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>5</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,310</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>2,979 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1922</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3568 054</APN>
+	</public_facts>
+</home>

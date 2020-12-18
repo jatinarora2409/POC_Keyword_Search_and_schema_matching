@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$134,900</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>960</area>
+	</summary>
+	<address>
+		<street_address>421 N 91st St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Great house, Great location! This well maintained 3 bedroom, one full bath stairless Ranch is move-in ready. The spacious living room has a large window offering lots of natural light. The cheery kitchen has a tiled floor &amp; refrigerator new in 2018.  All three bedrooms have brand new flooring-two of the bedrooms also have brand new cordless blinds.  One bedroom offers a patio door overlooking the back yard. Exterior also has a nice 1.5 detached garage. Close to the zoo, shopping, schools, restaurants...why pay rent when you can own your own home!Read more</overview>
+	<listing_agent>
+		<agentName>Colleen Tarantino</agentName>
+		<phoneNumber>262-732-5800</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Redefined Realty Advisors LLC</postingGroupName>
+		<postingWebsiteLinkText>Redefined Realty Advisors LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1951</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">6,534 sqft</key>
+		<key name="Price/sqft:">$141</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Range / Oven, Refrigerator, Washer</item>
+				<item>Laundry features: Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 960 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Bedroom on Main Level, Full Bath on Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Vinyl</item>
+				<item>Patio and porch details: Patio</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,534 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 4081016000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Ranch</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1951</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 76.92</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

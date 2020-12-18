@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$338,000</price>
+		<bd>--</bd>
+		<ba>1</ba>
+		<area>426</area>
+	</summary>
+	<address>
+		<street_address>1255 N Harper Ave APT 3,</street_address>
+		<city_state> West Hollywood, CA 90046</city_state>
+	</address>
+	<overview>Welcome to the Harper Regency, a Mid-Century Modern building in the heart of West Hollywood featuring a beautiful, well-maintained pool. This comfortable studio unit is located on the ground floor between the front entrance and the pool. One assigned parking spot and private storage is included.Read more</overview>
+	<listing_agent>
+		<agentName>Lucy Mao</agentName>
+		<phoneNumber>626-205-4040</phoneNumber>
+		<agentLicenseNumber>License #01779052</agentLicenseNumber>
+		<postingGroupName>COMPASS</postingGroupName>
+		<postingWebsiteLinkText>COMPASS</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1960</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$1,229/month</key>
+		<key name="Price/sqft:">$793</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 0</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 426 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.35 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5554020098</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1960</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1970</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Unknown</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.22</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: West Hollywood</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

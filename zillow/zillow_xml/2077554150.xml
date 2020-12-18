@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,325,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>958</area>
+	</summary>
+	<address>
+		<street_address>2177 3rd St #206,</street_address>
+		<city_state> San Francisco, CA 94107</city_state>
+	</address>
+	<overview>Brand new 2 Bedroom, 2 Bath home at 2177 Third Street that brings Waterfront living to the heart of Dogpatch. Spanning the corner of 3rd and 19th streets, 2177 Third's 114 luxury studio, 1- and 2- bedroom residences showcase meticulous attention to detail and dramatic design. Inside each home you will find open floor plans, modular floor-to-ceiling windows, Miele appliances and gorgeous marble countertops. Designed by Woods Bagot, 2177 Third is luxury living that is quintessentially San Francisco and features curated amenities like a center courtyard, private gym, rooftop terrace, pet spa, residence lounge and co-working space. All photography, renderings &amp; views are representative of the Development and not the specific home for sale.Read more</overview>
+	<listing_agent>
+		<agentName>Garrett Frakes</agentName>
+		<phoneNumber>415-361-4800</phoneNumber>
+		<agentLicenseNumber>License #01319952</agentLicenseNumber>
+		<postingGroupName>Polaris Pacific</postingGroupName>
+		<postingWebsiteLinkText>Polaris Pacific</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$918/month</key>
+		<key name="Price/sqft:">$1,383</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 958 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Cement concrete</item>
+				<item>On waterfront: Yes</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $918/mo</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

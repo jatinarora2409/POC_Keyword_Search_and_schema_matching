@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$269,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,594</area>
+	</summary>
+	<address>
+		<street_address>2822 W Polk St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>What a great opportunity right here! Tri-plex that offers 2 bedroom 1bath, 1 bedroom 1 bath and 1-studio units, close to down town Phoenix, freeways, and has a park across the street.  You can buy this, live in one and rent out the other two making residual income. This place will pay for itself.  Exterior has fresh paint.**NOT A FORECLOSURE** Read more</overview>
+	<listing_agent>
+		<agentName>Lupita Claudia Jorgensen</agentName>
+		<phoneNumber>480-696-5500</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Stunning Homes Realty</postingGroupName>
+		<postingWebsiteLinkText>Stunning Homes Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1930</key>
+		<key name="Heating:">Wall, Electric</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$169</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,594 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,500 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10927062</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: steel</item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1930</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1930</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric information: Other (See Remarks)</item>
+				<item>Gas information: SW Gas</item>
+				<item>Sewer information: Sewer - Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.1</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

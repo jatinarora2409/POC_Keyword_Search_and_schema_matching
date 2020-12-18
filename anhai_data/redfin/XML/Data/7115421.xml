@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1633 N Curson Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,695,000</Price>
+		<Beds>3</Beds>
+		<Baths>1.75</Baths>
+		<key name="$1008 / Sq. Ft.">1,682</key>
+	</main_stats>
+	<text_base_description>Nestled discretely in Sunset Square, the gem of West Hollywood, this 1920s bungalow with 2020 updates is perfect for entertaining inside and outdoors! Pass through the enchanted courtyard and into your 3 bed, 2 bath home with a well-designed floor plan and an abundance of natural light! Our team updated the hardwood floors, kitchen countertops, led lighting, paint, crowd moulding, and stainless steel appliances. Youre just a few blocks from Sunset and Runyon Canyon! </text_base_description>
+	<listed_by>
+		<name>Scott Moore</name>
+		<agentLicenseDisplay>•DRE #01347535</agentLicenseDisplay>
+		<org> Douglas Elliman of California, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,695,000</List_Price>
+		<Est._Mo._Payment>$7,817</Est._Mo._Payment>
+		<Redfin_Estimate>$1,695,044</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,008</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>14 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1916</Year_Built>
+		<Style>California Bungalow</Style>
+		<Community>Hollywood</Community>
+		<Lot_Size>5,600 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-635736</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Remote Controls: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5550-007-009</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Baths (3/4): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside, Laundry Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Family Room, Dining Area, Living Room, Master Bedroom, Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Microwave, Garbage Disposal, Range/Oven, Refrigerator, Freezer, Satellite</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+						<group_dat>Water Heater Features: Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Detached</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Security Features: Automatic Gate, Gated</group_dat>
+						<group_dat>Raised Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition, Shingle</group_dat>
+						<group_dat>Patio Features: Porch - Rear</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Financing, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Listing Terms: Cash To New Loan</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: East of Fairfax, South of Hollywood Blvd., North of Sunset, West of La Brea</group_dat>
+						<group_dat>Cross Streets: Sunset and Curson</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow</group_dat>
+						<group_dat>Listing Terms: Cash To New Loan</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 5,600</group_dat>
+						<group_dat>Lot Size (Acres): 0.1285</group_dat>
+						<group_dat>Lot Size Dimensions: 40 x 140</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Front Sprinklers, Rear Sprinklers</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,682</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,682</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>5,600 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1916</Year_Built>
+		<Year_Renovated>1920</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5550007009</APN>
+	</public_facts>
+</home>

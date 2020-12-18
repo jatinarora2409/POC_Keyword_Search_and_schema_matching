@@ -1,0 +1,259 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1400 N Hayworth Ave #39 </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$849,000</Price>
+		<Beds>2</Beds>
+		<Baths>1.5</Baths>
+		<key name="$806 / Sq. Ft.">1,053</key>
+	</main_stats>
+	<text_base_description>Once-in-a-lifetime opportunity to own the apex of The Hollywood Riviera, one of West Hollywood's most iconic and architecturally significant condo properties. This stunning 1954 mid-century masterpiece was designed by renowned architect Edward Fickett and has been featured in many TV shows, movies, and commercials. Arguably the best unit in the building, #39 is located at the front corner and with only 1 common wall, no one above or below, and easy access from front stairwell. Once inside, residents are greeted with an expansive living area w/ floor to ceiling windows looking out to lush tropical landscaping. The stylish staircase takes you to the upper floor which features soaring dramatic ceilings, a light filled bonus area w/ city views (perfect for home office), 2 spacious bedrooms and an updated bathroom. This condo also has central AC, 2 additional storage areas, 2 parking spots, low HOA dues including EQ insurance, and building is Mills Act approved </text_base_description>
+	<listed_by>
+		<name>Allie Joel Riley</name>
+		<agentLicenseDisplay>•DRE #01398467</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$849,000</List_Price>
+		<Est._Mo._Payment>$3,916</Est._Mo._Payment>
+		<Redfin_Estimate>$844,958</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$806</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>35 days</Time_on_Redfin>
+		<Property_Type>Condominium, Residential Condo/Co-Op</Property_Type>
+		<HOA_Dues>$461/month</HOA_Dues>
+		<Year_Built>1954</Year_Built>
+		<Style>Mid-Century</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>0.69 Acres</Lot_Size>
+		<key name="MLS#">20-627888</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>All Bedrooms Up</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Gas, Range</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Community Laundry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area</group_dat>
+						<group_dat>Living Room, Bonus Room, Powder Room, Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Wood Floors, Tile Floors, Carpeted Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Built-Ins, Range/Oven, Refrigerator, Cable</group_dat>
+						<group_dat>Cable TV</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling, A/C</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Covered Parking, Gated, Tandem</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Two Level</group_dat>
+						<group_dat>Condominium, Conversion, Attached, Split Level, Penthouse, Low Rise</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Entry Floor Number: 2</group_dat>
+						<group_dat>Faces East</group_dat>
+						<group_dat>Security Features: Automatic Gate, Gated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: None</group_dat>
+						<group_dat>Balcony: None</group_dat>
+						<group_dat>Other Structural Features: High Ceilings (9 Feet+), Historical</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Association Pool, Community Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, School / Neighborhood, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: Pool, Association Maintains Landscape, Controlled Access, Extra Storage, Gated Community, Sun Deck</group_dat>
+						<group_dat>Fee #1: $461</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+						<group_dat>Fees Include Water and Sewer, Fees IncludeTrash, Fees Include Building and Grounds, Fees Include Earthquake Insurance</group_dat>
+						<group_dat>AssociationPetRules: Assoc Pet Rules, Call, Yes</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 38</group_dat>
+						<group_dat>Athletic Court: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Unit Floor In Building: 2</group_dat>
+						<group_dat>Unit Location: NW Corner</group_dat>
+						<group_dat>Complex Name: Hollywood Riviera</group_dat>
+						<group_dat>Directions: West of Fairfax between Fountain and Sunset</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is, Rent Control, Homeowners Association, Historical, Listing Broker Advantage, CC and R</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5554-002-066</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>No Mello-Roos Tax</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Exposure: West &amp; East</group_dat>
+						<group_dat>Property Type: Residential Condo/Co-Op</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 29,889</group_dat>
+						<group_dat>Lot Size (Acres): 0.6862</group_dat>
+						<group_dat>Zoning: WDR4*</group_dat>
+						<group_dat>Special Zoning: Property Report</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Hills, Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow, Negotiate</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>876</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>876</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1954</Year_Built>
+		<Year_Renovated>1954</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5554002066</APN>
+	</public_facts>
+</home>

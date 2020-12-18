@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$230,000</price>
+		<bd>3</bd>
+		<ba>1.75</ba>
+		<area>1,551</area>
+	</summary>
+	<address>
+		<street_address>2211 N 37th Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Come and check this spacious home with spacious front and back yard for your garden projects. Granite counter top in kitchen and bathrooms. Ceramic tile throughout. Well taken are of by owners. Very close to both freeways i-10 and 17. Minutes to Central Phoenix.Read more</overview>
+	<listing_agent>
+		<agentName>Raul Henriquez</agentName>
+		<phoneNumber>602-396-5660</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Best Homes Real Estate, LLC</postingGroupName>
+		<postingWebsiteLinkText>Best Homes Real Estate, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1958</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Refrigeration</key>
+		<key name="Parking:">5 spaces</key>
+		<key name="Lot:">6,028 sqft</key>
+		<key name="Price/sqft:">$148</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Refrigeration</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,551 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport</item>
+				<item>Garage spaces: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement concrete</item>
+				<item>Fencing: Block</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.14 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10819118</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1958</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: SRP</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.3</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

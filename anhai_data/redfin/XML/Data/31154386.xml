@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2310 S Saint Augustine Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,800,000</Price>
+		<Beds>5</Beds>
+		<Baths>6</Baths>
+		<key name="$297 / Sq. Ft.">6,062</key>
+	</main_stats>
+	<text_base_description> * Contact agent for short term lease *  Private 42 Acre Custom Estate minutes from Downtown Dallas. Neatly tucked away amongst luxury acreage, the driveway to the home slowly unfolds the beauty of the estate and also elicits the feelings of privacy and security. Step into a large foyer, two story living room, large dining room with butler's pantry and wet bar. Large kitchen with bar top dining, breakfast nook, and walk in pantry. Kitchen is open to family room. Large sunroom great for pool viewing and entertainment. Office w fireplace. Three bedrooms down include a one bedroom suite, and large master bedroom suite. Master is a two story treat with its own private 2nd floor sitting or reading room and balcony.  </text_base_description>
+	<listed_by>
+		<name>Joni Freeman</name>
+		<org> JL Marsaw &amp; Co</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,800,000</List_Price>
+		<Est._Mo._Payment>$8,746</Est._Mo._Payment>
+		<Redfin_Estimate>$1,439,966</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$297</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>515 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Baths>4 full, 2 partial</Baths>
+		<Year_Built>1996</Year_Built>
+		<Style>Single Detached</Style>
+		<Community>Branford Estate</Community>
+		<Lot_Size>42 Acres</Lot_Size>
+		<key name="MLS#">14089595</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 4</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 4</group_dat>
+						<group_dat>Garage Dimensions: 48 x 30</group_dat>
+						<group_dat>Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Ebby Halliday</group_dat>
+						<group_dat>Middle School Name: Seagoville</group_dat>
+						<group_dat>High School Name: Seagoville</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (1/2): 2</group_dat>
+						<group_dat># of Baths (Full): 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Features: Garden Tub, Separate Vanities, Sitting Area in Master Bedroom, Walk-In Closets</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: 20 x 19</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 20 x 17</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Bay Windows, Cable TV Available, High Speed Internet Available, Intercom, Loft, Multiple Staircases, Skylights, Vaulted Ceilings</group_dat>
+						<group_dat># of Dining Areas: 2</group_dat>
+						<group_dat># of Fireplaces: 4</group_dat>
+						<group_dat>Fireplace Features: Gas Starter</group_dat>
+						<group_dat>Flooring: Carpet, Ceramic Tile, Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Electric)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Balcony, Patio Covered</group_dat>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+						<group_dat>Fencing: Iron</group_dat>
+						<group_dat>Has Pool</group_dat>
+						<group_dat>Pool Features: Pool Perimeter Fence</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BRANFORD ESTATE BLK A/8503 LT 3 ACS 5.379 VOL</group_dat>
+						<group_dat>Unexempt Taxes: $13,542</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional, VA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Branford Estate</group_dat>
+						<group_dat>Directions: From Downtown Dallas, Take 75 S to 45 S. Exit 276B to merge onto I-20E toward Shreveport. Exit 477 onto St. Augustine Rd. Right onto S. St. Augustine. House is on Left.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Available Documents</heading>
+					<group_data>
+						<group_dat>Aerial Photo</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 3</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 2</group_dat>
+						<group_dat>Built-In Microwave, Built-In Refrigerator/Freezer, Cooktop (Electric), Dishwasher, Disposal</group_dat>
+						<group_dat>Has Security System</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: A8503</group_dat>
+						<group_dat>Lot Number: 3</group_dat>
+						<group_dat>Features: Acreage, Horses Permitted, Large Backyard Grass</group_dat>
+						<group_dat>Size: 10 Acres to 49.99 Acres</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 42.000</group_dat>
+						<group_dat>Area Sq. Ft.: 1,829,520</group_dat>
+						<group_dat>Multi-Parcel</group_dat>
+						<group_dat>Parcel Number: 008503000A0030000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>5</Beds>
+		<Baths>4.5</Baths>
+		<Finished_Sq._Ft.>6,062</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>6,062</Total_Sq._Ft.>
+		<Stories>1.5</Stories>
+		<Lot_Size>5.38 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1996</Year_Built>
+		<Year_Renovated>1996</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>008503000A0030000</APN>
+	</public_facts>
+</home>

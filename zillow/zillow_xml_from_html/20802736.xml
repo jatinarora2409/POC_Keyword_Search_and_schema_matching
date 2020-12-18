@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$10,500</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>3,400</area>
+	</summary>
+	<address>
+		<street_address>8056 Mulholland Dr,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Highly upgrade gated single story pool home with lots of privacy on a large mostly flat lot. 3 bedrooms and 3 bathrooms in additional to a large living and family room/den adjacent to a formal dining and office / studio. Desirable features including heated bathroom floors, Miele appliances, black faced sub zero refrigerator / wine cooler, hardwood floors, raised beam ceilings, 3 fireplaces, and generously sized windows perfect for enjoying the valley views and a large patio area. Huge private backyard with heated pool with spa and a large flat grassy area with mature landscaping. 2 car garage in addition to a secured courtyard parking for up to 10 cars. *** Short term lease considered ***Read more</overview>
+	<listing_agent>
+		<agentName>Hugh Gehrke</agentName>
+		<phoneNumber>310-432-6400</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Beverly Hills</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Beverly Hills</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1953</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.26 acres</key>
+		<key name="Price/sqft:">$3</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Microwave, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,400 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: None</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Other</detail>
+				<detail>View description: City</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.26 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5570018003</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1953</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1957</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.28</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Los Angeles</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $547,377</detail>
+				<detail>Annual tax amount: $6,906</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 20-642796</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>AssociationPetRules \ Call For Rules</detail>
+				<detail>BedroomFeatures \ All Bedrooms Down</detail>
+				<detail>BedroomFeatures \ Main Floor Bedroom</detail>
+				<detail>BedroomFeatures \ Main Floor Master Bedroom</detail>
+				<detail>BedroomFeatures \ Master Bedroom</detail>
+				<detail>Bedrooms \ BedroomFeatures \ All Bedrooms Down</detail>
+				<detail>Bedrooms \ BedroomFeatures \ Main Floor Bedroom</detail>
+				<detail>Bedrooms \ BedroomFeatures \ Main Floor Master Bedroom</detail>
+				<detail>Bedrooms \ BedroomFeatures \ Master Bedroom</detail>
+				<detail>County \ Los Angeles</detail>
+				<detail>Equipment \ Solar Panels</detail>
+				<detail>Flooring \ Flooring \ Wood</detail>
+				<detail>Furnished \ Unfurnished</detail>
+				<detail>Heating and Cooling \ Cooling \ Air Conditioning</detail>
+				<detail>Heating and Cooling \ Heating \ Central</detail>
+				<detail>Heating system: Forced Air</detail>
+				<detail>Laundry \ Laundry Area</detail>
+				<detail>LeaseTerms \ 1+Year</detail>
+				<detail>Levels \ One</detail>
+				<detail>ListingArea \ Sunset Strip - Hollywood Hills West</detail>
+				<detail>ListingStatus \ Active</detail>
+				<detail>Location \ County \ Los Angeles</detail>
+				<detail>Lot \ SourceLotSizeArea \ Vendor Enhanced</detail>
+				<detail>MLS Listing ID: 20591676</detail>
+				<detail>MLS Name: CLAW ZDD (CLAW ZDD)</detail>
+				<detail>MLSID \ The Combined Los Angeles\Westside MLS</detail>
+				<detail>Other Interior Features \ FireplaceRooms \ Den</detail>
+				<detail>Other Interior Features \ FireplaceRooms \ Living Room</detail>
+				<detail>Other Interior Features \ FireplaceRooms \ Master Bedroom</detail>
+				<detail>Other Rooms \ Rooms \ Den</detail>
+				<detail>Other Rooms \ Rooms \ Study</detail>
+				<detail>Other \ AssociationPetRules \ Call For Rules</detail>
+				<detail>Other \ Equipment \ Dishwasher</detail>
+				<detail>Other \ Equipment \ Microwave</detail>
+				<detail>Other \ Equipment \ Refrigerator</detail>
+				<detail>Other \ Equipment \ Solar Panels</detail>
+				<detail>Other \ Furnished \ Unfurnished</detail>
+				<detail>Other \ Laundry \ Laundry Area</detail>
+				<detail>Other \ LeaseTerms \ 1+Year</detail>
+				<detail>Other \ Levels \ One</detail>
+				<detail>Other \ ListingArea \ Sunset Strip - Hollywood Hills West</detail>
+				<detail>Other \ ListingStatus \ Active</detail>
+				<detail>Other \ MLSID \ The Combined Los Angeles/Westside MLS</detail>
+				<detail>Other \ SourceLivingArea \ Owner</detail>
+				<detail>Parking \ ParkingGarage \ Covered Parking</detail>
+				<detail>Parking \ ParkingGarage \ Driveway</detail>
+				<detail>Parking \ ParkingGarage \ Driveway - Combination</detail>
+				<detail>ParkingGarage \ Covered Parking</detail>
+				<detail>ParkingGarage \ Driveway</detail>
+				<detail>ParkingGarage \ Driveway - Combination</detail>
+				<detail>PropertyType \ Residential Lease</detail>
+				<detail>Rooms \ Study</detail>
+				<detail>SingleFamilyOrApt \ Single Family</detail>
+				<detail>SourceLivingArea \ Owner</detail>
+				<detail>SourceLotSizeArea \ Vendor Enhanced</detail>
+				<detail>Style \ Mid-Century</detail>
+				<detail>Type and Style \ PropertyType \ Residential Lease</detail>
+				<detail>Type and Style \ SingleFamilyOrApt \ Single Family</detail>
+				<detail>Type and Style \ Style \ Mid-Century</detail>
+				<detail>View</detail>
+				<detail>View Type \ ViewDescription \ Canyon</detail>
+				<detail>View Type \ ViewDescription \ City Lights</detail>
+				<detail>ViewDescription \ Canyon</detail>
+				<detail>Water \ PoolDescription \ In Ground</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

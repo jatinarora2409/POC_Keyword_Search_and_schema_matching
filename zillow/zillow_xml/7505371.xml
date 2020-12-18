@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$190,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>500</area>
+	</summary>
+	<address>
+		<street_address>3530 W Roosevelt St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>FANTASTIC OPPORTUNITY, 2 BEDROOMS, 1 FULL BATHS ,COVERED CAR PORT , CEILING FANS, OPEN FLOOR PLAN, EAT IN KITCHEN, AMPLE BACK YAD SPACE TO ENTERTAIN, CONVENIANTLY LOCATED NEAR STORES AND FREWAY, DO NOT MISS THIS LITTLE TREASURE, SCHEDULE A SHOWING TODAY!!!!!!!Read more</overview>
+	<listing_agent>
+		<agentName>Abran Maldonado</agentName>
+		<phoneNumber>602-942-4200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>West USA Realty</postingGroupName>
+		<postingWebsiteLinkText>West USA Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1946</key>
+		<key name="Heating:">Electric</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">6,385 sqft</key>
+		<key name="Price/sqft:">$380</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Evaporative</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven</item>
+				<item>Laundry features: Wshr/Dry HookUp Only</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 500 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement / Concrete</item>
+				<item>Fencing: Wood, Block, Wrought Iron</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,385 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10608014</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1946</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 70.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

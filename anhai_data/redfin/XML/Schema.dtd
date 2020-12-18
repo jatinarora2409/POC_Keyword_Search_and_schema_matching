@@ -1,0 +1,176 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT home (HomeInfo_Address,main_stats,text_base_description,
+                listed_by,price_insights,home_facts,property_details,
+                public_facts)>
+<!ATTLIST home
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT HomeInfo_Address (street-address,locality,region,postal-code)>
+<!ATTLIST HomeInfo_Address
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT main_stats (Price,Beds,Baths,key)>
+<!ATTLIST main_stats
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT text_base_description (#PCDATA)>
+<!ATTLIST text_base_description
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT listed_by (name,agentLicenseDisplay,org)>
+<!ATTLIST listed_by
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT price_insights (List_Price,Est._Mo._Payment,Redfin_Estimate,
+                          key)>
+<!ATTLIST price_insights
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT home_facts (Status,Time_on_Redfin,Year_Built,Community,
+                      Lot_Size,key)>
+<!ATTLIST home_facts
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT property_details (property_detail)+>
+<!ATTLIST property_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT public_facts (Beds,Baths,Finished_Sq._Ft.,Unfinished_Sq._Ft.,
+                        Total_Sq._Ft.,Stories,Lot_Size,Style,Year_Built,
+                        Year_Renovated,County,APN)>
+<!ATTLIST public_facts
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT street-address (#PCDATA)>
+<!ATTLIST street-address
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT locality (#PCDATA)>
+<!ATTLIST locality
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT region (#PCDATA)>
+<!ATTLIST region
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT postal-code (#PCDATA)>
+<!ATTLIST postal-code
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Price (#PCDATA)>
+<!ATTLIST Price
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT agentLicenseDisplay (#PCDATA)>
+<!ATTLIST agentLicenseDisplay
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT org (#PCDATA)>
+<!ATTLIST org
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT List_Price (#PCDATA)>
+<!ATTLIST List_Price
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Est._Mo._Payment (#PCDATA)>
+<!ATTLIST Est._Mo._Payment
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Redfin_Estimate (#PCDATA)>
+<!ATTLIST Redfin_Estimate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Status (#PCDATA)>
+<!ATTLIST Status
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Time_on_Redfin (#PCDATA)>
+<!ATTLIST Time_on_Redfin
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Community (#PCDATA)>
+<!ATTLIST Community
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT property_detail (heading,details)>
+<!ATTLIST property_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Finished_Sq._Ft. (#PCDATA)>
+<!ATTLIST Finished_Sq._Ft.
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Unfinished_Sq._Ft. (#PCDATA)>
+<!ATTLIST Unfinished_Sq._Ft.
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Total_Sq._Ft. (#PCDATA)>
+<!ATTLIST Total_Sq._Ft.
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Stories (#PCDATA)>
+<!ATTLIST Stories
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Style (#PCDATA)>
+<!ATTLIST Style
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Year_Renovated (#PCDATA)>
+<!ATTLIST Year_Renovated
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT County (#PCDATA)>
+<!ATTLIST County
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT APN (#PCDATA)>
+<!ATTLIST APN
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT details (detail)+>
+<!ATTLIST details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT detail (heading,group_data)>
+<!ATTLIST detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT group_data (group_dat)+>
+<!ATTLIST group_data
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT group_dat (#PCDATA)>
+<!ATTLIST group_dat
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Beds (#PCDATA)>
+<!ATTLIST Beds
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Baths (#PCDATA)>
+<!ATTLIST Baths
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT key (#PCDATA)>
+<!ATTLIST key
+  xmlns CDATA #FIXED ''
+  name CDATA #REQUIRED>
+
+<!ELEMENT Year_Built (#PCDATA)>
+<!ATTLIST Year_Built
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Lot_Size (#PCDATA)>
+<!ATTLIST Lot_Size
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT heading (#PCDATA)>
+<!ATTLIST heading
+  xmlns CDATA #FIXED ''>

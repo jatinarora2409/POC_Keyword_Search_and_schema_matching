@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$495,000</price>
+		<bd>6</bd>
+		<ba>4</ba>
+		<area>3,954</area>
+	</summary>
+	<address>
+		<street_address>2148 Autumn Cove Cir,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>Large executive home in Eagle Harbor. This 2 story, 6 bedroom, 3.5 bath has it all. Formal living and dining room, family room with gas fireplace, and large eat in gourmet kitchen. Master bath has a garden tub and spacious walk in ceramic shower with attached office. Upstairs has a large bonus area with 2 full bathrooms and 5 additional bedrooms.  Both HVAC systems have all new parts and components as well as new smart remote thermostats controlled by your own mobile phone! Home also has a split access side entry 3 car garage and large covered porch. Backyard has an oversized screened porch with ceramic tile flooring and new custom jacuzzi spa. Eagle Harbor is loaded with numerous amenities.Read more</overview>
+	<listing_agent>
+		<agentName>JAMES CULP</agentName>
+		<phoneNumber>954-545-5583</phoneNumber>
+		<agentLicenseNumber>License #3211517</agentLicenseNumber>
+		<postingGroupName>LOKATION</postingGroupName>
+		<postingWebsiteLinkText>LOKATION</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2006</key>
+		<key name="Heating:">Forced air, Electric, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">10,427 sqft</key>
+		<key name="Price/sqft:">$125</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 6</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,954 sqft</item>
+				<item>Fireplace features: 1 Fireplace</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 3</item>
+				<item>Covered spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stone, Stucco, Vinyl</item>
+				<item>Patio and porch details: Covered, Front Porch</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 10,427 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 31042602126200123</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Traditional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2006</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Energy efficient items: Forced Air</item>
+				<item>Sunscore: Great solar potentialSun Number™: 82.03</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Fleming Island</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $388,023</item>
+				<item>Annual tax amount: $6,894</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 1076422</item>
+				<item>Measurement Source: Tax Roll</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Flooring: Wood, Tile, Wall-to-Wall Carpet</item>
+				<item>Sewer: Public Sewer</item>
+				<item>WaterSource: Public</item>
+				<item>Appliances: Dishwasher, Refrigerator, Disposal, Microwave, Gas Range</item>
+				<item>FireplaceYN: Yes</item>
+				<item>GarageYN: Yes</item>
+				<item>AttachedGarageYN: Yes</item>
+				<item>SpaYN: Yes</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>FireplacesTotal: 1</item>
+				<item>CommunityFeatures: Playground, Tennis Court(s), Clubhouse, Golf Course, Club Facilities, Community Hot Tub Pool, Community Childrens Pool</item>
+				<item>BusinessType: Residential</item>
+				<item>ArchitecturalStyle: Traditional</item>
+				<item>InteriorFeatures: Breakfast Bar, Walk-In Closet(s), Separate Dining Room, Entrance Foyer, Ceiling 8+ Ft., Separate Living Room, Kitchen/Family Combo, Pantry - Closet, Food Prep Island</item>
+				<item>CoveredSpaces: 3</item>
+				<item>Cooling: Central Air</item>
+				<item>LivingAreaSource: Tax roll</item>
+				<item>SecurityFeatures: Smoke Detector(s)</item>
+				<item>ParkingFeatures: Attached Garage</item>
+				<item>PatioAndPorchFeatures: Covered, Front Porch</item>
+				<item>RoomKitchenFeatures: Breakfast Bar, Pantry - Closet, Food Prep Island, Solid Surface Countertops</item>
+				<item>RoadSurfaceType: Concrete</item>
+				<item>RoomDiningRoomFeatures: Separate Dining Room, Kitchen/Family Combo</item>
+				<item>FireplaceFeatures: 1 Fireplace</item>
+				<item>BuildingAreaSource: Tax Roll</item>
+				<item>Heating: Central Heating</item>
+				<item>LotFeatures: Regular Lot</item>
+				<item>RoomBedroomFeatures: Split Bedrooms, Master Bedroom-First Floor</item>
+				<item>RoomBathroomFeatures: Garden Bath, Owner BathTub Separate Shower</item>
+				<item>GreenEnergyEfficient: Forced Air</item>
+				<item>MlsStatus: Active</item>
+			</item>
+		</item>
+	</other_details>
+</home>

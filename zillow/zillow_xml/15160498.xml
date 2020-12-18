@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,599,000</price>
+		<bd>4</bd>
+		<ba>3.5</ba>
+		<area>1,879</area>
+	</summary>
+	<address>
+		<street_address>56 Macedonia St,</street_address>
+		<city_state> San Francisco, CA 94110</city_state>
+	</address>
+	<overview>A modern masterpiece set on the north slope of Bernal Heights, this sprawling 4 bedroom, 3.5 bath oasis boasting stunning skyline and Bay water views. Featuring an open-concept living/dining areas, a stunning  fireplace, and a gourmet kitchen featuring top of the line finishes, a generously sized island, custom cabinetry, a suite of stainless steel Thermador appliances, and panoramic doors that open up to the back patio overlooking a heavenly backyard. the exterior features three separate  decks, including a breathtaking roof deck with dramatic 360-degree panoramic views encompassing the San Francisco skyline and Bay. For added convenience, the home is also equipped with a side-by-side two-car garage and laundry room. This home enjoys the splendor of short commutes into downtown, panoramic hilltop views, and unparalleled proximity to world-class dining, entertainment, parks, cafes and so much more.Read more</overview>
+	<listing_agent>
+		<agentName>William Tran</agentName>
+		<phoneNumber>415-702-9184</phoneNumber>
+		<agentLicenseNumber>License #01425873</agentLicenseNumber>
+		<postingGroupName>Sequoia Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Sequoia Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="Lot:">3,872 sqft</key>
+		<key name="Price/sqft:">$1,383</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,879 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco, Wood</item>
+				<item>View description: City, Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.09 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5536A009</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1959</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

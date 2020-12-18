@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$499,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,072</area>
+	</summary>
+	<address>
+		<street_address>2521 Washington St,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>Fantastic opportunity to buy this charming single-story home, with ultra private yard in sought after Lemon Grove! This bright and breezy home features a fantastic open floorplan with designer touches inside and out. The spacious kitchen is open to the family room and features a beautiful oversized peninsula bar. The private master en-suite has recently been upgraded with stunning bathroom tile, custom wood vanity and sleek barn door. Bamboo wood flooring flows seamlessly throughout the entire home. Let's talk about this lot! Perfect opportunity for RV and Boat owners, or someone looking to add a ADU!! This home has it all!! Wont last!Read more</overview>
+	<listing_agent>
+		<agentName>Ryan Maxwell</agentName>
+		<phoneNumber>949-422-8145</phoneNumber>
+		<agentLicenseNumber>License #01963539</agentLicenseNumber>
+		<postingGroupName>Nautical Properties</postingGroupName>
+		<postingWebsiteLinkText>Nautical Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1987</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">7,631 sqft</key>
+		<key name="Price/sqft:">$465</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Bathroom</item>
+			<item>
+				<item>Features: Bathtub, Upgraded</item>
+			</item>
+		</item>
+		<item>
+			<item>Kitchen</item>
+			<item>
+				<item>Features: Kitchen Open to Family Room</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Garbage disposal, Range / Oven</item>
+				<item>Laundry features: In Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 1,072 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Patio and porch details: Deck</item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.18 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5033104500</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1987</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1987</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.01</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Suburban</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Lemon Grove</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$245,000</price>
+		<bd>4</bd>
+		<ba>1</ba>
+		<area>1,169</area>
+	</summary>
+	<address>
+		<street_address>4144 W Sheridan St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Clean and move in ready home. Open kitchen with espresso cabinets and new handles. New interior and exterior paint, new dual pane windows with blinds. new exterior doors, new flooring in kitchen &amp; bathroom, remodeled bathroom with custom tile shower/tub and new vanity and lights.  Nice size backyard with a covered patio. RV Gate. North/South Exposure. NO HOARead more</overview>
+	<listing_agent>
+		<agentName>Lauren Rosin</agentName>
+		<phoneNumber>602-942-4200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>West USA Realty</postingGroupName>
+		<postingWebsiteLinkText>West USA Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1962</key>
+		<key name="Heating:">Other, Electric</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,080 sqft</key>
+		<key name="Price/sqft:">$210</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven</item>
+				<item>Laundry features: Wshr/Dry HookUp Only, 220 V Dryer Hookup</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,169 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Carport, Off-street, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Other, Brick</item>
+				<item>Fencing: Block</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,080 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10833083</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1962</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: SRP</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

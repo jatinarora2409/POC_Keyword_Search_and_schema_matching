@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,425,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,325</area>
+	</summary>
+	<address>
+		<street_address>429 California St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Gorgeous four bedrooms, three bathrooms home nestled in the heart of Silicon Valley. This home boasts a light and bright open floor plan completely remodeled and expanded in 2018 with new laminate floors throughout, composite shingle roof, exterior/interior paint. The impeccably remodeled kitchen features custom cabinetry with Quartz countertops and stainless steel range and refrigerator. Distinctive features include  new AC with Nest thermostat, new double pane windows and exterior door, new water heater, recessed led lighting, garage door and opener and much more. Completely new yard with lots of fruit trees and one side new redwood fence. Amazing location close to commute routes, within walking distance to the park, close to Valley Fair, Santana Row, public transportation, and easy access to Freeways. Low Santa Clara Utilities &amp; more!Read more</overview>
+	<listing_agent>
+		<agentName>Shawn Luo</agentName>
+		<phoneNumber>408-217-8700</phoneNumber>
+		<agentLicenseNumber>License #01853029</agentLicenseNumber>
+		<postingGroupName>AEZ Investment, Inc.</postingGroupName>
+		<postingWebsiteLinkText>AEZ Investment, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1951</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">5,837 sqft</key>
+		<key name="Price/sqft:">$1,075</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Range / Oven, Refrigerator</item>
+				<item>Laundry features: In Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,325 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Fencing: Fenced</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 5,837 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 26939055</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1951</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1951</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.66</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

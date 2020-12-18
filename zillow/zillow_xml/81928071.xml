@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$219,900</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>722</area>
+	</summary>
+	<address>
+		<street_address>311 N Hancock St UNIT 225,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Make Nichols Station your new digs! A 45-Unit Condo Assoc that provides for a small town atmosphere yet walking distance to all urban lifestyles &amp; perfectly located between the State Capitol, James Madison Park &amp; Lake Mendota!  This lovely one BR unit is overlooks a picturesque courtyard &amp; a north facing view of the lake off your deck.  Gleaming hardwood floors w/wood fireplace (&amp; mounted TV included) give a spacious feel to your dinette &amp; kitchen.  Amenities include solid surface counters, stainless appliances, Nest thermostat, stacked washer/dryer in your unit &amp; private large bedroom w/super deep closet &amp; full bathroom w/granite counters &amp; extra storage in approx 8x4 storage closet.  Staircase to parking space just a few steps away.  Elevator in building &amp; pets allowed! Available now!Read more</overview>
+	<listing_agent>
+		<agentName>Wendy Grunewald</agentName>
+		<phoneNumber>608-665-2060</phoneNumber>
+		<agentLicenseNumber>License #46618-90</agentLicenseNumber>
+		<postingGroupName>Century 21 Affiliated</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Affiliated</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1986</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Price/sqft:">$305</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 722 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: On-street, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stone, Brick</item>
+				<item>View description: Park, Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913349217</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1986</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2005</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

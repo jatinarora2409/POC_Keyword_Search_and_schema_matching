@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$279,000</price>
+		<bd>5</bd>
+		<ba>3</ba>
+		<area>1,956</area>
+	</summary>
+	<address>
+		<street_address>2337 W Maricopa St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Two Houses on one lot. One Fully remodeled 3bd/2ba house with new windows and doors, new kitchen cabinets &amp; granite countertops, new stainless steel appliances, new bathrooms with new cabinets, new tile flooring, new fixtures and fans, new texture and fresh paint throughout the house, new roof and trusses.  House has new stucco and new paint ... well that makes it a new house.  Guest house in the back is a 2bd/1ba house suitable for a family member(s) or could be rented out for extra income.  Back house could easily rent for $1,100.00/month.  (Seller already had offer to rent but he refused to better acquaint the buyer.)Read more</overview>
+	<listing_agent>
+		<agentName>CAMELIA DOBOS</agentName>
+		<phoneNumber>602-944-2215</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Metro North Realty</postingGroupName>
+		<postingWebsiteLinkText>Metro North Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1950</key>
+		<key name="Heating:">Other, Electric</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,006 sqft</key>
+		<key name="Price/sqft:">$143</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 5</detail>
+				<detail>Bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Range / Oven, Refrigerator</detail>
+				<detail>Laundry features: Wshr/Dry HookUp Only</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,956 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Carport, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+				<detail>Fencing: Block, Wrought Iron</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,006 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10962137</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: steel</detail>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1950</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1956</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: APS</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $105,000</detail>
+				<detail>Annual tax amount: $451</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6136285</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Cooling: Refrigeration, Window/Wall Unit, Ceiling Fan(s)</detail>
+				<detail>Dining Area: Eat-in Kitchen</detail>
+				<detail>Exterior Features: Covered Patio(s), Patio, Separate Guest House, Storage Shed(s)</detail>
+				<detail>Heating: Electric Heat</detail>
+				<detail>Kitchen Features: Disposal, Refrigerator, Granite Countertops, Range/Oven Elec</detail>
+				<detail>Master Bathroom: 3/4 Bath Master Bdrm</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Unit Style: All on One Level</detail>
+				<detail>Utilities: APS</detail>
+				<detail>Water: City Water</detail>
+				<detail>Const - Finish: Stucco, Painted</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Construction: Block</detail>
+				<detail>Services: City Services</detail>
+				<detail>Items Updated: Floor Partial/Full: Full</detail>
+				<detail>Items Updated: Bath(s) Partial/Full: Full</detail>
+				<detail>Source of SqFt: Owner</detail>
+				<detail>Flooring: Carpet, Tile</detail>
+				<detail>Laundry: Wshr/Dry HookUp Only</detail>
+				<detail>Fencing: Block, Wrought Iron</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Items Updated: Kitchen Partial/Full: Full</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Tax Municipality: Maricopa - COUNTY</detail>
+				<detail>Landscaping: Gravel/Stone Front, Gravel/Stone Back</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash, VA, FHA, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Carl Hayden High School</detail>
+				<detail>Windows: Dual Pane, Sunscreen(s)</detail>
+				<detail>Plumbing: Recirculation Pump</detail>
+				<detail>Tax Year: 2020</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

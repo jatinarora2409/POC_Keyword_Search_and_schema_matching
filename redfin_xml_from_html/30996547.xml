@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>6425 Soter Pkwy </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,799,000</Price>
+		<Beds>5</Beds>
+		<Baths>8</Baths>
+		<key name="$432 / Sq. Ft.">8,791</key>
+	</main_stats>
+	<text_base_description>Gated home, with guest quarters off the pool and sport court. Savant app controls TV’s, lighting and music, work out room, 2 washer and dryer areas, 2 offices, in suite bathrooms and a dumbwaiter. Double island kitchen boasts 2 dishwashers, 2 refrigerators as well as a wine fridge and separate ice maker, 2 ovens with a separate steam oven and warming drawer and a professional cooktop. Updates include 2 tankless water heaters and 5 high efficiency HVAC units. Irrigated by private well water. 4 car garage. Guest Accommodations: Yes Restrictions: Yes </text_base_description>
+	<listed_by>
+		<name>Debbie Pruitt</name>
+		<agentLicenseDisplay>•TREC #0621798</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,799,000</List_Price>
+		<Est._Mo._Payment>$19,423</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$432</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>111 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<Baths>6 full, 2 partial</Baths>
+		<HOA_Dues>$92/month</HOA_Dues>
+		<Year_Built>2005</Year_Built>
+		<Community>Gaines Ranch Sub Ph 2</Community>
+		<Lot_Size>3.27 Acres</Lot_Size>
+		<key name="MLS#">6803528</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Branded (External Link)</group_dat>
+						<group_dat>Virtual Tour Unbranded(External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi Unit Information</heading>
+					<group_data>
+						<group_dat>Pets Allowed: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Covenant Estates</group_dat>
+						<group_dat>Association Fee: $1,100</group_dat>
+						<group_dat>Annually</group_dat>
+						<group_dat>Association Fee Includes: Common Areas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 6</group_dat>
+						<group_dat># of Half Bathrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Bar, Breakfast Area, Granite Counters, Kitchen Island, Pantry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Exercise Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Storage Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Workshop</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Game Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 9 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Features: Breakfast Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 10 Information</heading>
+					<group_data>
+						<group_dat>Laundry</group_dat>
+						<group_dat>Features: Laundry Chute</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Features: Stacked</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Oven, Double Oven, Washer/Dryer Stacked, Dishwasher, Gas Cooktop, Disposal, Gas Water Heater, Microwave, Water Purifier Owned, Refrigerator, Tankless Water Heater</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Unfurnished</group_dat>
+						<group_dat>Flooring: Carpet, Stone, Wood</group_dat>
+						<group_dat>Other Features: Beamed Ceilings, Wet Bar, Breakfast Bar, Book Cases, Open Beams/Beamed Ceailings, Separate/Formal Dining Room, Dumbwaiter, French Door(s)/Atrium Door(s), Multiple Living Areas, Main Level Master, Murphy Bed, Pantry, Recessed Lighting, Wired for Sound</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat>Has Attached Garage</group_dat>
+						<group_dat># of Garage Spaces: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Attached, Garage, Garage Door Opener, Garage Faces Side</group_dat>
+						<group_dat># of Covered Spaces: 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Roof Details: Tile</group_dat>
+						<group_dat>Construction Details: Masonry</group_dat>
+						<group_dat>Builder Name: Russell Eppright</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Exterior Steps, Private Yard, Rain Gutters, Sport Court, Fire Pit, Outdoor Shower</group_dat>
+						<group_dat>Patio And Porch Features: Covered, Patio, Porch</group_dat>
+						<group_dat>Other Structures: Greenhouse, Outbuilding</group_dat>
+						<group_dat>Security Features: Pre Wired, Security System Owned, Smoke Detector(s), Security Lights</group_dat>
+						<group_dat>Fencing: Fenced, Masonry, Wrought Iron</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Has Private Pool</group_dat>
+						<group_dat>Pool Features: Cabana, Heated, Pool/Spa Combo, Waterfall</group_dat>
+						<group_dat>Has Spa</group_dat>
+						<group_dat>Spa Features: Hot Tub, In Ground</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Natural Gas Available</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public, Well</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $40,137</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Community Mailbox</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 3.27</group_dat>
+						<group_dat>Lot Size Acres: 3.27</group_dat>
+						<group_dat>Lot Features: Cul-De-Sac, Backs to Greenbelt/Park, Many Trees, Sprinklers Automatic, Sprinklers In Ground, Sprinklers Multiple Locations</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>8</Baths>
+		<Finished_Sq._Ft.>8,143</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>8,143</Total_Sq._Ft.>
+		<Stories>3</Stories>
+		<Lot_Size>3.27 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2005</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>563542</APN>
+	</public_facts>
+</home>

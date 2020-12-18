@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1408 N Genesee Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,045,000</Price>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<key name="$780 / Sq. Ft.">2,621</key>
+	</main_stats>
+	<text_base_description>This 1920's Spanish Revival is loaded with charm and character. Rarely can you find a two-story - due to HPOZ guidelines. This home has attractive wood floors throughout, crown moldings, and a Bachelder fireplace in the grand living room. The oversized rooms are perfect for entertaining, and the formal dining room is delightful and spacious. The kitchen is connected to a sun-filled breakfast room, which can also be used as a playroom or home office. An enormous family room includes an ensuite bathroom that opens on to a deck. Enjoy a saltwater pool, hot tub, and a private yard with a gorgeous brick patio and grass area. The first level has a guest room and a full bath. The upper level leads you to the main suite with a private office area, a large walk-in closet, and a great size bathroom that awaits your personal touches. An additional bedroom upstairs and a 2 car detached garage completes this home. Best value for Prime Spaulding Square Location.  </text_base_description>
+	<listed_by>
+		<name>Monet Berger</name>
+		<agentLicenseDisplay>•DRE #02032913</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,045,000</List_Price>
+		<Est._Mo._Payment>$9,431</Est._Mo._Payment>
+		<Redfin_Estimate>$2,001,377</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$780</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>43 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1921</Year_Built>
+		<Style>Spanish Colonial</Style>
+		<Community>Hollywood</Community>
+		<Lot_Size>6,751 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-624022</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5551-023-021</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: South of Sunset. East of Fairfax.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Room, Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Breakfast Area, Formal Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Office, Master Bedroom, Den, Dining Area, Basement, Breakfast Area, Bonus Room, Living Room, Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Furnished Or Unfurnished</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Wood Floors, Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Dryer, Microwave, Range/Oven, Washer, Freezer, Garbage Disposal, Alarm System, Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling, A/C, Ceiling Fan</group_dat>
+						<group_dat>Gravity Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Deck(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Salt/Saline, In Ground Pool</group_dat>
+						<group_dat>Hot Tub</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,751</group_dat>
+						<group_dat>Lot Size (Acres): 0.155</group_dat>
+						<group_dat>Lot Size Dimensions: 50 x 135</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>5</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,621</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,621</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>6,751 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1921</Year_Built>
+		<Year_Renovated>1924</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5551023021</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$265,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,600</area>
+	</summary>
+	<address>
+		<street_address>2861 W Warren Blvd #1,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Stunningly spacious 4 bed, 3 bath duplex down offers 2600 sq ft of living space in a classic Chicago greystone. Plenty of room for a home office, or two! Large windows let in lots of light, with hardwood floors throughout the main level as well as a large fireplace. The primary bedroom features an en suite bathroom with double vanity sink and jetted tub. Cozy lower level is carpeted for a relaxing feel. Kitchen has stainless steel appliances, breakfast bar, abundant cabinets and counter space, and a new garbage disposal. Separate dining room, laundry room with washer and dryer, numerous closets and a storage unit. One garage space and ample street parking. Short walk to the Green line California stop, easy access to 290, West Loop, nearby shopping with Pete's Fresh Market. Amazing amount of space for the price!Read more</overview>
+	<listing_agent>
+		<agentName>Kara Intrieri</agentName>
+		<phoneNumber>773-235-0300</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>@properties</postingGroupName>
+		<postingWebsiteLinkText>@properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1890</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$200/mo</key>
+		<key name="Price/sqft:">$102</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,600 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Stone</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 2,925 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 16123310491001</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1890</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Other</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 86.17</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Chicago</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $200/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $213,550</detail>
+				<detail>Annual tax amount: $4,218</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10896783</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Dining Room: Separate</detail>
+				<detail>Electricity: Circuit Breakers</detail>
+				<detail>Heat/Fuel: Gas</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Water, Scavenger</detail>
+				<detail>Parking Type: Garage</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Kitchen Type: Eating Area-Breakfast Bar</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Management: Manager On-site</detail>
+				<detail>Basement Bathrooms (Y/N): Yes</detail>
+				<detail>Family Room Level: Lower</detail>
+				<detail>Basement: Finished</detail>
+				<detail>Sewer: Other</detail>
+				<detail>3rd Bedroom Level: Lower</detail>
+				<detail>Exterior Building Type: Stone</detail>
+				<detail>4th Bedroom Level: Lower</detail>
+				<detail>Water: Other</detail>
+				<detail>Age: 100+ Years</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Status: New</detail>
+				<detail>Square Feet Source: Builder</detail>
+				<detail>Master Bedroom Bath (Y/N): Full</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Interior Property Features: 1st Floor Bedroom, Hardwood Floors, Laundry Hook-Up in Unit, 1st Floor Laundry, Storage, 1st Floor Full Bath, Some Carpeting, Separate Dining Room, Some Wall-To-Wall Cp</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Recent Rehab (Y/N): Yes</detail>
+				<detail>Fireplace Location: Living Room</detail>
+				<detail>Post Directional: West</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Garage Type: Detached2, Detached</detail>
+				<detail>Additional Media Type 1: Video</detail>
+				<detail>Laundry Level: Main Level</detail>
+				<detail>Garage Ownership: Owned</detail>
+				<detail>Basement (Y/N): Full</detail>
+				<detail>Driveway: Concrete</detail>
+				<detail>Additional Media Type 2: Other Media</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Parcel Identification Number: 16123310491001</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

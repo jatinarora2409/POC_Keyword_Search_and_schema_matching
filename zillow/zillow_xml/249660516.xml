@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$329,900</price>
+		<bd>1</bd>
+		<ba>2</ba>
+		<area>919</area>
+	</summary>
+	<address>
+		<street_address>825 E Mifflin St #206,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Beautiful and bright condo in the thriving Capitol East neighborhood. Nearly new - built in 2017 - owner used as part-time residence. Lovely park view from the large windows and private balcony.  Safe and secure building within steps of Festival Foods, Breese Stevens and The Sylvie music club. Ten minute walk to the Capitol Square. Open floor plan, fireplace, quiet bedroom with walk-in California Closet. Den with pocket doors can also be used as guest room. Spacious tiled bathroom and 1/2 bath with laundry. Heated indoor parking space (additional space available for lease) and owner access to rooftop community room atop the adjacent Galaxy building (panoramic views of the city and music events at Breese Stevens). Nicely equipped gym in Galaxy for owner use.Read more</overview>
+	<listing_agent>
+		<agentName>Seth Pfaehler</agentName>
+		<phoneNumber>608-772-3640</phoneNumber>
+		<agentLicenseNumber>License #79493-94</agentLicenseNumber>
+		<postingGroupName>The McGrady Group, LLC</postingGroupName>
+		<postingWebsiteLinkText>The McGrady Group, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2017</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$359</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 919 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Wood, Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913222091</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2017</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $320,600</item>
+				<item>Annual tax amount: $6,546</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

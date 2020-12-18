@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$340,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,438</area>
+	</summary>
+	<address>
+		<street_address>2218 W Cambridge Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Must see this well-established Phoenix home! Completely remodeled in 2017! New All new plumbing, new electrical, new flooring throughout, new insulation, all new energy efficient windows and doors, all appliances convey! Huge open Kitchen, cabinets, granite countertops and stainless-steel appliances (frig, stove, oven and dishwasher). New lighting, water fixtures and ceiling fans. Enjoy your oversized backyard from your back covered patio. Opportunity for kids to walk to school, close to Encanto park, golf course, shopping and all the downtown Phoenix has to offer.Read more</overview>
+	<listing_agent>
+		<agentName>Tom Brown</agentName>
+		<phoneNumber>480-452-6989</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>TCB Realty</postingGroupName>
+		<postingWebsiteLinkText>TCB Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Other, Gas</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">6 spaces</key>
+		<key name="Lot:">8,929 sqft</key>
+		<key name="Price/sqft:">$236</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Evaporative</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+				<item>Laundry features: Dryer Included, Washer Included</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,438 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 6</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 6</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement / Concrete</item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,929 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 11043094</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1954</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS, SW Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

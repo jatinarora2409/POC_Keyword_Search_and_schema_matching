@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$3,255,500</price>
+		<bd>4</bd>
+		<ba>6</ba>
+		<area>4,214</area>
+	</summary>
+	<address>
+		<street_address>(Undisclosed Address),</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Stunning and Award-Winning European Modern Estate. Totally renovated inside w/Luxury finishes. Completely private w/gorgeous treetop views overlooking the Austin Hill Country. 20-25 mins from DT Austin &amp; walking distance to the Barton Creek Resort, Spa and Golf Course. Over 1000 sf of outdoor living w/Negative Edge pool. 4 In-suite bedrooms, plus separate study and Game room.Read more</overview>
+	<listing_agent>
+		<agentName>Krisstina Wise</agentName>
+		<phoneNumber>512-892-9473</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>GoodLife Luxury, Inc.</postingGroupName>
+		<postingWebsiteLinkText>GoodLife Luxury, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1999</key>
+		<key name="Heating:">Forced air, Electric, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">2.59 Acres</key>
+		<key name="Price/sqft:">$773</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 6</detail>
+				<detail>Full bathrooms: 6</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Electric, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Range / Oven, Refrigerator, Trash compactor</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 4,214 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 3</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 3</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Patio and porch details: Deck, Patio, Porch, Covered, Screened</detail>
+				<detail>View description: Water</detail>
+				<detail>On waterfront: Yes</detail>
+				<detail>Residential vegetation: Trees-Medium (20 Ft - 40 Ft)</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 2.59 Acres</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Tile</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1999</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Electricity Available, Natural Gas Available, Other</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Prewired</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Austin</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $83/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 8027528</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Flooring: Wood, Carpet, Tile</detail>
+				<detail>ViewYN: Yes</detail>
+				<detail>Roof: Tile</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Trash Compactor, Convection Oven, Self Cleaning Oven, Oven, Stainless Steel Appliance(s), Wine Refrigerator, Built-In Oven(s)</detail>
+				<detail>AssociationYN: Yes</detail>
+				<detail>InteriorFeatures: Ceiling Fan(s), Breakfast Bar, Double Vanity, Central Vacuum, Recessed Lighting, Walk-In Closet(s), In-Law Floorplan, Multiple Dining Areas, No Interior Steps, Multiple Living Areas</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>SpaYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>PatioAndPorchFeatures: Deck, Patio, Porch, Covered, Screened</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>Heating: Natural Gas, Central</detail>
+				<detail>Utilities: Electricity Available, Natural Gas Available, Other</detail>
+				<detail>FireplacesTotal: 1</detail>
+				<detail>PetsAllowed: No</detail>
+				<detail>ExteriorFeatures: Balcony, Barbecue, Private Yard, Gutters Full, No Exterior Steps</detail>
+				<detail>ElectricOnPropertyYN: Yes</detail>
+				<detail>PoolPrivateYN: Yes</detail>
+				<detail>FarmLandAreaUnits: Square Feet</detail>
+				<detail>ParkingFeatures: Attached, Garage Faces Side, Door-Multi</detail>
+				<detail>DoorFeatures: French Doors</detail>
+				<detail>PoolFeatures: In Ground, Heated, Pool/Spa Combo</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>View: Creek/Stream, Hill Country</detail>
+				<detail>MainLevelBedrooms: 1</detail>
+				<detail>LotFeatures: Greenbelt, Sprinkler - Automatic</detail>
+				<detail>LivingAreaSource: Public Records</detail>
+				<detail>DirectionFaces: SW</detail>
+				<detail>SecurityFeatures: Prewired</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>Vegetation: Trees-Medium (20 Ft - 40 Ft)</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

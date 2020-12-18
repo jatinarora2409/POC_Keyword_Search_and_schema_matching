@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>10500 Lake June Rd Unit Q4 </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$84,900</Price>
+		<Beds>2</Beds>
+		<Baths>2.5</Baths>
+		<key name="$75 / Sq. Ft.">1,132</key>
+	</main_stats>
+	<text_base_description>Beautiful home on a landscaped lot with easy access to highways. The elegant interior is accentuated by large windows, decorative lights, and ceiling fans throughout the home. A huge living room with a stone fireplace is perfect for entertainment. The kitchen has built-ins and ample counter space. Master suite features a luxurious master bath with dual sinks, separate shower and vanities, and a garden tub. Bedrooms are spacious and versatile. A huge backyard with a patio is the perfect venue for outdoor activities and summer parties. Schedule a showing now! </text_base_description>
+	<listed_by>
+		<name>Elton Stafford</name>
+		<org> • Josh DeShong Real Estate, LLC </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$84,900</List_Price>
+		<Est._Mo._Payment>$508</Est._Mo._Payment>
+		<Redfin_Estimate>$80,794</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$75</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>98 days</Time_on_Redfin>
+		<Property_Type>Residential, Townhouse</Property_Type>
+		<HOA_Dues>$219/month</HOA_Dues>
+		<Year_Built>1984</Year_Built>
+		<Style>Condo/Townhome, Traditional</Style>
+		<Community>Canterbury Crossing Ph 01-08</Community>
+		<Lot_Size>7.74 Acres</Lot_Size>
+		<key name="MLS#">14377962</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, Homeowners Association, School / Neighborhood</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking &amp; Garage</item>
+					<item>
+						<item>Garage Dimensions: </item>
+						<item>Assigned Spaces, Front</item>
+					</item>
+				</item>
+				<item>
+					<item>HOA Information</item>
+					<item>
+						<item>Association Fee: $219</item>
+						<item>Fee Frequency: Monthly</item>
+						<item>Fee Includes: Exterior Maintenance, Front Yard Maintenance, Maintenance of Common Areas</item>
+						<item>Association Type: Mandatory</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Runyon</item>
+						<item>Middle School Name: Florence</item>
+						<item>High School Name: Spruce</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (1/2): 1</item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item># of Rooms: 8</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 1 Information</item>
+					<item>
+						<item>Room Type: Living Room</item>
+						<item>Level: 1</item>
+						<item>Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 2 Information</item>
+					<item>
+						<item>Room Type: Kitchen</item>
+						<item>Features: Built-In Cabinets, Utility in Kitchen, Walk-In Pantry</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 3 Information</item>
+					<item>
+						<item>Room Type: Master Bedroom</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 4 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 5 Information</item>
+					<item>
+						<item>Room Type: Full Bath</item>
+						<item>Features: Built-In Cabinets, Separate Shower</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 6 Information</item>
+					<item>
+						<item>Room Type: Full Bath</item>
+						<item>Level: 2</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 7 Information</item>
+					<item>
+						<item>Room Type: Half Bath</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 8 Information</item>
+					<item>
+						<item>Room Type: Dining Room</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Cable TV Available, High Speed Internet Available, Vaulted Ceilings, Window Coverings</item>
+						<item># of Dining Areas: 1</item>
+						<item># of Fireplaces: 1</item>
+						<item>Fireplace Features: Brick, Wood Burning</item>
+						<item>Flooring: Carpet, Laminate</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central A/C (Electric), Central Heat (Electric)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Pre-Owned</item>
+						<item>Building Area Source: Tax</item>
+						<item>Foundation: Slab</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Patio Open</item>
+						<item>Roof: Composition</item>
+						<item>Exterior Construction: Brick, Siding</item>
+						<item>Fencing: Other (See Remarks)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Utilities, Taxes / Assessments, Financing, Location Details</item>
+			<item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Sewer, City Water</item>
+					</item>
+				</item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Legal Description: CANTERBURY CROSSING PH I-VIII BLK A/6683 LT 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Financing Proposed: Cash, Conventional</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: Canterbury Crossing Ph 01-08</item>
+						<item>Directions: 635 East. Take exit 2 for Lake June Rd. Turn right onto Lake June Rd. Turn left at Amity Ln. Sharp right. Complex will be on the left.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Living Areas: 1</item>
+						<item>For Sale</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item># of Stories: 2</item>
+						<item>Dishwasher, Disposal, Range/Oven (Electric), Water Line to Refrigerator</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Block: A6683</item>
+						<item>Lot Number: 2</item>
+						<item>Features: Interior Lot, Landscaped, Some Trees</item>
+						<item>Size: Condo/Townhome Lot</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 7.740</item>
+						<item>Area Sq. Ft.: 337,154.4</item>
+						<item>Parcel Number: 00C08130000Q00004</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1.5</Baths>
+		<Finished_Sq._Ft.>1,132</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,132</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1984</Year_Built>
+		<Year_Renovated>1984</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00C08130000Q00004</APN>
+	</public_facts>
+</home>

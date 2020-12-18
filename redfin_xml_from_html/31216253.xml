@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>Undisclosed Address</street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,255,500</Price>
+		<Beds>4</Beds>
+		<Baths>6</Baths>
+		<key name="$773 / Sq. Ft.">4,214</key>
+	</main_stats>
+	<text_base_description>Stunning and Award-Winning European Modern Estate. Totally renovated inside w/ Luxury finishes. Completely private w/ gorgeous treetop views overlooking the Austin Hill Country. 20-25 mins from DT Austin  &amp;  walking distance to the Barton Creek Resort, Spa and Golf Course. Over 1000 sf of outdoor living w/ Negative Edge pool. 4 In-suite bedrooms, plus separate study and Game room.  </text_base_description>
+	<listed_by>
+		<name>Krisstina Wise</name>
+		<agentLicenseDisplay>•TREC #0434270</agentLicenseDisplay>
+		<org> GoodLife Luxury, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,255,500</List_Price>
+		<Est._Mo._Payment>$15,492</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$773</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>65 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<HOA_Dues>$83/month</HOA_Dues>
+		<Year_Built>1999</Year_Built>
+		<Lot_Size>2.59 Acres</Lot_Size>
+		<key name="MLS#">8027528</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Game Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Master Bathroom</group_dat>
+						<group_dat>Features: Double Vanity, Garden Tub/Roman Tub, Separate Shower</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Laundry</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Bonus Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Features: Breakfast Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 8 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Bar, Breakfast Area, Granite Counters, Kitchen/Family Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 9 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: His and Hers Closets</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 10 Information</heading>
+					<group_data>
+						<group_dat>Den</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Bedroom, Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Oven, Convection Oven, Dishwasher, Electric Cooktop, Disposal, Oven, Refrigerator, Self Cleaning Oven, Stainless Steel Appliance(s), Trash Compactor, Wine Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Unfurnished</group_dat>
+						<group_dat>Flooring: Carpet, Tile, Wood</group_dat>
+						<group_dat>Other Features: Breakfast Bar, Ceiling Fan(s), Central Vacuum, Separate/Formal Dining Room, Double Vanity, French Door(s)/Atrium Door(s), In-Law Floorplan, Multiple Living Areas, Main Level Master, No Interior Steps, Recessed Lighting, Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat>Has Attached Garage</group_dat>
+						<group_dat># of Garage Spaces: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Attached, Garage, Garage Faces Side</group_dat>
+						<group_dat># of Covered Spaces: 3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Roof Details: Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Balcony, Barbecue, No Exterior Steps, Private Yard, Rain Gutters</group_dat>
+						<group_dat>Patio And Porch Features: Covered, Deck, Patio, Porch, Screened, Balcony</group_dat>
+						<group_dat>Security Features: Pre Wired</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Has Private Pool</group_dat>
+						<group_dat>Pool Features: Heated, In Ground, Pool/Spa Combo</group_dat>
+						<group_dat>Has Spa</group_dat>
+						<group_dat>Spa Features: Hot Tub, In Ground</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information, Homeowners Association, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Multi Unit Information</heading>
+					<group_data>
+						<group_dat>Pets Allowed: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Barton Creek</group_dat>
+						<group_dat>Association Fee: $1,000</group_dat>
+						<group_dat>Annually</group_dat>
+						<group_dat>Association Fee Includes: Common Areas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $20,573</group_dat>
+						<group_dat>Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Natural Gas Available</group_dat>
+						<group_dat>Sewer: Septic Tank</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central, Natural Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 2.59</group_dat>
+						<group_dat>Lot Size Acres: 2.59</group_dat>
+						<group_dat>Lot Features: Backs to Greenbelt/Park, Sprinklers Automatic, Trees Medium Size</group_dat>
+						<group_dat>Is Waterfront</group_dat>
+						<group_dat>Waterfront Features: Seasonal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Direction Faces: Southwest</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>4,214</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>4,214</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>2.59 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1999</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>108529</APN>
+	</public_facts>
+</home>

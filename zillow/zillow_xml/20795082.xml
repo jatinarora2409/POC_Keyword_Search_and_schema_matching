@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$3,550,000</price>
+		<bd>4</bd>
+		<ba>5</ba>
+		<area>3,806</area>
+	</summary>
+	<address>
+		<street_address>1716 Courtney Ave,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Stunning 2-story modern farmhouse situated on a quiet tree-lined street just five minutes away from the famed Chateau Marmont. This showpiece of modern-day elegance is conscientious of the outdoors by bringing natural light and the sky into its beautiful interiors. Boasting over 12-foot ceilings throughout, every room has been carefully appointed and exudes sophistication. The main floor features a large foyer leading to a living room that opens out to an outdoor patio and a formal dining room. A world-class gourmet kitchen seamlessly integrates into the family room that flows out to the beautiful pool and cabana. An imposing modern glass and wood staircase leads to the second level landing on a beautiful outdoor lounging terrace. The master suite offers views of the Hollywood Hills and wrap around balcony, a large walk-in closet, and a luxurious bathroom featuring an enclosed shower, separate toilet, and a stand-alone tub with soothing views of the outdoorsRead more</overview>
+	<listing_agent>
+		<agentName>Sam Jozani</agentName>
+		<phoneNumber>949-632-4654</phoneNumber>
+		<agentLicenseNumber>License #01986562</agentLicenseNumber>
+		<postingGroupName>Sam S. Jozani</postingGroupName>
+		<postingWebsiteLinkText>Sam S. Jozani</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2019</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">7,501 sqft</key>
+		<key name="Price/sqft:">$933</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+				<item>Laundry features: Individual Room, Gas Dryer Hookup, Electric Dryer Hookup, Upper Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 3,806 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Two</item>
+				<item>Private pool: Yes</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.17 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5551012020</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2019</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1939</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 95.48</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Sidewalks, Hiking</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

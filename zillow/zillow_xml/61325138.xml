@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,549,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,559</area>
+	</summary>
+	<address>
+		<street_address>2152 Grove St,</street_address>
+		<city_state> San Francisco, CA 94117</city_state>
+	</address>
+	<overview>This Covid-friendly, house-like condo makes anyone feel safe as they come home to their own private space. There is a separate exterior door with no lobby. Upon entering, you feel the space is expansive and like you've been transported to a Parisian arrondissement. Sunny, south-facing Palladian windows bathe the living room with warm tree-filtered sunshine, wonderful for hanging out with family, entertaining, or watching TV. The dining room is lined with storage shelves perfect for books, china, accessories or a treasured art collection. Imagine lively discussions around this table especially at the holidays. The kitchen is a cook's kitchen. Note the reflective exhaust fan that allows your guests to watch you cook and see what's cooking in the mirror. A split bath in the hall allows guests to use the WC without using the tub/shower room. In the back, facing the green, tranquil yard is an office. There are two large bedrooms with healthy closets. Separate laundry and storage. Parking.Read more</overview>
+	<listing_agent>
+		<agentName>Bonnie Spindler</agentName>
+		<phoneNumber>415-552-9500</phoneNumber>
+		<agentLicenseNumber>License #01175723</agentLicenseNumber>
+		<postingGroupName>Corcoran Global Living</postingGroupName>
+		<postingWebsiteLinkText>Corcoran Global Living</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1926</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$250/month</key>
+		<key name="Price/sqft:">$994</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,559 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick, Stucco</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.07 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 1190003</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1926</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.44</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

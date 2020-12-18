@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>340 Roosevelt Way </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94114</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,895,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$1430 / Sq. Ft.">1,325</key>
+	</main_stats>
+	<text_base_description>Positioned on the SE slope of Corona Heights just below Buena Vista Pk, this classic mid-century home offers a great flr plan, clean finishes, a stellar location  &amp;  amazing potential for expansion. The current split-level configuration accommodates a generous light-filled living space for entertaining enhanced by pristine, newly finished maple flrs, a wood-burning frpl and verdant southern vistas over Eureka Vly. Illuminated by a large skylight and big enough for a breakfast bar, the remodeled kitchen features lots of cabinetry; expansive composite counter-tops and stainless appliances. Positioned at the back of the home, the bedroom spaces are accessed by a few stairs and each offer large closets. The master connects to a rain-protected solarium that is large enough for your yoga practice. This space also offers a sensible spot to add an en-suite bath. Accessed from the 2nd bedroom, the yard is a sweet wind-protected space defined by a vine laced brick wall  &amp;  mature plantings.  </text_base_description>
+	<listed_by>
+		<name>Harry Clark</name>
+		<agentLicenseDisplay>•DRE #01140473</agentLicenseDisplay>
+		<org> Corcoran Global Living</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,895,000</List_Price>
+		<Est._Mo._Payment>$8,660</Est._Mo._Payment>
+		<Redfin_Estimate>$1,905,709</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,430</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>2 Story, Single-Family Home</Property_Type>
+		<Year_Built>1956</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Corona Heights</Community>
+		<Lot_Size>1,750 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507394</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+						<group_dat>2 Bedrooms on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1</group_dat>
+						<group_dat>1 Bath on Main Level</group_dat>
+						<group_dat>Tile, Shower over Tub, Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+						<group_dat>Solarium</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat># of Fireplace(s): 1, Wood Burning, In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: Washer/Dryer, In Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Gas Range, Freestanding Range, Refrigerator, Dishwasher, Garbage Disposal, Corian Counter, Remodeled</group_dat>
+						<group_dat>Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Hardwood</group_dat>
+						<group_dat># of Rooms (Total): 5</group_dat>
+						<group_dat>2 Bedrooms on Main Level, 1 Bath on Main Level, Living Room on Main Level, Dining Room on Main Level, Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Heating/Cooling: Central Heating, Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Multi-Unit Information, Homeowners Association, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Type: On Site</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat># of Parking Spaces: 2</group_dat>
+						<group_dat>Garage, Automatic Door, Interior Access</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Masonic</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Foundation: Concrete Perimeter</group_dat>
+						<group_dat>Wood Frame Construction</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Fenced Yard, Garden, Landscaping (Rear), Patio(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Partial, City Lights, Hills, Twin Peaks</group_dat>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Transportation: 2 Blocks</group_dat>
+						<group_dat>Shopping: 2 Blocks</group_dat>
+						<group_dat>Type: 2 Story</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>Garden, Landscaping (Rear), Fenced Yard, Patio(s)</group_dat>
+						<group_dat>APN: 2607046</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,895,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 1, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,325</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>1,750 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1956</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>2607 046</APN>
+	</public_facts>
+</home>

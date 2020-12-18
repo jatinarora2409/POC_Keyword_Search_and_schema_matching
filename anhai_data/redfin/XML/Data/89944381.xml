@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>360 W Washington Ave #1412 </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$375,000</Price>
+		<Bed>1</Bed>
+		<Baths>2</Baths>
+		<key name="$336 / Sq. Ft.">1,115</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Stunning Metropolitan Place penthouse has it all! Fantastic 1BD/2BA features 2 levels of spacious living area boasting maple floors throughout, SS appliances w/ gas range, solid surface countertops, closet systems, lofted master suite, 2 fireplaces  &amp;  2 large balconies. Enjoy lake  &amp;  city views through expansive floor to ceiling windows. Unbelievably large storage unit  &amp;  prime oversized parking space included! Centrally located just steps from all Downtown Madison has to offer! Amenities including onsite management, guest parking, fitness center  &amp;  terrace. Set up a showing today! </text_base_description>
+	<listed_by>
+		<name>Josh Lamp</name>
+		<org> First Weber Inc</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$375,000</List_Price>
+		<Est._Mo._Payment>$1,972</Est._Mo._Payment>
+		<Redfin_Estimate>$370,729</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$336</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>93 days</Time_on_Redfin>
+		<Property_Type>Condo</Property_Type>
+		<HOA_Dues>$360/month</HOA_Dues>
+		<Year_Built>2003</Year_Built>
+		<Community>Madison</Community>
+		<key name="MLS#">1887752</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 16 x 14</group_dat>
+						<group_dat>Master Bedroom Level: Upper</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): Master Bedroom Bath (Full), Master Bedroom Bath, Tub/Shower Combo  in Master Bathroom</group_dat>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Wood or Simulation Wood Floors, Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Living Room Dimensions: 11 x 17</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 11 x 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher, Microwave, Garbage Disposal, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking: 1-5 Spaces, 1 Space, Assigned, Parking Fee</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat>Garage: Opener Included</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Estimated Sq. Ft. Range: 1001-1250</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior Features: Deck</group_dat>
+						<group_dat>Exterior: Brick, Stone</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Condo Information</heading>
+					<group_data>
+						<group_dat>Condominium Name: Metropolitan Place I</group_dat>
+						<group_dat>Townhouse, 2 Story</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 174</group_dat>
+						<group_dat>Units In Association: 338</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Utilities, Taxes / Assessments, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Condo Fee Monthly: $360</group_dat>
+						<group_dat>Association Common Amenities: Common Green Space, Exercise Room, Elevator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Heat Pump, Central Air</group_dat>
+						<group_dat>Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $6,950</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Range/Oven, Microwave, Washer, Dryer, &amp; Dishwasher.</group_dat>
+						<group_dat>Exclusions: Seller's Personal Property.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Middle School: Hamilton</group_dat>
+						<group_dat>High School: West</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Condo</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat> Zoning: PD</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,115</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,115</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>1.46 Acres</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>2003</Year_Built>
+		<Year_Renovated>2006</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070923143980</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>842 N Orange Grove Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$4,195,000</Price>
+		<Beds>5</Beds>
+		<Baths>5.5</Baths>
+		<key name="$776 / Sq. Ft.">5,403</key>
+	</main_stats>
+	<text_base_description>Style, sophistication and elegance encapsulates this architectural 5 bedroom 5.5 bathroom newly constructed smart home located in the highly desirable West Hollywood vicinity. With over 5400 square feet of interior living, this private compound showcases a breathtaking blend of imported European stone with a masterfully designed state-of-the-art custom curated finish. The 1300 square foot luxurious Master retreat redefines opulence with it showroom walk-in closet and a luxurious spa-like master bathroom. The exceptional chef kitchen is dressed with phantom black Italian marble counter-tops, hydraulic cabinetry, Miele appliances and for the enthusiast - a wine gallery. The open floor-plan concept is complimented with its walls of sliding glass pocket doors, rooftop terrace boasting incredible views, pool/spa, movie theater and a state-of-the-art smart home technology that allows for security, lighting and entertainment to be controlled at your fingertips from anywhere in the world.  </text_base_description>
+	<listed_by>
+		<name>Scott Ammann</name>
+		<agentLicenseDisplay>•DRE #01295980</agentLicenseDisplay>
+		<org> Keller Williams Hollywood Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$4,195,000</List_Price>
+		<Est._Mo._Payment>$19,343</Est._Mo._Payment>
+		<Redfin_Estimate>$4,058,307</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$776</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>29 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Modern</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,500 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-628096</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5527-003-027</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Melrose to Orange Grove Ave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 5</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry on Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Bonus Room, Breakfast Area, Breakfast Bar, Family Room, Dressing Area, Patio Open, Powder Room, Home Theatre, Formal Entry Room, Great Room, Projection, Living Room, Den, Dining Area, Dining Room, Media Room, Master Bedroom, Pantry, Patio Covered, Wine Cellar, Walk-In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Family Room, In Master Bedroom, On Patio, Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Marble Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Attic Fan, Built-Ins, Dishwasher, Dryer, Freezer, Garbage Disposal, Gas Dryer Hookup, Ice Maker, Intercom, Microwave, Washer, Water Filter, Network Wire, Refrigerator, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling, A/C</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage, Private, Driveway Gate, Attached, Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Heated And Filtered Pool, Lap Pool, In Ground Pool, Black Bottom Pool, Waterfall Pool</group_dat>
+						<group_dat>Heated Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,500</group_dat>
+						<group_dat>Lot Size (Acres): 0.1492</group_dat>
+						<group_dat>Zoning: LAR2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: City Lights, Mountains</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>2,040</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,040</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>6,500 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1924</Year_Built>
+		<Year_Renovated>1925</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5527003027</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$110,000</price>
+		<bd>5</bd>
+		<ba>2</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2709 W Harrison St,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>THIS NICE BRICK 2 FLAT IS COMPLETELY GUTTED! PRICED FOR QUICK SALE ! INVESTORS / 203K FUTURE HOME OWNERS, THIS PROERTY CAN SERVE YOUR NEEDS FOR CASH FLOW OR LIVE LANDLORD 1 UNIT PAYING TOWARD YOUR MORTGAGE. SCHEDULE A SHOWING TODAY AND SEE THE POTENTIAL OF THIS PROPERTY! SCOPE OF WORK INCLUDED!Read more</overview>
+	<listing_agent>
+		<agentName>Natalie Peralta</agentName>
+		<phoneNumber>773-863-0704</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>TADD Realty</postingGroupName>
+		<postingWebsiteLinkText>TADD Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1888</key>
+		<key name="Heating:">Electric</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1888</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.97</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

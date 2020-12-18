@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,595,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,179</area>
+	</summary>
+	<address>
+		<street_address>870 Chestnut St,</street_address>
+		<city_state> San Francisco, CA 94133</city_state>
+	</address>
+	<overview>Escape the confines of typical city living in this wonderful urban oasis designed in 1904 by famous San Francisco architect,  Conrad Meussdorffer, and redesigned by Riaz Taplin in 2013. Set in a stunning Russian Hill location perfectly situated to catch amazing Bay views from the sunken living room (with fireplace) or the expansive deck, which spans the entire width of the property, you can find your solitude in the private (exclusive use) garden, or walk the hills of one of San Francisco's quintessential neighborhoods just out your door.  This unit features 2 bed, 2 bath, parking, huge view deck, backyard, HW, FP, master bedroom w/ en suite bathroom, WD, Open designer Kitchen w/ bar seating, updated appliances, and low HOAs.Read more</overview>
+	<listing_agent>
+		<agentName>Alexander Clark</agentName>
+		<phoneNumber>415-254-5351</phoneNumber>
+		<agentLicenseNumber>License #01339386</agentLicenseNumber>
+		<postingGroupName>The Front Steps</postingGroupName>
+		<postingWebsiteLinkText>The Front Steps</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1904</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$280/month</key>
+		<key name="Price/sqft:">$1,353</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,179 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Wood</item>
+				<item>View description: Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0049033</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1904</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2013</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 93.72</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$434,900</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,915</area>
+	</summary>
+	<address>
+		<street_address>2411 N 96th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Enchanting Swan Park brick colonial packed with character, style and space.  Winding front walk lined with beautiful boxwoods. French style windows, arched dormers and gorgeous iron window boxes. Original hardwood floors, a stone natural fireplace, plaster moldings and arched openings.  DR has original built-ins and access to bonus family room with original brick wall, bead board ceilings, patio door and full bathroom with walk-in shower.  KIT is spacious, center island, high end SS appliances, white cabinetry and granite counters. Upstairs are 3 nicely sized bedrooms and second full bathroom. Master has access to a second floor deck, the perfect place to relax or work from home!  LL is partially finished has third full bath. Backyard is private, featuring a patio as well as green space.Read more</overview>
+	<listing_agent>
+		<agentName>Katie Wakefield</agentName>
+		<phoneNumber>414-477-8066</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Firefly Real Estate, LLC</postingGroupName>
+		<postingWebsiteLinkText>Firefly Real Estate, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1936</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,969 sqft</key>
+		<key name="Price/sqft:">$227</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,915 sqft</item>
+				<item>Fireplace features: Wood Burning</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Full Bath on Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+				<item>Fencing: Fenced</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,969 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3340348000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Colonial</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1936</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1975</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 85.72</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

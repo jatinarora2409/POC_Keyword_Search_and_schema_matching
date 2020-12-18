@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$255,000</price>
+		<bd>--</bd>
+		<ba>1</ba>
+		<area>550</area>
+	</summary>
+	<address>
+		<street_address>5406 Connecticut Ave NW APT 807,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Lovely renovated studio apartment. The kitchen features stainless steel appliances (microwave, range, dishwasher, and refrigerator). The bathroom has ceramic tile throughout and there is a large walk in closet and storage space. There are lots of shops and restaurant nearby where you can still dine out while practicing the COVID-19 social distancing that are in place at these restaurants.Read more</overview>
+	<listing_agent>
+		<agentName>Hugh Harvey</agentName>
+		<phoneNumber>301-459-5040</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Bennett Realty Solutions</postingGroupName>
+		<postingWebsiteLinkText>Bennett Realty Solutions</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1963</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">None</key>
+		<key name="Price/sqft:">$464</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 0</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 550 sqft</item>
+				<item>Finished area below ground: 0 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Accessible Elevator Installed</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+				<item>View description: Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 18572365</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1963</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1982</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

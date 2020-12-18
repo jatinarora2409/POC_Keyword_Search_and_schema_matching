@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>5310 Connecticut Ave NW #7 </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$877,500</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$550 / Sq. Ft.">1,596</key>
+	</main_stats>
+	<text_base_description>Welcome to Connecticut Walk, a Townhouse Community located at 5310 Connecticut Ave. Townhouse #7 is a charming, recently updated 3 bedroom, 3 1/2 bath home, and is beautifully located less than a mile South of Chevy Chase Circle on DC?s most picturesque Avenue. The interior features a bright and inviting kitchen with quartz counters and stainless steel appliances, as well as an elegant dining room with a step-down into the main living area. At the South end of the living room are a pair of French doors that lead to a balcony overlooking a beautiful stone church across Jocelyn St. Custom built-ins flank the wood-burning fireplace. On the upper level, the master bedroom has an ensuite bath with updated vanity, lighting and fixtures. The second bedroom is spacious, and directly also has an ensuite bath. Second floor hall laundry stack provides convenience. Several skylights make the upper level suffused with sunlight. The lower level contains a bedroom and a generously sized full bath. Access to the garage is from the lower level hall. The house has been updated with features including new tile in the kitchen and powder room, vanities, bathroom fittings, mirrors, and medicine cabinets. LED recessed lighting and contemporary ceiling fixtures complete the package. The main entry is through a lovely, landscaped interior courtyard shielded from city noise. A single car garage accessed from a brick driveway on Jocelyn Street serves as your day to day access. The Garage is the full width of the property, so it provides ample spillover and utility storage space. With an L2 bus stop directly in front, you can ride ½ mile South to Vanness Metro, or ride it all the way to Federal Triangle. Walk a quarter mile North to Starbucks, shopping and restaurants. To the South a short walk gets you to Bread Furst and Politics and Prose. and more shops. A short walk to Friendship Heights shopping include Whole Foods, major retail, boutiques and Restaurants.  </text_base_description>
+	<listed_by>
+		<name>Larry Hodgson</name>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$877,500</List_Price>
+		<Est._Mo._Payment>$3,741</Est._Mo._Payment>
+		<Redfin_Estimate>$875,771</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$550</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>10 days</Time_on_Redfin>
+		<HOA_Dues>$200/month</HOA_Dues>
+		<Year_Built>1985</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>CHEVY CHASE</Community>
+		<Lot_Size>866 Sq. Ft.</Lot_Size>
+		<key name="MLS#">DCDC486070</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On 1st Upper Level: 2</group_dat>
+						<group_dat># of Bedrooms On 1st Lower Level: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On 1st Upper Level: 2</group_dat>
+						<group_dat># of Bathrooms (Half) On Main Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On 1st Lower Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Upper Levels: 2</group_dat>
+						<group_dat># of Bathrooms (Full) On All Lower Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Half): 1</group_dat>
+						<group_dat># of Bathrooms (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Microwave, Built-In Range, Dishwasher, ENERGY STAR Refrigerator, Washer - Front Loading, Washer/Dryer Stacked</group_dat>
+						<group_dat>Door Features: French, Six Panel</group_dat>
+						<group_dat>Flooring Type: Hardwood, Carpet</group_dat>
+						<group_dat>Not Furnished</group_dat>
+						<group_dat>Interior Features: Built-Ins</group_dat>
+						<group_dat>Living Area Sq.Ft. Source: Assessor</group_dat>
+						<group_dat>Wall &amp; Ceiling Types: 9'+ Ceilings, Dry Wall</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Laundry Type: Upper Floor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Brick, Screen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Basement Information</heading>
+					<group_data>
+						<group_dat>Daylight, Partial</group_dat>
+						<group_dat>Basement Footprint Percent: 100.00</group_dat>
+						<group_dat>Basement Finished Percent: 50.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Attached Garage Spaces: 1</group_dat>
+						<group_dat>Garage Features: Built In, Additional Storage Area, Garage - Rear Entry</group_dat>
+						<group_dat># of Total Garage and Parking Spaces: 1</group_dat>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Brick Driveway</group_dat>
+						<group_dat>Attached Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA/Condo/Coop Fee Includes: Lawn Maintenance, Snow Removal, Trash</group_dat>
+						<group_dat>HOA Fee: $200</group_dat>
+						<group_dat>HOA Fee Frequency: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: MURCH</group_dat>
+						<group_dat>Middle Or Junior School: DEAL</group_dat>
+						<group_dat>High School: WILSON SENIOR</group_dat>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>Elementary School Source: Listing Agent</group_dat>
+						<group_dat>Middle School Source: Listing Agent</group_dat>
+						<group_dat>High School Source: Listing Agent</group_dat>
+						<group_dat>School District Source: Listing Agent</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>120/240V</group_dat>
+						<group_dat>Heat Pump - Electric BackUp</group_dat>
+						<group_dat>Heating Fuel: Electric</group_dat>
+						<group_dat>Hot Water: Electric</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Phone Available, Cable TV Available, Sewer Available, Water Available</group_dat>
+						<group_dat>Water Source: Community</group_dat>
+						<group_dat>Municipal Trash: No</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Agricultural Tax Due: No</group_dat>
+						<group_dat>City/Town Tax: $7,040</group_dat>
+						<group_dat>Tax Assessed Value: $857,190</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $7,040</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Lease Considered: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>In City Limits</group_dat>
+						<group_dat>Cross Street: Jocelyn</group_dat>
+						<group_dat>Directions: GPS, South from MD on Connecticut, right on Jocelyn. </group_dat>
+						<group_dat>Entry Floor Number: 2</group_dat>
+						<group_dat>Transportation: Bus Stop less than 1 mile, Metro/Subway Station less than 1 mile, Airport less than 10 miles</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Not Federal Flood Zone</group_dat>
+						<group_dat>Total Below Grade Sq. Ft.: 300</group_dat>
+						<group_dat>Accessibility Features: 32&quot;+ wide Doors, 36&quot;+ wide Halls, &gt;84&quot; Garage Door</group_dat>
+						<group_dat># of Floors In Unit: 3</group_dat>
+						<group_dat>Horse: No</group_dat>
+						<group_dat>Improvement Assessed Value: $540,980</group_dat>
+						<group_dat>Ownership Interest: Fee Simple</group_dat>
+						<group_dat>Property Condition: Excellent</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+						<group_dat>Year Major Reno/Remodel: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Name: CONN AVE</group_dat>
+						<group_dat># of Levels (Total): 3</group_dat>
+						<group_dat>Construction Materials: Brick</group_dat>
+						<group_dat>Foundation Details: Slab, Concrete Perimeter, Brick/Mortar</group_dat>
+						<group_dat>Main Entrance Orientation: North</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Outdoor Living Structures: Balcony</group_dat>
+						<group_dat>Pets Allowed: Yes</group_dat>
+						<group_dat>Pet Restrictions: No Pet Restrictions</group_dat>
+						<group_dat>Roof: Built-Up</group_dat>
+						<group_dat>Structure Type: Interior Townhouse/Rowhouse</group_dat>
+						<group_dat>Window Features: Double Hung</group_dat>
+						<group_dat>Building Winterized</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Green Features</heading>
+					<group_data>
+						<group_dat>Energy Efficient: Appliances</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $316,210</group_dat>
+						<group_dat>Soil Types: Manor-Gleneig</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 1,596</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft.: 300</group_dat>
+						<group_dat>Unfinished Sq.Ft. Source: Estimated</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>1872//0832</APN>
+	</public_facts>
+</home>

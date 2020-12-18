@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2025 W JEFFERSON St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$248,000</Price>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<key name="$192 / Sq. Ft.">1,289</key>
+	</main_stats>
+	<text_base_description>INVESTORS SPECIAL. SOLID INCOME PROPERTY. THIS PROPERTY IS CURRENTLY LEASED TO A TENANT WHO HAS OCCUPIED THIS PROPERTY FOR YEARS AND WANTS TO STAY LONG TErM. 2,200/ MONTH. GREAT CASH FLOW FOR INVESTORS I WILL POST LOTS OF PICTURES AND AN OFFER WILL HAVE TO BE MADE SUBJECT TO INSPECTION OF THE INTERIOR. NEWER KITCHEN AND LAUNDRY/STORAGE BUILDING IN THE BACK YARD WITH A GATE TO THE ALLEYGREAT DOWNTOWN LOCATION THAT IS CLOSE TO JOBS, RESTRUANTS, SPORTS VENUES AND TRANSPORTATION. THE CURRENT ZONING IS R-3 </text_base_description>
+	<listed_by>
+		<name>Richard Vairo</name>
+		<org> Prestige Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$248,000</List_Price>
+		<Est._Mo._Payment>$982</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$192</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>51 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1961</Year_Built>
+		<Style>Ranch</Style>
+		<Community>CAPITOL ADDITION BLOCKS 43 &amp; 44 35-38 29 &amp; 30</Community>
+		<Lot_Size>7,000 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6119654</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 4</group_dat>
+						<group_dat>Separate Bedroom Exit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 2</group_dat>
+						<group_dat>3/4 Master Bathroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Range/Oven Electric</group_dat>
+						<group_dat>Eat-in Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Separate Workshop</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Washer/Dryer Hookup Only</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Sunscreen(s)</group_dat>
+						<group_dat>Carpet, Linoleum Floors, Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Refrigeration</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 2</group_dat>
+						<group_dat># of Parking Spaces (Slab): 2</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+						<group_dat>Rear Vehicle Entry, RV Gate, RV Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction, Wood Frame Construction</group_dat>
+						<group_dat>Brick Trim/Veneer Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: UNKNOW</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee Type: Dollar Amount</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2 Type: Dollar Amount</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Capitol</group_dat>
+						<group_dat>Junior High School: Phoenix Prep Academy</group_dat>
+						<group_dat>High School: Central</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer in &amp; Connected</group_dat>
+						<group_dat>Utilities: APS, Southwest Gas</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 21st Ave &amp; Jefferson St</group_dat>
+						<group_dat>Census Tract: 4.00</group_dat>
+						<group_dat>Directions: I-17 AND JEFFERSON GO EAST TO 2025 (RED BRICK HOME) ON SOUTH SIDE. DO NOT DISTURB TENANT WHO HAS OCCUPIED THE PROPERTY FOR APPROX. 5 YEARS.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 1,000-1,200</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: UNKNOW</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 109-49-079</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 49</group_dat>
+						<group_dat>Assessor's Parcel #: 79</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Alley, North/South Exposure</group_dat>
+						<group_dat>Chain Link Fencing</group_dat>
+						<group_dat>Landscaping: Desert in Front, Gravel/Stone in Back</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,289</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,289</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,000 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1961</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10949079</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$244,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,786</area>
+	</summary>
+	<address>
+		<street_address>14555 Gully Pl,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>its a quiet, friendly neighborhood, close to parks, shopping and minutes away from downtown Dallas. Includes 4 bedrooms, 2 full baths. The open kitchen and living areas provide a spacious, cozy environment for family gatherings and for entertaining friends. The large master suite has plenty of closet space, a bathroom with double sinks and separate shower and tub. The kitchen offers stained wood cabinets, new appliances, granite countertops, and ceramic tiled floors. This is an amazing property and is perfect for the right family.Read more</overview>
+	<listing_agent>
+		<agentName>Reuben Riojas</agentName>
+		<phoneNumber>817-864-8399</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Insight Realty Network</postingGroupName>
+		<postingWebsiteLinkText>Insight Realty Network</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">No Data</key>
+		<key name="Price/sqft:">$137</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,786 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

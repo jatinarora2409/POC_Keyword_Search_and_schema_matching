@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,499,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,587</area>
+	</summary>
+	<address>
+		<street_address>8700 Hollywood Hills Rd,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Presenting this reimagined 1954 Mid Century Modern masterpiece, which includes collectable designer pieces from Milo Baughmann, Francois Monnet, Curtis Jere, Paul Evans and inspired Lambert Onda. Remodeled from the inside out - this Shangri-LA combines modern luxuries, coveted views and privacy while featuring the architectural details of a California Mid Century. Located  just a short drive from Sunset Blvd, this 3 bed, 2.5 bath home features an expansive entertainers backyard, fire pit, dual sided fireplace, enclosed dine al fresco area, detached garage with built-ins, epicurean kitchen, master retreat with indulgent master bath, walls of glass, Fleetwood and Western pivoting doors. Private and gated, this curated oasis boasts electrifying day and evening views of the Hollywood Hills. Design palate and finishes from around the world. Home will be delivered fully furnished* including indoor and outdoor pieces. This striking view home is a perfect retreat for the most discerning buyer.Read more</overview>
+	<listing_agent>
+		<agentName>Catherine Ammann</agentName>
+		<phoneNumber>310-623-1300</phoneNumber>
+		<agentLicenseNumber>License #01894083</agentLicenseNumber>
+		<postingGroupName>Keller Williams Hollywood Hills</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Hollywood Hills</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">8,581 sqft</key>
+		<key name="Price/sqft:">$1,575</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Range / Oven, Refrigerator, Washer</item>
+				<item>Laundry features: In Unit</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Furnished: Yes</item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 1,587 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: Territorial, City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,581 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Other</item>
+				<item>Parcel number: 5564013014</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1954</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1971</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 69.08</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Gated, Carbon Monoxide Detector(s), Smoke Detector</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

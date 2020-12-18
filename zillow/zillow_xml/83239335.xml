@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$349,900</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,047</area>
+	</summary>
+	<address>
+		<street_address>625 E Mifflin St UNIT 307,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Showing start 8/21 at 12pm. This character filled top floor corner unit in The Colony has it all. Meticulously maintained 2 bedrooms + 2 baths sunny unit has an open floor plan with hardwood floors, brick walls and cozy gas burning fireplace. Kitchen offers granite countertops, stainless steel appliances, gas range, new microwave and tiled backsplash. Master bedroom ensuite has large walk-in closet and walk-in shower. Private terrace has Capitol view. In-unit washer and dryer, storage unit located on same floor as unit and 1 heated attached parking space. Parking #28, Storage #920Read more</overview>
+	<listing_agent>
+		<agentName>Julie Bernauer</agentName>
+		<phoneNumber>608-467-9596</phoneNumber>
+		<agentLicenseNumber>License #57457-90</agentLicenseNumber>
+		<postingGroupName>Sprinkman Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Sprinkman Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2008</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$287/month</key>
+		<key name="Price/sqft:">$334</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,047 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick, Other, Stone</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913353242</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2008</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2010</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 89.58</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

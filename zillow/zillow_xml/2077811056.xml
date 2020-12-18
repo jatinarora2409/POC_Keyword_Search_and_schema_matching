@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$289,000</price>
+		<bd>7</bd>
+		<ba>3</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2728 W Gladys Ave,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Finally a brick 2 flat (option to duplex down 1st floor to basement floor) unit building in the heart of East Garfield Park, right off the expressway, even in walking distance to the medical district, and shops! Attention investors &amp; builders this is an investors dream! Oversized lot situated in prime location. Contact us immediately this will go fast!! Optional lot of land next to it is available (separate parcel) for $79K additional, why not own double the amount of land?Read more</overview>
+	<listing_agent>
+		<agentName>Lisa M.</agentName>
+		<phoneNumber>773-685-6553</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Lisa Marts</postingGroupName>
+		<postingWebsiteLinkText>Lisa Marts</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">No Data</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 7</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished, Partially Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Refrigerator</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,049 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 18.97</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

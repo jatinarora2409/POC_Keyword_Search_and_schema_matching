@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,850,000</price>
+		<bd>5</bd>
+		<ba>6</ba>
+		<area>5,577</area>
+	</summary>
+	<address>
+		<street_address>8408 Hickory Creek Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Gorgeous Santa Barbara-style home on a large private lot in gated Barton Creek community. Featuring courtyard pool &amp; outdoor living area, this newly remodeled home is ideal for entertaining both indoors and out. Large main living surrounded by windows opens to courtyard and rear covered terrace. Light &amp; bright kitchen is appointed with stainless appliances. Expansive Primary Suite features vaulted ceiling, private entrance to terrace, double vanities, separate shower &amp; connected gym room. 3 bedrooms and game/media room on main level, 2 beds on the second level w/ access to flat yard. Outdoor pool bar with shower. Gated 4 Car Garage!Read more</overview>
+	<listing_agent>
+		<agentName>Daniel Kenneth Cline</agentName>
+		<phoneNumber>512-448-4111</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Realty</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1987</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">5 spaces</key>
+		<key name="HOA:">$62/month</key>
+		<key name="Lot:">0.89 acres</key>
+		<key name="Price/sqft:">$332</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 6</item>
+				<item>Full bathrooms: 6</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 5,577 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport, Attached Garage</item>
+				<item>Garage spaces: 5</item>
+				<item>Has uncovered spaces: Yes</item>
+				<item>Carport: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stucco</item>
+				<item>Patio and porch details: Patio, Covered</item>
+				<item>View description: Territorial</item>
+				<item>Residential vegetation: Partially Wooded, Trees-Large (Over 40 Ft)</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.89 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01113601240000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1987</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1991</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.79</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Gated</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$495,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>653</area>
+	</summary>
+	<address>
+		<street_address>1700 Civic Center Dr APT 513,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Beautiful and well maintained 1 bedroom, 1 bath condo on the 5th floor boasts a lot of natural bright light throughout. Cozy and efficient floor plan makes unit feel welcoming. Home features extra-large windows in both the living room and spacious master bedroom, newer flooring, and custom closet in the bedroom. Community includes building elevator, security entrance, pool, sauna, bicycle storage, community laundry area and secure parking. Centrally located in the heart of Silicon Valley. Close to many high tech companies, major highways, public transportation, shopping centers and dining. Included some virtual staging pictures for better visualization of use of space.Read more</overview>
+	<listing_agent>
+		<agentName>Lily Chow</agentName>
+		<phoneNumber>408-954-8515</phoneNumber>
+		<agentLicenseNumber>License #01770521</agentLicenseNumber>
+		<postingGroupName>Infinite Realty &amp; Investments</postingGroupName>
+		<postingWebsiteLinkText>Infinite Realty &amp; Investments</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1972</key>
+		<key name="Heating:">None</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$363/mo</key>
+		<key name="Price/sqft:">$758</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 653 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Private pool: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 871 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 22441073</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1972</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1973</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.46</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Security Guard</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Doorman</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

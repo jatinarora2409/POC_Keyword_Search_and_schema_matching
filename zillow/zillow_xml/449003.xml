@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$440,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>988</area>
+	</summary>
+	<address>
+		<street_address>5431 Connecticut Ave NW APT 204,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Arguably the best offering in the building, this unit features the largest floor-plan! This sun-drenched home shines with modern and thoughtful updates throughout. Highlights include hardwood floors, updated bath and kitchen, custom closet system, light fixtures, fans, hardware, and updated windows to enhance energy efficiency. The kitchen features granite counter-tops, stainless steel appliances, and designed to maximize space and functionality. Separately deeded parking space included in the sales price!  Pet-friendly building. All utilities included in low condo fees only pay for the internet! Exclusive location! Within a close walk  to Safeway, Starbucks, restaurants, shopping, entertainment, and the best of Chevy Chase and Friendship Heights, less than a mile to Friendship Heights metro! See Virtual Tour to appreciate the floorplan.Read more</overview>
+	<listing_agent>
+		<agentName>Mandy Kaur</agentName>
+		<phoneNumber>240-949-2235</phoneNumber>
+		<agentLicenseNumber>License #SP98360618</agentLicenseNumber>
+		<postingGroupName>Redfin Corp</postingGroupName>
+		<postingWebsiteLinkText>Redfin Corp</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1956</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">None</key>
+		<key name="Price/sqft:">$445</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 988 sqft</item>
+				<item>Finished area below ground: 0 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.02 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 18692011</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1956</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1987</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 89.24</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

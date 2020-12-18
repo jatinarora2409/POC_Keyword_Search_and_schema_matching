@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3512 W MARICOPA St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$278,000</Price>
+		<Beds>4</Beds>
+		<Baths>2.5</Baths>
+		<key name="$150 / Sq. Ft.">1,858</key>
+	</main_stats>
+	<text_base_description>A large new built home has 4 bedroom and 2.5 bathrooms with stainless appliances, Quartz counters, open concept, large kitchen island, pantry, ceilings, upgrade window coverings, Vinyl plank flooring, walk in closet and double sinks in master bedroom. Garage has 16 x 8 ft. door. Whirlpool   Dish washer, Microwave and Range will install  before close of escrow.  </text_base_description>
+	<listed_by>
+		<name>Brian Lau</name>
+		<org> Sanchez &amp; Associates Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$278,000</List_Price>
+		<Est._Mo._Payment>$1,013</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$150</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>27 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Ranch</Style>
+		<Community>WESTWARD HOMES</Community>
+		<Lot_Size>5,998 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6131528</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 2.5</group_dat>
+						<group_dat>Full Master Bathroom</group_dat>
+						<group_dat>Bathroom(s) Fully Updated</group_dat>
+						<group_dat>Bathrooms Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Built-in Microwave, Dishwasher in Kitchen, Disposal in Kitchen, Kitchen Island, Pantry in Kitchen, Range/Oven Electric</group_dat>
+						<group_dat>Kitchen Fully Updated</group_dat>
+						<group_dat>Kitchen Updated In: 2020</group_dat>
+						<group_dat>Breakfast Bar, Dining in Living Room/Great Room, Eat-in Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom 4</group_dat>
+						<group_dat>Dimensions: 12.5 x 11</group_dat>
+						<group_dat>Area: 137.50</group_dat>
+						<group_dat>Length: 12.50</group_dat>
+						<group_dat>Width: 11.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Addtional Room(s) Fully Updated</group_dat>
+						<group_dat>Addtional Room(s) Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>220v Dryer Hookup</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane, Vinyl Frame</group_dat>
+						<group_dat>Vinyl Floors</group_dat>
+						<group_dat>Floors Fully Updated</group_dat>
+						<group_dat>Floors Updated In: 2020</group_dat>
+						<group_dat>9+ Ft. Flat Ceilings</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Ceiling Fan(s), Refrigeration</group_dat>
+						<group_dat>Heating/Cooling Fully Updated</group_dat>
+						<group_dat>Heating/Cooling Updated In: 2020</group_dat>
+						<group_dat>HVAC SEER Rating: 14</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 2</group_dat>
+						<group_dat># of Parking Spaces (Slab): 2</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Blown Cellulose, Wood Frame Construction</group_dat>
+						<group_dat>Painted Exterior, Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Roof Fully Updated</group_dat>
+						<group_dat>Roof Updated In: 2020</group_dat>
+						<group_dat>Builder Name: Lau Homes</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Planned Community Name: 0</group_dat>
+						<group_dat>Planned Community Name: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2: 0</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Jack L. Kuban</group_dat>
+						<group_dat>Junior High School: Isaac Middle</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Wiring Fully Updated</group_dat>
+						<group_dat>Wiring Updated In: 2020</group_dat>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Plumbing Fully Updated</group_dat>
+						<group_dat>Plumbing: Water Heater (Electric)</group_dat>
+						<group_dat>Plumbing Updated In: 2020</group_dat>
+						<group_dat>Utilities: APS</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 35 Ave and Buckeye RD.</group_dat>
+						<group_dat>Census Tract: 4.00</group_dat>
+						<group_dat>Directions: From I 10 fwy. go south of 35 Ave then turn right on Maricopa street.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Patio</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 1,801-2,000</group_dat>
+						<group_dat>Sq. Ft. Source: Architect</group_dat>
+						<group_dat>Model: Ranch</group_dat>
+						<group_dat>Model: Ranch</group_dat>
+						<group_dat>Week Available (Timeshare): 0.00</group_dat>
+						<group_dat>Builder Name: Lau Homes</group_dat>
+						<group_dat>All on One Level</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 106-25-119</group_dat>
+						<group_dat>Assessor's Book #: 106</group_dat>
+						<group_dat>Assessor's Map #: 25</group_dat>
+						<group_dat>Assessor's Parcel #: 119</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Block Fencing</group_dat>
+						<group_dat>Landscaping: Dirt in Back, Gravel/Stone in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Owner is a Licensed Real Estate Agent</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>5,998 Sq. Ft.</Lot_Size>
+		<Style>Other</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10625119</APN>
+	</public_facts>
+</home>

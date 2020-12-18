@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>280 Spear St Unit 4U </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94105</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$845,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$1259 / Sq. Ft.">671</key>
+	</main_stats>
+	<text_base_description>Explore a new angle on life at MIRA, luxury condominium homes developed by the team at Tishman Speyer and designed by award-winning architecture Studio Gang. Located at the corner of Spear and Folsom Streets in San Francisco, CA, MIRA features iconic architecture, innovative layouts, striking views and a bold attitude. Fresh and forward-thinking, MIRA invites you to shift your perspective on living in San Francisco. All images are representative of the development.  </text_base_description>
+	<listed_by>
+		<name>Garrett Frakes</name>
+		<agentLicenseDisplay>•DRE #01319952</agentLicenseDisplay>
+		<org> Polaris Pacific</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$845,000</List_Price>
+		<Est._Mo._Payment>$3,861</Est._Mo._Payment>
+		<Redfin_Estimate>$844,434</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,259</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>Hi-Rise (9+), Condominium</Property_Type>
+		<HOA_Dues>$1,078/month</HOA_Dues>
+		<Year_Built>2020</Year_Built>
+		<Style>Modern/High Tech</Style>
+		<Community>South Beach</Community>
+		<key name="MLS#">507457</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Valet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Club Room, Recreation Room, Roof Deck, BBQ Area, Playground, Gym</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Gas, Garbage, Ext Bldg Maintenance, Grounds Maintenance, Door Person, Security Service, Homeowners Insurance, Outside Management</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $1,078</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Stall Shower, Marble, Dual Flush Toilet</group_dat>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Living/Dining Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Energy Star Appl(s), Electric Range, Hood Over Range, Built-In Oven, Self-Cleaning Oven, Refrigerator, Ice Maker, Freezer, Dishwasher, Garbage Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 1 Bedroom, 1 Bath, Living Room, Dining Room, Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating, Central Air</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Concrete Slab Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Concrete, Glass</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights, Downtown, Garden/Greenbelt</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Modern/High Tech</group_dat>
+						<group_dat>Type: Hi-Rise (9+)</group_dat>
+						<group_dat>Energy Conservation: Ceiling Insulation, Wall Insulation, Floor Insulation, Weather Stripped, Insulated Hot Wtr Ht, Dual Flush Toilet</group_dat>
+						<group_dat>Construction: Reinforced Concrete</group_dat>
+						<group_dat># of Units: 391</group_dat>
+						<group_dat>Per Builder</group_dat>
+						<group_dat>APN: NEW OR UNDER CONSTRUCTION</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Folsom St</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $845,000</group_dat>
+						<group_dat>On Market Date: Friday, October 2, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Restrictions</heading>
+					<group_data>
+						<group_dat>Limited Number of Pets</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>NEW OR UNDER CONSTRUCTION</APN>
+	</public_facts>
+</home>

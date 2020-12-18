@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8524 Appian Way </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,599,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$927 / Sq. Ft.">1,725</key>
+	</main_stats>
+	<text_base_description>Nestled on a Serene and Tranquil Hollywood Hills Canyon Road, this fabulous Traditional Style home oozing with Character and Charm offers an Open Floor Plan with Vaulted Ceilings, Newer Kitchen with Breakfast Bar, Dining Area, Fireplace, Hardwood Floors and French Doors that open out to a lovely Rear Garden and Terraced Hillside View. This warm and welcoming Home boasts 3 Bedrooms, 2 Bathrooms, a Den/4th Bedroom, and Laundry Room. An impressive Master Suite including a Gorgeous Bath  &amp;  Separate Office occupy the second floor, opening to a Spacious Private Wrap-Around Patio, the perfect setting for basking in the Peaceful Surroundings of Canyon Life! Other incredible attributes include: Electric Car Charger, Culligan Salt Water Softener, Retractable Awning off Master, Brand New Gate, Sonos/Speakers, Vaulted Ceilings, Skylights, Faux Grass, Tankless Water Heater, Storage Room, Security Cameras/Doorbell and 3 Private Parking Spaces! Freshly Painted! Wonderland Avenue Elementary School! </text_base_description>
+	<listed_by>
+		<name>Michael Bergin</name>
+		<agentLicenseDisplay>•DRE #01845572</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,599,000</List_Price>
+		<Est._Mo._Payment>$7,374</Est._Mo._Payment>
+		<Redfin_Estimate>$1,594,903</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$927</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>23 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1952</Year_Built>
+		<Style>Traditional</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>7,415 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-633056</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Utilities, Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: In Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5562-013-013</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: West on Lookout Mountain Ave, Left On Stanley Hills Dr, Left on Stanley Hills Pl which leads into Appian Way.</group_dat>
+						<group_dat>Cross Streets: Lookout Mountain Ave/Stanley Hills Pl</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Suite, WalkInCloset, Multi-Level Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Skylight(s), Stone Counters, Gourmet Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Breakfast Counter / Bar, Dining Area, Family Kitchen</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Bonus Room, Breakfast Bar, Den/Office, Study/Office, Lanai, Master Bedroom, Patio Covered, Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Turnkey, Recessed Lighting, High Ceilings (9 Feet+), Built-Ins</group_dat>
+						<group_dat>Living Room</group_dat>
+						<group_dat>Windows: Window Blinds, Skylights, Double Pane Windows, Awning, Drapes/Curtains</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors, Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Ceiling Fan, Dishwasher, Garbage Disposal, Microwave, Built-Ins, Alarm System, Water Filter, Refrigerator, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Ceiling Fan, Central Cooling</group_dat>
+						<group_dat>Central Heat, Fireplace Heat</group_dat>
+						<group_dat>Water Heater Features: Tankless</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Carport Attached, Garage Is Attached, 1 Car Garage, Private Garage, Side By Side, Parking for Guests, On street, Driveway - Concrete, Covered Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition, Shingle</group_dat>
+						<group_dat>Patio Features: Balcony, Patio Open, Porch - Rear, Lanai</group_dat>
+						<group_dat>Other Structural Features: Balcony, French Doors, High Ceilings (9 Feet+)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 7,415</group_dat>
+						<group_dat>Lot Size (Acres): 0.1702</group_dat>
+						<group_dat>Lot Size Dimensions: 59 x 125</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+						<group_dat>Lot Location: Canyon, Hillside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, Walk Street, Trees/Woods</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,725</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,725</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,415 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1952</Year_Built>
+		<Year_Renovated>1980</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5562013013</APN>
+	</public_facts>
+</home>

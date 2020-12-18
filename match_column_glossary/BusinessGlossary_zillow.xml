@@ -1,0 +1,170 @@
+<BusinessGlossary>
+    <term>
+        <id>1</id>
+        <value>Listed house agents Name</value>
+    </term>
+    <term>
+        <id>2</id>
+        <value>Listing house agents Office Name</value>
+    </term>
+    <term>
+        <id>3</id>
+        <value>Listing house agents Contact Number</value>
+    </term>
+    <term>
+        <id>4</id>
+        <value>Listing house agents Email Address</value>
+    </term>
+    <term>
+        <id>5</id>
+        <value>Listing house agents license number</value>
+    </term>
+    <term>
+        <id>6</id>
+        <value>Current status of the house</value>
+    </term>
+    <term>
+        <id>7</id>
+        <value>Bedroom count in the house</value>
+    </term>
+    <term>
+        <id>8</id>
+        <value>Bathroom count in the house</value>
+    </term>
+    <term>
+        <id>9</id>
+        <value>House description</value>
+    </term>
+    <term>
+        <id>10</id>
+        <value>Offer price of the House in USD</value>
+    </term>
+    <term>
+        <id>11</id>
+        <value>Area of the house in square feet</value>
+    </term>
+    <term>
+        <id>12</id>
+        <value>Lot Area of the house in acres</value>
+    </term>
+    <term>
+        <id>14</id>
+        <value>Tax amount of the house for the year</value>
+    </term>
+    <term>
+        <id>15</id>
+        <value>Parking spaces Count in the house</value>
+    </term>
+    <term>
+        <id>16</id>
+        <value>Garage spaces Count in the house</value>
+    </term>
+    <term>
+        <id>17</id>
+        <value>Furnished Area of the house in Square feet</value>
+    </term>
+    <term>
+        <id>18</id>
+        <value>Unfurnished Area of the house in Square feet</value>
+    </term>
+    <term>
+        <id>19</id>
+        <value>Cooling System in the house</value>
+    </term>
+    <term>
+        <id>20</id>
+        <value>Listed house brokers compensation</value>
+    </term>
+    <term>
+        <id>21</id>
+        <value>Listed houses style of construction</value>
+    </term>
+    <term>
+        <id>22</id>
+        <value>Listed houses property type</value>
+    </term>
+    <term>
+        <id>23</id>
+        <value>Heating System in the house</value>
+    </term>
+    <term>
+        <id>24</id>
+        <value>flooring Material in the house</value>
+    </term>
+    <term>
+        <id>25</id>
+        <value>Type of Appliances in the House</value>
+    </term>
+    <term>
+        <id>26</id>
+        <value>Address of the house</value>
+    </term>
+    <term>
+        <id>27</id>
+        <value>city of the house</value>
+    </term>
+    <term>
+        <id>28</id>
+        <value>region of the house</value>
+    </term>
+    <term>
+        <id>29</id>
+        <value>postal code/zip code of the house</value>
+    </term>
+    <term>
+        <id>30</id>
+        <value>Houses geographical coordinates</value>
+    </term>
+    <term>
+        <id>31</id>
+        <value>Roof Material of the house</value>
+    </term>
+    <term>
+        <id>32</id>
+        <value>Price per square feet of the house</value>
+    </term>
+    <term>
+        <id>33</id>
+        <value>Living area of the house in square feet</value>
+    </term>
+    <term>
+        <id>34</id>
+        <value>Home Owners Association fees of the house</value>
+    </term>
+    <term>
+        <id>35</id>
+        <value>Estimated price of the house</value>
+    </term>
+    <term>
+        <id>36</id>
+        <value>Houses monthly mortgage payment</value>
+    </term>
+    <term>
+        <id>37</id>
+        <value>Number of Units in the listed house</value>
+    </term>
+    <term>
+        <id>38</id>
+        <value>House age</value>
+    </term>
+    <term>
+        <id>39</id>
+        <value>Listed House built-in year</value>
+    </term>
+    <term>
+        <id>40</id>
+        <value>Listed House renovated in the year</value>
+    </term>
+    <term>
+        <id>41</id>
+        <value>Listed House APN ID</value>
+    </term>
+    <term>
+        <id>42</id>
+        <value>Listed House MLS ID</value>
+    </term>
+    <term>
+        <id>43</id>
+        <value>Listed houses nearby School Name</value>
+    </term>
+</BusinessGlossary>

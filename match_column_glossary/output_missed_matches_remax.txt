@@ -1,0 +1,54 @@
+C: Appliances
+G: appliances in the listed house
+
+C: price
+G: price of the listed house in usd
+
+C: Living_Area
+G: living area of the listed house in square feet
+
+C: High_School
+G: listed houses nearby school names
+
+C: Tax_Annual_Amount
+G: annual tax amount of the listed house for the year
+
+C: Association_Fee
+G: home owners association fees of the listed house
+
+C: Flooring
+G: type of flooring in the listed house
+
+C: Property_Type
+G: listed houses property type
+
+C: MLS
+G: listed house mls id
+
+C: listed_by
+G: real estate agents name
+
+C: year_built
+G: listed house built-in year
+
+C: Year_Built
+G: listed house built-in year
+
+C: location
+G: listings city
+
+C: City
+G: listings city
+
+C: Bedrooms_Total
+G: number of the bedrooms in the listed house
+
+C: listing_detail
+G: description of the listing
+
+C: Bathrooms_Total
+G: number of the bathrooms in the listed house
+
+C: total_baths
+G: number of the bathrooms in the listed house
+

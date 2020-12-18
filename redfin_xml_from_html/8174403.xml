@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8027 Floral Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$4,450,000</Price>
+		<Beds>5</Beds>
+		<Baths>7</Baths>
+		<key name="$742 / Sq. Ft.">6,000</key>
+	</main_stats>
+	<text_base_description>Spectacular Hollywood Hills View Home! Mt. Olympus Adjacent. Completed in 2013! At the end of a very private street, gates open to this palatial, 5 bedroom/6.5 bath Mediterranean Masterpiece situated on a private drive. Dramatic spiral marble staircase for access to all three floors, a dazzling skylight welcomes you to a fabulous open floor plan with great city and canyon views. 1st floor boasts a huge living room w/ fireplace which adjoins dining room. Over-sized office with built-ins/custom cabinetry and city views. Take the elegant curved staircase jeweled with exquisite iron work down to two (2) generous-sized, en-suite bedrooms w/ custom cabinetry and ample walk-in closets. Master suite boasts fireplace, balcony w/ views, spa tub! 3rd level has room for a pool table, plus a bonus entertainment room with a full bar, a private sauna, pool bath and two (2) additional bedrooms. Visit this VIEW oasis - walking distance to the best gyms, restaurants/clubs, boutiques, etc.  </text_base_description>
+	<listed_by>
+		<name>Roger Perry</name>
+		<agentLicenseDisplay>•DRE #01882885</agentLicenseDisplay>
+		<org> Rodeo Realty - Beverly Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$4,450,000</List_Price>
+		<Est._Mo._Payment>$20,521</Est._Mo._Payment>
+		<Redfin_Estimate>$4,285,099</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$742</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>44 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>2013</Year_Built>
+		<Style>Mediterranean</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.31 Acres</Lot_Size>
+		<key name="MLS#">20-624244</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Art Studio, Atrium, Bar Room, Billiard Room, Bonus Room, Breakfast Room, Cabana, Dance Studio, Den, Den/Office, Dining Room, Entry Room, Family Room, Formal Entry Room, Guest-Maids Quarters, Gym, In-Law Suite, Library/Study, Master Bedroom, Office, Powder Room, Rec Room, Sauna, Separate Family Room, Separate Maids Qtrs, Study/Office, Utility Room, Walk-In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room, In Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Marble Floors, Travertine Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Barbeque, Bar Ice Maker, Built-Ins, Cable, Ceiling Fan, Central Vacuum, Dishwasher, Dryer, Freezer, Garbage Disposal, Gas Dryer Hookup, Hood Fan, Microwave, Network Wire, Range/Oven, Refrigerator, Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Attached, Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 6</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Filtered Pool, Heated And Filtered Pool, Pool Heated with Gas, Private Pool</group_dat>
+						<group_dat>Heated Spa, Heated with Gas, In Ground Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5551-032-032</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Sunset Blvd/Crescent Heights Blvd. to N on Crescent Heights. Right on Fareholm. Left on Floral</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: In Foreclosure</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 13,712</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, City, City Lights, Coastline, Ocean, Pool, Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>5</Beds>
+		<Baths>7</Baths>
+		<Finished_Sq._Ft.>5,234</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>5,234</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>0.31 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2006</Year_Built>
+		<Year_Renovated>2006</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5551032032</APN>
+	</public_facts>
+</home>

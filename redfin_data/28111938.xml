@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1337 N 38TH Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$359,900</Price>
+		<Beds>7</Beds>
+		<Baths>3</Baths>
+		<key name="$124 / Sq. Ft.">2,912</key>
+	</main_stats>
+	<text_base_description>Great home with 7 bedrooms and 3 bathrooms. Perfect space for family and entertaining. Property has been upgraded. Tile thought  the house for easy cleaning. Easy access to freeways and major roads. Come and see it today! </text_base_description>
+	<listed_by>
+		<name>Marsella Peres</name>
+		<org> • Keller Williams Realty Phoenix </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$359,900</List_Price>
+		<Est._Mo._Payment>$1,379</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$124</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>202 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1990</Year_Built>
+		<Community>WEST VIEW MANOR PLAT 2</Community>
+		<Lot_Size>6,717 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6054571</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item>Bedrooms Plus: 8</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Bathrooms: 3</item>
+						<item>Full Master Bathroom</item>
+					</item>
+				</item>
+				<item>
+					<item>Kitchen &amp; Dining Information</item>
+					<item>
+						<item>Cook Top Gas, Range/Oven Gas, Refrigerator in Kitchen</item>
+						<item>Dining in Living Room/Great Room, Eat-in Kitchen</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Family Room, Loft</item>
+					</item>
+				</item>
+				<item>
+					<item>Appliances &amp; Equipment</item>
+					<item>
+						<item>Washer/Dryer Hookup Only</item>
+						<item>Cable TV Available</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item># of Interior Levels: 2</item>
+						<item>Tile Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Gas Heating</item>
+						<item>Refrigeration</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</item>
+			<item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item># of Parking Spaces (Slab): 2</item>
+						<item>Gated Parking, RV Parking</item>
+					</item>
+				</item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Block Construction</item>
+						<item>Stucco Exterior</item>
+						<item>Composition Shingle Roof</item>
+						<item>Builder Name: Unknown</item>
+						<item>Exterior Stories: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Community Information</item>
+					<item>
+						<item>Near Bus Stop</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>No HOA</item>
+						<item>Capital Improvement/Impact Fee: 0</item>
+						<item>Capital Improvement/Impact Fee Type: Dollar Amount</item>
+						<item>Capital Improvement/Impact Fee #2: 0</item>
+						<item>Capital Improvement/Impact Fee #2 Type: Dollar Amount</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>School / Neighborhood, Utilities, Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School: Alta E. Butler</item>
+						<item>Junior High School: Isaac E. Imes</item>
+						<item>High School: Carl Hayden</item>
+						<item>Elementary School District: 210 - Phoenix Union High School District</item>
+						<item>High School District: 210 - Phoenix Union High School District</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Water</item>
+						<item>Sewer (Public)</item>
+						<item>Utilities: APS</item>
+						<item>City Services</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: McDowell Rd. and 35th Ave</item>
+						<item>Census Tract: 8.00</item>
+						<item>Directions: North of I-10 on 35th Ave, W on Willetta, S on 35th Drive, W Culver, N 38th Ave.</item>
+					</item>
+				</item>
+				<item>
+					<item>Reports &amp; Disclosures</item>
+					<item>
+						<item>Agency Disclosure Required, Seller Disclosure Available</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Approximate Sq. Ft. Range: 2,751-3,000</item>
+						<item>Sq. Ft. Source: County Assessor</item>
+						<item>Builder Name: Unknown</item>
+						<item>2 Levels</item>
+						<item>Dwelling Styles: Detached</item>
+						<item>Tax Municipality: Phoenix</item>
+						<item>Assessor Number: 106-06-027</item>
+						<item>Assessor's Book #: 106</item>
+						<item>Assessor's Map #: 6</item>
+						<item>Assessor's Parcel #: 27</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Approximate Lot Size Range: 1 - 7,500</item>
+						<item>Block Fencing</item>
+						<item>Landscaping: Dirt in Back, Dirt in Front</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,912</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,912</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>6,717 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1990</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10606027</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$325,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2151 W Ohio St #1,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Vintage charm with modern amenities on great Ukrainian Village tree-lined street. Spacious 2 bed/2 bath condo features 11ft ceilings, updated kitchen and baths, hardwood floors, large bay windows, decorative fireplace and charming vintage woodwork throughout. In unit laundry and private deck complete the package. Extra large storage unit included in price. Super easy street parking. Wonderful Ukrainian Village location, steps to bars, restaurants and breweries. Minutes to Grand bus with easy commute to the Loop.  Top rated Mitchell School district. Self-managed building with healthy reserves and super low assessments. Garage parking available for rent. Welcome home!Read more</overview>
+	<listing_agent>
+		<agentName>Kim Brychel</agentName>
+		<phoneNumber>773-432-0200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>@properties</postingGroupName>
+		<postingWebsiteLinkText>@properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1890</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$165/mo</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,750 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17071200491004</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1890</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

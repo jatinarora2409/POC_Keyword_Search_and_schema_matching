@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2004 W Madison St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$199,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$113 / Sq. Ft.">1,759</key>
+	</main_stats>
+	<text_base_description>Amazing Opportunity to Own  Your Own Piece of History in Capitol West! Zoned Single Family  &amp;  R-5 Multi-Family! Great Investment Opportunity. Home is 1925 Historically Built Home, With Newer Addition. So Many Original Details: Wood Floors, Detailing, Trim, Wine/ Root Cellar, Horse Stable  &amp;  More! Unique Opportunity to Own Large Lot = Owner Owns 7,000 Sq. Ft. R-5 Multi- Family Zoned Lot Next Door, Listed for $79,000 in ''Land  &amp;  Lots''! DO NOT MISS THIS OPPORTUNITY! Oven in main kitchen does not convey.  </text_base_description>
+	<listed_by>
+		<name>Georgi Stratton</name>
+		<org> eXp Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$199,000</List_Price>
+		<Est._Mo._Payment>$757</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$113</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>11 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1925</Year_Built>
+		<Style>Other (See Remarks)</Style>
+		<Community>CAPITOL BLK 43, 44, 35-38, 29, 30</Community>
+		<Lot_Size>7,000 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6138856</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 2</group_dat>
+						<group_dat>Other Master Bathroom Features (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Other Dining Area (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Has Basement</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Other Laundry (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>1 Fireplace, Exterior Fireplace</group_dat>
+						<group_dat>Wood Floors</group_dat>
+						<group_dat>Fixer-Upper/Needs Repair, Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Wall/Floor Heating</group_dat>
+						<group_dat>Both Refrigerative &amp; Evaporative Cooling, Evaporative Cooling</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Rear Vehicle Entry, RV Gate, RV Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Basement: Unfinished Basement</group_dat>
+						<group_dat>Brick Construction</group_dat>
+						<group_dat>Brick Trim/Veneer Exterior, Painted Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: Amazing Historical Home</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Historic District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Alma</group_dat>
+						<group_dat>Junior High School: Alhambra Traditional</group_dat>
+						<group_dat>High School: Alhambra High</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Utilities: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 20TH AVENUE/MADISON STREET</group_dat>
+						<group_dat>Census Tract: 3.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 1,401-1,600</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: Amazing Historical Home</group_dat>
+						<group_dat>All on One Level</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 109-49-096</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 49</group_dat>
+						<group_dat>Assessor's Parcel #: 96</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Corner Lot, North/South Exposure</group_dat>
+						<group_dat>Chain Link Fencing</group_dat>
+						<group_dat>Landscaping: Grass in Back, Grass in Front, Synthetic Grass in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,759</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,759</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,000 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1925</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10949096</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,33 @@
+column_name: ['roof', 'material']
+glossary_term: ['roof', 'material', 'of', 'the', 'house']
+
+column_name: ['garage', 'spaces']
+glossary_term: ['garage', 'spaces', 'count', 'in', 'the', 'house']
+
+column_name: ['agent', 'name']
+glossary_term: ['listed', 'house', 'agents', 'name']
+
+column_name: ['living', 'area']
+glossary_term: ['living', 'area', 'of', 'the', 'house', 'in', 'square', 'feet']
+
+column_name: ['appliances']
+glossary_term: ['type', 'of', 'appliances', 'in', 'the', 'house']
+
+column_name: ['city']
+glossary_term: ['city', 'of', 'the', 'house']
+
+column_name: ['flooring']
+glossary_term: ['flooring', 'material', 'in', 'the', 'house']
+
+column_name: ['cooling']
+glossary_term: ['cooling', 'system', 'in', 'the', 'house']
+
+column_name: ['agent', 'license', 'number']
+glossary_term: ['listing', 'house', 'agents', 'license', 'number']
+
+column_name: ['heating']
+glossary_term: ['heating', 'system', 'in', 'the', 'house']
+
+column_name: ['mls', 'id']
+glossary_term: ['listed', 'house', 'mls', 'id']
+

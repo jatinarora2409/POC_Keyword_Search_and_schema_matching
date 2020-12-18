@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1253 N Orange Grove Ave </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,179,900</Price>
+		<Beds>7</Beds>
+		<Baths>4</Baths>
+		<key name="$735 / Sq. Ft.">2,965</key>
+	</main_stats>
+	<text_base_description>Unique opportunity to own a versatile property in trendy West Hollywood comprised of a main house and two income units. Craftsman main house has classic details like tapered columns, exposed rafters and extended eaves that cover a front porch overlooking a private yard. Inside you'll find coffered ceilings, arched room dividers, crown molding, a built-in book case, 3 bedrooms, 2 baths, dining area, office area, and a spacious kitchen with breakfast area. Two-story building in back has 2 bedroom, 1 bath units on each floor and a two car garage. First floor unit has been updated and has hook-ups for washer and dryer. Both buildings have been recently painted, main house has upgraded copper piping. Off-street parking area for up to 5 cars. Tremendous value-add opportunity to increase under market rents, obtain additional garage income and possibility for potential for redevelopment with R3 zoning on a corner lot.  </text_base_description>
+	<listed_by>
+		<name>Dale Shin</name>
+		<agentLicenseDisplay>•DRE #01409940</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,179,900</List_Price>
+		<Est._Mo._Payment>$10,052</Est._Mo._Payment>
+		<Redfin_Estimate>$2,036,297</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$735</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>127 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1916</Year_Built>
+		<Style>Craftsman</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,920 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-562714</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Exterior Features, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5530-001-035</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Breakfast Area, Dining Area, Living Room, Patio Covered</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Ceramic Tile Floors, Laminate Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Ceiling Fan, Dishwasher, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Ceiling Fan, Window Unit Cooling</group_dat>
+						<group_dat>Floor Furnace</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage, Uncovered</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 7</group_dat>
+						<group_dat># of Open Other Spaces: 5</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,920</group_dat>
+						<group_dat>Zoning: WDR3C*</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Southwest corner N Orange Grove Av and Fountain Av, east of N Fairfax Av, south of Sunset Bl, north of Santa Monica Bl, west of N Ogden Dr</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,712</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,712</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>6,920 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1916</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5530001035</APN>
+	</public_facts>
+</home>

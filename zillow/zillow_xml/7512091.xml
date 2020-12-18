@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$240,000</price>
+		<bd>3</bd>
+		<ba>1.75</ba>
+		<area>1,130</area>
+	</summary>
+	<address>
+		<street_address>3332 W Granada Rd,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>I am so excited for the new owners of this home!  It is fully renovated and, the finishes and the upgrades are very tastefully done.  This is practically brand new!  New roof, complete electrical rewire. A/C, drywall, flooring, bathrooms and kitchen, windows and many more.  This has a tankless water heater and indoor laundry.  You really need to see it.  It's close to downtown Phoenix and easy access to pretty much everything.  Make your appointment today.Read more</overview>
+	<listing_agent>
+		<agentName>Joann Palileo</agentName>
+		<phoneNumber>623-236-1414</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Realty ONE Group</postingGroupName>
+		<postingWebsiteLinkText>Realty ONE Group</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1951</key>
+		<key name="Heating:">Other, Gas</key>
+		<key name="Cooling:">Evaporative, Other</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">8,507 sqft</key>
+		<key name="Price/sqft:">$212</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Evaporative, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Microwave, Range / Oven, Refrigerator</item>
+				<item>Laundry features: Inside Laundry, Wshr/Dry HookUp Only</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,130 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Wood</item>
+				<item>Fencing: Chain Link</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,507 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10825019</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1951</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS, SW Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

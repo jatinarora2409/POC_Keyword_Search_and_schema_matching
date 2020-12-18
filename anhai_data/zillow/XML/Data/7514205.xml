@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$181,900</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>788</area>
+	</summary>
+	<address>
+		<street_address>2802 W Melvin St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Great opportunity! Remodeled in 2018, this home has plank wood look tile flooring, custom tile tub/shower, bright white kitchen cabinets with granite counter tops and a large lot. Double gates at front and rear of property. HVAC duct work redone in 2018 as well. Ready to move in!Read more</overview>
+	<listing_agent>
+		<agentName>Nathan Camasura</agentName>
+		<phoneNumber>623-594-7680</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Arizona Premier Realty Homes &amp; Land, LLC</postingGroupName>
+		<postingWebsiteLinkText>Arizona Premier Realty Homes &amp; Land, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1936</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,499 sqft</key>
+		<key name="Price/sqft:">$231</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 788 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+				<detail>Fencing: Chain Link, Block</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.15 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10927099</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1936</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: APS</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 83.3</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $91,100</detail>
+				<detail>Annual tax amount: $944</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6128856</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Dining Area: Dining in LR/GR</detail>
+				<detail>Kitchen Features: Dishwasher, Disposal, Refrigerator, Granite Countertops, Built-in Microwave, Range/Oven Elec</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Water: City Water</detail>
+				<detail>Source of SqFt: County Assessor</detail>
+				<detail>Laundry: Inside Laundry, Wshr/Dry HookUp Only</detail>
+				<detail>Construction: Frame - Wood</detail>
+				<detail>Const - Finish: Stucco, Painted</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Items Updated: Floor Partial/Full: Full</detail>
+				<detail>Items Updated: Bath(s) Partial/Full: Full</detail>
+				<detail>Items Updated: Ht/Cool Partial/Full: Partial</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Items Updated: Kitchen Partial/Full: Full</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Tax Municipality: Phoenix</detail>
+				<detail>Landscaping: Dirt Back, Dirt Front</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash, VA, FHA, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Carl Hayden High School</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2120 Vine Ln </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$169,900</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$140 / Sq. Ft.">1,216</key>
+	</main_stats>
+	<text_base_description>Oversized Lot on this 3 bedroom 2 bath home!  Wont last!  Priced to Sell! Solid Brick home with plenty of space to make this your first home. With Some TLC this home will have instant equity!  Also has 2 Car Garage with a nice Wrought Iron Gate and the biggest yard in that neighborhood!  This home is solid Built in 2002 lot size is 103x122 per Tax Rolls. Will need mostly cosmetic including kitchen some cabinets repairs and that sort of repairs, however, roof, and foundation in great shape. Don't miss this opportunity to make this a Beautiful Nest for your Family! </text_base_description>
+	<listed_by>
+		<name>Graciela Navarro</name>
+		<org> Avangard Real Estate Serv.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$169,900</List_Price>
+		<Est._Mo._Payment>$1,088</Est._Mo._Payment>
+		<Redfin_Estimate>$169,869</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$140</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>6 hours</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>2002</Year_Built>
+		<Style>Single Detached, Traditional</Style>
+		<Community>Vine Lane Add</Community>
+		<Lot_Size>0.27 Acres</Lot_Size>
+		<key name="MLS#">14446988</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 2</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 2</group_dat>
+						<group_dat>Garage Dimensions: 20 x 20</group_dat>
+						<group_dat>Attached, Covered, Front, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Moseley</group_dat>
+						<group_dat>Middle School Name: Florence</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: 00 x 00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 00 x 00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Cable TV Available</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Carpet, Ceramic Tile, Vinyl</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Electric)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+						<group_dat>Fencing: Iron, Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: VINE LANE BLK E/8506 LT 18 ACS 0.2717 VOL2002</group_dat>
+						<group_dat>Unexempt Taxes: $4,432</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Vine Lane Add</group_dat>
+						<group_dat>Directions: From Downtown Dallas take I-175 South and exit Saint Augustine Rd. make right and go strait to Teagarden then make right and then left to Vine Lane.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 1</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Dishwasher, Disposal, Oven (Electric), Range/Oven (Electric)</group_dat>
+						<group_dat>Has Security System</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: E8506</group_dat>
+						<group_dat>Lot Number: 18</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.269</group_dat>
+						<group_dat>Area Sq. Ft.: 11,717.64</group_dat>
+						<group_dat>Lot Size Dimensions: 103 x 122</group_dat>
+						<group_dat>Parcel Number: 008506000E0180000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,216</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,216</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>0.27 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2002</Year_Built>
+		<Year_Renovated>2002</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>008506000E0180000</APN>
+	</public_facts>
+</home>

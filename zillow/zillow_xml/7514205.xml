@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$181,900</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>788</area>
+	</summary>
+	<address>
+		<street_address>2802 W Melvin St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Great opportunity! Remodeled in 2018, this home has plank wood look tile flooring, custom tile tub/shower, bright white kitchen cabinets with granite counter tops and a large lot. Double gates at front and rear of property. HVAC duct work redone in 2018 as well. Ready to move in!Read more</overview>
+	<listing_agent>
+		<agentName>Nathan Camasura</agentName>
+		<phoneNumber>623-594-7680</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Arizona Premier Realty Homes &amp; Land, LLC</postingGroupName>
+		<postingWebsiteLinkText>Arizona Premier Realty Homes &amp; Land, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1936</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,499 sqft</key>
+		<key name="Price/sqft:">$231</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 788 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Wood</item>
+				<item>Fencing: Chain Link, Block</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.15 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10927099</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1936</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.3</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$212,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,507</area>
+	</summary>
+	<address>
+		<street_address>9463 Sandyland Blvd,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>BEAUTIFULLY Maintained home!! With gorgeous lush landscaping, this beauty is bursting with character and tranquility. Boasting natural light throughout, this 4 bedroom gem has an extra 5th bedroom for either a home office or mini-gym with its very own mini storage, and the master bedroom has an en-suite bath. Stainless steel appliances and granite countertops. The huge backyard features a new oversized concrete patio, ready for those year-around outdoor celebrations and perfect for entertaining. Features an automatic custom made gate for extra privacy. This is MUST SEE!!Read more</overview>
+	<listing_agent>
+		<agentName>Norma Walker</agentName>
+		<phoneNumber>972-836-9295</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>JP &amp; Associates Uptown</postingGroupName>
+		<postingWebsiteLinkText>JP &amp; Associates Uptown</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="HOA:">$10/month</key>
+		<key name="Lot:">8,276 sqft</key>
+		<key name="Price/sqft:">$141</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,507 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.19 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 00849500010020000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water, Sidewalk</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 89.01</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Dallas</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

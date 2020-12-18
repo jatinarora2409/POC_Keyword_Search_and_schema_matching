@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1300 N Poinsettia Pl </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,999,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$1034 / Sq. Ft.">1,934</key>
+	</main_stats>
+	<text_base_description>A great opportunity to own a beautiful duplex in a Hollywood/WEHO boundary neighborhood. Renovated and well maintained, this property is perfect for an owner/user, income or development on a 6100 sf lot. This duplex is currently arranged for owner/user and child care busines  Side by side units are connected via interior passage door. Otherwise, pretty much a mirrored layout. They expanded the bedroom in 1302, so that it now has a captive portion. Central AC, newer double pane windows. Walk-in closets entered via hallway. Parking is shared, not separate but units have separate outdoor space. . Close access to some the best shopping in Los Angeles including the Grove, Melrose and the Beverly Center. Fwy 101, easy commute to Hollywood, Sunset Strip and Beverly Hills.  </text_base_description>
+	<listed_by>
+		<name>Kenneth Abbott</name>
+		<agentLicenseDisplay>•DRE #02052254</agentLicenseDisplay>
+		<org> Real Estate PALS Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,999,000</List_Price>
+		<Est._Mo._Payment>$9,219</Est._Mo._Payment>
+		<Redfin_Estimate>$1,944,971</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,034</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>30 days</Time_on_Redfin>
+		<Property_Type>Residential Income</Property_Type>
+		<Year_Built>1921</Year_Built>
+		<Style>Bungalow</Style>
+		<Community>Hollywood</Community>
+		<Lot_Size>6,111 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-629864</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>All Bedrooms Down</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Remodeled, Shower and Tub, Low Flow Toilet(s), Linen Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Oven-Gas, Cooktop - Gas</group_dat>
+						<group_dat>Granite Counters</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Unit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Bonus Room, Rec Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Ground Level w/steps</group_dat>
+						<group_dat>Windows: Double Pane Windows, Window Blinds</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors, Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Cable, Garbage Disposal, Microwave, Gas Or Electric Dryer Hookup, Ceiling Fan, Built-Ins, Water Line to Refrigerator, Vented Exhaust Fan, Refrigerator, Dishwasher, Stackable W/D Hookup</group_dat>
+						<group_dat>Cable TV</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C, Dual Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+						<group_dat>Water Heater Features: Gas, Water Heater Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>Ground Level, One Level</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>ADA Compliance: False</group_dat>
+						<group_dat>Faces West</group_dat>
+						<group_dat>Security Features: Smoke Detector, Carbon Monoxide Detector(s)</group_dat>
+						<group_dat>Foundation - Concrete Block, Raised Foundation</group_dat>
+						<group_dat>Exterior Construction: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Awning</group_dat>
+						<group_dat>Other Structural Features: High Ceilings (9 Feet+), Full Copper Plumbing, Energy Efficient, Rain Gutters</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Multi-Unit Income</heading>
+					<group_data>
+						<group_dat>Gross Income: 0</group_dat>
+						<group_dat>Gross Operating Income: $72,000</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Other Financial Information</heading>
+					<group_data>
+						<group_dat>Scheduled Actual: Scheduled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat>Unit Type Type: 1, 2</group_dat>
+						<group_dat>Type Of Units: SFR</group_dat>
+						<group_dat># of Buildings: 1</group_dat>
+						<group_dat>Has Water Heaters: True</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 1 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $3,000</group_dat>
+						<group_dat>Projected Rent: $3,000</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 2 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $3,000</group_dat>
+						<group_dat>Projected Rent: $3,000</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Financing, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: District/Public</group_dat>
+						<group_dat>Water District: DWP</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Listing Terms: Conventional, Cash</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: From La Brea Ave go west on Fountain Ave. After four blocks, make right on North Poinsettia Place. It's on the corner of N Poinsettia Pl and Fountain Ave. 1300 N Poinsettia Pl.Los angeles</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: City Inspection Required, As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessed Total Value: $381,608</group_dat>
+						<group_dat>Assessed Land Value: $327,178</group_dat>
+						<group_dat>Assessed Land %: 85.74</group_dat>
+						<group_dat>Assessed Improvement Value: $54,430</group_dat>
+						<group_dat>Assessed Improvement %: 14.26</group_dat>
+						<group_dat>Assessor Parcel Number: 5548-020-060</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>No Mello-Roos Tax</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Land Lease Type: Fee</group_dat>
+						<group_dat>Property Type: Residential Income</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled, Value Mainly In Land</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,111</group_dat>
+						<group_dat>Lot Size (Acres): 0.1403</group_dat>
+						<group_dat>Zoning: LAR3</group_dat>
+						<group_dat>Lot Location: City, Corner Lot, Park Nearby, Near Public Transit</group_dat>
+						<group_dat>Lot Description: Fenced Yard</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow</group_dat>
+						<group_dat>Listing Terms: Conventional, Cash</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>—</APN>
+	</public_facts>
+</home>

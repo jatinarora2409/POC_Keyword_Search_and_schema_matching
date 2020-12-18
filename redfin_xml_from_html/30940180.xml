@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>818 N Saint Augustine Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$142,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$131 / Sq. Ft.">1,080</key>
+	</main_stats>
+	<text_base_description>Cute 3 bedroom 2 bath! Spacious living room flows easily in the dining area and kitchen. Tons of cabinet storage in the kitchen. Roomy bedrooms with plenty of closet space. Large back yard with trees allows for fun for pets and kids! Close to schools and parks! A must see! </text_base_description>
+	<listed_by>
+		<name>Sam Matalone</name>
+		<org> EB Brokerage Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$142,000</List_Price>
+		<Est._Mo._Payment>$718</Est._Mo._Payment>
+		<Redfin_Estimate>$140,201</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$131</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>42 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1956</Year_Built>
+		<Style>Single Detached, Traditional</Style>
+		<Community>Upchurch Sub</Community>
+		<Lot_Size>10,716 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14418672</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 1</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 1</group_dat>
+						<group_dat>Garage Dimensions: </group_dat>
+						<group_dat>Covered</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Pleasantgr</group_dat>
+						<group_dat>Middle School Name: Florence</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water, Curbs, Sidewalk</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: 12 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Breakfast Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 12 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 18 x 13</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 12 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Kitchen</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 12 x 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 12 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Cable TV Available</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Laminate</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Gas)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Siding</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: UPCHURCH SUBD BLK 6677 LT 1 INT201200384588 D</group_dat>
+						<group_dat>Unexempt Taxes: $1,403</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Upchurch Sub</group_dat>
+						<group_dat>Directions: From NB 635 take the Elam Rd exit and go west. Turn right onto N St Augustine Dr.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 1</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Water Line to Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: 6677</group_dat>
+						<group_dat>Lot Number: 1</group_dat>
+						<group_dat>Features: Interior Lot</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.246</group_dat>
+						<group_dat>Area Sq. Ft.: 10,715.76</group_dat>
+						<group_dat>Parcel Number: 00000623788000000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>1,080</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,080</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>10,694 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1956</Year_Built>
+		<Year_Renovated>1956</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000623788000000</APN>
+	</public_facts>
+</home>

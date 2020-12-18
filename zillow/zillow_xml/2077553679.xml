@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,695,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,700</area>
+	</summary>
+	<address>
+		<street_address>1466-1468 Dolores St,</street_address>
+		<city_state> San Francisco, CA 94131</city_state>
+	</address>
+	<overview>Lovely, well-maintained Marina-style duplex on highly desirable Dolores Street in Noe Valley. Newly painted + brand new roof! Walk to Church/24th St. shopping, eateries, Muni, BART &amp; corp shuttles.  Both 2 bedroom, 1 bath units feature hardwood floors, high ceilings, crown molding, large closets, period details &amp; eat-in kitchens with dining nooks. Large living rooms (can accommodate a dining table) with decorative fireplaces &amp; french doors to 1st BR's. 2nd BR's are situated at the rear of the flats. Upper unit features a remodeled gourmet kitchen w/maple cabinetry &amp; stainless steel appliances (Viking stove). It includes a built-in microwave &amp; was once featured in Home Magazine! Lower unit's updated kitchen has a new dishwasher, gas stove &amp; new flooring. Both eat-in kitchens include a charming dining alcove. Rear stairs off each unit to the peaceful, private garden. Shared washer/dryer on the ground level plus one-car garage for small car + storage room. Easy freeway access too!Read more</overview>
+	<listing_agent>
+		<agentName>Laura Kaufman, MBA</agentName>
+		<phoneNumber>415-695-7707</phoneNumber>
+		<agentLicenseNumber>License #01425571</agentLicenseNumber>
+		<postingGroupName>Corcoran Global Living</postingGroupName>
+		<postingWebsiteLinkText>Corcoran Global Living</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multi Family</key>
+		<key name="Year built:">1929</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="Price/sqft:">$628</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,700 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.05 acres</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1929</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 507856</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Parking: Garage, Attached</item>
+				<item>Property Subtype 1: 2 Units</item>
+				<item>Status: Active</item>
+				<item>Subdist: Noe Valley</item>
+				<item>Exterior: Wood Siding</item>
+				<item>Unit 1: 2 Bedrooms, 1 Bath, Flat</item>
+				<item>Unit 2: 1 Bath, Flat, 2 Bedrooms</item>
+				<item>Unit 1 Includes: Oven/Range, Garbage Disposal, Dishwasher, Microwave, Fireplace(s)</item>
+				<item>Unit 2 Includes: Oven/Range, Refrigerator, Garbage Disposal, Dishwasher, Microwave</item>
+				<item>Square Footage Source: Per Tax Records</item>
+				<item>District: SF District 5</item>
+				<item>Construction: Wood Frame</item>
+				<item>Foundation: Concrete Perimeter</item>
+				<item>Heating/Cooling: Wall Furnaces, Gas</item>
+				<item>Laundry Appliances: In Common Area</item>
+				<item>Floors: Hardwood, Simulated Wood</item>
+				<item>Miscellaneous: Garden</item>
+				<item>Miscellaneous: Fireplace(s)</item>
+				<item>Miscellaneous: Security Gate</item>
+				<item>Type: Duplex</item>
+				<item>View(s): San Francisco</item>
+				<item>Style: Marina</item>
+				<item>Lot Measurement: SqFt</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

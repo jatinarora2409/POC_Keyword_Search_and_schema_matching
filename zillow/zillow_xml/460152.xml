@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,450,000</price>
+		<bd>5</bd>
+		<ba>4</ba>
+		<area>5,300</area>
+	</summary>
+	<address>
+		<street_address>3001 Chestnut St NW,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Exquisite 5 bedroom, 3.5 bath, 5,300 square foot DC home! Drive up the paved driveway and
+follow the lit pathway to the main entrance. You'll instantly notice the hardwood floors and
+natural/recessed lighting that brightens this home. A huge living room sits to the right of the
+entrance and has a wood paneled wall, stone fireplace, and floor to ceiling window with woodsy
+views. The other side of the entrance has a formal dining room that leads to the kitchen,
+equipped with dark granite countertops, double sink, tile backsplash, cherry wood cabinetry, and built-in
+stainless steel microwave/oven. The kitchen opens up to a unique room with wall to wall
+windows and two doors to access the back deck, making this space perfect for indoor/outdoor
+living! There are five spacious bedrooms and 3.5 bathrooms, including the primary suite with a
+walk-in closet and totally redone bathroom. This bathroom has spa-like amenities, including a dual
+sink vanity, granite countertop, and walk-in tile lined glass door shower with 2 heads and a
+bench.  Steam shower that includes aromatherapy and in-wall sound system! Head downstairs for an additional living/dining space with wood paneling throughout, a
+brick fireplace, reading nook, and extensive built-in bookshelf library.
+Entertain on the 400 square foot deck outside and customize the expansive shady lawn below!  Special home made to entertain guests and full of very detailed upgrades.  Located
+in close proximity to trails, parks, top rated schools, highways, and everything DC has to offer!
+Buyer should verify all information.Read more</overview>
+	<listing_agent>
+		<agentName>REX Homes</agentName>
+		<phoneNumber>855-342-4739</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Rex Real Estate Exchange</postingGroupName>
+		<postingWebsiteLinkText>Rex Real Estate Exchange</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">9,906 sqft</key>
+		<key name="Price/sqft:">$274</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, None</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 5,300 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.23 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 23670800</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1959</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2005</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 39.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

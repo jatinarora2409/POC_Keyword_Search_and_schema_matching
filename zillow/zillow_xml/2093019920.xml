@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$374,999</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>5 N Oakley Blvd #301,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Situated within a boutique elevator building, this luxurious newer construction 2-bed, 2-bath home has everything you've been looking for! An oversized combined living and dining room features floor-to-ceiling windows affording ample natural light and northwestern views. Boasting top-of-the-line finishes, the kitchen includes stainless steel appliances, quartz countertops, subway tile backsplash, and cool gray wooden cabinetry. The lavish master suite affords spacious living and spa-like bath complete with heated floors, dual vanity and an expansive walk-in shower. Ideal for a guest room or home office, the generously sized second bedroom features floor-to-ceiling windows. Enjoy the outdoors from the large terrace-located off the living area-and unobstructed city views from the communal rooftop deck. Garage parking and full-sized additional storage cage included. Offering the perfect location, this home is near public transportation and within walking distance of the West Loop, Medical District, Tri-Taylor and so much more!Read more</overview>
+	<listing_agent>
+		<agentName>Colin Hebson</agentName>
+		<phoneNumber>312-242-1000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Dream Town Realty</postingGroupName>
+		<postingWebsiteLinkText>Dream Town Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2017</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$219/mo</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Other, Brick</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2017</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

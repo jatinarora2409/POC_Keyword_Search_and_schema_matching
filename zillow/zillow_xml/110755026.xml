@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$359,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>2,212</area>
+	</summary>
+	<address>
+		<street_address>2425 N 90th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>A spacious and tasteful colonial in the heart of Pasadena Neighborhood. Beautiful hard wood flooring, well appointed fireplace with new tile, built-in dining room cabinetry, expansive family room addition semi open to kitchen! Features are endless in this property. Kitchen upgrades including granite. Fresh paint throughout with new carpet installed 2020. Bathroom upgrades 2019! Newer windows throughout the entire property! Chimney rebuild in 2018! New brick patio in rear of home! New AC in 2020! So much more. Extra room to spread out with lower level addition ready for your own touch!Read more</overview>
+	<listing_agent>
+		<agentName>Double Boldt Real Estate Team*</agentName>
+		<phoneNumber>414-807-6812</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams~WFB</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams~WFB</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1948</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">6,969 sqft</key>
+		<key name="Price/sqft:">$162</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially Finished, Full, Shower</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,212 sqft</item>
+				<item>Fireplace features: Wood Burning</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Patio and porch details: Patio</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,969 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Shed(s)</item>
+				<item>Parcel number: 3330718000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Colonial</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1948</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1960</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+				<item>Utilities for property: Cable Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.92</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

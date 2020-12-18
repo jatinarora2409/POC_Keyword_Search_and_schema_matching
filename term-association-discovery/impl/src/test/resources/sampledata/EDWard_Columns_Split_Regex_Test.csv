@@ -1,0 +1,505 @@
+id,name,classType,Title (Informatica Business Glossary)
+EDWard://DBC/EDW_V20/ALT_MBR_PROD_ENRLMNT_ORG/ALT_MBR_PROD_ENRLMNT_EFCTV_DT,ALT_MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Alternate Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/ALT_MBR_PROD_ENRLMNT_ORG/ALT_MBR_PROD_ENRLMNT_TRMNTN_DT,ALT_MBR_PROD_ENRLMNT_TRMNTN_DT,Column,/EDWard Glossary/Alternate Member Product Enrollment Termination Date
+EDWard://DBC/RDM/APC_CD/APC_NATL_UNADJSTD_CPAYMNT_AMT,APC_NATL_UNADJSTD_CPAYMNT_AMT,Column,/EDWard Glossary/Ambulatory Payment Classification National Unadjusted Copayment Amount
+EDWard://DBC/WEBMD/WEBMD_HA/ATRIAL_FBRLTN_IMPCT_RISK_CD,ATRIAL_FBRLTN_IMPCT_RISK_CD,Column,/EDWard Glossary/Atrial Fibrillation Impact Risk Code
+EDWard://DBC/EDW_V20/CLM_LINE_PREPAYMNT_AUDT/AUDT_SBMT_BILLD_SRVC_UNIT_CNT,AUDT_SBMT_BILLD_SRVC_UNIT_CNT,Column,/EDWard Glossary/Audit Submit Billed Service Unit Count
+EDWard://DBC/EDW_V20/CLM_PREPAYMNT_AUDT/AUDT_SBMT_EXCLSN_RULE_SQNC_ID,AUDT_SBMT_EXCLSN_RULE_SQNC_ID,Column,/EDWard Glossary/Audit Submit Exclusion Rule Sequence Identifier
+EDWard://DBC/RDM/BOT_BCBSA_COA_EXCLSN/BCBSA_COA_EXCLSN_TRMNTN_DT,BCBSA_COA_EXCLSN_TRMNTN_DT,Column,/EDWard Glossary/Blue Cross Blue Shield Association Chart Of Accounts Exclusion Termination Date
+EDWard://DBC/RDM/BOT_BCBSA_CVRG_INCLSN/BCBSA_CVRG_INCLSN_EFCTV_DT,BCBSA_CVRG_INCLSN_EFCTV_DT,Column,/EDWard Glossary/Blue Cross Blue Shield Association Coverage Inclusion Effective Date
+EDWard://DBC/RDM/BOT_BCBSA_CVRG_INCLSN/BCBSA_CVRG_INCLSN_TRMNTN_DT,BCBSA_CVRG_INCLSN_TRMNTN_DT,Column,/EDWard Glossary/Blue Cross Blue Shield Association Coverage Inclusion Termination Date
+EDWard://DBC/RDM/BOT_BCBSA_MBRSHPSOR_INCLSN/BCBSA_MBRSHP_INCLSN_EFCTV_DT,BCBSA_MBRSHP_INCLSN_EFCTV_DT,Column,/EDWard Glossary/Blue Cross Blue Shield Association Membership Inclusion Effective Date
+EDWard://DBC/RDM/BOT_BCBSA_MBRSHPSOR_INCLSN/BCBSA_MBRSHP_INCLSN_TRMNTN_DT,BCBSA_MBRSHP_INCLSN_TRMNTN_DT,Column,/EDWard Glossary/Blue Cross Blue Shield Association Membership Inclusion Termination Date
+EDWard://DBC/RDM/BOT_BD_PROC_XREF/BD_PROC_XREF_EFCTV_DT,BD_PROC_XREF_EFCTV_DT,Column,/EDWard Glossary/Blue Distinction Procedure Crossreference Effective Date
+EDWard://DBC/RDM/BOT_BD_PROC_XREF/BD_PROC_XREF_TRMNTN_DT,BD_PROC_XREF_TRMNTN_DT,Column,/EDWard Glossary/Blue Distinction Procedure Crossreference Termination Date
+EDWard://DBC/EDW_V20/BE_RLTNSHP_ADRS/BE_RLTNSHP_ADRS_EFCTV_DT,BE_RLTNSHP_ADRS_EFCTV_DT,Column,/EDWard Glossary/Business Entity Relationship Address Effective Date
+EDWard://DBC/EDW_V20/BE_RLTNSHP_ADRS/BE_RLTNSHP_ADRS_TERM_RSN_CD,BE_RLTNSHP_ADRS_TERM_RSN_CD,Column,/EDWard Glossary/Business Entity Relationship Address Term Reason Code
+EDWard://DBC/EDW_V20/BE_RLTNSHP_ADRS/BE_RLTNSHP_ADRS_TRMNTN_DT,BE_RLTNSHP_ADRS_TRMNTN_DT,Column,/EDWard Glossary/Business Entity Relationship Address Termination Date
+EDWard://DBC/EDW_V20/CALCN_STTN/CALCN_STTN_AUTO_ADJDCTN_CD,CALCN_STTN_AUTO_ADJDCTN_CD,Column,/EDWard Glossary/Calculation Situation Auto Adjudication code
+EDWard://DBC/WEBMD/WEBMD_HA/CNCR_CRVCL_MISSG_MDCTN_CD,CNCR_CRVCL_MISSG_MDCTN_CD,Column,/EDWard Glossary/Cancer Cervical Missing Medication Code
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/CPTL_HOSP_SPCFC_PAYMNT_AMT,CPTL_HOSP_SPCFC_PAYMNT_AMT,Column,/EDWard Glossary/Capital Hospital Specific Payment Amount
+EDWard://DBC/EDW_V20/DRG_CASE_REIMBMNT/CPTL_HOSP_SPCFC_PAYMNT_AMT,CPTL_HOSP_SPCFC_PAYMNT_AMT,Column,/EDWard Glossary/Capital Hospital Specific Payment Amount
+EDWard://DBC/EDW_V20/CPD_COA/CPTTN_PAYMNT_COA_TRMNTN_DT,CPTTN_PAYMNT_COA_TRMNTN_DT,Column,/EDWard Glossary/Capitation Payment Chart of Account Termination Date
+EDWard://DBC/EDW_V20/CPD/CPTTN_PAYMNT_MBR_CVRG_END_DT,CPTTN_PAYMNT_MBR_CVRG_END_DT,Column,/EDWard Glossary/Capitation Payment Member Coverage End Date
+EDWard://DBC/EDW_V20/DRG_CASE_INPT/CASE_PRMRY_CARR_RSPNSBLY_CD,CASE_PRMRY_CARR_RSPNSBLY_CD,Column,/EDWard Glossary/Case Primary Carrier Responsibility Code
+EDWard://DBC/RDM/CMS_RAPS_CLM_RJCT_RSN/CMS_RAPS_CLM_RJCT_RSN_CD_DESC,CMS_RAPS_CLM_RJCT_RSN_CD_DESC,Column,/EDWard Glossary/Centers For Medicare And Medicaid Services Risk Adjustment Payment System Claim Reject Reason Code Description
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/CFXREF_CNTRCT_TYPE_PROD_INV_CD,CFXREF_CNTRCT_TYPE_PROD_INV_CD,Column,/EDWard Glossary/Chartfield Cross Reference Contract Type Product Inventory Code
+EDWard://DBC/EDW_V20/RSTTD_MBRSHP_MNTH_CNT/CHMCL_DPNDNCY_REHAB_EXPSR_NBR,CHMCL_DPNDNCY_REHAB_EXPSR_NBR,Column,/EDWard Glossary/Chemical Dependency Rehabilitation Exposure Number
+EDWard://DBC/EDW_V20/CARC_RARC_BOT_XWALK/CARC_RARC_XWALK_EFCTV_DT,CARC_RARC_XWALK_EFCTV_DT,Column,/EDWard Glossary/Claim Adjustment Reason Code Remittance Advice Remark Code Crosswalk Effective Date
+EDWard://DBC/EDW_V20/CARC_RARC_BOT_XWALK/CARC_RARC_XWALK_TRMNTN_DT,CARC_RARC_XWALK_TRMNTN_DT,Column,/EDWard Glossary/Claim Adjustment Reason Code Remittance Advice Remark Code Crosswalk Termination Date
+EDWard://DBC/EDW_V20/CLM_LINE/CLM_LINE_OVRD_ADJSTMNT_CD,CLM_LINE_OVRD_ADJSTMNT_CD,Column,/EDWard Glossary/Claim Line Override Adjustment Code
+EDWard://DBC/EDW_V20/CLM_LINE/CLM_LINE_RBB_ACCUMR_BNFT_AMT,CLM_LINE_RBB_ACCUMR_BNFT_AMT,Column,/EDWard Glossary/Claim Line Reference Based Benefit Accumulator Benefit Amount
+EDWard://DBC/RDM/BOT_CLNT_SGMNTN/CLNT_SGMNTN_MBRSHP_SOR_CD,CLNT_SGMNTN_MBRSHP_SOR_CD,Column,/EDWard Glossary/CLIENT SEGMENTATION MEMBERSHIP SOR CD
+EDWard://DBC/RDM/CCS_DIAG_CTGRY_XREF/CCS_DIAG_CTGRY_XREF_EFCTV_DT,CCS_DIAG_CTGRY_XREF_EFCTV_DT,Column,/EDWard Glossary/Clinical Classification System Diagnosis Category Cross Reference Effective Date
+EDWard://DBC/RDM/CCS_DIAG_CTGRY_XREF/CCS_DIAG_CTGRY_XREF_TRMNTN_DT,CCS_DIAG_CTGRY_XREF_TRMNTN_DT,Column,/EDWard Glossary/Clinical Classification System Diagnosis Category Cross Reference Termination Date
+EDWard://DBC/RDM/CCS_PROC_CTGRY_XREF/CCS_PROC_CTGRY_XREF_EFCTV_DT,CCS_PROC_CTGRY_XREF_EFCTV_DT,Column,/EDWard Glossary/Clinical Classification System Procedure Category Cross Reference Effective Date
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS/CLNCL_ENHNCD_BNFTS_CNDTN_CD,CLNCL_ENHNCD_BNFTS_CNDTN_CD,Column,/EDWard Glossary/Clinical Enhanced Benefits Condition Code
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS/CLNCL_ENHNCD_BNFTS_EFCTV_DT,CLNCL_ENHNCD_BNFTS_EFCTV_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Effective Date
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS_HIST/CLNCL_ENHNCD_BNFTS_EFCTV_DT,CLNCL_ENHNCD_BNFTS_EFCTV_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Effective Date
+EDWard://DBC/RDM/BOT_PGM_MDCL_CD_XWALK/CLNCL_ENHNCD_BNFTS_PGM_EFCTV_DT,CLNCL_ENHNCD_BNFTS_PGM_EFCTV_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Program Effective Date
+EDWard://DBC/RDM/BOT_DNTL_BNFTS/CLNCL_ENHNCD_BNFTS_PGM_EFCTV_DT,CLNCL_ENHNCD_BNFTS_PGM_EFCTV_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Program Effective Date
+EDWard://DBC/RDM/BOT_CLNCL_ENHNCD_BNFTS_PGM/CLNCL_ENHNCD_BNFTS_PGM_EFCTV_DT,CLNCL_ENHNCD_BNFTS_PGM_EFCTV_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Program Effective Date
+EDWard://DBC/RDM/BOT_CLNCL_ENHNCD_BNFTS_PGM/CLNCL_ENHNCD_BNFTS_PGM_TRMNTN_DT,CLNCL_ENHNCD_BNFTS_PGM_TRMNTN_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Program Termination Date
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS/CLNCL_ENHNCD_BNFTS_TRMNTN_DT,CLNCL_ENHNCD_BNFTS_TRMNTN_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Termination Date
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS_HIST/CLNCL_ENHNCD_BNFTS_TRMNTN_DT,CLNCL_ENHNCD_BNFTS_TRMNTN_DT,Column,/EDWard Glossary/Clinical Enhanced Benefits Termination Date
+EDWard://DBC/EDW_V20/CMP_SCHDL/CMP_DFLT_ANSTHSA_PCTAG_NBR,CMP_DFLT_ANSTHSA_PCTAG_NBR,Column,/EDWard Glossary/Common Module Priced Default Anesthesia Percentage Number
+EDWard://DBC/EDW_V20/CMP_SCHDL/CMP_DFLT_TCHNL_PCTAG_NBR,CMP_DFLT_TCHNL_PCTAG_NBR,Column,/EDWard Glossary/Common Module Priced Default Technical Percentage Number
+EDWard://DBC/EDW_V20/CMP_PRCD_CLM/CMP_PRCD_CLM_ALWD_CHRG_AMT,CMP_PRCD_CLM_ALWD_CHRG_AMT,Column,/EDWard Glossary/Common Module Priced Priced Claim Allowed Charge Amount
+EDWard://DBC/EDW_V20/CMP_PRCD_CLM_LINE_DTL/CMP_PRCD_DTL_THRSHLD_AMT,CMP_PRCD_DTL_THRSHLD_AMT,Column,/EDWard Glossary/Common Module Priced Priced Detail Threshold Amount
+EDWard://DBC/EDW_V20/CMP_PRCD_CLM_LINE/CMP_PRCD_LINE_ALWD_CHRG_AMT,CMP_PRCD_LINE_ALWD_CHRG_AMT,Column,/EDWard Glossary/Common Module Priced Priced Line Allowed Charge Amount
+EDWard://DBC/EDW_V20/CMP_SCHDLS_MDFRS/CMP_SCHDLS_MDFRS_EFCTV_DT,CMP_SCHDLS_MDFRS_EFCTV_DT,Column,/EDWard Glossary/Common Module Priced Schedules Modifiers Effective Date
+EDWard://DBC/EDW_V20/CMP_SCHDLS_MDFRS/CMP_SCHDLS_MDFRS_TRMNTN_DT,CMP_SCHDLS_MDFRS_TRMNTN_DT,Column,/EDWard Glossary/Common Module Priced Schedules Modifiers Termination Date
+EDWard://DBC/EDW_V20/CLM_LINE/COB_COINSRN_ACCUMR_AMT,COB_COINSRN_ACCUMR_AMT,Column,/EDWard Glossary/Coordination Of Benefits Coinsurance Accumulator Amount
+EDWard://DBC/EDW_V20/INTRM_CLM_LINE/COB_COINSRN_ACCUMR_AMT,COB_COINSRN_ACCUMR_AMT,Column,/EDWard Glossary/Coordination Of Benefits Coinsurance Accumulator Amount
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/CORPROD_CRPRT_BNFT_SUB_PROD_CD,CORPROD_CRPRT_BNFT_SUB_PROD_CD,Column,/EDWard Glossary/Corporate Product Corporate Benefit Sub Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/CVRGID_CVRG_ID_BNFT_PROD_CD,CVRGID_CVRG_ID_BNFT_PROD_CD,Column,/EDWard Glossary/Coverage Identifier Coverage Identifier Benefit Product Code
+EDWard://DBC/EDW_V20/COA_CRDW/CRDW_CUST_FNCL_AGRMNT_TYPE_CD,CRDW_CUST_FNCL_AGRMNT_TYPE_CD,Column,/EDWard Glossary/CRDW Customer Financial Agreement Type Code
+EDWard://DBC/EDW_V20/COA_CS90/CS90_UNDRWRTG_CORP_CD,CS90_UNDRWRTG_CORP_CD,Column,/EDWard Glossary/CS90 Underwriting Corporation Code
+EDWard://DBC/WEBMD/WEBMD_HA/CURNT_YEARS_CHEWG_TBACO_CNT,CURNT_YEARS_CHEWG_TBACO_CNT,Column,/EDWard Glossary/Current Years Chewing Tobacco Count
+EDWard://DBC/EDW_V20/DRG_GRPR_SCNDRY_DIAG/DRG_GRPR_SCNDRY_DIAG_ORDR_NBR,DRG_GRPR_SCNDRY_DIAG_ORDR_NBR,Column,/EDWard Glossary/Diagnosis Related Group Grouper Secondary Diagnosis Order Number
+EDWard://DBC/EDW_V20/APR_DRG_GRPR_SCNDRY_DIAG/DRG_GRPR_SCNDRY_DIAG_ORDR_NBR,DRG_GRPR_SCNDRY_DIAG_ORDR_NBR,Column,/EDWard Glossary/Diagnosis Related Group Grouper Secondary Diagnosis Order Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_DRVR_1_NBR,DCG_RETROSPCTV_RISK_DRVR_1_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 1 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_1_NBR,DCG_RETROSPCTV_RISK_DRVR_1_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 1 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_2_NBR,DCG_RETROSPCTV_RISK_DRVR_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 2 Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_RETROSPCTV_RISK_DRVR_2_NBR,DCG_RETROSPCTV_RISK_DRVR_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 2 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_DRVR_2_NBR,DCG_RETROSPCTV_RISK_DRVR_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 2 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_DRVR_2_NBR,DCG_RETROSPCTV_RISK_DRVR_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 2 Number
+EDWard://DBC/EDW_V20/DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_3_NBR,DCG_RETROSPCTV_RISK_DRVR_3_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 3 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_DRVR_3_NBR,DCG_RETROSPCTV_RISK_DRVR_3_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 3 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_4_NBR,DCG_RETROSPCTV_RISK_DRVR_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 4 Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_RETROSPCTV_RISK_DRVR_4_NBR,DCG_RETROSPCTV_RISK_DRVR_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 4 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_DRVR_4_NBR,DCG_RETROSPCTV_RISK_DRVR_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 4 Number
+EDWard://DBC/EDW_V20/DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_4_NBR,DCG_RETROSPCTV_RISK_DRVR_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 4 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_5_NBR,DCG_RETROSPCTV_RISK_DRVR_5_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 5 Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_RETROSPCTV_RISK_DRVR_5_NBR,DCG_RETROSPCTV_RISK_DRVR_5_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 5 Number
+EDWard://DBC/EDW_V20/DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_DRVR_5_NBR,DCG_RETROSPCTV_RISK_DRVR_5_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Driver 5 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_1_NBR,DCG_RETROSPCTV_RISK_WT_1_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 1 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_WT_1_NBR,DCG_RETROSPCTV_RISK_WT_1_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 1 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_WT_1_NBR,DCG_RETROSPCTV_RISK_WT_1_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 1 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_WT_2_NBR,DCG_RETROSPCTV_RISK_WT_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 2 Number
+EDWard://DBC/EDW_V20/DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_WT_2_NBR,DCG_RETROSPCTV_RISK_WT_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 2 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_WT_2_NBR,DCG_RETROSPCTV_RISK_WT_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 2 Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_2_NBR,DCG_RETROSPCTV_RISK_WT_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 2 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_2_NBR,DCG_RETROSPCTV_RISK_WT_2_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 2 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_WT_3_NBR,DCG_RETROSPCTV_RISK_WT_3_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 3 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_WT_3_NBR,DCG_RETROSPCTV_RISK_WT_3_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 3 Number
+EDWard://DBC/EDW_V20/DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_WT_3_NBR,DCG_RETROSPCTV_RISK_WT_3_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 3 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_3_NBR,DCG_RETROSPCTV_RISK_WT_3_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 3 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_WT_4_NBR,DCG_RETROSPCTV_RISK_WT_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 4 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_RETROSPCTV_RISK_WT_4_NBR,DCG_RETROSPCTV_RISK_WT_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 4 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_4_NBR,DCG_RETROSPCTV_RISK_WT_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 4 Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_4_NBR,DCG_RETROSPCTV_RISK_WT_4_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 4 Number
+EDWard://DBC/EDW_V20/DCG_MDCL_DN/DCG_RETROSPCTV_RISK_WT_5_NBR,DCG_RETROSPCTV_RISK_WT_5_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 5 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_5_NBR,DCG_RETROSPCTV_RISK_WT_5_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 5 Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_RETROSPCTV_RISK_WT_5_NBR,DCG_RETROSPCTV_RISK_WT_5_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Retrospective Risk Weight 5 Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_UNWGTD_PRSPTV_RISK_NBR,DCG_UNWGTD_PRSPTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Unweighted Prospective Risk Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_UNWGTD_PRSPTV_RISK_NBR,DCG_UNWGTD_PRSPTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Unweighted Prospective Risk Number
+EDWard://DBC/EDW_V20/DCG_RNOUT_OUTPT/DCG_UNWGTD_PRSPTV_RISK_NBR,DCG_UNWGTD_PRSPTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Unweighted Prospective Risk Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_UNWGTD_PRSPTV_RISK_NBR,DCG_UNWGTD_PRSPTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Unweighted Prospective Risk Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_UNWGTD_RETROSPCTV_RISK_NBR,DCG_UNWGTD_RETROSPCTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Unweighted Retrospective Risk Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_UNWGTD_RETROSPCTV_RISK_NBR,DCG_UNWGTD_RETROSPCTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Unweighted Retrospective Risk Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_RNOUT_OUTPT/DCG_WGTD_RETROSPCTV_RISK_NBR,DCG_WGTD_RETROSPCTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Weighted Retrospective Risk Number
+EDWard://DBC/EDW_V20/BCBSA_DCG_OUTPT/DCG_WGTD_RETROSPCTV_RISK_NBR,DCG_WGTD_RETROSPCTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Weighted Retrospective Risk Number
+EDWard://DBC/EDW_V20/DCG_OUTPT/DCG_WGTD_RETROSPCTV_RISK_NBR,DCG_WGTD_RETROSPCTV_RISK_NBR,Column,/EDWard Glossary/Diagnostic Cost Group Weighted Retrospective Risk Number
+EDWard://DBC/EDW_V20/ESTMTD_PHRMCY_CLM_LINE/DRUG_DSCNT_ELGBLTY_COST_AMT,DRUG_DSCNT_ELGBLTY_COST_AMT,Column,/EDWard Glossary/Drug Discount Eligibility Cost Amount
+EDWard://DBC/EDW_V20/CDHP_SMRY/E_CHECKUP_CMPLTN_INCNTV_AMT,E_CHECKUP_CMPLTN_INCNTV_AMT,Column,/EDWard Glossary/E-Checkup Completion Incentive Amount
+EDWard://DBC/EDW_V20/EP_ADRS/EP_ADRS_STNDRDZTN_SPRSN_CD,EP_ADRS_STNDRDZTN_SPRSN_CD,Column,/EDWard Glossary/Enterprise Provider Address Standardization Suppression Code
+EDWard://DBC/EDW_V20/EP_ALTID_ADRS/EP_AGNCY_CNTCT_TLPHN_AREA_CD,EP_AGNCY_CNTCT_TLPHN_AREA_CD,Column,/EDWard Glossary/Enterprise Provider Agency Contact Telephone Area Code
+EDWard://DBC/EDW_V20/EP_ALTID/EP_ALTID_ISSU_ST_PRVNC_CD,EP_ALTID_ISSU_ST_PRVNC_CD,Column,/EDWard Glossary/Enterprise Provider Alternate Identifier Issue State Province Code
+EDWard://DBC/EDW_V20/EP_RMTNC/EP_NPI_ALTID_ISSU_ST_PRVNC_CD,EP_NPI_ALTID_ISSU_ST_PRVNC_CD,Column,/EDWard Glossary/Enterprise Provider Alternate Identifier Issue State Province Code
+EDWard://DBC/EDW_V20/EP_RMTNC/EP_ELCTRNC_RMTNC_ADVC_ADRS_TXT,EP_ELCTRNC_RMTNC_ADVC_ADRS_TXT,Column,/EDWard Glossary/Enterprise Provider Electronic Remittance Advice Address Text
+EDWard://DBC/EDW_V20/EP_HS_ENRLPRTN/EP_ENRLPRTN_CNTRCT_EFCTV_DT,EP_ENRLPRTN_CNTRCT_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Enrollment Protection Contract Effective Date
+EDWard://DBC/EDW_V20/EP_HS_ENRLPRTN/EP_ENRLPRTN_CNTRCT_TERM_RSN_CD,EP_ENRLPRTN_CNTRCT_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Enrollment Protection Contract Term Reason Code
+EDWard://DBC/EDW_V20/EP_HS_ENRLPRTN/EP_ENRLPRTN_CNTRCT_TRMNTN_DT,EP_ENRLPRTN_CNTRCT_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider Enrollment Protection Contract Termination Date
+EDWard://DBC/EDW_V20/EP_HS_NTWK/EP_HMO_CNTRCT_DIR_DSPLY_CD,EP_HMO_CNTRCT_DIR_DSPLY_CD,Column,/EDWard Glossary/Enterprise Provider HMO Contract Directory Display Code
+EDWard://DBC/EDW_V20/EP_HS_CNTRCT/EP_HMO_CNTRCT_DIR_DSPLY_CD,EP_HMO_CNTRCT_DIR_DSPLY_CD,Column,/EDWard Glossary/Enterprise Provider HMO Contract Directory Display Code
+EDWard://DBC/EDW_V20/EP_HS_CNTRCT/EP_HMO_CEP_OBSTRCS_SRVC_CD,EP_HMO_CEP_OBSTRCS_SRVC_CD,Column,/EDWard Glossary/Enterprise Provider HMO Contract Enrollment Preference Obstetrics Service Code
+EDWard://DBC/EDW_V20/EP_HS_CNTRCT/EP_HMO_CNTRCT_MBR_CPCTY_CNT,EP_HMO_CNTRCT_MBR_CPCTY_CNT,Column,/EDWard Glossary/Enterprise Provider HMO Contract Member Capacity Count
+EDWard://DBC/EDW_V20/EP_BV_HMO_PHYSN/EP_HMO_CNTRCT_PCP_SPCLST_ID,EP_HMO_CNTRCT_PCP_SPCLST_ID,Column,/EDWard Glossary/Enterprise Provider HMO Contract PCP Specialist Identifier
+EDWard://DBC/EDW_V20/EP_HS_NTWK/EP_HMO_CNTRCT_PCP_SPCLST_ID,EP_HMO_CNTRCT_PCP_SPCLST_ID,Column,/EDWard Glossary/Enterprise Provider HMO Contract PCP Specialist Identifier
+EDWard://DBC/EDW_V20/EP_HS_ADRS/EP_HS_ADRS_EXTNDPSTL_CD,EP_HS_ADRS_EXTNDPSTL_CD,Column,/EDWard Glossary/Enterprise Provider HMO Site Address Extended Postal Code
+EDWard://DBC/EDW_V20/EP_BV_HMO_PHYSN/EP_HS_ADRS_EXTNDPSTL_CD,EP_HS_ADRS_EXTNDPSTL_CD,Column,/EDWard Glossary/Enterprise Provider HMO Site Address Extended Postal Code
+EDWard://DBC/EDW_V20/EP_BV_HMO_PRMRY_MDCL_GRP/EP_HS_ADRS_EXTNDPSTL_CD,EP_HS_ADRS_EXTNDPSTL_CD,Column,/EDWard Glossary/Enterprise Provider HMO Site Address Extended Postal Code
+EDWard://DBC/EDW_V20/EP_HS_ADRS/EP_HS_ADRS_STNDRDZTN_SPRSN_CD,EP_HS_ADRS_STNDRDZTN_SPRSN_CD,Column,/EDWard Glossary/Enterprise Provider HMO Site Address Standardization Suppression Code
+EDWard://DBC/EDW_V20/EP_HS_RLTNSHP/EP_HS_RLTNSHP_PROV_TAX_ID,EP_HS_RLTNSHP_PROV_TAX_ID,Column,/EDWard Glossary/Enterprise Provider HMO Site Relationship Provider Tax Identifier
+EDWard://DBC/EDW_V20/EP_HS_SRVCAREA/EP_HS_SRVCAREA_TRMNTN_DT,EP_HS_SRVCAREA_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider HMO Site Service Area Termination Date
+EDWard://DBC/EDW_V20/EP_HS_SRVC/EP_HS_SRVC_CNTRCT_EFCTV_DT,EP_HS_SRVC_CNTRCT_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider HMO Site Service Contract Effective Date
+EDWard://DBC/EDW_V20/EP_HS_SRVC/EP_HS_SRVC_CNTRCT_TRMNTN_DT,EP_HS_SRVC_CNTRCT_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider HMO Site Service Contract Termination Date
+EDWard://DBC/EDW_V20/EP_NTWK/EP_NTWK_PAT_GNDR_PRFRNC_CD,EP_NTWK_PAT_GNDR_PRFRNC_CD,Column,/EDWard Glossary/Enterprise Provider Network Patient Gender Preference Code
+EDWard://DBC/EDW_V20/EP_OFC_ACSBLTY/EP_OFC_ACSBLTY_EFCTV_DT,EP_OFC_ACSBLTY_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Office Accessibility Effective Date
+EDWard://DBC/EDW_V20/EP_OFC_ACSBLTY/EP_OFC_ACSBLTY_TERM_RSN_CD,EP_OFC_ACSBLTY_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Office Accessibility Term Reason Code
+EDWard://DBC/EDW_V20/EP_OFC_SRVC/EP_OFC_SVCRTFN_EFCTV_DT,EP_OFC_SVCRTFN_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Office Service Certification Effective Date
+EDWard://DBC/EDW_V20/EP_OFC_SVCRTFN/EP_OFC_SVCRTFN_TERM_RSN_CD,EP_OFC_SVCRTFN_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Office Service Certification Term Reason Code
+EDWard://DBC/EDW_V20/EP_OFC_SRVC/EP_OFC_SVCRTFN_TERM_RSN_CD,EP_OFC_SVCRTFN_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Office Service Certification Term Reason Code
+EDWard://DBC/EDW_V20/EP_OFC_SRVC/EP_OFC_SVCRTFN_TRMNTN_DT,EP_OFC_SVCRTFN_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider Office Service Certification Termination Date
+EDWard://DBC/EDW_V20/EP_OFC_SRVC_RSTRCTN/EP_OFC_SRVC_RSTRCT_EFCTV_DT,EP_OFC_SRVC_RSTRCT_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Office Service Restrict Effective Date
+EDWard://DBC/EDW_V20/EP_POFC_TCHNLGY/EP_POFC_TCHNLGY_EFCTV_DT,EP_POFC_TCHNLGY_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Provider Office Technology Effective Date
+EDWard://DBC/EDW_V20/EP_POFC_TCHNLGY/EP_POFC_TCHNLGY_TERM_RSN_CD,EP_POFC_TCHNLGY_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Provider Office Technology Term Reason Code
+EDWard://DBC/EDW_V20/EP_RLTNSHP_ADRS/EP_RLTNSHP_ADRS_EFCTV_DT,EP_RLTNSHP_ADRS_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Relationship Address Effective Date
+EDWard://DBC/EDW_V20/EP_RLTNSHP_ADRS_ALTID/EP_RLTNSHP_ADRS_EFCTV_DT,EP_RLTNSHP_ADRS_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Relationship Address Effective Date
+EDWard://DBC/EDW_V20/EP_RLTNSHP_ADRS/EP_RLTNSHP_ADRS_TERM_RSN_CD,EP_RLTNSHP_ADRS_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Relationship Address Term Reason Code
+EDWard://DBC/EDW_V20/EP_RLTNSHP_ADRS/EP_RLTNSHP_ADRS_TRMNTN_DT,EP_RLTNSHP_ADRS_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider Relationship Address Termination Date
+EDWard://DBC/EDW_V20/EP_RLTNSHP/EP_RLTNSHP_RFRL_PRVLG_CD,EP_RLTNSHP_RFRL_PRVLG_CD,Column,/EDWard Glossary/Enterprise Provider Relationship Referral Privilege Code
+EDWard://DBC/EDW_V20/EP_SNCTN_CLMACT/EP_SNCTN_CLMACT_EFCTV_DT,EP_SNCTN_CLMACT_EFCTV_DT,Column,/EDWard Glossary/Enterprise Provider Sanction Claim Action Effective Date
+EDWard://DBC/EDW_V20/EP_SNCTN_CLMACT/EP_SNCTN_CLMACT_TERM_RSN_CD,EP_SNCTN_CLMACT_TERM_RSN_CD,Column,/EDWard Glossary/Enterprise Provider Sanction Claim Action Term Reason Code
+EDWard://DBC/EDW_V20/EP_SNCTN_CLMACT/EP_SNCTN_CLMACT_TRMNTN_DT,EP_SNCTN_CLMACT_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider Sanction Claim Action Termination Date
+EDWard://DBC/RDM/SRC_SPCLTY_TO_EP_SPCLTY_MAPG/EP_SPCLTY_CD_VAL_SHRT_DESC,EP_SPCLTY_CD_VAL_SHRT_DESC,Column,/EDWard Glossary/Enterprise Provider Specialty Code Value Short Description
+EDWard://DBC/EDW_V20/EP_BV_IP_ORG_RLTNSHP_DMGRPHC/EP_TAX_ID_RLTD_SPCLTY_3_DESC,EP_TAX_ID_RLTD_SPCLTY_3_DESC,Column,/EDWard Glossary/Enterprise Provider Tax Identifier Related Specialty Description
+EDWard://DBC/EDW_V20/EP_POFC_TCHNLGY/EP_TCHNLGY_SYS_TRMNTN_DT,EP_TCHNLGY_SYS_TRMNTN_DT,Column,/EDWard Glossary/Enterprise Provider Technology System Termination Date
+EDWard://DBC/RDM/DRG/ESTMTD_MEDCR_REIMBMNT_AMT,ESTMTD_MEDCR_REIMBMNT_AMT,Column,/EDWard Glossary/Estimated Medicare Reimbursement Amount
+EDWard://DBC/EDW_V20/COA_FACETS/FACETS_MEDCR_RLTNSHP_CVRG_CD,FACETS_MEDCR_RLTNSHP_CVRG_CD,Column,/EDWard Glossary/FACETS Medicare Relationship Type Code
+EDWard://DBC/EDW_V20/EP_REIMBMNT/FACETS_RETROA_ADJSTD_MNTHS_NBR,FACETS_RETROA_ADJSTD_MNTHS_NBR,Column,/EDWard Glossary/Facets Retroactive Adjusted Months Number
+EDWard://DBC/EDW_V20/COA_FEP/FEP_CUST_FNCL_AGRMNT_TYPE_CD,FEP_CUST_FNCL_AGRMNT_TYPE_CD,Column,/EDWard Glossary/Federal Employee Program Customer Financial Agreement Type Code
+EDWard://DBC/WEBMD/WEBMD_WEB_ACTVTY_CNDTN_CTRS/FML_INFRTLTY_ASSMNT_CNT,FML_INFRTLTY_ASSMNT_CNT,Column,/EDWard Glossary/Female Infertility Assessment Count
+EDWard://DBC/RDM/BOT_STOP_OUTRCH/GRP_SGMNTN_MBRSHP_SOR_CD,GRP_SGMNTN_MBRSHP_SOR_CD,Column,/EDWard Glossary/Group Segmentation Membership System of Record Code
+EDWard://DBC/EDW_V20/GRPG_NTWK/GRPG_RLTNSHP_ADRS_EFCTV_DT,GRPG_RLTNSHP_ADRS_EFCTV_DT,Column,/EDWard Glossary/Grouping Relationship Address Effective Date
+EDWard://DBC/EDW_V20/GRPG_REIMBMNT/GRPG_RLTNSHP_ADRS_EFCTV_DT,GRPG_RLTNSHP_ADRS_EFCTV_DT,Column,/EDWard Glossary/Grouping Relationship Address Effective Date
+EDWard://DBC/EDW_V20/GRPG_RLTNSHP_ADRS/GRPG_RLTNSHP_ADRS_TERM_RSN_CD,GRPG_RLTNSHP_ADRS_TERM_RSN_CD,Column,/EDWard Glossary/Grouping Relationship Address Term Reason Code
+EDWard://DBC/RDM/BOT_MATURE_SCOR_NO_DCG/HHS_RSKADJMNT_SCOR_COFCNT_FCTR,HHS_RSKADJMNT_SCOR_COFCNT_FCTR,Column,/EDWard Glossary/Health and Human Services Risk Adjustment Score Coefficient Factor
+EDWard://DBC/RDM/BOT_MATURE_SCOR_DCG/HHS_RSKADJMNT_SCOR_COFCNT_FCTR,HHS_RSKADJMNT_SCOR_COFCNT_FCTR,Column,/EDWard Glossary/Health and Human Services Risk Adjustment Score Coefficient Factor
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN_HIST/HLTH_PGM_INTNSTY_APRVL_DT,HLTH_PGM_INTNSTY_APRVL_DT,Column,/EDWard Glossary/Health Program Intensity Approval Date
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/HLTH_PGM_INTNSTY_APRVL_DT,HLTH_PGM_INTNSTY_APRVL_DT,Column,/EDWard Glossary/Health Program Intensity Approval Date
+EDWard://DBC/EDW_V20/CDHP_MDCL_CLM_LINE/HRA_PAID_ABV_RSNBL_CSTMRY_AMT,HRA_PAID_ABV_RSNBL_CSTMRY_AMT,Column,/EDWard Glossary/Health Reimbursement Account Paid Above Reasonable Customary Amount
+EDWard://DBC/EDW_V20/CDHP_MDCL_CLM_LINE/HRA_PAID_BNFT_MAX_REACHD_AMT,HRA_PAID_BNFT_MAX_REACHD_AMT,Column,/EDWard Glossary/Health Reimbursement Account Paid Benefit Max Reached Amount
+EDWard://DBC/EDW_V20/CDHP_QHE_CLM_LINE/HRA_PAID_BNFT_MAX_REACHD_AMT,HRA_PAID_BNFT_MAX_REACHD_AMT,Column,/EDWard Glossary/Health Reimbursement Account Paid Benefit Max Reached Amount
+EDWard://DBC/WEBMD/WEBMD_HA/HIGH_CHLSTRL_BRDRLN_IND,HIGH_CHLSTRL_BRDRLN_IND,Column,/EDWard Glossary/High Cholesterol Borderline Indicator
+EDWard://DBC/WEBMD/WEBMD_HA/HIGH_CHLSTRL_MISSG_MDCTN_CD,HIGH_CHLSTRL_MISSG_MDCTN_CD,Column,/EDWard Glossary/High Cholesterol Missing Medication Code
+EDWard://DBC/EDW_V20/EP_HS_CNTRCT/HMO_SRVC_MBR_PGM_TRMNTN_DT,HMO_SRVC_MBR_PGM_TRMNTN_DT,Column,/EDWard Glossary/HMO Service Member Program Termination Date
+EDWard://DBC/RDM/IVC_HME_CLM_EXCLSN/IVC_HME_CLM_EXCLSN_EFCTV_DT,IVC_HME_CLM_EXCLSN_EFCTV_DT,Column,/EDWard Glossary/Home Claim Exclusion Effective Date
+EDWard://DBC/RDM/IVC_HME_CLM_EXCLSN/IVC_HME_CLM_EXCLSN_TRMNTN_DT,IVC_HME_CLM_EXCLSN_TRMNTN_DT,Column,/EDWard Glossary/Home Claim Exclusion Termination Date
+EDWard://DBC/EDW_V20/DRG_CASE_REIMBMNT/HAC_RDCTN_PGM_ADJSTMNT_AMT,HAC_RDCTN_PGM_ADJSTMNT_AMT,Column,/EDWard Glossary/Hospital Acquired Condition Reduction Program Adjustment Amount
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/HAC_RDCTN_PGM_ADJSTMNT_AMT,HAC_RDCTN_PGM_ADJSTMNT_AMT,Column,/EDWard Glossary/Hospital Acquired Condition Reduction Program Adjustment Amount
+EDWard://DBC/EDW_V20/ETG_HOME_HOST_PROV_XREF/HOST_SRC_BILLG_PROV_ID_TYPE_CD,HOST_SRC_BILLG_PROV_ID_TYPE_CD,Column,/EDWard Glossary/Host_Src_Billg_Prov_Id_Type_Cd
+EDWard://DBC/EDW_V20/CLM_LINE_INCRD/INCRD_MEDCR_SQSTRTN_RDCTN_AMT,INCRD_MEDCR_SQSTRTN_RDCTN_AMT,Column,/EDWard Glossary/Incurred Medicare Sequestration Reduction Amount
+EDWard://DBC/EDW_V20/IPS/INDIV_PROV_CRDNTLG_APRVL_DT,INDIV_PROV_CRDNTLG_APRVL_DT,Column,/EDWard Glossary/Individual Provider Credentialing Approval Date
+EDWard://DBC/RDM/ICD_PROC_HIST/INPAT_CMPLCTN_COMRBDTY_CD,INPAT_CMPLCTN_COMRBDTY_CD,Column,/EDWard Glossary/Inpatient Complication Comorbidity Code
+EDWard://DBC/RDM/DIAG_HIST/INPAT_CMPLCTN_COMRBDTY_CD,INPAT_CMPLCTN_COMRBDTY_CD,Column,/EDWard Glossary/Inpatient Complication Comorbidity Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/INSSTATFND_GL_FUNDG_ARNGMNT_CD,INSSTATFND_GL_FUNDG_ARNGMNT_CD,Column,/EDWard Glossary/Insured Status Funding General Ledger Funding Arrangement Code
+EDWard://DBC/EDW_V20/VA_COA_HMO_CF_XREF/INSSTATFND_GL_FUNDG_ARNGMNT_CD,INSSTATFND_GL_FUNDG_ARNGMNT_CD,Column,/EDWard Glossary/Insured Status Funding General Ledger Funding Arrangement Code
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/INTRM_UNCMPNSTD_CARE_PYMNT_AMT,INTRM_UNCMPNSTD_CARE_PYMNT_AMT,Column,/EDWard Glossary/Interim Uncompensated Care Payment Amount
+EDWard://DBC/EDW_V20/ORGNL_CLM_LINE/ITS_CENTRL_FNCL_AGNCY_FEE_AMT,ITS_CENTRL_FNCL_AGNCY_FEE_AMT,Column,/EDWard Glossary/Inter-Plan Teleprocessing System Central Financial Agency Fee Amount
+EDWard://DBC/EDW_V20/CLM_LINE/ITS_CENTRL_FNCL_AGNCY_FEE_AMT,ITS_CENTRL_FNCL_AGNCY_FEE_AMT,Column,/EDWard Glossary/Inter-Plan Teleprocessing System Central Financial Agency Fee Amount
+EDWard://DBC/EDW_V20/RECNCLTN_EDW_CLM/ITS_CENTRL_FNCL_AGNCY_FEE_AMT,ITS_CENTRL_FNCL_AGNCY_FEE_AMT,Column,/EDWard Glossary/Inter-Plan Teleprocessing System Central Financial Agency Fee Amount
+EDWard://DBC/EDW_V20/INTRM_CLM_LINE/ITS_CENTRL_FNCL_AGNCY_FEE_AMT,ITS_CENTRL_FNCL_AGNCY_FEE_AMT,Column,/EDWard Glossary/Inter-Plan Teleprocessing System Central Financial Agency Fee Amount
+EDWard://DBC/EDW_V20/RECNCLTN_EDW_CLM_PAID/ITS_CENTRL_FNCL_AGNCY_FEE_AMT,ITS_CENTRL_FNCL_AGNCY_FEE_AMT,Column,/EDWard Glossary/Inter-Plan Teleprocessing System Central Financial Agency Fee Amount
+EDWard://DBC/EDW_V20/PENDD_CLM/SRC_CLM_INVSTGTNL_RSLT_1_CD,SRC_CLM_INVSTGTNL_RSLT_1_CD,Column,/EDWard Glossary/Investigational Result 1 Code
+EDWard://DBC/EDW_V20/CLM_ADDNL/SRC_CLM_INVSTGTNL_RSLT_1_CD,SRC_CLM_INVSTGTNL_RSLT_1_CD,Column,/EDWard Glossary/Investigational Result 1 Code
+EDWard://DBC/EDW_V20/CLM_ADDNL/SRC_CLM_INVSTGTNL_RSLT_2_CD,SRC_CLM_INVSTGTNL_RSLT_2_CD,Column,/EDWard Glossary/Investigational Result 2 Code
+EDWard://DBC/EDW_V20/PENDD_CLM/SRC_CLM_INVSTGTNL_RSLT_2_CD,SRC_CLM_INVSTGTNL_RSLT_2_CD,Column,/EDWard Glossary/Investigational Result 2 Code
+EDWard://DBC/EDW_V20/CLM_ADDNL/SRC_CLM_INVSTGTNL_RSLT_3_CD,SRC_CLM_INVSTGTNL_RSLT_3_CD,Column,/EDWard Glossary/Investigational Result 3 Code
+EDWard://DBC/EDW_V20/PENDD_CLM/SRC_CLM_INVSTGTNL_RSLT_4_CD,SRC_CLM_INVSTGTNL_RSLT_4_CD,Column,/EDWard Glossary/Investigational Result 4 Code
+EDWard://DBC/EDW_V20/CLM_ADDNL/SRC_CLM_INVSTGTNL_RSLT_4_CD,SRC_CLM_INVSTGTNL_RSLT_4_CD,Column,/EDWard Glossary/Investigational Result 4 Code
+EDWard://DBC/EDW_V20/CLM_ADDNL/SRC_CLM_INVSTGTNL_RSLT_5_CD,SRC_CLM_INVSTGTNL_RSLT_5_CD,Column,/EDWard Glossary/Investigational Result 5 Code
+EDWard://DBC/EDW_V20/APC_PRCR_CLM_LINE/ITEM_COINSRN_PAYMNT_AMT,ITEM_COINSRN_PAYMNT_AMT,Column,/EDWard Glossary/Item Coinsurance Payment Amount
+EDWard://DBC/EDW_V20/LAB_RQST_DTL_MAX_RVSN/LAB_RQST_MAX_RVSN_EFCTV_DT,LAB_RQST_MAX_RVSN_EFCTV_DT,Column,/EDWard Glossary/Lab Request Maximum Revision Effective Date
+EDWard://DBC/EDW_V20/LAB_RSLT_MAX_RVSN/LAB_RSLT_MAX_RVSN_EFCTV_DT,LAB_RSLT_MAX_RVSN_EFCTV_DT,Column,/EDWard Glossary/Lab Result Maximum Revision Effective Date
+EDWard://DBC/EDW_V20/MBR_MEDCR_CVRG/LATE_ENRLMNT_PNLTY_AMT,LATE_ENRLMNT_PNLTY_AMT,Column,/EDWard Glossary/Late Enrollment Penalty Amount
+EDWard://DBC/EDW_V20/ADRS/LGCY_POSTL_CITY_NM_ABRVN_TXT,LGCY_POSTL_CITY_NM_ABRVN_TXT,Column,/EDWard Glossary/Legacy Postal City Name Abbreviation Text
+EDWard://DBC/EDW_V20/UM_RQST/LVL_OF_CARE_HOSP_OUTPAT_IND_CD,LVL_OF_CARE_HOSP_OUTPAT_IND_CD,Column,/EDWard Glossary/Level Of Care Hospital Outpatient Indicator Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/LOBSEGX_MRKT_SGMNT_DESC,LOBSEGX_MRKT_SGMNT_DESC,Column,/EDWard Glossary/Line Of Business Segment  Market Segment Description
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/LOBSEGX_GRP_MRKT_SGMNT_CD,LOBSEGX_GRP_MRKT_SGMNT_CD,Column,/EDWard Glossary/Line Of Business Segment Group Market Segment Code
+EDWard://DBC/RDM/ICD_MAPG_HIST/MAP_SET_PARNT_VRSN_NBR,MAP_SET_PARNT_VRSN_NBR,Column,/EDWard Glossary/Map Set Parent Version Number
+EDWard://DBC/RDM/BOT_MATURE_SCOR_NO_DCG/MATURE_SCOR_INIT_RPT_MNTH_NBR,MATURE_SCOR_INIT_RPT_MNTH_NBR,Column,/EDWard Glossary/Mature Score Diagnostic Cost Group Initial Report Month Number
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR/MSA_MNTH_PAY_ADJSTMNT_STRT_DT,MSA_MNTH_PAY_ADJSTMNT_STRT_DT,Column,/EDWard Glossary/Medical Savings Account Month Pay Adjustment Start Date
+EDWard://DBC/RDM/MDCL_SVRTY_DRG/MDCL_SVRTY_MJR_DIAG_CTGRY_CD,MDCL_SVRTY_MJR_DIAG_CTGRY_CD,Column,/EDWard Glossary/Medical Severity Major Diagnosis Category Code
+EDWard://DBC/RDM/MDCL_SVRTY_DRG/MDCL_SVRTY_NATL_PAYMNT_AMT,MDCL_SVRTY_NATL_PAYMNT_AMT,Column,/EDWard Glossary/Medical Severity National Payment Amount
+EDWard://DBC/EDW_V20/APC_PRCR_CLM/MEDCR_PAYMNT_SQSTRTN_RDCTN_AMT,MEDCR_PAYMNT_SQSTRTN_RDCTN_AMT,Column,/EDWard Glossary/Medicare Payment Sequestration Reduction Amount
+EDWard://DBC/EDW_V20/MBR_CNTCT_PRFRNC_HIST/MBR_CNTCT_PRFRNC_EFCTV_DT,MBR_CNTCT_PRFRNC_EFCTV_DT,Column,/EDWard Glossary/Member Contact Preference Effective Date
+EDWard://DBC/EDW_V20/MBR_CNTCT_PRFRNC/MBR_CNTCT_PRFRNC_TRMNTN_DT,MBR_CNTCT_PRFRNC_TRMNTN_DT,Column,/EDWard Glossary/Member Contact Preference Termination Date
+EDWard://DBC/EDW_V20/MBR_CNTCT_PRFRNC_HIST/MBR_CNTCT_PRFRNC_TRMNTN_DT,MBR_CNTCT_PRFRNC_TRMNTN_DT,Column,/EDWard Glossary/Member Contact Preference Termination Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_HIST/MBR_ENRLMNT_TRMNTN_RSN_CD,MBR_ENRLMNT_TRMNTN_RSN_CD,Column,/EDWard Glossary/Member Enrollment Termination Reason Code
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT/MBR_ENRLMNT_TRMNTN_RSN_CD,MBR_ENRLMNT_TRMNTN_RSN_CD,Column,/EDWard Glossary/Member Enrollment Termination Reason Code
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_HIST/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MDCD_MBR_PROD_ENRLMNT_HIST/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_MSUP_CVRG/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/RSTTD_MBRSHP_MNTH_CNT/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/CDHP_INCNTV_DSBRSMNT/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_LAB_RQST/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_PENDD_CLM/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_COA_HIST/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/ALT_MBR_PROD_ENRLMNT_ORG/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PREM_PAID_DTL_HIST/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MDCD_MBR_PROD_ENRLMNT/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PREM_PAID_DTL/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_NFNCL_CLM/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_CLM/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/ENRLMNT_SURCHRG/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/RPTD_MBRSHP_MNTH_CNT/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/MBR_HIX_ENRLMNT_HIST/MBR_PROD_ENRLMNT_EFCTV_DT,MBR_PROD_ENRLMNT_EFCTV_DT,Column,/EDWard Glossary/Member Product Enrollment Effective Date
+EDWard://DBC/EDW_V20/RULE_ENGINE_ASSMNT/MBR_PROD_ENRLMNT_STRT_DT,MBR_PROD_ENRLMNT_STRT_DT,Column,/EDWard Glossary/Member Product Enrollment Start Date
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_HIST/MBR_PROD_ENRLMNT_TRMNTN_DT,MBR_PROD_ENRLMNT_TRMNTN_DT,Column,/EDWard Glossary/Member Product Enrollment Termination Date
+EDWard://DBC/EDW_V20/MBR_MSUP_CVRG/MBR_PROD_ENRLMNT_TRMNTN_DT,MBR_PROD_ENRLMNT_TRMNTN_DT,Column,/EDWard Glossary/Member Product Enrollment Termination Date
+EDWard://DBC/EDW_V20/RSTTD_MBRSHP_MNTH_CNT/MBR_PROD_ENRLMNT_TRMNTN_DT,MBR_PROD_ENRLMNT_TRMNTN_DT,Column,/EDWard Glossary/Member Product Enrollment Termination Date
+EDWard://DBC/EDW_V20/RPTD_MBRSHP_MNTH_CNT/MBR_PROD_ENRLMNT_TRMNTN_DT,MBR_PROD_ENRLMNT_TRMNTN_DT,Column,/EDWard Glossary/Member Product Enrollment Termination Date
+EDWard://DBC/EDW_V20/BCBSA_MBR_PROV_ATRBN/MBR_PROV_ATRBN_EFCTV_DT,MBR_PROV_ATRBN_EFCTV_DT,Column,/EDWard Glossary/Member Provider Attribution Effective Date
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN/MBR_PROV_ATRBN_EFCTV_DT,MBR_PROV_ATRBN_EFCTV_DT,Column,/EDWard Glossary/Member Provider Attribution Effective Date
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN_HIST/MBR_PROV_ATRBN_MTHDLGY_CD,MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/BCBSA_MBR_PROV_ATRBN/MBR_PROV_ATRBN_MTHDLGY_CD,MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN/MBR_PROV_ATRBN_MTHDLGY_CD,MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/BCBSA_MBR_PROV_ATRBN_HIST/MBR_PROV_ATRBN_MTHDLGY_CD,MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/MBR_TRGR_INSTNC_FCLTY_HIST/MBR_TRGR_INSTNC_FCLTY_ID,MBR_TRGR_INSTNC_FCLTY_ID,Column,/EDWard Glossary/Member Trigger Instance Facility Identifier
+EDWard://DBC/EDW_V20/MBR_TRGR_INSTNC_FCLTY/MBR_TRGR_INSTNC_FCLTY_ID,MBR_TRGR_INSTNC_FCLTY_ID,Column,/EDWard Glossary/Member Trigger Instance Facility Identifier
+EDWard://DBC/EDW_V20/RULE_ENGINE_CNSMR/MY_HLTH_ADVNTG_CLNT_ID,MY_HLTH_ADVNTG_CLNT_ID,Column,/EDWard Glossary/My Health Advantage Client Identifier
+EDWard://DBC/RDM/BOT_BCBSA_PROD_CTGRY_XREF/NDW_PROD_CTGRY_XREF_EFCTV_DT,NDW_PROD_CTGRY_XREF_EFCTV_DT,Column,/EDWard Glossary/National Data Warehouse Product Category Cross Reference Effective Date
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/NATL_FED_SPCFC_PAYMNT_AMT,NATL_FED_SPCFC_PAYMNT_AMT,Column,/EDWard Glossary/National Federal Specific Payment Amount
+EDWard://DBC/EDW_V20/DRG_CASE_REIMBMNT/NATL_FED_SPCFC_PAYMNT_AMT,NATL_FED_SPCFC_PAYMNT_AMT,Column,/EDWard Glossary/National Federal Specific Payment Amount
+EDWard://DBC/EDW_V20/DRG_CASE_REIMBMNT/NEW_TCHNLGY_ADD_ON_PAYMNT_AMT,NEW_TCHNLGY_ADD_ON_PAYMNT_AMT,Column,/EDWard Glossary/New Technology Add On Payment Amount
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/NEW_TCHNLGY_ADD_ON_PAYMNT_AMT,NEW_TCHNLGY_ADD_ON_PAYMNT_AMT,Column,/EDWard Glossary/New Technology Add On Payment Amount
+EDWard://DBC/RDM/NAICS/NORTH_AMRCN_INDSTRY_STNDRD_CLS,NORTH_AMRCN_INDSTRY_STNDRD_CLS,Column,/EDWard Glossary/North American Industry Standard Classification System Code Description
+EDWard://DBC/EDW_V20/MBR_ASSMNT_STTS_HIST/NBR_OF_FUNDMNTL_ANSWRD_CNT,NBR_OF_FUNDMNTL_ANSWRD_CNT,Column,/EDWard Glossary/Number of Fundamental Answered Count
+EDWard://DBC/EDW_V20/MBR_ASSMNT_STTS/NBR_OF_FUNDMNTL_ANSWRD_CNT,NBR_OF_FUNDMNTL_ANSWRD_CNT,Column,/EDWard Glossary/Number of Fundamental Answered Count
+EDWard://DBC/EDW_V20/MBR_ASSMNT_STTS/NBR_OF_FUNDMNTL_PRMPTD_CNT,NBR_OF_FUNDMNTL_PRMPTD_CNT,Column,/EDWard Glossary/Number Of Fundamental Prompted Count
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/OPRTG_COST_OUTLR_PAYMNT_AMT,OPRTG_COST_OUTLR_PAYMNT_AMT,Column,/EDWard Glossary/Operating Cost Outlier Payment Amount
+EDWard://DBC/EDW_V20/DRG_CASE_REIMBMNT/OPRTG_COST_OUTLR_PAYMNT_AMT,OPRTG_COST_OUTLR_PAYMNT_AMT,Column,/EDWard Glossary/Operating Cost Outlier Payment Amount
+EDWard://DBC/EDW_V20/DRG_REIMBMNT/OPRTG_COST_OUTLR_THRSHLD_AMT,OPRTG_COST_OUTLR_THRSHLD_AMT,Column,/EDWard Glossary/Operating Cost Outlier Threshold Amount
+EDWard://DBC/EDW_V20/CP_MBR/OVRALL_RDINS_CNFDNC_SCOR_NBR,OVRALL_RDINS_CNFDNC_SCOR_NBR,Column,/EDWard Glossary/Overall Readiness Confidence Score Number
+EDWard://DBC/EDW_V20/CP_MBR_HIST/OVRALL_RDINS_CNFDNC_SCOR_NBR,OVRALL_RDINS_CNFDNC_SCOR_NBR,Column,/EDWard Glossary/Overall Readiness Confidence Score Number
+EDWard://DBC/EDW_V20/CP_MBR/OVRALL_RDINS_CNVCTN_SCOR_NBR,OVRALL_RDINS_CNVCTN_SCOR_NBR,Column,/EDWard Glossary/Overall Readiness Conviction Score Number
+EDWard://DBC/EDW_V20/CP_MBR_HIST/OVRALL_RDINS_CNVCTN_SCOR_NBR,OVRALL_RDINS_CNVCTN_SCOR_NBR,Column,/EDWard Glossary/Overall Readiness Conviction Score Number
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR/PART_A_DMGRPHC_PAY_ADJST_AMT,PART_A_DMGRPHC_PAY_ADJST_AMT,Column,/EDWard Glossary/Part A Demographic Pay Adjust Amount
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/PART_A_MNDTRY_SPLMNTL_BNFT_AMT,PART_A_MNDTRY_SPLMNTL_BNFT_AMT,Column,/EDWard Glossary/Part A Mandatory Supplemental Benefit Amount
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/PART_A_MDRNZN_ACT_TOTL_PAY_AMT,PART_A_MDRNZN_ACT_TOTL_PAY_AMT,Column,/EDWard Glossary/Part A Modernization Act Total Pay Amount
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR/PART_B_DMGRPHC_PAY_ADJST_AMT,PART_B_DMGRPHC_PAY_ADJST_AMT,Column,/EDWard Glossary/Part B Demographic Pay Adjust Amount
+EDWard://DBC/EDW_V20/UM_RQST_HIST/PTHWY_ALT_RGMN_AVLBL_QTY_NBR,PTHWY_ALT_RGMN_AVLBL_QTY_NBR,Column,/EDWard Glossary/Pathway Alternate Regimen Available Quantity Number
+EDWard://DBC/EDW_V20/PLAN_ADMNSTRN/PLAN_ADMNSTRN_NTWK_DESC,PLAN_ADMNSTRN_NTWK_DESC,Column,/EDWard Glossary/Plan Administration Network Description
+EDWard://DBC/EDW_V20/PRE_EXSTG_EXCLSN_PRD/PRE_EXSTG_EXCLSN_PRD_TRMNTN_DT,PRE_EXSTG_EXCLSN_PRD_TRMNTN_DT,Column,/EDWard Glossary/Pre Existing Exclusion Period Termination Date
+EDWard://DBC/EDW_V20/EP_ALT_SRC_ID_ALTID/PPOPCP_EXPRNC_OVRD_TRMNTN_DT,PPOPCP_EXPRNC_OVRD_TRMNTN_DT,Column,/EDWard Glossary/Preferred Provider Organization Primary Care Physician Experience Override Termination Date
+EDWard://DBC/EDW_V20/PDE_RSPNS/PDE_CMS_CALCD_GAP_DSCNT_AMT,PDE_CMS_CALCD_GAP_DSCNT_AMT,Column,/EDWard Glossary/Prescription Drug Event Centers For Medicare And Medicaid Services Calculated Gap Discount Amount
+EDWard://DBC/EDW_V20/PDE_RSPNS/PDE_ORGNL_SBMTD_CNTRCT_ID,PDE_ORGNL_SBMTD_CNTRCT_ID,Column,/EDWard Glossary/Prescription Drug Event Original Submitted Contract Identifier
+EDWard://DBC/EDW_V20/PDE_SBMSN/PDE_VCN_ADMNSTRN_FEE_AMT,PDE_VCN_ADMNSTRN_FEE_AMT,Column,/EDWard Glossary/Prescription Drug Event Vaccine Administration Fee Amount
+EDWard://DBC/EDW_V20/PRDCR_PAYMNT_COA/PRDCR_PAYMNT_COA_EFCTV_DT,PRDCR_PAYMNT_COA_EFCTV_DT,Column,/EDWard Glossary/Producer Payment Chart of Account Effective Date
+EDWard://DBC/EDW_V20/PRDCR_PAYMNT_COA/PRDCR_PAYMNT_COA_TRMNTN_DT,PRDCR_PAYMNT_COA_TRMNTN_DT,Column,/EDWard Glossary/Producer Payment Chart of Account Termination Date
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF2_CRPRT_BNFT_PROD_CD,PRODDEF2_CRPRT_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Corporate Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF3_CRPRT_BNFT_PROD_CD,PRODDEF3_CRPRT_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Corporate Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF6_CRPRT_BNFT_PROD_CD,PRODDEF6_CRPRT_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Corporate Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF1_CRPRT_BNFT_PROD_CD,PRODDEF1_CRPRT_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Corporate Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF3_CVRG_ID_BNFT_PROD_CD,PRODDEF3_CVRG_ID_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Coverage Identifier Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF6_CVRG_ID_BNFT_PROD_CD,PRODDEF6_CVRG_ID_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Coverage Identifier Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF4_CVRG_ID_BNFT_PROD_CD,PRODDEF4_CVRG_ID_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Coverage Identifier Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF5_CVRG_ID_BNFT_PROD_CD,PRODDEF5_CVRG_ID_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Coverage Identifier Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODDEF2_CVRG_ID_BNFT_PROD_CD,PRODDEF2_CVRG_ID_BNFT_PROD_CD,Column,/EDWard Glossary/Product Definition Coverage Identifier Benefit Product Code
+EDWard://DBC/EDW_V20/VA_COA_PPO_CF_XREF/PRODINV_CNTRCT_HDR_PROD_INV_CD,PRODINV_CNTRCT_HDR_PROD_INV_CD,Column,/EDWard Glossary/Product Inventory Contract Header Product Inventory Code
+EDWard://DBC/RDM/BOT_PROD_MSTR_EXPRNC/PROD_MSTR_EXPRNC_TRMNTN_DT,PROD_MSTR_EXPRNC_TRMNTN_DT,Column,/EDWard Glossary/Product Master Experience Termination Date
+EDWard://DBC/EDW_V20/PROD_OFRG_CDHP_ADMNSTRN/PROD_OFRG_CDHP_VNDR_EFCTV_DT,PROD_OFRG_CDHP_VNDR_EFCTV_DT,Column,/EDWard Glossary/Product Offering Consumer Driven Health Plan Vendor Effective Date
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN_HIST/PGM_PARN_RECRTMNT_SRC_CD,PGM_PARN_RECRTMNT_SRC_CD,Column,/EDWard Glossary/Program Participation Recruitment Source Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/PGM_PARN_RECRTMNT_SRC_CD,PGM_PARN_RECRTMNT_SRC_CD,Column,/EDWard Glossary/Program Participation Recruitment Source Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN_HIST/PGM_PAYMNT_RSPNSBLY_CD,PGM_PAYMNT_RSPNSBLY_CD,Column,/EDWard Glossary/Program Payment Responsibility Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/PGM_PAYMNT_RSPNSBLY_CD,PGM_PAYMNT_RSPNSBLY_CD,Column,/EDWard Glossary/Program Payment Responsibility Code
+EDWard://DBC/EDW_V20/PROV_ADRS_SCHDL/PROV_ADRS_SCHDL_TRMNTN_DT,PROV_ADRS_SCHDL_TRMNTN_DT,Column,/EDWard Glossary/Provider Address Schedule Termination Date
+EDWard://DBC/EDW_V20/PROV_ALT_ID/SRC_PROV_ALT_ID_TRMNTN_RSN_CD,SRC_PROV_ALT_ID_TRMNTN_RSN_CD,Column,/EDWard Glossary/Provider Alternate Identifier Termination Reason Code
+EDWard://DBC/EDW_V20/PROV_CRDNTLG/PROV_CRDNTLG_TRMNTN_RSN_CD,PROV_CRDNTLG_TRMNTN_RSN_CD,Column,/EDWard Glossary/Provider Credentialing Termination Reason Code
+EDWard://DBC/EDW_V20/GRPG_PRFL_HIST/PG_NTWK_ARNGMNT_EFCTV_DT,PG_NTWK_ARNGMNT_EFCTV_DT,Column,/EDWard Glossary/Provider Grouping Network Arrangement Effective Date
+EDWard://DBC/EDW_V20/GRPG_PRFL_HIST/PG_NTWK_ARNGMNT_TERM_RSN_CD,PG_NTWK_ARNGMNT_TERM_RSN_CD,Column,/EDWard Glossary/Provider Grouping Network Arrangement Term Reason Code
+EDWard://DBC/EDW_V20/EP_ALT_SRC_ID_ADRS/PROV_OPRTN_MANL_AKNLDGMT_DT,PROV_OPRTN_MANL_AKNLDGMT_DT,Column,/EDWard Glossary/Provider Operation Manual Acknowledgement Date
+EDWard://DBC/EDW_V20/PROV_ADRS/PROV_OPRTN_MANL_AKNLDGMT_DT,PROV_OPRTN_MANL_AKNLDGMT_DT,Column,/EDWard Glossary/Provider Operation Manual Acknowledgement Date
+EDWard://DBC/EDW_V20/PROV_ORG_CNTRCT_RA/PROV_ORG_CNTRCT_RA_EFCTV_DT,PROV_ORG_CNTRCT_RA_EFCTV_DT,Column,/EDWard Glossary/Provider Organization Contract Reimbursement Arrangement Effective Date
+EDWard://DBC/EDW_V20/PROV_ORG_CNTRCT_RA_HIST/PROV_ORG_CNTRCT_RA_EFCTV_DT,PROV_ORG_CNTRCT_RA_EFCTV_DT,Column,/EDWard Glossary/Provider Organization Contract Reimbursement Arrangement Effective Date
+EDWard://DBC/EDW_V20/PROV_ORG_CNTRCT_RA_HIST/PROV_ORG_CNTRCT_RA_TRMNTN_DT,PROV_ORG_CNTRCT_RA_TRMNTN_DT,Column,/EDWard Glossary/Provider Organization Contract Reimbursement Arrangement Termination Date
+EDWard://DBC/EDW_V20/PROV_ORG_CNTRCT_RA/PROV_ORG_CNTRCT_RA_TRMNTN_DT,PROV_ORG_CNTRCT_RA_TRMNTN_DT,Column,/EDWard Glossary/Provider Organization Contract Reimbursement Arrangement Termination Date
+EDWard://DBC/EDW_V20/PRCHSR_ORG_RLTNSHP/PRCHSR_ORG_RLTNSHP_TRMNTN_DT,PRCHSR_ORG_RLTNSHP_TRMNTN_DT,Column,/EDWard Glossary/Purchaser Organization Relationship Termination Date
+EDWard://DBC/EDW_V20/PRCHSR_ORG_SRVAGNT/PRCHSR_ORG_SRVAGNT_EFCTV_DT,PRCHSR_ORG_SRVAGNT_EFCTV_DT,Column,/EDWard Glossary/Purchaser Organization Service Agent Effective Date
+EDWard://DBC/EDW_V20/PRCHSR_ORG_SRVAGNT/PRCHSR_ORG_SRVC_AGNT_TRMNTN_DT,PRCHSR_ORG_SRVC_AGNT_TRMNTN_DT,Column,/EDWard Glossary/Purchaser Organization Service Agent Termination Date
+EDWard://DBC/EDW_V20/PHRMCY_CLM_LINE/RMOT_ACCUMN_INTGRTN_OPT_CD,RMOT_ACCUMN_INTGRTN_OPT_CD,Column,/EDWard Glossary/Remote Accumulation Integration Option Code
+EDWard://DBC/EDW_V20/RPT_GRPG_RLTNSHP/RPT_GRPG_RLTNSHP_EFCTV_DT,RPT_GRPG_RLTNSHP_EFCTV_DT,Column,/EDWard Glossary/Report Grouping Relationship Effective Date
+EDWard://DBC/EDW_V20/RPT_GRPG_RLTNSHP/RPT_GRPG_RLTNSHP_TERM_RSN_CD,RPT_GRPG_RLTNSHP_TERM_RSN_CD,Column,/EDWard Glossary/Report Grouping Relationship Term Reason Code
+EDWard://DBC/EDW_V20/RPT_GRPG_RLTNSHP/RPT_GRPG_RLTNSHP_TRMNTN_DT,RPT_GRPG_RLTNSHP_TRMNTN_DT,Column,/EDWard Glossary/Report Grouping Relationship Termination Date
+EDWard://DBC/EDW_V20/CASE_CNDTN/RQR_DWNGRD_CNFRMTN_IND_CD,RQR_DWNGRD_CNFRMTN_IND_CD,Column,/EDWard Glossary/Require Downgrade Confirmation Indicator Code
+EDWard://DBC/EDW_V20/REV_OPT_DIAG/REV_OPT_DIAG_INFNT_ONLY_IND_CD,REV_OPT_DIAG_INFNT_ONLY_IND_CD,Column,/EDWard Glossary/Revenue Optimization Diagnosis Infant Only Indicator Code
+EDWard://DBC/EDW_V20/CARE_GAP_ALT_RX_ALRT/SMART_SWCH_COUPN_EXPRTN_DT,SMART_SWCH_COUPN_EXPRTN_DT,Column,/EDWard Glossary/Smart Switch Coupon Expiration Date
+EDWard://DBC/EDW_V20/CDHP_SMRY/SMKG_CSATN_CMPLTN_INCNTV_AMT,SMKG_CSATN_CMPLTN_INCNTV_AMT,Column,/EDWard Glossary/Smoking Cessation Completion Incentive Amount
+EDWard://DBC/EDW_V20/HLTH_PGM_ACTVTY/SRC_ACTVTY_DURTN_TM_PRD_CD,SRC_ACTVTY_DURTN_TM_PRD_CD,Column,/EDWard Glossary/Source Activity Duration Time Period Code
+EDWard://DBC/EDW_V20/LFSTYL_ACTVTY/SRC_ACTVTY_DURTN_TMFRM_CD,SRC_ACTVTY_DURTN_TMFRM_CD,Column,/EDWard Glossary/Source Activity Duration Timeframe Code
+EDWard://DBC/EDW_V20/HLTH_PGM_ACTVTY/SRC_ACTVTY_INTNSTY_LVL_CD,SRC_ACTVTY_INTNSTY_LVL_CD,Column,/EDWard Glossary/Source Activity Intensity Level Code
+EDWard://DBC/EDW_V20/ADMINMTHD_LIST/SRC_ADMINMTHD_RFRNC_ID_TYPE_CD,SRC_ADMINMTHD_RFRNC_ID_TYPE_CD,Column,/EDWard Glossary/Source Administrative Method Reference Identifier Type Code
+EDWard://DBC/EDW_V20/CLM_LINE_PREPAYMNT_AUDT/SRC_AUDT_RTRN_OVRPYMT_IND_CD,SRC_AUDT_RTRN_OVRPYMT_IND_CD,Column,/EDWard Glossary/Source Audit Return Overpayment Indicator Code
+EDWard://DBC/EDW_V20/CLM_PREPAYMNT_AUDT/SRC_AUDT_SBMT_CLM_EDIT_STTS_CD,SRC_AUDT_SBMT_CLM_EDIT_STTS_CD,Column,/EDWard Glossary/Source Audit Submit Claim Edit Status Code
+EDWard://DBC/EDW_V20/BNFT_PKG_DTL/SRC_AUTHRZN_OR_CERTFN_CD,SRC_AUTHRZN_OR_CERTFN_CD,Column,/EDWard Glossary/Source Authorization or Certification Code
+EDWard://DBC/EDW_V20/UM_SRVC/SRC_AUTHRZD_FRQNCY_TYPE_CD,SRC_AUTHRZD_FRQNCY_TYPE_CD,Column,/EDWard Glossary/Source Authorized Frequency Type Code
+EDWard://DBC/EDW_V20/UM_SRVC_HIST/SRC_AUTHRZD_FRQNCY_TYPE_CD,SRC_AUTHRZD_FRQNCY_TYPE_CD,Column,/EDWard Glossary/Source Authorized Frequency Type Code
+EDWard://DBC/EDW_V20/UM_INPAT_SRVC_STTS/SRC_AUTHRZD_LVL_OF_CARE_RSN_CD,SRC_AUTHRZD_LVL_OF_CARE_RSN_CD,Column,/EDWard Glossary/Source Authorized Level Of Care Reason Code
+EDWard://DBC/EDW_V20/UM_SRVC/SRC_AUTHRZD_PLACE_OF_SRVC_CD,SRC_AUTHRZD_PLACE_OF_SRVC_CD,Column,/EDWard Glossary/Source Authorized Place of Service Code
+EDWard://DBC/EDW_V20/MDCL_RVW_CASE_INFO/SRC_AUTHRZD_PLACE_OF_SRVC_CD,SRC_AUTHRZD_PLACE_OF_SRVC_CD,Column,/EDWard Glossary/Source Authorized Place of Service Code
+EDWard://DBC/EDW_V20/UM_SRVC/SRC_AUTHRZD_PROC_ICD_VRSN_CD,SRC_AUTHRZD_PROC_ICD_VRSN_CD,Column,/EDWard Glossary/Source Authorized Procedure International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/UM_SRVC_HIST/SRC_AUTHRZD_PROC_ICD_VRSN_CD,SRC_AUTHRZD_PROC_ICD_VRSN_CD,Column,/EDWard Glossary/Source Authorized Procedure International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/BNFT_OPT_LIST/SRC_BNFT_ACCUMR_NTWK_TYPE_CD,SRC_BNFT_ACCUMR_NTWK_TYPE_CD,Column,/EDWard Glossary/Source Benefit Accumulator Network Type Code
+EDWard://DBC/EDW_V20/CLM_ADDNL/SRC_BNFT_PAYMNT_STTS_TIER_CD,SRC_BNFT_PAYMNT_STTS_TIER_CD,Column,/EDWard Glossary/Source Benefit Payment Status Tier Code
+EDWard://DBC/EDW_V20/REV_OPT_CLM/SRC_BILLG_PROV_ID_QLFR_CD,SRC_BILLG_PROV_ID_QLFR_CD,Column,/EDWard Glossary/Source Billing Provider Identifier Qualifier Code
+EDWard://DBC/EDW_V20/ASSMNT_QSTN_DEFN/SRC_BRNCHG_NEEDD_IND_CD,SRC_BRNCHG_NEEDD_IND_CD,Column,/EDWard Glossary/Source Branching Needed Indicator Code
+EDWard://DBC/EDW_V20/QSTN_DTL/SRC_BRNCHG_NEEDD_IND_CD,SRC_BRNCHG_NEEDD_IND_CD,Column,/EDWard Glossary/Source Branching Needed Indicator Code
+EDWard://DBC/EDW_V20/CALCN_STTN/SRC_CALCN_STTN_AUTO_ADJDCTN_CD,SRC_CALCN_STTN_AUTO_ADJDCTN_CD,Column,/EDWard Glossary/Source Calculation Situation Auto Adjudication code
+EDWard://DBC/EDW_V20/CALCN_STTN/SRC_CALCN_STTN_PREAUTHRZN_CD,SRC_CALCN_STTN_PREAUTHRZN_CD,Column,/EDWard Glossary/Source Calculation Situation Preauthorization Code
+EDWard://DBC/EDW_V20/CMPGN_SGMNTN_CTGRY/SRC_CMPGN_SGMNTN_CTGRY_CD,SRC_CMPGN_SGMNTN_CTGRY_CD,Column,/EDWard Glossary/Source Campaign Segmentation Category Code
+EDWard://DBC/EDW_V20/PROV_PAYE_ENTY/SRC_CPTTD_PROV_PAYE_ENTY_CD,SRC_CPTTD_PROV_PAYE_ENTY_CD,Column,/EDWard Glossary/Source Capitated Provider Payee Entity Code
+EDWard://DBC/EDW_V20/CPTTN/SRC_CPTTN_MBR_RLTNSHP_CD,SRC_CPTTN_MBR_RLTNSHP_CD,Column,/EDWard Glossary/Source Capitation Member Relationship Code
+EDWard://DBC/EDW_V20/CPTTN_SMRY/SRC_CPTTN_MBR_RLTNSHP_CD,SRC_CPTTN_MBR_RLTNSHP_CD,Column,/EDWard Glossary/Source Capitation Member Relationship Code
+EDWard://DBC/EDW_V20/CPTTN/SRC_CPTTN_NTWK_PROD_ASGNMNT_CD,SRC_CPTTN_NTWK_PROD_ASGNMNT_CD,Column,/EDWard Glossary/Source Capitation Network Product Assignment Code
+EDWard://DBC/EDW_V20/CPTTN/SRC_CPTTN_PAYMNT_ARNGMNT_CD,SRC_CPTTN_PAYMNT_ARNGMNT_CD,Column,/EDWard Glossary/Source Capitation Payment Arrangement Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG_DMGRPHC_HIST/SRC_CHRG_RGSTR_RPTG_DTL_IND_CD,SRC_CHRG_RGSTR_RPTG_DTL_IND_CD,Column,/EDWard Glossary/Source Charge Register Reporting Detail Indicator Code
+EDWard://DBC/EDW_V20/PENDD_CLM_LINE/SRC_CLM_LINE_INVSTGTNL_RSLT_CD,SRC_CLM_LINE_INVSTGTNL_RSLT_CD,Column,/EDWard Glossary/Source Claim Line Investigational Result Code
+EDWard://DBC/EDW_V20/CLM_LINE/SRC_CLM_LINE_OVRD_ADJSTMNT_CD,SRC_CLM_LINE_OVRD_ADJSTMNT_CD,Column,/EDWard Glossary/Source Claim Line Override Adjustment Code
+EDWard://DBC/EDW_V20/PENDD_CLM_DIAG/SRC_CLM_LINE_PRSNT_ON_ADMSN_CD,SRC_CLM_LINE_PRSNT_ON_ADMSN_CD,Column,/EDWard Glossary/Source Claim Line Present on Admission Code
+EDWard://DBC/EDW_V20/CLNT_EMPLR_GRP/SRC_CLNT_EMPLR_GRP_STTS_CD,SRC_CLNT_EMPLR_GRP_STTS_CD,Column,/EDWard Glossary/Source Client Employer Group Status Code
+EDWard://DBC/EDW_V20/CLNT_EMPLR_GRP_HIST/SRC_CLNT_EMPLR_GRP_STTS_CD,SRC_CLNT_EMPLR_GRP_STTS_CD,Column,/EDWard Glossary/Source Client Employer Group Status Code
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS_HIST/SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Condition Code
+EDWard://DBC/RDM/BOT_CLNCL_ENHNCD_BNFTS_PGM/SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Condition Code
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS/SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Condition Code
+EDWard://DBC/RDM/BOT_DNTL_BNFTS/SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,SRC_CLNCL_ENHNCD_BNFTS_CNDTN_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Condition Code
+EDWard://DBC/RDM/BOT_PGM_MDCL_CD_XWALK/SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Program Code
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS_HIST/SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Program Code
+EDWard://DBC/EDW_V20/CLNCL_MBR_ENRLD_ENHNCD_BNFTS/SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Program Code
+EDWard://DBC/RDM/BOT_CLNCL_ENHNCD_BNFTS_PGM/SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Program Code
+EDWard://DBC/RDM/BOT_MBR_EXTRCT_CRTRIA/SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Program Code
+EDWard://DBC/RDM/BOT_DNTL_BNFTS/SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,SRC_CLNCL_ENHNCD_BNFTS_PGM_CD,Column,/EDWard Glossary/Source Clinical Enhanced Benefits Program Code
+EDWard://DBC/EDW_V20/PLAN_ADMNSTRN/SRC_COMNGLD_ACCUMN_MDCL_CD,SRC_COMNGLD_ACCUMN_MDCL_CD,Column,/EDWard Glossary/Source Comingled Accumulation With Medical Code
+EDWard://DBC/EDW_V20/CMP_PRCD_CLM_LINE/SRC_CMP_PRCD_LINE_APC_STTS_CD,SRC_CMP_PRCD_LINE_APC_STTS_CD,Column,/EDWard Glossary/Source Common Module Priced Priced Line APC Status Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG_DMGRPHC/SRC_COMP_HOUSD_MBRSHP_CD,SRC_COMP_HOUSD_MBRSHP_CD,Column,/EDWard Glossary/Source Computer Housed Membership Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG_DMGRPHC_HIST/SRC_COMP_HOUSD_MBRSHP_CD,SRC_COMP_HOUSD_MBRSHP_CD,Column,/EDWard Glossary/Source Computer Housed Membership Code
+EDWard://DBC/EDW_V20/PN/SRC_CNTRCTD_PROV_ADRS_TYPE_CD,SRC_CNTRCTD_PROV_ADRS_TYPE_CD,Column,/EDWard Glossary/Source Contracted Provider Address Type Code
+EDWard://DBC/EDW_V20/UM_RQST/SRC_DSCHRG_DIAG_ICD_VRSN_CD,SRC_DSCHRG_DIAG_ICD_VRSN_CD,Column,/EDWard Glossary/Source Discharge Diagnosis International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/PGM/SRC_DSPLY_ENRLMNT_IND_CD,SRC_DSPLY_ENRLMNT_IND_CD,Column,/EDWard Glossary/Source Display Enrollment Indicator Code
+EDWard://DBC/EDW_V20/TAX_ID_PROV/SRC_ELCTRNC_CLMS_SBMSN_CD,SRC_ELCTRNC_CLMS_SBMSN_CD,Column,/EDWard Glossary/Source Electronic Claims Submission Code
+EDWard://DBC/EDW_V20/BNFT_PKG_DTL/SRC_ELGBLTY_OR_BNFT_INFO_CD,SRC_ELGBLTY_OR_BNFT_INFO_CD,Column,/EDWard Glossary/Source Eligibility Or Benefit Information Code
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/SRC_EMPLR_GRP_HLTH_PLAN_IND_CD,SRC_EMPLR_GRP_HLTH_PLAN_IND_CD,Column,/EDWard Glossary/Source Employer Group Health Plan Indicator Code
+EDWard://DBC/EDW_V20/HLTH_PGM_ENRLMNT_DCSN/SRC_ENRLMNT_DCSN_MAKR_ROLE_CD,SRC_ENRLMNT_DCSN_MAKR_ROLE_CD,Column,/EDWard Glossary/Source Enrollment Decision Maker Role Code
+EDWard://DBC/EDW_V20/MDCD_MBR_PROD_ENRLMNT_HIST/SRC_EXSTG_BNFT_TRMNTN_RSN_CD,SRC_EXSTG_BNFT_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Existing Benefit Termination Reason Code
+EDWard://DBC/EDW_V20/FEE_SCHDL/SRC_FEE_SCHDL_TRMNTN_RSN_CD,SRC_FEE_SCHDL_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Fee Schedule Termination Reason Code
+EDWard://DBC/EDW_V20/CLM_LINE_PRFSNL_SMTATREIMB/SRC_FEE_SCHDL_UPDT_FRQNCY_CD,SRC_FEE_SCHDL_UPDT_FRQNCY_CD,Column,/EDWard Glossary/Source Fee Schedule Update Frequency Code
+EDWard://DBC/EDW_V20/PGM_HLTH_ADVSR/SRC_HLTH_ADVSR_FUNCL_ROLE_CD,SRC_HLTH_ADVSR_FUNCL_ROLE_CD,Column,/EDWard Glossary/Source Health Advisor Functional Role Code
+EDWard://DBC/EDW_V20/HADV_CASE_CNTCT_ACTVTY/SRC_HADV_CASE_CNTCT_ACTVTY_CALL_DRCTN_CD,SRC_HADV_CASE_CNTCT_ACTVTY_CALL_DRCTN_CD,Column,/EDWard Glossary/Source Health Advocate Case Contact Activity Call Direction Code
+EDWard://DBC/EDW_V20/HLTH_CNDTN/SRC_HLTH_CNDTN_INTNSTY_LVL_CD,SRC_HLTH_CNDTN_INTNSTY_LVL_CD,Column,/EDWard Glossary/Source Health Condition Intensity Level Code
+EDWard://DBC/EDW_V20/HIX_ST_DTL/SRC_HIX_ST_FULL_MTCH_PAYMNT_CD,SRC_HIX_ST_FULL_MTCH_PAYMNT_CD,Column,/EDWard Glossary/Source Health Insurance Exchange  State Full Match Payment Code
+EDWard://DBC/EDW_V20/HIX_BILLG_RT/SRC_HIX_ELGBLTY_RFRNC_NBR,SRC_HIX_ELGBLTY_RFRNC_NBR,Column,/EDWard Glossary/Source Health Insurance Exchange Eligibility Reference Number
+EDWard://DBC/EDW_V20/HIX_ST_DTL/SRC_HIX_PRE_ENRLMNT_RT_IND_CD,SRC_HIX_PRE_ENRLMNT_RT_IND_CD,Column,/EDWard Glossary/Source Health Insurance Exchange Pre Enrollment Rate Indicator Code
+EDWard://DBC/EDW_V20/HIX_BILLG_RT_AUXLRY/SRC_HIX_RT_GUARTE_EFCTV_DT,SRC_HIX_RT_GUARTE_EFCTV_DT,Column,/EDWard Glossary/Source Health Insurance Exchange Rate Guarantee Effective Date
+EDWard://DBC/EDW_V20/HIX_ST_DTL/SRC_HIX_ST_CLCTN_RSPNSBLY_CD,SRC_HIX_ST_CLCTN_RSPNSBLY_CD,Column,/EDWard Glossary/Source Health Insurance Exchange State Collection Responsibility Code
+EDWard://DBC/EDW_V20/HIX_ST_DTL/SRC_HIX_ST_INIT_PAYMNT_RQRD_CD,SRC_HIX_ST_INIT_PAYMNT_RQRD_CD,Column,/EDWard Glossary/Source Health Insurance Exchange State Initial Payment Required Code
+EDWard://DBC/EDW_V20/HIX_ST_DTL/SRC_HIX_ST_ONGOG_PAYMNT_CD,SRC_HIX_ST_ONGOG_PAYMNT_CD,Column,/EDWard Glossary/Source Health Insurance Exchange State Ongoing Payment Code
+EDWard://DBC/EDW_V20/HIX_BILLG_RT/SRC_HIX_TBACO_WLNS_RT_TYPE_CD,SRC_HIX_TBACO_WLNS_RT_TYPE_CD,Column,/EDWard Glossary/Source Health Insurance Exchange Tobacco Wellness Rate Type Code
+EDWard://DBC/EDW_V20/HMO_SPCLST_PCP_ID_ADRS/SRC_HMO_PCP_ADRS_TRMNTN_RSN_CD,SRC_HMO_PCP_ADRS_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Health Maintenance Organization (HMO) Primary Care Physician (PCP) Address Termination Reason Code
+EDWard://DBC/EDW_V20/HMO_PROV_ORG/SRC_HMO_PROV_ORG_TRMNTN_RSN_CD,SRC_HMO_PROV_ORG_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Health Maintenance Organization (HMO) Provider Organization Termination Reason Code
+EDWard://DBC/EDW_V20/HLTH_PGM_ACTVTY/SRC_HLTH_PGM_ACTVTY_STTS_CD,SRC_HLTH_PGM_ACTVTY_STTS_CD,Column,/EDWard Glossary/Source Health Program Activity Status Code
+EDWard://DBC/EDW_V20/HLTH_PGM_ASSMNT_CRTRIA/SRC_HLTH_PGM_ASSMNT_STTS_CD,SRC_HLTH_PGM_ASSMNT_STTS_CD,Column,/EDWard Glossary/Source Health Program Assessment Status Code
+EDWard://DBC/EDW_V20/ASSMNT_CRTRIA_HIST/SRC_HLTH_PGM_ASSMNT_STTS_CD,SRC_HLTH_PGM_ASSMNT_STTS_CD,Column,/EDWard Glossary/Source Health Program Assessment Status Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/SRC_HLTH_PGM_INTNSTY_LVL_CD,SRC_HLTH_PGM_INTNSTY_LVL_CD,Column,/EDWard Glossary/Source Health Program Intensity Level Code
+EDWard://DBC/EDW_V20/IPS/SRC_IPS_ADMTG_PRVLG_RQRD_CD,SRC_IPS_ADMTG_PRVLG_RQRD_CD,Column,/EDWard Glossary/Source Individual Provider Specialty Admitting Privilege Required Code
+EDWard://DBC/EDW_V20/CLM_LINE_SMTATREIMB/SRC_INSTNL_NGTTD_SRVC_TERM_ID,SRC_INSTNL_NGTTD_SRVC_TERM_ID,Column,/EDWard Glossary/Source Institutional Negotiated Service Term Identifier
+EDWard://DBC/EDW_V20/CLM_LINE/SRC_INSTNL_REIMBMNT_TERM_ID,SRC_INSTNL_REIMBMNT_TERM_ID,Column,/EDWard Glossary/Source Institutional Reimbursement Term Identifier
+EDWard://DBC/EDW_V20/CLM_LINE_SMTATREIMB/SRC_INSTNL_REIMBMNT_TERM_ID,SRC_INSTNL_REIMBMNT_TERM_ID,Column,/EDWard Glossary/Source Institutional Reimbursement Term Identifier
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/SRC_INTNSTY_LVL_CHNG_RSN_CD,SRC_INTNSTY_LVL_CHNG_RSN_CD,Column,/EDWard Glossary/Source Intensity Level Change Reason Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN_HIST/SRC_INTNSTY_LVL_CHNG_RSN_CD,SRC_INTNSTY_LVL_CHNG_RSN_CD,Column,/EDWard Glossary/Source Intensity Level Change Reason Code
+EDWard://DBC/EDW_V20/CLM/SRC_ITS_DFLT_CLMS_RSLTN_CD,SRC_ITS_DFLT_CLMS_RSLTN_CD,Column,/EDWard Glossary/Source Inter-Plan Teleprocessing System Default Claims Resolution Code
+EDWard://DBC/EDW_V20/MDCD_LTSS_MBR_ROLG_ELGBLTY/SRC_MDCD_ELGBLTY_CNTY_CD,SRC_MDCD_ELGBLTY_CNTY_CD,Column,/EDWard Glossary/Source Medicaid Eligibility County Code
+EDWard://DBC/EDW_V20/MDCD_LTSS_MBR_ROLG_ELGBLTY_HIST/SRC_MDCD_ELGBLTY_OTHR_CVRG_CD,SRC_MDCD_ELGBLTY_OTHR_CVRG_CD,Column,/EDWard Glossary/Source Medicaid Eligibility Other Coverage Code
+EDWard://DBC/EDW_V20/MDCD_LTSS_MBR_ROLG_ELGBLTY/SRC_MDCD_MEDCR_ELGBLTY_STTS_TXT,SRC_MDCD_MEDCR_ELGBLTY_STTS_TXT,Column,/EDWard Glossary/Source Medicaid Medicare Eligibility Status Text
+EDWard://DBC/EDW_V20/MMD_CDSP_CLM_LINE_RPTG/SRC_MDCD_RPTG_DISALW_AMT,SRC_MDCD_RPTG_DISALW_AMT,Column,/EDWard Glossary/Source Medicaid Reporting Disallowed Amount
+EDWard://DBC/EDW_V20/MMD_CDSP_CLM_LINE_RPTG/SRC_MEDCR_APLYD_UNITS_CNT,SRC_MEDCR_APLYD_UNITS_CNT,Column,/EDWard Glossary/Source Medicare Applied Units Count
+EDWard://DBC/EDW_V20/MDCD_LTSS_MBR_ROLG_ELGBLTY/SRC_MMD_IMPRMNT_SVRTY_LVL_CD,SRC_MMD_IMPRMNT_SVRTY_LVL_CD,Column,/EDWard Glossary/Source Medicare Medicaid Dual Impairment Severity Level Cd
+EDWard://DBC/EDW_V20/MDCD_LTSS_MBR_ROLG_ELGBLTY_HIST/SRC_MMD_IMPRMNT_SVRTY_LVL_CD,SRC_MMD_IMPRMNT_SVRTY_LVL_CD,Column,/EDWard Glossary/Source Medicare Medicaid Dual Impairment Severity Level Cd
+EDWard://DBC/EDW_V20/MDCD_LTSS_MBR_ROLG_ELGBLTY/SRC_MMD_INSTNLZTN_RISK_IND_CD,SRC_MMD_INSTNLZTN_RISK_IND_CD,Column,/EDWard Glossary/Source Medicare Medicaid Dual Institutionalization Risk Indicator Code
+EDWard://DBC/EDW_V20/MDCD_MBR_PROD_ENRLMNT/SRC_MMD_INSTNLZTN_RISK_IND_CD,SRC_MMD_INSTNLZTN_RISK_IND_CD,Column,/EDWard Glossary/Source Medicare Medicaid Dual Institutionalization Risk Indicator Code
+EDWard://DBC/EDW_V20/MDCD_MBR_PROD_ENRLMNT/SRC_MMD_LTSS_MBR_IDNTFD_BY_CD,SRC_MMD_LTSS_MBR_IDNTFD_BY_CD,Column,/EDWard Glossary/Source Medicare Medicaid Dual Long Term Services And Support Member Identified By Code
+EDWard://DBC/EDW_V20/MMD_CDSP_CLM_LINE_RPTG/SRC_MEDCR_RPTG_APLYD_AMT,SRC_MEDCR_RPTG_APLYD_AMT,Column,/EDWard Glossary/Source Medicare Reporting Applied Amount
+EDWard://DBC/EDW_V20/MMD_CDSP_CLM_LINE_RPTG/SRC_MEDCR_RPTG_COINSRN_AMT,SRC_MEDCR_RPTG_COINSRN_AMT,Column,/EDWard Glossary/Source Medicare Reporting Coinsurance Amount
+EDWard://DBC/EDW_V20/MMD_CDSP_CLM_LINE_RPTG/SRC_MEDCR_RPTG_DDCTBL_AMT,SRC_MEDCR_RPTG_DDCTBL_AMT,Column,/EDWard Glossary/Source Medicare Reporting Deductible Amount
+EDWard://DBC/EDW_V20/MMD_CDSP_CLM_LINE_RPTG/SRC_MEDCR_RPTG_DISALW_AMT,SRC_MEDCR_RPTG_DISALW_AMT,Column,/EDWard Glossary/Source Medicare Reporting Disallowed Amount
+EDWard://DBC/EDW_V20/PCC/SRC_MBR_EMPLYMNT_STTS_CD,SRC_MBR_EMPLYMNT_STTS_CD,Column,/EDWard Glossary/Source Member Employment Status Code
+EDWard://DBC/EDW_V20/PCC_HIST/SRC_MBR_EMPLYMNT_STTS_CD,SRC_MBR_EMPLYMNT_STTS_CD,Column,/EDWard Glossary/Source Member Employment Status Code
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_HIST/SRC_MBR_EMPLYMNT_STTS_CD,SRC_MBR_EMPLYMNT_STTS_CD,Column,/EDWard Glossary/Source Member Employment Status Code
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT/SRC_MBR_ENRLMNT_TRMNTN_RSN_CD,SRC_MBR_ENRLMNT_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Member Enrollment Termination Reason Code
+EDWard://DBC/EDW_V20/DNTL_CLM_LINE/SRC_MBR_PGM_ENRLMNT_MTHD_CD,SRC_MBR_PGM_ENRLMNT_MTHD_CD,Column,/EDWard Glossary/Source Member Program Enrollment Method Code
+EDWard://DBC/EDW_V20/BCBSA_MBR_PROV_ATRBN/SRC_MBR_PROV_ATRBN_MTHDLGY_CD,SRC_MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Source Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN_HIST/SRC_MBR_PROV_ATRBN_MTHDLGY_CD,SRC_MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Source Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN/SRC_MBR_PROV_ATRBN_MTHDLGY_CD,SRC_MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Source Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/BCBSA_MBR_PROV_ATRBN_HIST/SRC_MBR_PROV_ATRBN_MTHDLGY_CD,SRC_MBR_PROV_ATRBN_MTHDLGY_CD,Column,/EDWard Glossary/Source Member Provider Attribution Methodology Code
+EDWard://DBC/EDW_V20/MBR_TRGR_INSTNC_FCLTY/SRC_MBR_TRGR_INSTNC_FCLTY_DTL_SRC_SYS_CD,SRC_MBR_TRGR_INSTNC_FCLTY_DTL_SRC_SYS_CD,Column,/EDWard Glossary/Source Member Trigger Instance Facility Detail Source System Code
+EDWard://DBC/EDW_V20/MBR_TRGR_INSTNC_HIST/SRC_MBR_TRGR_INSTNC_SRC_CD,SRC_MBR_TRGR_INSTNC_SRC_CD,Column,/EDWard Glossary/Source Member Trigger Instance Source Code
+EDWard://DBC/EDW_V20/NTWK_PROV/SRC_NTWK_PROV_TRMNTN_RSN_CD,SRC_NTWK_PROV_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Network Provider Termination Reason Code
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/SRC_NURSG_HOME_CERTFD_IND_CD,SRC_NURSG_HOME_CERTFD_IND_CD,Column,/EDWard Glossary/Source Nursing Home Certified Indicator Code
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR/SRC_NURSG_HOME_CERTFD_IND_CD,SRC_NURSG_HOME_CERTFD_IND_CD,Column,/EDWard Glossary/Source Nursing Home Certified Indicator Code
+EDWard://DBC/EDW_V20/LAB_RQST_DTL_ORDRG_PROV/SRC_ORDRG_PROV_LINE_1_ADRS_TXT,SRC_ORDRG_PROV_LINE_1_ADRS_TXT,Column,/EDWard Glossary/Source Ordering Provider Line 1 Address Text
+EDWard://DBC/EDW_V20/LAB_RQST_DTL_ORDRG_PROV/SRC_ORDRG_PROV_LINE_2_ADRS_TXT,SRC_ORDRG_PROV_LINE_2_ADRS_TXT,Column,/EDWard Glossary/Source Ordering Provider Line 2 Address Text
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/SRC_ORGNL_ENTTLMNT_RSN_CD,SRC_ORGNL_ENTTLMNT_RSN_CD,Column,/EDWard Glossary/Source Original Entitlement Reason Code
+EDWard://DBC/EDW_V20/CLM_LINE_ADDNL/SRC_OTHR_INSRNC_LBLTY_AMT,SRC_OTHR_INSRNC_LBLTY_AMT,Column,/EDWard Glossary/Source Other Insurance Liability Amount
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/SRC_PART_A_ENTTLMNT_IND_CD,SRC_PART_A_ENTTLMNT_IND_CD,Column,/EDWard Glossary/Source Part A Entitlement Indicator Code
+EDWard://DBC/EDW_V20/RVNU_CMS_MMR_RAW/SRC_PART_B_ENTTLMNT_IND_CD,SRC_PART_B_ENTTLMNT_IND_CD,Column,/EDWard Glossary/Source Part B Entitlement Indicator Code
+EDWard://DBC/EDW_V20/CASE_CNDTN/SRC_PENDG_CLMS_APRVL_IND_CD,SRC_PENDG_CLMS_APRVL_IND_CD,Column,/EDWard Glossary/Source Pending Claims Approval Indicator Code
+EDWard://DBC/EDW_V20/CLM_LINE/SRC_PHRMCTL_PRCG_SRC_SYS_CD,SRC_PHRMCTL_PRCG_SRC_SYS_CD,Column,/EDWard Glossary/Source Pharmaceutical Pricing Source System Code
+EDWard://DBC/EDW_V20/BCBSA_MBR_ERR/SRC_PHRMCY_CRV_OUT_SBMSN_CD,SRC_PHRMCY_CRV_OUT_SBMSN_CD,Column,/EDWard Glossary/Source Pharmacy Carve Out Submission Code
+EDWard://DBC/EDW_V20/PROV_ORG/SRC_PHRMCY_DSPNSR_CLS_CD,SRC_PHRMCY_DSPNSR_CLS_CD,Column,/EDWard Glossary/Source Pharmacy Dispenser Class Code
+EDWard://DBC/EDW_V20/WAITG_PRD/SRC_PREXSTG_WAITG_PRD_NTWK_CD,SRC_PREXSTG_WAITG_PRD_NTWK_CD,Column,/EDWard Glossary/Source Preexisting Waiting Period Network Code
+EDWard://DBC/EDW_V20/PDE_SBMSN/SRC_PDE_PRSCRBG_PROV_TYPE_CD,SRC_PDE_PRSCRBG_PROV_TYPE_CD,Column,/EDWard Glossary/Source Prescription Drug Event Prescribing Provider Type Code
+EDWard://DBC/EDW_V20/PROD/SRC_PRMRY_PHYSN_RQRD_OPTNL_CD,SRC_PRMRY_PHYSN_RQRD_OPTNL_CD,Column,/EDWard Glossary/Source Primary Care Physician Required Optional Code
+EDWard://DBC/EDW_V20/NFNCL_PHRMCY_CLM_MAX_RVSN/SRC_PRMRY_CARR_RSPNSBLY_CD,SRC_PRMRY_CARR_RSPNSBLY_CD,Column,/EDWard Glossary/Source Primary Carrier Responsibility Code
+EDWard://DBC/EDW_V20/CLM_MAX_RVSN/SRC_PRMRY_CARR_RSPNSBLY_CD,SRC_PRMRY_CARR_RSPNSBLY_CD,Column,/EDWard Glossary/Source Primary Carrier Responsibility Code
+EDWard://DBC/EDW_V20/CLM/SRC_PRMRY_CARR_RSPNSBLY_CD,SRC_PRMRY_CARR_RSPNSBLY_CD,Column,/EDWard Glossary/Source Primary Carrier Responsibility Code
+EDWard://DBC/EDW_V20/NFNCL_PHRMCY_CLM/SRC_PRMRY_CARR_RSPNSBLY_CD,SRC_PRMRY_CARR_RSPNSBLY_CD,Column,/EDWard Glossary/Source Primary Carrier Responsibility Code
+EDWard://DBC/EDW_V20/UM_RQST_HIST/SRC_PRMRY_DIAG_ICD_VRSN_CD,SRC_PRMRY_DIAG_ICD_VRSN_CD,Column,/EDWard Glossary/Source Primary Diagnosis International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/MDCL_RVW_CASE_INFO/SRC_PRMRY_DIAG_ICD_VRSN_CD,SRC_PRMRY_DIAG_ICD_VRSN_CD,Column,/EDWard Glossary/Source Primary Diagnosis International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/UM_RQST/SRC_PRMRY_DIAG_ICD_VRSN_CD,SRC_PRMRY_DIAG_ICD_VRSN_CD,Column,/EDWard Glossary/Source Primary Diagnosis International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/CMPGN_ENBLMNT/SRC_PRMRY_ENBLMNT_RSN_CD,SRC_PRMRY_ENBLMNT_RSN_CD,Column,/EDWard Glossary/Source Primary Enablement Reason Code
+EDWard://DBC/EDW_V20/CPTTN_SMRY/SRC_PRIOR_PRD_ADJSTMNT_RSN_CD,SRC_PRIOR_PRD_ADJSTMNT_RSN_CD,Column,/EDWard Glossary/Source Prior Period Adjustment Reason Code
+EDWard://DBC/EDW_V20/CPTTN/SRC_PRIOR_PRD_ADJSTMNT_RSN_CD,SRC_PRIOR_PRD_ADJSTMNT_RSN_CD,Column,/EDWard Glossary/Source Prior Period Adjustment Reason Code
+EDWard://DBC/EDW_V20/BCBSA_HLTH_CNDTN/SRC_PGM_CASE_CLSFCTN_DESC_TXT,SRC_PGM_CASE_CLSFCTN_DESC_TXT,Column,/EDWard Glossary/Source Program Case Classification Description Text
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN_HIST/SRC_PGM_PARN_RECRTMNT_SRC_CD,SRC_PGM_PARN_RECRTMNT_SRC_CD,Column,/EDWard Glossary/Source Program Participation Recruitment Source Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/SRC_PGM_PARN_RECRTMNT_SRC_CD,SRC_PGM_PARN_RECRTMNT_SRC_CD,Column,/EDWard Glossary/Source Program Participation Recruitment Source Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN/SRC_PGM_PAYMNT_RSPNSBLY_CD,SRC_PGM_PAYMNT_RSPNSBLY_CD,Column,/EDWard Glossary/Source Program Payment Responsibility Code
+EDWard://DBC/EDW_V20/HLTH_PGM_PARN_HIST/SRC_PGM_PAYMNT_RSPNSBLY_CD,SRC_PGM_PAYMNT_RSPNSBLY_CD,Column,/EDWard Glossary/Source Program Payment Responsibility Code
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN_HIST/SRC_MBR_PROV_ATRBN_PGM_TYPE_CD,SRC_MBR_PROV_ATRBN_PGM_TYPE_CD,Column,/EDWard Glossary/Source Program Type Code
+EDWard://DBC/EDW_V20/MBR_PROV_ATRBN/SRC_MBR_PROV_ATRBN_PGM_TYPE_CD,SRC_MBR_PROV_ATRBN_PGM_TYPE_CD,Column,/EDWard Glossary/Source Program Type Code
+EDWard://DBC/EDW_V20/PROV_ADRS/SRC_PROV_ADRS_TRMNTN_RSN_CD,SRC_PROV_ADRS_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Provider Address Termination Reason Code
+EDWard://DBC/EDW_V20/PROV_CLM_ACTN/SRC_PROV_CLM_ACTN_ROUTG_CD,SRC_PROV_CLM_ACTN_ROUTG_CD,Column,/EDWard Glossary/Source Provider Claim Action Routing Code
+EDWard://DBC/EDW_V20/UM_RQST/SRC_PROV_INCNTV_AWRD_LVL_CD,SRC_PROV_INCNTV_AWRD_LVL_CD,Column,/EDWard Glossary/Source Provider Incentive Award Level Code
+EDWard://DBC/EDW_V20/UM_RQST_HIST/SRC_PROV_INCNTV_AWRD_LVL_CD,SRC_PROV_INCNTV_AWRD_LVL_CD,Column,/EDWard Glossary/Source Provider Incentive Award Level Code
+EDWard://DBC/EDW_V20/UM_RQST_HIST/SRC_PROV_INCNTV_ELGBLTY_IND_CD,SRC_PROV_INCNTV_ELGBLTY_IND_CD,Column,/EDWard Glossary/Source Provider Incentive Eligibility Indicator Code
+EDWard://DBC/EDW_V20/UM_RQST/SRC_PROV_INCNTV_ELGBLTY_IND_CD,SRC_PROV_INCNTV_ELGBLTY_IND_CD,Column,/EDWard Glossary/Source Provider Incentive Eligibility Indicator Code
+EDWard://DBC/EDW_V20/PRL_PRVLG/SRC_PROV_PRVLG_AUTHRTY_CD,SRC_PROV_PRVLG_AUTHRTY_CD,Column,/EDWard Glossary/Source Provider Privilege Authority Code
+EDWard://DBC/EDW_V20/HMO_SPCLST_PCP_ID_ADRS/SRC_PRL_ADRS_RLTNSHP_TYPE_CD,SRC_PRL_ADRS_RLTNSHP_TYPE_CD,Column,/EDWard Glossary/Source Provider Relationship Address Relationship Type Code
+EDWard://DBC/EDW_V20/PRL_PADRS_PPO_PCP/SRC_PRL_ADRS_RLTNSHP_TYPE_CD,SRC_PRL_ADRS_RLTNSHP_TYPE_CD,Column,/EDWard Glossary/Source Provider Relationship Address Relationship Type Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG_DMGRPHC/SRC_PRCHSR_ORG_CTGRY_TYPE_CD,SRC_PRCHSR_ORG_CTGRY_TYPE_CD,Column,/EDWard Glossary/Source Purchaser Organization Category Type Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG_DMGRPHC_HIST/SRC_PRCHSR_ORG_CTGRY_TYPE_CD,SRC_PRCHSR_ORG_CTGRY_TYPE_CD,Column,/EDWard Glossary/Source Purchaser Organization Category Type Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG_SRVAGNT/SRC_PRCHSR_ORG_SRVAGNT_TYPE_CD,SRC_PRCHSR_ORG_SRVAGNT_TYPE_CD,Column,/EDWard Glossary/Source Purchaser Organization Service Agent Type Code
+EDWard://DBC/EDW_V20/PRCHSR_ORG/SRC_PRCHSR_ORG_TRMNTN_RSN_CD,SRC_PRCHSR_ORG_TRMNTN_RSN_CD,Column,/EDWard Glossary/Source Purchaser Organization Termination Reason Code
+EDWard://DBC/EDW_V20/PHRMCY_CLM_LINE/SRC_RECALCTN_PRC_SCHDL_LCTN_CD,SRC_RECALCTN_PRC_SCHDL_LCTN_CD,Column,/EDWard Glossary/Source Recalculation Price Schedule Location Code
+EDWard://DBC/EDW_V20/PHRMCY_CLM_LINE/SRC_RECALCTN_PRC_SCHDL_SRC_CD,SRC_RECALCTN_PRC_SCHDL_SRC_CD,Column,/EDWard Glossary/Source Recalculation Price Schedule Source Code
+EDWard://DBC/EDW_V20/PHRMCY_CLM_LINE/SRC_RECALCTN_PRC_SCHDL_TYPE_CD,SRC_RECALCTN_PRC_SCHDL_TYPE_CD,Column,/EDWard Glossary/Source Recalculation Price Schedule Type Code
+EDWard://DBC/EDW_V20/PHRMCY_CLM_LINE/SRC_RMOT_ACCUMN_INTGRTN_OPT_CD,SRC_RMOT_ACCUMN_INTGRTN_OPT_CD,Column,/EDWard Glossary/Source Remote Accumulation Integration Option Code
+EDWard://DBC/EDW_V20/BCBSA_UM_RQST/SRC_RNDRG_PROV_ORG_ST_PRVNC_CD,SRC_RNDRG_PROV_ORG_ST_PRVNC_CD,Column,/EDWard Glossary/Source Rendering Provider Organization State Province Code
+EDWard://DBC/EDW_V20/BCBSA_UM_RQST/SRC_RNDRG_PROV_ORG_TLPHN_NBR,SRC_RNDRG_PROV_ORG_TLPHN_NBR,Column,/EDWard Glossary/Source Rendering Provider Organization Telephone Number
+EDWard://DBC/EDW_V20/BCBSA_UM_RQST/SRC_RNDRG_PROV_TLPHN_NBR,SRC_RNDRG_PROV_TLPHN_NBR,Column,/EDWard Glossary/Source Rendering Provider Telephone Number
+EDWard://DBC/EDW_V20/UM_SRVC/SRC_RQSTD_PROC_ICD_VRSN_CD,SRC_RQSTD_PROC_ICD_VRSN_CD,Column,/EDWard Glossary/Source Requested Procedure International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/MDCL_RVW_CASE_INFO/SRC_RQSTD_PROC_ICD_VRSN_CD,SRC_RQSTD_PROC_ICD_VRSN_CD,Column,/EDWard Glossary/Source Requested Procedure International Classification of Diseases Version Code
+EDWard://DBC/EDW_V20/UM_SRVC/SRC_RQSTD_SRVC_INTK_MTHD_CD,SRC_RQSTD_SRVC_INTK_MTHD_CD,Column,/EDWard Glossary/Source Requested Service Intake Method Code
+EDWard://DBC/EDW_V20/BCBSA_UM_RQST/SRC_RQSTG_PROV_ORG_TLPHN_NBR,SRC_RQSTG_PROV_ORG_TLPHN_NBR,Column,/EDWard Glossary/Source Requesting Provider Organization Telephone Number
+EDWard://DBC/EDW_V20/CASE_CNDTN_HIST/SRC_RQR_DWNGRD_CNFRMTN_IND_CD,SRC_RQR_DWNGRD_CNFRMTN_IND_CD,Column,/EDWard Glossary/Source Require Downgrade Confirmation Indicator Code
+EDWard://DBC/EDW_V20/CASE_CNDTN/SRC_RQR_DWNGRD_CNFRMTN_IND_CD,SRC_RQR_DWNGRD_CNFRMTN_IND_CD,Column,/EDWard Glossary/Source Require Downgrade Confirmation Indicator Code
+EDWard://DBC/EDW_V20/ISGDW_ADMNSTRTV_FEE/SRC_RVNU_ADJSTMNT_RSN_CD,SRC_RVNU_ADJSTMNT_RSN_CD,Column,/EDWard Glossary/Source Revenue Adjustment Reason Code
+EDWard://DBC/EDW_V20/RVNU/SRC_RVNU_ADJSTMNT_RSN_CD,SRC_RVNU_ADJSTMNT_RSN_CD,Column,/EDWard Glossary/Source Revenue Adjustment Reason Code
+EDWard://DBC/EDW_V20/HLTH_RCRD_SRVC/SRC_SCRNG_RSLTS_FLLW_UP_CD,SRC_SCRNG_RSLTS_FLLW_UP_CD,Column,/EDWard Glossary/Source Screening Results Follow Up Code
+EDWard://DBC/EDW_V20/SPLMINCM_CLM_LINE/SRC_SPLMINCM_CVRG_CTGRY_CD,SRC_SPLMINCM_CVRG_CTGRY_CD,Column,/EDWard Glossary/Source Supplemental Income Coverage Category Code
+EDWard://DBC/EDW_V20/PLAN_ADMNSTRN/SRC_SPRS_MEDCR_AUTO_ADJDCTN_CD,SRC_SPRS_MEDCR_AUTO_ADJDCTN_CD,Column,/EDWard Glossary/Source Suppress Medicare Auto Adjudication Code
+EDWard://DBC/RDM/TXNMY_TRNSLTN_HIST/SRC_TXNMY_MDCL_SPCLZTN_CD,SRC_TXNMY_MDCL_SPCLZTN_CD,Column,/EDWard Glossary/Source Taxonomy Medical Specialization Code
+EDWard://DBC/EDW_V20/RPTG_TXNMY/SRC_TXNMY_MDCL_SPCLZTN_CD,SRC_TXNMY_MDCL_SPCLZTN_CD,Column,/EDWard Glossary/Source Taxonomy Medical Specialization Code
+EDWard://DBC/EDW_V20/RULE_ENGINE_THRPTC_EQVLNT/SRC_THRPTC_EQVLNT_STTS_CD,SRC_THRPTC_EQVLNT_STTS_CD,Column,/EDWard Glossary/Source Therapeutic Equivalent Status Code
+EDWard://DBC/EDW_V20/RULE_ENGINE_RUN_STATISTICS/SRC_TOTL_ELGBL_MBR_SMRZTD_CD,SRC_TOTL_ELGBL_MBR_SMRZTD_CD,Column,/EDWard Glossary/Source Total Eligible Member Summarized Code
+EDWard://DBC/EDW_V20/RULE_ENGINE_RUN_STATISTICS/SRC_TOTL_PROV_SMRZTD_CD,SRC_TOTL_PROV_SMRZTD_CD,Column,/EDWard Glossary/Source Total Provider Summarized Code
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT_HIST/SRC_UNDRWRTG_RISK_RATG_TIER_CD,SRC_UNDRWRTG_RISK_RATG_TIER_CD,Column,/EDWard Glossary/Source Underwriting Risk Rating Tier Code
+EDWard://DBC/EDW_V20/MBR_PROD_ENRLMNT/SRC_UNDRWRTG_RISK_RATG_TIER_CD,SRC_UNDRWRTG_RISK_RATG_TIER_CD,Column,/EDWard Glossary/Source Underwriting Risk Rating Tier Code
+EDWard://DBC/EDW_V20/VSN_CLM_LINE/SRC_VSN_SRVC_CTGRY_CNT_CLS_CD,SRC_VSN_SRVC_CTGRY_CNT_CLS_CD,Column,/EDWard Glossary/Source Vision Service Category Count Class Code
+EDWard://DBC/EDW_V20/EP_BV_IP_ORG_RLTNSHP_DMGRPHC/SPCLTY_BRD_CERTFN_3_EXPRTN_DT,SPCLTY_BRD_CERTFN_3_EXPRTN_DT,Column,/EDWard Glossary/Specialty Board Certification Expiration Date
+EDWard://DBC/EDW_V20/IPS/SPCLTY_BRD_CERTFN_EXPRTN_DT,SPCLTY_BRD_CERTFN_EXPRTN_DT,Column,/EDWard Glossary/Specialty Board Certification Expiration Date
+EDWard://DBC/EDW_V20/EP_BV_IP_ORG_RLTNSHP_DMGRPHC/SPCLTY_BRD_CERTFN_4_EXPRTN_DT,SPCLTY_BRD_CERTFN_4_EXPRTN_DT,Column,/EDWard Glossary/Specialty Board Certification Expiration Date
+EDWard://DBC/EDW_V20/EP_PROV_SPCLTY_ORG_TYPE/SPCLTY_BRD_CERTFN_EXPRTN_DT,SPCLTY_BRD_CERTFN_EXPRTN_DT,Column,/EDWard Glossary/Specialty Board Certification Expiration Date
+EDWard://DBC/EDW_V20/THRPTC_EQVLNT_CLNT_PRFRNC/THRPTC_EQVLNT_CLNT_PRFRNC_ID,THRPTC_EQVLNT_CLNT_PRFRNC_ID,Column,/EDWard Glossary/Therapeutic Equivalent Client Preference Identifier
+EDWard://DBC/EDW_V20/APC_PRCR_CLM/TCL_EMRGNCY_EPO_PAT_CPAY_AMT,TCL_EMRGNCY_EPO_PAT_CPAY_AMT,Column,/EDWard Glossary/Total Claim Emergency EPO Patient Copay Amount
+EDWard://DBC/EDW_V20/APC_PRCR_CLM/TCL_EMRGNCY_EPO_PR_PAYMNT_AMT,TCL_EMRGNCY_EPO_PR_PAYMNT_AMT,Column,/EDWard Glossary/Total Claim Emergency EPO Patient Responsibility Payment Amount
+EDWard://DBC/EDW_V20/APC_PRCR_CLM/TCL_EMRGNCY_EPO_PAYMNT_AMT,TCL_EMRGNCY_EPO_PAYMNT_AMT,Column,/EDWard Glossary/Total Claim Emergency EPO Payment Amount
+EDWard://DBC/EDW_V20/APC_PRCR_CLM/TCL_SCRNG_MAMGRM_PAT_CPAY_AMT,TCL_SCRNG_MAMGRM_PAT_CPAY_AMT,Column,/EDWard Glossary/Total Claim Screening Mammogram Patient Copay Amount
+EDWard://DBC/EDW_V20/APC_PRCR_CLM/TCL_SCRNG_MAMGRM_PAYMNT_AMT,TCL_SCRNG_MAMGRM_PAYMNT_AMT,Column,/EDWard Glossary/Total Claim Screening Mammogram Payment Amount
+EDWard://DBC/EDW_V20/RULE_ENGINE_RUN_STATISTICS/TOTL_ELGBL_MBR_SMRZTD_CD,TOTL_ELGBL_MBR_SMRZTD_CD,Column,/EDWard Glossary/Total Eligible Member Summarized Code
+EDWard://DBC/WEBMD/WEBMD_WEB_ACTVTY_UTILZN/TOT_MBRSHP_UNIQ_HA_CPLTN_CNT,TOT_MBRSHP_UNIQ_HA_CPLTN_CNT,Column,/EDWard Glossary/Total Membership Unique Health Assessment Completion Count
+EDWard://DBC/WEBMD/WEBMD_WEB_ACTVTY_UTILZN/TOT_UNIQ_MBR_ACSG_PHR_CNT,TOT_UNIQ_MBR_ACSG_PHR_CNT,Column,/EDWard Glossary/Total Unique Member Accessing Personal Health Record Count
+EDWard://DBC/EDW_V20/CLM_LINE/UNSBSDZD_MBR_SNCTNS_PNLTY_AMT,UNSBSDZD_MBR_SNCTNS_PNLTY_AMT,Column,/EDWard Glossary/Unsubsidized Member Sanctions Penalty Amount
+EDWard://DBC/RDM/VSN_SRVC_CTGRY_TRNSLTN/VSN_SRVC_CTGRY_1_RLUP_CD,VSN_SRVC_CTGRY_1_RLUP_CD,Column,/EDWard Glossary/Vision Service Category 1 Rollup Code
+EDWard://DBC/RDM/VSN_SRVC_CTGRY_TRNSLTN/VSN_SRVC_CTGRY_3_RLUP_CD,VSN_SRVC_CTGRY_3_RLUP_CD,Column,/EDWard Glossary/Vision Service Category 3 Rollup Code
+EDWard://DBC/EDW_V20/CDHP_SMRY/WT_MNGMNT_CMPLTN_INCNTV_AMT,WT_MNGMNT_CMPLTN_INCNTV_AMT,Column,/EDWard Glossary/Weight Management Completion Incentive Amount
+EDWard://DBC/WEBMD/WEBMD_WEB_ACTVTY_CNDTN_CTRS/YEAST_INFCTN_ASSMNT_CNT,YEAST_INFCTN_ASSMNT_CNT,Column,/EDWard Glossary/Yeast Infection Assessment Count

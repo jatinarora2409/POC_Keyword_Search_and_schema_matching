@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$580,000</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>1,170</area>
+	</summary>
+	<address>
+		<street_address>3632 Olive St,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>This property is currently tenant occupied. Please do not disturb tenants. It is located in a mixed use area which includes single family residential homes, multi-use residential, and local businesses. Located in the heart of Lemon Grove's bustling redevelopment area within walking distance of neighborhood amenities, shopping, restaurants and transportation. Large lot. Easy access to I-94 and greater San Diego.Read more</overview>
+	<listing_agent>
+		<agentName>MIGUEL ANTONIO PORTALES</agentName>
+		<phoneNumber>415-610-9055</phoneNumber>
+		<agentLicenseNumber>License #01797775</agentLicenseNumber>
+		<postingGroupName>Miguel Portales Broker</postingGroupName>
+		<postingWebsiteLinkText>Miguel Portales Broker</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1957</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">8,123 sqft</key>
+		<key name="Price/sqft:">$496</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,170 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco</item>
+				<item>Fencing: Good Condition</item>
+				<item>Topography of land: Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,123 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 4754010200</item>
+				<item>Zoning: INDUSTRIAL</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1957</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1957</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.21</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Lemon Grove</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

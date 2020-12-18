@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$225,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,514</area>
+	</summary>
+	<address>
+		<street_address>2537 N 40th Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Charming home , recently painted inside and out, with plenty of parking space for your cars. One bedroom and bathroom has it's own separate entrance with a kitchen area, perfect for guest or to rent our for extra income.  Complete with a nice big and refreshing pool.  Come and check it out.Read more</overview>
+	<listing_agent>
+		<agentName>Lucia Guerra</agentName>
+		<phoneNumber>480-722-9800</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>eXp Realty</postingGroupName>
+		<postingWebsiteLinkText>eXp Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Refrigeration</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,011 sqft</key>
+		<key name="Price/sqft:">$149</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Tile</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Refrigeration</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Range / Oven</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,514 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Cement concrete</detail>
+				<detail>Fencing: Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.14 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10829052</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1959</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: SRP</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.9</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $139,300</detail>
+				<detail>Annual tax amount: $1,562</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6122420</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Architecture: Ranch</detail>
+				<detail>Dining Area: Eat-in Kitchen</detail>
+				<detail>Master Bathroom: 3/4 Bath Master Bdrm</detail>
+				<detail>Pool - Private: Pool - Private</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Water: City Water</detail>
+				<detail>Energy Features: Solar Panels</detail>
+				<detail>Source of SqFt: County Assessor</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Construction: Block</detail>
+				<detail>Const - Finish: Painted</detail>
+				<detail>Laundry: Other (See Remarks)</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Kitchen Features: Range/Oven Elec, Cook Top Elec</detail>
+				<detail>Landscaping: Grass Front, Dirt Back</detail>
+				<detail>Tax Municipality: Phoenix</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Carl Hayden High School</detail>
+				<detail>Pool: Private Only</detail>
+				<detail>Solar Panels: Ownership: Leased</detail>
+				<detail>Tax Year: 2020</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$290,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>900</area>
+	</summary>
+	<address>
+		<street_address>211 N Ingersoll St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Located in the heart of the desirable Tenny Lapham neighborhood.  Welcome Home to this sweet little bungalow in a nice location on the Isthmus.  Make your move to this efficiently designed house which lives well for its size.  Hardwood floors in the living room, nice sized kitchen with cherry cabinets and a spacious dinette area.  You'll have plenty of relaxing space on the small screen porch to the back yard or invite your friends for social distance gatherings on the 18x18 deck.  Off street parking has a lengthy driveway.  Roof 1 year,  Furnace (2012), Electric upgrade (2014) Energy audit in 2015 with recommendations completed.  High end Aprilaire features include:  wifi thermostat, humidifier, dehumidifier, fresh air ventilation and a 1 Yr.UHP Home Warranty Included.Read more</overview>
+	<listing_agent>
+		<agentName>Ruth Wangerin</agentName>
+		<phoneNumber>608-221-4000</phoneNumber>
+		<agentLicenseNumber>License #57198-90</agentLicenseNumber>
+		<postingGroupName>Stark Company, REALTORS</postingGroupName>
+		<postingWebsiteLinkText>Stark Company, REALTORS</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1901</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">2,178 sqft</key>
+		<key name="Price/sqft:">$322</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 900 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.05 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913110022</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1901</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1966</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 19.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

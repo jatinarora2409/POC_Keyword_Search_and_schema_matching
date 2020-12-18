@@ -1,0 +1,214 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2145 Turk Blvd </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94115</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,995,000</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$941 / Sq. Ft.">2,120</key>
+	</main_stats>
+	<text_base_description>Lush gardens serve up a wonderful shock as you travel through the gated entrance of this Zen-inspired 3bd/3.5ba home. A red brick path sweeps down to the front door, where you enter on the second level, an open living space with garden views and a stone fireplace. Walls of windows flood the home with light, leveraging breathtaking views on every level. A spiral staircase that leads to the bedroom below, a comfortable en suite with floor-to-ceiling sliding doors that open to the secluded landscaped backyard. The upper level boasts a bright, airy layout, gas fireplace, and a stunning view of Buena Vista Park. Skylights enhance the easy flow of open kitchen/living/dining areas. The chef's kitchen showcases a Sub-Zero fridge, Wolf range, center island sink, and ample counter space. A sense of calm pervades both bedrooms on this level, each with lovely garden views. A full bath features a deep soaking tub and Japanese design elements.  </text_base_description>
+	<listed_by>
+		<name>Ruth Krishnan</name>
+		<agentLicenseDisplay>•DRE #01862279</agentLicenseDisplay>
+		<org> Compass SF</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,995,000</List_Price>
+		<Est._Mo._Payment>$9,117</Est._Mo._Payment>
+		<Redfin_Estimate>$2,045,037</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$941</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 hours</Time_on_Redfin>
+		<Property_Type>3 Story, Single-Family Home</Property_Type>
+		<Year_Built>1953</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>North Panhandle</Community>
+		<Lot_Size>3,440 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507621</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Type: On Site</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat># of Parking Spaces: 2</group_dat>
+						<group_dat>Detached, Garage, Automatic Door</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Landscaping (Front), Landscaping (Rear)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 3</group_dat>
+						<group_dat>2 Bedrooms on Upper Level</group_dat>
+						<group_dat>1 Bedroom on Lower Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 3.5</group_dat>
+						<group_dat>2 Baths on Upper Level</group_dat>
+						<group_dat>0.5 Bath/Powder Room on Main Level</group_dat>
+						<group_dat>1 Bath on Lower Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>On Upper Level</group_dat>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>On Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat># of Fireplace(s): 2, Gas Burning, Decorative Only</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: Washer/Dryer, In Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>220 Volt Wiring, Gas Range, Refrigerator, Dishwasher</group_dat>
+						<group_dat>On Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Partial Carpet, Hardwood</group_dat>
+						<group_dat># of Rooms (Total): 6</group_dat>
+						<group_dat>1 Bedroom on Lower Level, 1 Bath on Lower Level</group_dat>
+						<group_dat>0.5 Bath/Powder Room on Main Level, Living Room on Main Level</group_dat>
+						<group_dat>2 Bedrooms on Upper Level, 2 Baths on Upper Level, On Upper Level, On Upper Level, On Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Heating/Cooling: Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Lyon St</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,995,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 8, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Garden/Greenbelt, Hills</group_dat>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Type: 3 Story</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>Landscaping (Front), Landscaping (Rear)</group_dat>
+						<group_dat>APN: 1150-036</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,120</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>3,440 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1953</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>1150 036</APN>
+	</public_facts>
+</home>

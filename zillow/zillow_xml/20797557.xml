@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,100,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,729</area>
+	</summary>
+	<address>
+		<street_address>8121 Gould Ave,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Absolutely striking Hollywood Hills Modern tree house! Extensively remodeled from top to bottom with the finest finishes! A stunning contemporary showplace with beautiful views and complete privacy! A gated entrance takes you to this open concept floor plan with three bedroom suites, gorgeous all new center island kitchen, new wood floors and bathrooms and so much more! Boasting epic walls of glass to enhance the views and setting amongst the spectacular mature trees and landscape. The outdoor lounge area provides a waterfall, built in seating, fire pit, sound system and custom tile. There is a 2 car covered carport and ample street parking. Among the homes many other attributes are a killer master suite with built in center island drawers, two walk in closets and a stunning bathroom with new steam shower. Specialty lighting, state of the art kitchen appliances and much more complete this exciting Laurel Canyon Estate!Read more</overview>
+	<listing_agent>
+		<agentName>Jordan Cohen</agentName>
+		<phoneNumber>818-879-2266</phoneNumber>
+		<agentLicenseNumber>License #01103362</agentLicenseNumber>
+		<postingGroupName>RE/MAX One</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX One</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1960</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">4,826 sqft</key>
+		<key name="Price/sqft:">$1,215</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Bathroom</item>
+			<item>
+				<item>Features: Remodeled, Separate tub and shower</item>
+			</item>
+		</item>
+		<item>
+			<item>Kitchen</item>
+			<item>
+				<item>Features: Kitchen Island, Kitchen Open to Family Room, Remodeled Kitchen</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Freezer, Garbage disposal, Refrigerator</item>
+				<item>Laundry features: Individual Room</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 1,729 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Two</item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Other, Stucco</item>
+				<item>Patio and porch details: Tile, Patio</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.11 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5556001007</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Metal</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Turnkey, Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1960</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2010</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.48</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Urban</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

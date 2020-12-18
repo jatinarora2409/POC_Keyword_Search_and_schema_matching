@@ -1,0 +1,204 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$224,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,524</area>
+	</summary>
+	<address>
+		<street_address>2445 N 113th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>This Stunning Brick Cape Cod offers tons of living space in a desirable neighborhood. Impressive Main floor featuring Living Room/Dining Room Combo with updated flooring and fresh paint throughout  Relax in the 4 season room that overlooks your fenced-in backyard. Upstairs you will find the Large Master bedroom &amp; a walk in closet with an adjoining loft area that is perfect for an office space. Lower Level is Partially Finished with a storage area that has laundry facilities &amp; work-bench! Long Side driveway leading to 2.5 detached garage and storage shed!Read more</overview>
+	<listing_agent>
+		<agentName>Claudia Just</agentName>
+		<phoneNumber>414-899-5009</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Dream Realty LLC</postingGroupName>
+		<postingWebsiteLinkText>Dream Realty LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1942</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">5,662 sqft</key>
+		<key name="Price/sqft:">$148</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 1</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,524 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 3</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Bedroom on Main Level, Full Bath on Main Level</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Brick</detail>
+				<detail>Patio and porch details: Deck, Patio</detail>
+				<detail>Fencing: Fenced</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 5,662 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Additional structures included: Shed(s)</detail>
+				<detail>Parcel number: 3360107000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: CAPE COD</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1942</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1970</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+				<detail>Utilities for property: Cable Available</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Limited solar potentialSun Number™: 56.12</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $163,400</detail>
+				<detail>Annual tax amount: $4,141</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1709038</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Dryer, Microwave, Washer, Oven/Range</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>Basement: Partially Finished, Full, Block</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>Utilities: Cable Available</detail>
+				<detail>PatioAndPorchFeatures: Deck, Patio</detail>
+				<detail>RoomsTotal: 8</detail>
+				<detail>ConstructionMaterials: Brick, Aluminum/Steel</detail>
+				<detail>Fencing: Fenced</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Detached, Paved, Garage Door Opener, Parking Space</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>InteriorFeatures: Walk-In Closet(s), High Speed Internet</detail>
+				<detail>ArchitecturalStyle: CAPE COD</detail>
+				<detail>LotFeatures: Sidewalk</detail>
+				<detail>OtherStructures: Shed(s)</detail>
+				<detail>CoveredSpaces: 2.50</detail>
+				<detail>AccessibilityFeatures: Bedroom on Main Level, Full Bath on Main Level</detail>
+				<detail>Flooring: Wood or Sim. Wood Floors</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

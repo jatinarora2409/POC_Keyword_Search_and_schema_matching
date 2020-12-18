@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$650,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>853</area>
+	</summary>
+	<address>
+		<street_address>2201 Monroe St APT 702,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Beautifully remodeled, highly desirable top floor turn-key, 2beds/1bath condo, in sought after Santa Clara Courtyard community, surrounded by majestic redwoods, with a park-like setting, a community pool, and Tennis Ct for resort-style living. Centrally located in the heart of Silicon Valley, close to many companies/employers for an easy commute. Quality upgrades include double pane windows/patio doors, central air conditioning/heating, updated kitchen cabinets, and granite slab countertops, updated bathroom, in-unit washer/dryer, recessed lighting, Nest Thermostat, oversized bedroom closets, two balconies, two separate spacious storage closets in the balcony by the living room, HOA covers water amongst so many other amenities. An opportunity not to be missed!!Read more</overview>
+	<listing_agent>
+		<agentName>Zeba Siddiqui</agentName>
+		<phoneNumber>408-263-4200</phoneNumber>
+		<agentLicenseNumber>License #01448325</agentLicenseNumber>
+		<postingGroupName>Intero Real Estate Services</postingGroupName>
+		<postingWebsiteLinkText>Intero Real Estate Services</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1978</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$320/mo</key>
+		<key name="Price/sqft:">$762</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer</detail>
+				<detail>Laundry features: Washer / Dryer, Inside</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 853 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Parking features: Carport, Garage</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Stucco</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 2,750 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 22452081</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1978</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1978</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 92.46</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $320/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $594,068</detail>
+				<detail>Annual tax amount: $7,275</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81814859</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Family Room: No Family Room</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Dining Room: Dining Area in Living Room</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Sewer Septic: Sewer Connected, Sewer - Public</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Energy Features: Double Pane Windows, Smart Home System</detail>
+				<detail>Kitchen: Garbage Disposal, Dishwasher, Oven Range - Electric, Countertop - Granite, Hood Over Range, Refrigerator</detail>
+				<detail>Foundation: Concrete Slab</detail>
+				<detail>Water: Public</detail>
+				<detail>Garage Parking Features: Guest / Visitor Parking, On Street, Assigned Spaces, Carport</detail>
+				<detail>Association Fees Include: Reserves, Roof, Sewer, Common Area Electricity, Decks, Exterior Painting, Garbage, Spa, or Tennis, Management Fee, Water, Common Area Gas, Insurance - Common Area, Insurance - Flood, Maintenance - Common Area, Insurance, Maintenance - Exterior, Recreation Facility, Insurance - Structure, Maintenance - Road, Landscaping / Gardening, Pool, Water / Sewer</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>HOA Amenities: Community Pool, Club House, Garden / Greenbelt / Trails, Tennis Court / Facility</detail>
+				<detail>Additional Rooms: Storage</detail>
+				<detail>Pool: Community Facility, Pool - Fenced, Pool - In Ground, Cabana / Dressing Room</detail>
+				<detail>Heating: Central Forced Air</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Cooling: Ceiling Fan, Central AC</detail>
+				<detail>Construction Type: Wood, Masonry, Stucco</detail>
+				<detail>HOA Exist Y/N: 1</detail>
+				<detail>HOA Fee: 320</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Laundry: Washer / Dryer, Inside</detail>
+				<detail>HOA Fee Frequency: Monthly</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

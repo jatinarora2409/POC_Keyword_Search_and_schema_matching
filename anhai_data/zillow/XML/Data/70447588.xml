@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$135,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>850</area>
+	</summary>
+	<address>
+		<street_address>9436 Kelvin Ln APT 3234,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>COMMUTER SPECIAL!  Great access to all major highways and Ohare Airport.  Less than 1 mile to the Rosemont Entertainment District!  Totally updated and tastefully decorated 1st floor unit (not ground level) with approximately 850sf consisting of 4 rooms, 2 bedrooms and 1 bath; Hardwood floors in living room and bedrooms, vinyl laminate floor in kitchen;  Kitchen has oak cabinets granite counter tops with stainless steel stove, refrigerator, dishwasher and microwave;  One(1) of the few buildings in the complex that has central air conditioning!  The gas forced air furnace and central air conditioning are brand new with a 5 year transferable warranty; The hot water tank is 2 years old;  In unit washer and dryer are less than 2 years old;  Two(2) off street parking spaces plus visitor parking;  Doors and windows have been sound proofed;  Outdoor private deck;  Amenities include outdoor pool, fitness room,party room and storage;  Great opportunity!  Take advantage of the low interest rates and own for less than renting!Read more</overview>
+	<listing_agent>
+		<agentName>Greg Ignarski</agentName>
+		<phoneNumber>773-792-3000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Troy Realty Ltd</postingGroupName>
+		<postingWebsiteLinkText>Troy Realty Ltd</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1965</key>
+		<key name="Heating:">Forced air, Electric</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$224/mo</key>
+		<key name="Price/sqft:">$159</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 850 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.96 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 12103120371039</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Asphalt</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1965</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 85.38</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $224/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $75,920</detail>
+				<detail>Annual tax amount: $3,817</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10880992</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>Appliances: Oven/Range, Microwave, Dishwasher, Refrigerator, Washer, Dryer</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Electricity: Circuit Breakers, 100 Amp Service</detail>
+				<detail>Exterior Building Type: Brick</detail>
+				<detail>Foundation: Concrete</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Forced Air, Electric</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Water: Public, Lake Michigan</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Lawn Care, Snow Removal, Water, Scavenger, Exercise Facilities, Pool</detail>
+				<detail>Parking: Visitor Parking, Off Street, Assigned Spaces</detail>
+				<detail>Status: Active</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Equipment: TV-Cable, CO Detectors, Intercom</detail>
+				<detail>Lot Description: Common Grounds, Streetlights</detail>
+				<detail>Roof Type: Asphalt/Glass (Shingles)</detail>
+				<detail>Sale Terms: Conventional</detail>
+				<detail>Parking Type: Space/s</detail>
+				<detail>Dining Room Level: Not Applicable</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>2nd Bedroom Flooring: Hardwood</detail>
+				<detail>Kitchen Flooring: Vinyl</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Exposure: E (East)</detail>
+				<detail>Management: Manager On-site</detail>
+				<detail>Kitchen Type: Eating Area-Table Space, Updated Kitchen, Granite Counters</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Square Feet Source: Estimated</detail>
+				<detail>Other Information: Interstate Access</detail>
+				<detail>Living Room Window Treatments (Y/N): Blinds</detail>
+				<detail>Master Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>Age: 51-60 Years</detail>
+				<detail>2nd Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Recent Rehab (Y/N): Yes</detail>
+				<detail>Interior Property Features: Hardwood Floors, Laundry Hook-Up in Unit, Storage, Some Wood Floors, Granite Counters, Health Facilities</detail>
+				<detail>Exterior Property Features: Storms/Screens, Deck</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Bath Amenities: Whirlpool</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 12103120371039</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

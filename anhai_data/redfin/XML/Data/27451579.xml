@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2822 W POLK St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$269,000</Price>
+		<Beds>5</Beds>
+		<Baths>3</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description> *  * Price reduced for a quick sale *  *  What a great opportunity right here! Tri-plex that offers 2 bedroom 1bath, 1 bedroom 1 bath and 1-studio units, or convert it easy into a 3be 2 bath house plus studio close to down town Phoenix, freeways, and has a park across the street. You can buy this, live in one and rent out the other two making residual income. This place will pay for itself. The studio needs to be fixed up , ,, Exterior has fresh paint, and the 2 bedroom has a fresh paint and ready to have a new  tenant  *  *  * NOT A FORECLOSURE *  *  *  </text_base_description>
+	<listed_by>
+		<name>Guadalupe Jorgensen</name>
+		<org> Stunning Homes Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$269,000</List_Price>
+		<Est._Mo._Payment>$1,007</Est._Mo._Payment>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>69 days</Time_on_Redfin>
+		<Property_Type>Tri-Plex</Property_Type>
+		<Year_Built>1930</Year_Built>
+		<Community>WILLOW ADDITION</Community>
+		<key name="MLS#">6111518</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Other Floors (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Other Cooling (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>2 Bedroom Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 1</group_dat>
+						<group_dat>Average Rent: $650</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>3 Bedroom Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 1</group_dat>
+						<group_dat># of Bathrooms: 1</group_dat>
+						<group_dat>Average Sq. Ft.: 1,000</group_dat>
+						<group_dat>Average Rent: $712</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, School / Neighborhood, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 6504.00</group_dat>
+						<group_dat># of Parking Spaces (Covered): 6,500</group_dat>
+						<group_dat># of Parking Spaces (Uncovered): 4</group_dat>
+						<group_dat>Paved Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: J. B. Sutton</group_dat>
+						<group_dat>Junior High School: Isaac E. Imes</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>Elementary School District: 005 - Isaac Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Other Electric (See Remarks)</group_dat>
+						<group_dat>Southwest Gas</group_dat>
+						<group_dat>City Water Franchise</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 27th Ave and Van Buren</group_dat>
+						<group_dat>Census Tract: 112700.00</group_dat>
+						<group_dat>Census Tract: 112700.00</group_dat>
+						<group_dat>Directions: North to Polk, west to property on Northwest corner of 28th dr and Polk</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Wood Frame Construction</group_dat>
+						<group_dat>Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 6,504</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>No Pool</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Information</heading>
+					<group_data>
+						<group_dat># of Units: 3.00</group_dat>
+						<group_dat># of Units Allowed: 1</group_dat>
+						<group_dat># of Buildings: 1</group_dat>
+						<group_dat>Tenant Pays: Other (See Remarks)</group_dat>
+						<group_dat>Owner Pays: Other (See Remarks), See Remarks</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Efficiency Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 2</group_dat>
+						<group_dat># of Bathrooms: 1</group_dat>
+						<group_dat>Average Sq. Ft.: 775</group_dat>
+						<group_dat>Average Rent: $350</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Fenced</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Marketing Name: Willow Addition</group_dat>
+						<group_dat>Week Available (Timeshare): 4.00</group_dat>
+						<group_dat>Leased Acres (Approximate): 3</group_dat>
+						<group_dat>Zoning: R3</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 109-27-062</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 27</group_dat>
+						<group_dat>Assessor's Parcel #: 62</group_dat>
+						<group_dat>Legal: LOT 16 BLOCK 4 WILLOW ADDITION MCR 000616</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Dimensions: 1 - 7,500</group_dat>
+						<group_dat>Asphalt/Blacktop Roads/Streets</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,594</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>6,500 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1930</Year_Built>
+		<Year_Renovated>1930</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10927062</APN>
+	</public_facts>
+</home>

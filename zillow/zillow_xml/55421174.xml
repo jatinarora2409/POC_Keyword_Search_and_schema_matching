@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$525,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,028</area>
+	</summary>
+	<address>
+		<street_address>1227 Rutledge St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Great location &amp; views of Lake Monona!! A wonderful 4 bed 2 bath 2-story in the Marquette neighborhood! Walk into the foyer and see all original hardwoods &amp; great woodwork throughout! The main level boasts a large family room w/ fireplace, an office/den w/ French doors, a formal dining w/ built-ins, and a cozy kitchen space! The ML back door walks out to a 22X8 enclosed porch &amp; an attached deck/patio! The UL has all bedrooms, including the main w/ a walk-in closet. There's also an awesome attic space w/ a lake view, waiting to be finished! The unfinished LL offers tons of storage &amp; a bonus partially finished 22X19 studio space w/ separate entry! 1-car attached garage! UHP Warranty! Needs a little TLC &amp; work, but has tons of potential &amp; is steps to parks, co-op, restaurants, cafes, shops!Read more</overview>
+	<listing_agent>
+		<agentName>Daniel Schimelfenyg</agentName>
+		<phoneNumber>866-848-6990</phoneNumber>
+		<agentLicenseNumber>License #80420-94</agentLicenseNumber>
+		<postingGroupName>EXP Realty, LLC</postingGroupName>
+		<postingWebsiteLinkText>EXP Realty, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1915</key>
+		<key name="Heating:">Radiant</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">3,484 sqft</key>
+		<key name="Price/sqft:">$259</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Radiant, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Range / Oven</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,028 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Detached Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Vinyl</item>
+				<item>View description: City, Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.08 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 071007315065</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1915</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1968</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 19.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>801 N Martel Ave #2 </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,260,000</Price>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<key name="$696 / Sq. Ft.">1,810</key>
+	</main_stats>
+	<text_base_description>Rare opportunity to own a 3 bedroom, 3.5 baths completely remodeled townhouse with private rooftop in LAs most desirable location for under 1.3M! One of thelargest square foot condo in the area. This no expense spared townhome has it all; very bright, low HOAs, 3 full en-suite bedrooms and panoramic views of the city. First floor features brand new kitchen, hardwood floors throughout, formal dining area, two story ceiling family room with a balcony, bar and fireplace. Laundry inside the unit. 2 car spaces in a gated garage. Quiet street and walking distance to the local parks, shopping, restaurants and the Grove. Beverly Center, Sunset Strip, Beverly Hills, Hollywood are just few miles away. Very convenient central location in the heart of the city. A must see! </text_base_description>
+	<listed_by>
+		<name>Alexis Boris Waterman</name>
+		<agentLicenseDisplay>•DRE #01941211</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,260,000</List_Price>
+		<Est._Mo._Payment>$5,811</Est._Mo._Payment>
+		<Redfin_Estimate>$1,242,709</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$696</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>31 days</Time_on_Redfin>
+		<Property_Type>Townhouse, Residential Condo/Co-Op</Property_Type>
+		<HOA_Dues>$250/month</HOA_Dues>
+		<Year_Built>1990</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,239 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-629496</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: Controlled Access, Gated Parking</group_dat>
+						<group_dat>Fee #1: $250</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+						<group_dat>Fees Include Maintenance</group_dat>
+						<group_dat>AssociationPetRules: Yes</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 5</group_dat>
+						<group_dat>Athletic Court: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5526-005-043</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>2 Master Bedrooms, All Bedrooms Up, Master Bedroom, Master Suite, WalkInCloset</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 4</group_dat>
+						<group_dat>Double Vanity(s), Linen Closet, Remodeled, Powder Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Built-Ins, Gas, Microwave, Built-In BBQ</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Unit, Laundry Inside, Laundry Area, Stacked Laundry in Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area</group_dat>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Family Room, Entry Room, Powder Room, Dining Room, Den, Patio Enclosed, Other Room, Master Bedroom, Living Room, Sun Room, Two Masters, Walk-In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Ground Level w/steps</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Barbeque, Built-Ins, Cable, Dishwasher, Dryer, Phone System, Microwave, Ice Maker, Hood Fan, Garbage Disposal, Freezer, Gas Or Electric Dryer Hookup, Refrigerator, Range/Oven, Recirculated Exhaust Fan, Trash Compactor, Vented Exhaust Fan, Washer, Water Filter, Water Purifier</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>A/C</group_dat>
+						<group_dat>Central Heat, Fireplace Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Assigned, Community Garage, Controlled Entrance, Covered Parking, Gated, On street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Three Or More Levels</group_dat>
+						<group_dat>Townhouse, Split Level, Attached</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Entry Floor Number: 1</group_dat>
+						<group_dat>Security Features: Carbon Monoxide Detector(s), Card/Code Access, Exterior Security Lights, Fire and Smoke Detection System, Gated, Fire Sprinklers, Smoke Detector, Window Bars</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Balcony, Roof Top Deck, Porch - Front</group_dat>
+						<group_dat>Other Structural Features: Balcony, Barbecue Private, High Ceilings (9 Feet+)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Condo/Co-Op</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,239</group_dat>
+						<group_dat>Lot Size (Acres): 0.1432</group_dat>
+						<group_dat>Zoning: LAR3</group_dat>
+						<group_dat>Special Zoning: None</group_dat>
+						<group_dat>Lot Location: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Hills, City, City Lights</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Unit Floor In Building: 1</group_dat>
+						<group_dat>Complex Name: Royale HOA</group_dat>
+						<group_dat>Directions: One block North of Melrose, South of Santa Monica blvd.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is, CC and R</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>1,638</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,638</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1990</Year_Built>
+		<Year_Renovated>1990</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5526005043</APN>
+	</public_facts>
+</home>

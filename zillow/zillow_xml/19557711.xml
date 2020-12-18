@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$650,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>853</area>
+	</summary>
+	<address>
+		<street_address>2201 Monroe St APT 702,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Beautifully remodeled, highly desirable top floor turn-key, 2beds/1bath condo, in sought after Santa Clara Courtyard community, surrounded by majestic redwoods, with a park-like setting, a community pool, and Tennis Ct for resort-style living. Centrally located in the heart of Silicon Valley, close to many companies/employers for an easy commute. Quality upgrades include double pane windows/patio doors, central air conditioning/heating, updated kitchen cabinets, and granite slab countertops, updated bathroom, in-unit washer/dryer, recessed lighting, Nest Thermostat, oversized bedroom closets, two balconies, two separate spacious storage closets in the balcony by the living room, HOA covers water amongst so many other amenities. An opportunity not to be missed!!Read more</overview>
+	<listing_agent>
+		<agentName>Zeba Siddiqui</agentName>
+		<phoneNumber>408-263-4200</phoneNumber>
+		<agentLicenseNumber>License #01448325</agentLicenseNumber>
+		<postingGroupName>Intero Real Estate Services</postingGroupName>
+		<postingWebsiteLinkText>Intero Real Estate Services</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1978</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$320/mo</key>
+		<key name="Price/sqft:">$762</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer</item>
+				<item>Laundry features: Washer / Dryer, Inside</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 853 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Carport, Garage</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Private pool: Yes</item>
+				<item>Exterior features: Stucco</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2,750 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 22452081</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1978</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1978</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.46</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

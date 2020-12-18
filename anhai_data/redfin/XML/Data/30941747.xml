@@ -1,0 +1,295 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>9702 Glengreen </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$229,900</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$92 / Sq. Ft.">2,500</key>
+	</main_stats>
+	<text_base_description>This gorgeous two story home located on a huge corner lot in the St. Augustine Park Estates. As soon as you walk in you are presented the charming first floor living and dining area, with luxury tile floors throughout, granite countertops, wooden kitchen cabinets with a breakfast bar  &amp;  gas stove with pot filler, &amp;  a beautiful staircase. This home is 4 bedrooms, 3 baths, includes a master bedroom with a walk in closet, a stand up shower with extravagant tile work showcased in all showers, a study  &amp;  a huge 2nd floor living space. Need a big backyard with easy access to bring any big trailers or park multiple cars, this property is ideal for that or just a nice private place to enjoy in your down time.  </text_base_description>
+	<listed_by>
+		<name>Olivia Izaguirre</name>
+		<org> Decorative Real Estate</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$229,900</List_Price>
+		<Est._Mo._Payment>$1,435</Est._Mo._Payment>
+		<Redfin_Estimate>$223,449</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$92</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>30 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1972</Year_Built>
+		<Style>Single Detached</Style>
+		<Community>ST AUGUSTINE PARK ESTATES</Community>
+		<Lot_Size>10,454 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14430407</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 1</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 1</group_dat>
+						<group_dat>Garage Dimensions: 10 x 12</group_dat>
+						<group_dat>Attached, Covered, Front, Garage, On Street, Rear, Side</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Pleasantgr</group_dat>
+						<group_dat>Middle School Name: Florence</group_dat>
+						<group_dat>High School Name: Samuell</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: ST AUGUSTINE PARK ESTATES</group_dat>
+						<group_dat>Directions: Please use navigation.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: 16 x 15</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 19 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Full Bath</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 6 x 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 11 x 9</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Full Bath</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 6 x 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Kitchen</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 8 x 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Dining Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 12 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 8 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 21 x 18</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 9 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 17 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 10 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 17 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 11 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Library/Study</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 17 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 12 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Full Bath</group_dat>
+						<group_dat>Level: 2</group_dat>
+						<group_dat>Room Dimensions: 8 x 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Cable TV Available, High Speed Internet Available</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Ceramic Tile, Luxury Vinyl Plank</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Electric)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Covered Porch(es), Patio Covered, Private Outdoor Space</group_dat>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+						<group_dat>Fencing: Iron, Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Alley, City Sewer, City Water, Curbs, Sidewalk</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Green Features</heading>
+					<group_data>
+						<group_dat>Ceiling Fans</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 2</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 2</group_dat>
+						<group_dat>Cooktop (Gas), Disposal, Water Line to Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Features: Corner</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.240</group_dat>
+						<group_dat>Area Sq. Ft.: 10,454.4</group_dat>
+						<group_dat>Parcel Number: 00000626487710000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Agent &amp; Office Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Agent &amp; Office Information</heading>
+					<group_data>
+						<group_dat>Co-Listing Agent Direct Work Phone: 214-422-0195</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>2,500</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,500</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>8,398 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1972</Year_Built>
+		<Year_Renovated>1972</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000626487710000</APN>
+	</public_facts>
+</home>

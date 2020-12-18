@@ -1,0 +1,7 @@
+redfin_scarper.py : set the zip codes in the script and it will take 40 houses from each pinched and save them in 'redfin_html'
+
+redfin_raw_to_xml.py:  it takes the raw html files in 'redfin_html' and creates an xml structure and save them to 'redfin_xml_from_html' folder
+
+redfin_xml_to_csv.py: it takes the xml files in 'redfin_xml_from_html' folder and creates csv files in folder 'zilow_csv'
+
+redfin_functions.py: Utility Functions script 

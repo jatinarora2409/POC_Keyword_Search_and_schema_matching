@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$755,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>3,002</area>
+	</summary>
+	<address>
+		<street_address>8200 SW Pkwy W #103,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Lock &amp; Leave SW Austin condo located in gated community of The Enclave at Escondera! Main floor master suite, Fam. room with 14 ft. ceilings, FP &amp; built in bookcases. Lower level guest suite with kitchenette &amp; family/game room. 2 covered terraces plus rooftop deck with pergola offer soaring views of the 50 acre preserve and beautiful sun rises. Plantation shutters throughout, hardwood floors &amp; custom epoxy garage floor are just a few upgrades. 10 minutes to downtown &amp; 20 min. to new Tesla Mfg. Plant. Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Linda Gatling</agentName>
+		<phoneNumber>512-502-7800</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>JBGoodwin REALTORS NW</postingGroupName>
+		<postingWebsiteLinkText>JBGoodwin REALTORS NW</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2015</key>
+		<key name="Heating:">Forced air, Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$563/month</key>
+		<key name="Price/sqft:">$251</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Hardwood, Tile</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Gas, Forced air, Heat pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</detail>
+				<detail>Laundry features: Laundry Room</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,002 sqft</detail>
+				<detail>Total number of fireplaces: 1</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Entry location: 1st Floor Entry</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>Patio and porch details: Deck, Arbor</detail>
+				<detail>View description: Park</detail>
+				<detail>Residential vegetation: Trees-Medium (20 Ft - 40 Ft)</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Tile</detail>
+				<detail>Windows: Plantation Shutters</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2015</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Electric utility on property: Yes</detail>
+				<detail>Sewer information: Public Sewer</detail>
+				<detail>Utilities for property: Electricity Available, Natural Gas Available, Phone Connected, Underground Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Fire Alarm, Smoke Detector(s), Prewired</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Community</heading>
+			<details>
+				<detail>Community features: Pool, Clubhouse, Controlled Access, Picnic Area, Gated, Fitness Center, Dog Park, Cluster Mailbox, Common Grounds, BBQ Pit/Grill</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Austin</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $563/mo</detail>
+				<detail>Services included: See Remarks</detail>
+				<detail>Association name: Escondera HOA</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Annual tax amount: $15,700</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 2108401</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>InteriorFeatures: Breakfast Bar, Pantry, Recessed Lighting, Walk-In Closet(s), Kitchen, Bookcases, Entrance Foyer, In-Law Floorplan, Interior Steps, Multiple Dining Areas, Multiple Living Areas</detail>
+				<detail>DirectionFaces: West</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>FarmLandAreaUnits: Square Feet</detail>
+				<detail>MainLevelBedrooms: 2</detail>
+				<detail>LotFeatures: Greenbelt, Sprinkler - Automatic</detail>
+				<detail>LivingAreaSource: Public Records</detail>
+				<detail>Roof: Flat Tile</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

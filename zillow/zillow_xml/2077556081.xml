@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$6,248,000</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>3,900</area>
+	</summary>
+	<address>
+		<street_address>1657-1659 Mason St,</street_address>
+		<city_state> San Francisco, CA 94133</city_state>
+	</address>
+	<overview>This 3900 square foot multi family home has 3 bedrooms and 1.0 bathrooms. This home is located at 1657-1659 Mason St, San Francisco, CA 94133.Read more</overview>
+	<listing_agent>
+		<agentName>Debi Green</agentName>
+		<phoneNumber>415-901-1700</phoneNumber>
+		<agentLicenseNumber>License #01518008</agentLicenseNumber>
+		<postingGroupName>Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multi Family</key>
+		<key name="Year built:">1907</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$1,602</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,900 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.14 acres</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1907</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 500177</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Property Subtype 1: 2 Units</item>
+				<item>Status: Active</item>
+				<item>Lot Description: Corner</item>
+				<item>Type: Flats, 2 Story, Duplex</item>
+				<item>Unit 1: 1 Bath, Flat, 1 Bedroom, Office</item>
+				<item>Unit 2: Flat, 2 Bedrooms</item>
+				<item>Square Footage Source: Per Tax Records</item>
+				<item>Miscellaneous: Garden</item>
+				<item>Unit 1 Includes: Balcony/Deck, Views</item>
+				<item>View(s): City Lights, Bay, San Francisco, Downtown, Bay Bridge</item>
+				<item>Subdist: Russian Hill</item>
+				<item>District: SF District 8</item>
+				<item>Unit 2 Includes: Views, Patio</item>
+				<item>Miscellaneous: Patio(s)</item>
+				<item>Lot Measurement: SqFt</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

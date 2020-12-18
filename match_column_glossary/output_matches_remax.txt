@@ -1,0 +1,36 @@
+column_name: ['tax', 'annual', 'amount']
+glossary_term: ['annual', 'tax', 'amount', 'of', 'the', 'listed', 'house', 'for', 'the', 'year']
+
+column_name: ['association', 'fee']
+glossary_term: ['home', 'owners', 'association', 'fees', 'of', 'the', 'listed', 'house']
+
+column_name: ['living', 'area']
+glossary_term: ['living', 'area', 'of', 'the', 'listed', 'house', 'in', 'square', 'feet']
+
+column_name: ['appliances']
+glossary_term: ['appliances', 'in', 'the', 'listed', 'house']
+
+column_name: ['property', 'type']
+glossary_term: ['listed', 'houses', 'property', 'type']
+
+column_name: ['city']
+glossary_term: ['listings', 'city']
+
+column_name: ['listing', 'id']
+glossary_term: ['listed', 'house', 'mls', 'id']
+
+column_name: ['flooring']
+glossary_term: ['type', 'of', 'flooring', 'in', 'the', 'listed', 'house']
+
+column_name: ['status']
+glossary_term: ['current', 'listing', 'status', 'of', 'the', 'house']
+
+column_name: ['bedrooms']
+glossary_term: ['number', 'of', 'the', 'bedrooms', 'in', 'the', 'listed', 'house']
+
+column_name: ['square', 'feet']
+glossary_term: ['area', 'of', 'the', 'listed', 'house', 'in', 'square', 'feet']
+
+column_name: ['address']
+glossary_term: ['listings', 'address']
+

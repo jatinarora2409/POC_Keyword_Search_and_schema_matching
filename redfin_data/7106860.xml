@@ -1,0 +1,276 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>924 N Stanley Ave </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,700,000</Price>
+		<Beds>14</Beds>
+		<Baths>13.5</Baths>
+		<key name="$417 / Sq. Ft.">8,869</key>
+	</main_stats>
+	<text_base_description>924 North Stanley Avenue, constructed in 1959, is an 8,869 square foot building on a 6,490 square foot WDR3C lot. The property boasts an excellent unit mix of six one-bedroom/one-bathroom units, two two-bedroom/one-and-three-fourth-bathroom units, and two two-bedroom/two-bathrooms units. The large units offer tile and laminate flooring, gas stoves, forced heat, wall units for cooling, and select units have a balcony. Six units have been renovated with new kitchens and bathrooms and upgraded flooring. This is part of a portfolio sale that includes 1047 North Stanley Avenue and 7631 Norton Avenue. Properties can be sold together or separately.  </text_base_description>
+	<listed_by>
+		<name>Priscilla Nee</name>
+		<agentLicenseDisplay>•DRE #01435254</agentLicenseDisplay>
+		<org>•DRE #01435254</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,700,000</List_Price>
+		<Est._Mo._Payment>$17,061</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$417</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>11 days</Time_on_Redfin>
+		<Property_Type>Residential Income</Property_Type>
+		<Year_Built>1959</Year_Built>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,490 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-637790</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Kitchen Information</item>
+					<item>
+						<item>Range, Cooktop - Gas, Microwave, Electric</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Community Laundry</item>
+					</item>
+				</item>
+				<item>
+					<item>Flooring Information</item>
+					<item>
+						<item>Tile Floors, Vinyl Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Refrigerator, Range/Oven, Microwave, Ceiling Fan, Freezer, Dishwasher</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Wall Unit Cooling, A/C</item>
+						<item>Forced Air Heating</item>
+						<item>Water Heater Features: Central Water Heater</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Garage</item>
+					<item>
+						<item>Gated</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking</item>
+					<item>
+						<item># of Parking Spaces (Total): 10</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Total Floors: 2</item>
+						<item>Attached</item>
+						<item>Faces West</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Patio Features: Balcony</item>
+						<item>Other Structural Features: Balcony</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Multi-Unit Information</item>
+			<item>
+				<item>
+					<item>Multi-Unit Income</item>
+					<item>
+						<item>Gross Income: 211668</item>
+						<item>Gross Operating Income: $205,318</item>
+						<item>Net Operating Income: $129,316</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi-Unit Expenses</item>
+					<item>
+						<item>Trash Expense: $1,227</item>
+						<item>Licenses Expense: $1,690</item>
+						<item>Pest Expense: $816</item>
+						<item>Gas Expense: $1,591</item>
+						<item>Insurance Expense: $3,574</item>
+						<item>Electric Expense: $641</item>
+						<item>Water Expense: $2,951</item>
+						<item>Management Expense: $8,213</item>
+						<item>Gardener Expense: $1,500</item>
+						<item>Maintenance Expense: $6,000</item>
+						<item>Total Annual Expense: $76,003</item>
+						<item>Tax Expense: $45,800</item>
+						<item>Other Expense: $2,000</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi-Unit Other Financial Information</item>
+					<item>
+						<item>Rent Control: 100</item>
+						<item>Cap Rate: 3.5</item>
+						<item>Gross Rent Multiplier: 17.63</item>
+						<item>Vacancy Rate: 3</item>
+						<item>Scheduled Actual: Actual</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi-Unit Information</item>
+					<item>
+						<item>Owner Pays: Gardener, Water</item>
+						<item>Tenant Pays: Electric, Gas</item>
+						<item>Unit Type Type: 1, 2, 3</item>
+						<item>Type Of Units: Multifamily</item>
+						<item># of Buildings: 1</item>
+						<item>Laundry Equipment: Lease</item>
+					</item>
+				</item>
+				<item>
+					<item>Unit 1 Information</item>
+					<item>
+						<item># of Beds: 1</item>
+						<item># of Baths: 1.00</item>
+						<item>Rent: $1,422</item>
+						<item>Projected Rent: $13,800</item>
+						<item>Actual Rent: $8,537</item>
+						<item># of Units: 6</item>
+					</item>
+				</item>
+				<item>
+					<item>Unit 2 Information</item>
+					<item>
+						<item># of Beds: 2</item>
+						<item># of Baths: 1.75</item>
+						<item>Rent: $2,221</item>
+						<item>Projected Rent: $5,400</item>
+						<item>Actual Rent: $4,442</item>
+						<item># of Units: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Unit 3 Information</item>
+					<item>
+						<item># of Beds: 2</item>
+						<item># of Baths: 2.00</item>
+						<item>Rent: $2,255</item>
+						<item>Projected Rent: $5,600</item>
+						<item>Actual Rent: $4,510</item>
+						<item># of Units: 2</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>School / Neighborhood, Taxes / Assessments, Lease / Rent Details, Location Details</item>
+			<item>
+				<item>
+					<item>Community Information</item>
+					<item>
+						<item># of Units in Complex (Total): 10</item>
+					</item>
+				</item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5530-022-007</item>
+					</item>
+				</item>
+				<item>
+					<item>Lease Information</item>
+					<item>
+						<item>Tenant Pays: Electric, Gas</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Directions: East of Fairfax Ave, between Santa Monica Blvd and Melrose Ave.</item>
+						<item>Cross Streets: Stanley Ave and Romaine St</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Income</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 6,490</item>
+						<item>Lot Size (Acres): 0.149</item>
+						<item>Zoning: WDR3C*</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Documents &amp; Disclosures, Listing Information</item>
+			<item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: As Is</item>
+					</item>
+				</item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Possession: Close Of Escrow</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>14</Beds>
+		<Baths>14</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>8,869</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1959</Year_Built>
+		<Year_Renovated>1959</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5530022007</APN>
+	</public_facts>
+</home>

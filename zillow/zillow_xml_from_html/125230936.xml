@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$150,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>745</area>
+	</summary>
+	<address>
+		<street_address>1100 W Trinity Mills Rd APT 2043,</street_address>
+		<city_state> Carrollton, TX 75006</city_state>
+	</address>
+	<overview>Contemporary Design. Great investment property, too. Great location, near 35, George Bush and 121.Read more</overview>
+	<listing_agent>
+		<agentName>Anne Kanno</agentName>
+		<phoneNumber>972-991-1616</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX Premier</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX Premier</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2012</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$150/mo</key>
+		<key name="Price/sqft:">$201</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Microwave</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 745 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Other, Hand Rails</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3.93 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 14C10550000002043</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+				<detail>Architectural style: Contemporary/Modern</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: Frame</detail>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Built-up</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2012</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2012</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Carrollton</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $150/mo</detail>
+				<detail>Services included: Full Use of Facilities, Exterior Maintenance, Trash, Water/Sewer, Blanket Insurance, Sprinkler System, Maintenance of Common Areas</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $113,600</detail>
+				<detail>Annual tax amount: $1,405</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14444694</detail>
+				<detail>Measurement Source: Tax</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>Other Equipment: Built-in Microwave, Cooktop - Electric, Oven-Electric</detail>
+				<detail>Utilities: City Sewer, City Water</detail>
+				<detail>County Or Parish: Dallas</detail>
+				<detail>Interior Features: Decorative Lighting, Other</detail>
+				<detail>Flooring: Ceramic Tile, Wood</detail>
+				<detail>Heating: Central Air-Elec, Central Heat-Elec</detail>
+				<detail>Association Type: Mandatory</detail>
+				<detail>Architectural Style: Contemporary/Modern</detail>
+				<detail>Structural Style: Condo/Townhome</detail>
+				<detail>Accessibility Features: Other, Hand Rails</detail>
+				<detail>Lot Size: 3 Acres to 4.99 Acres</detail>
+				<detail>Construction Materials: Frame/Brick Trim, Concrete</detail>
+				<detail>Foundation Details: Slab</detail>
+				<detail>Possession: Closing/Funding</detail>
+				<detail>Roof: Other</detail>
+				<detail>Parking Features: Assigned Garage</detail>
+				<detail>Association Fee Includes: Full Use of Facilities, Exterior Maintenance, Trash, Water/Sewer, Blanket Insurance, Sprinkler System, Maintenance of Common Areas</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

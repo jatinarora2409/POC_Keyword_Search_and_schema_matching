@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$429,900</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,543</area>
+	</summary>
+	<address>
+		<street_address>1349 Jenifer St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Rare Find! Historic &amp; Spacious Marquette Craftsman Four-Square on one of the most desirable blocks in the neighborhood! Come home to the warmth of original wood built-ins &amp; hardwood flrs thru-out! Delight in your vintage, functional &amp; spacious kitchen or add your own personal touch. Enjoy the convenience of an xtra 1/2 bth on the mn floor--big enough to become a full bth or mn floor laundry! 4 full bedrooms upstrs &amp; walk-up attic w/flooring offers huge potential. Feeling social? Enjoy grand &amp; expansive front-porch to see your friendly neighbors,or for more privacy, your custom 14x18 back deck is like an urban oasis. Walk everywhere!Steps to Marquette School,1 block to Co-op,Ha Long Bay,Ace Hardware, Batch.Tons of parks,shopping &amp; culinary adventures w/n blocks! SO Bus &amp; Bike friendly too!Read more</overview>
+	<listing_agent>
+		<agentName>Darcy Haber</agentName>
+		<phoneNumber>608-284-9311</phoneNumber>
+		<agentLicenseNumber>License #56408-90</agentLicenseNumber>
+		<postingGroupName>Solidarity Realty, LLC</postingGroupName>
+		<postingWebsiteLinkText>Solidarity Realty, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1909</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">2,178 sqft</key>
+		<key name="Price/sqft:">$279</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,543 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: On-street</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Wood</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2,178 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 071007223028</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1909</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1965</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 74.38</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

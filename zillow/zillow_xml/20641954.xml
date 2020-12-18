@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$647,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>974</area>
+	</summary>
+	<address>
+		<street_address>3126 Chadwick Dr,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Welcome to this charming 2 bedroom, 1 bathroom on the top of the Chadwick Dr! This wonderful home sits on a large lot with plenty of potential for expansion. The kitchen has been recently updated with new cabinets and granite counters, all the appliances are new and come with the home. The bathroom is light and bright with stone and tile finishes and new fixtures! The front living room has a beautiful fireplace perfect for a cozy night. Enjoy the front yard in the evening and take in the city lights as this property is high on the top of the street with a peek a boo view from the front yard.     This property is central to DTLA with short commutes to other surrounding areas and city night life, come see this one.Read more</overview>
+	<listing_agent>
+		<agentName>Deborah Zeolla</agentName>
+		<phoneNumber>562-321-5192</phoneNumber>
+		<agentLicenseNumber>License #01375860</agentLicenseNumber>
+		<postingGroupName>Real Consultants</postingGroupName>
+		<postingWebsiteLinkText>Real Consultants</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1955</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">8,128 sqft</key>
+		<key name="Price/sqft:">$664</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven, Refrigerator</item>
+				<item>Laundry features: Individual Room, Inside, Gas Dryer Hookup</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 974 sqft</item>
+				<item>Fireplace features: Living Room</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Stories: 1</item>
+				<item>Patio and porch details: Slab, Concrete, Patio, See Remarks</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,128 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Shed(s)</item>
+				<item>Parcel number: 5218002031</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Fixer, Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1955</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1955</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.96</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

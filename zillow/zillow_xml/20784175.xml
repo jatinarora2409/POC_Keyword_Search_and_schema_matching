@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,895,000</price>
+		<bd>16</bd>
+		<ba>14</ba>
+		<area>8,100</area>
+	</summary>
+	<address>
+		<street_address>849 N Alta Vista Blvd,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Opportunity to build 4 luxury townhomes on an oversized lot in prime location, blocks from West Hollywood. Property will be delivered vacant and shovel ready with approved plans for 4 townhomes over 2,000 sf each with 4 bedrooms, balconies, rooftop decks and private garages. Plans offer beautiful design while keeping construction costs as low as possible for maximum ROI. This 7700 sf lot is located in one of the hottest rental markets in LA with potential to subdivide into condos for individual sale. Full plans available for review upon request.Read more</overview>
+	<listing_agent>
+		<agentName>Shaya lowenstein</agentName>
+		<phoneNumber>323-762-2600</phoneNumber>
+		<agentLicenseNumber>License #01942326</agentLicenseNumber>
+		<postingGroupName>Keller Williams Larchmont</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Larchmont</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multi Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">8 spaces</key>
+		<key name="Price/sqft:">$357</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 16</item>
+				<item>Bathrooms: 14</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Range / Oven, Refrigerator, Trash compactor, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 8,100 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 8</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Private pool: Yes</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.18 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5525001006</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1936</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.63</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

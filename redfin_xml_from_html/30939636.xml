@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>800 N Prairie Creek Rd </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$58,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>MOTIVATED SELLER looking for a quick close. Lot to be sold with adjoining lot, 910 N. Prairie Creek Rd, for a total of 5 acres. Perfect lot for a residential development - subdivision, senior housing, townhomes, etc. 800 lot is mostly treed. A small portion is in a 100 year flood plain. 910 lot is mostly clear of trees (with the exception of a screen of trees that borders N. Prairie Creek Rd. )  BRING ALL OFFERS! </text_base_description>
+	<listed_by>
+		<name>Tiffany Hayes</name>
+		<org> Jp Piccinini Real Estate Services LLC</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$58,000</List_Price>
+		<Est._Mo._Payment>$257</Est._Mo._Payment>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>17 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>Belvedere Estates</Community>
+		<Lot_Size>1 Acre</Lot_Size>
+		<key name="MLS#">14438811</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Anderson</group_dat>
+						<group_dat>Middle School Name: Balch Springs</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Electricity Available Off Site</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BELVEDERE ESTATES BLK 6665 TR 9.2- 310X259X40</group_dat>
+						<group_dat>Unexempt Taxes: $142</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Financing, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Belvedere Estates</group_dat>
+						<group_dat>Directions: See GPS.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Restrictions: No Known Restriction(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: 6665</group_dat>
+						<group_dat>Development: City Limits</group_dat>
+						<group_dat>Easements: None</group_dat>
+						<group_dat>Features: Acreage, Adjacent to Greenbelt, Creek, Heavily Treed</group_dat>
+						<group_dat>Size: 1-2.99 Acres</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 1.000</group_dat>
+						<group_dat>Area Sq. Ft.: 43,560</group_dat>
+						<group_dat>Multi-Parcel</group_dat>
+						<group_dat>Parcel Number: 00000622735000000</group_dat>
+						<group_dat>Zoning: Residential</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>1 Acre</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000622735000000</APN>
+	</public_facts>
+</home>

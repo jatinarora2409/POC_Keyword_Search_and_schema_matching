@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2700 21st St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94110</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,300,000</Price>
+		<Beds>4</Beds>
+		<Baths>1.5</Baths>
+		<key name="$448 / Sq. Ft.">2,900</key>
+	</main_stats>
+	<text_base_description>Ground Floor Commercial  1,200 SQ FT     SECOND FLOOR 4BD/1.5BA apartment 1,700 SQ FT        ADDITIONAL PROPERTY FEATURES  Located immediately to the Mission, Shopping and Entertainment District; Two Blocks from Zuckerberg General Hospital - a significant source of residential tenants. Extraordinary Public Transportation Nearby: Muni Bus Lines within short walking distance: 27 Jackson Van Ness, 27 Chavez Mission, 33 Potrero 25th, 9 Bayshore Boulevard, 9 Cow Palace.  </text_base_description>
+	<listed_by>
+		<name>Jeremy Blatteis</name>
+		<agentLicenseDisplay>•DRE #01460566</agentLicenseDisplay>
+		<org>•DRE #01460566</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,300,000</List_Price>
+		<Est._Mo._Payment>$5,940</Est._Mo._Payment>
+		<Redfin_Estimate>$1,312,384</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$448</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>2 days</Time_on_Redfin>
+		<Property_Type>2 Story, Mixed Use, 2 Units</Property_Type>
+		<Year_Built>1909</Year_Built>
+		<Community>Inner Mission</Community>
+		<Lot_Size>2,321 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507746</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Parking / Garage, Homeowners Association, Location Details, Listing Information</item>
+			<item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item>Parking: Garage</item>
+						<item># of Parking Spaces: 3</item>
+						<item># of Garage Spaces: 3</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>Unconfirmed Co-op Fee: 0.00</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: York Street</item>
+					</item>
+				</item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Original Price: $1,300,000</item>
+						<item>On Market Date: Tuesday, October 6, 2020</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Multi-Unit Information</item>
+			<item>
+				<item>
+					<item>Multi-Family Features</item>
+					<item>
+						<item># of Units: 2</item>
+						<item># of Vacant Units: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Unit 1 Information</item>
+					<item>
+						<item># of Rooms (Unit 1): 0</item>
+						<item>Unit Type: Store</item>
+					</item>
+				</item>
+				<item>
+					<item>Unit 2 Information</item>
+					<item>
+						<item>Unit Type: 4+ Bedrooms, 1.5 Baths</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Measurement: Square Feet</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Type: 2 Story</item>
+						<item>Per Architect</item>
+						<item>APN: 4087017</item>
+						<item>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,900</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>2,321 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1909</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>4087 017</APN>
+	</public_facts>
+</home>

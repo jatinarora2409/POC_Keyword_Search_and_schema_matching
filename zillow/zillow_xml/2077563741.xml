@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,875,000</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>4,092</area>
+	</summary>
+	<address>
+		<street_address>810 Masonic Ave,</street_address>
+		<city_state> San Francisco, CA 94117</city_state>
+	</address>
+	<overview>810 Masonic Avenue consists of 6 very efficient residential units. The unit mix is one studio, two junior 1-bedroom units, two 1-bedroom units and one 2-bedroom unit. The basement area also has 3 large storage spaces which can be delivered vacant or rented out. The property is expertly maintained and has low operating costs. The building recently had all front windows replaced and the interior has newer common area carpeting and paint.  The units are separately metered for gas, electricity and tenants pay for their hot water heating.Read more</overview>
+	<listing_agent>
+		<agentName>Mirella Webb</agentName>
+		<phoneNumber>415-921-6000</phoneNumber>
+		<agentLicenseNumber>License #01409540</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1909</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$703</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 0</item>
+				<item>Bathrooms: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 4,092 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,820 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1909</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 78.84</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

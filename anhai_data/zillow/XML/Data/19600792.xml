@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,325,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,825</area>
+	</summary>
+	<address>
+		<street_address>2494 Golf Links Cir,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Resort style living at Pruneridge Place Community. A true 3 bedroom 2 bath single level end unit condo that feels very private.  A wonderful oasis in the heart of Santa Clara adjacent to Pruneridge Golf course with unlimited golf included in the HOA.  Bright, light, open floor plan with redesigned kitchen, stainless steel appliances, granite counters, spacious dining and living room with vaulted ceilings, gas fireplace, air conditioning, dual pane windows, plantation shutters, skylights and abundant storage.  Each bedroom has a private patio. Spacious master bedroom retreat, walk-in closet that is separate from other bedrooms. Oversized 2 car garage with laundry hookups, storage cabinets and pull down ladder for additional attic storage.  Excellent Santa Clara location close to freeways, dining, shopping, Santana Row, Downtown SJ, Apple, Google.  HOA includes community pool &amp; tennis court.  Low Santa Clara utilities.  Come make this your Dream Home!Read more</overview>
+	<listing_agent>
+		<agentName>Michelle Thompson</agentName>
+		<phoneNumber>408-358-1111</phoneNumber>
+		<agentLicenseNumber>License #01467537</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1979</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$51/mo</key>
+		<key name="Price/sqft:">$726</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator</detail>
+				<detail>Laundry features: In Garage</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,825 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>Fencing: Gate</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3,648 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 29445038</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Shake / Shingle</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1979</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1979</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 83.66</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $51/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $438,794</detail>
+				<detail>Annual tax amount: $5,316</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81800957</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Amenities Misc.: Vaulted Ceiling, Wet Bar, Walk-in Closet, Skylight</detail>
+				<detail>Bathroom: Shower over Tub - 1, Tile, Double Sinks, Granite, Updated Bath, Master - Stall Shower(s)</detail>
+				<detail>Family Room: No Family Room</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Laundry: In Garage</detail>
+				<detail>Dining Room: Eat in Kitchen, Dining Area</detail>
+				<detail>Lot Size Area Maximum Units: Square Feet</detail>
+				<detail>Lot Size Area Minimum Units: Square Feet</detail>
+				<detail>Fireplaces: Living Room, Gas Burning</detail>
+				<detail>Energy Features: Double Pane Windows, Skylight</detail>
+				<detail>Flooring: Tile, Hardwood, Carpet</detail>
+				<detail>Kitchen: Garbage Disposal, Microwave, Dishwasher, Oven - Built-In, Pantry, Countertop - Granite, Cooktop - Electric, Hood Over Range, Refrigerator</detail>
+				<detail>Foundation: Concrete Slab</detail>
+				<detail>Water: Public</detail>
+				<detail>Association Fees Include: Reserves, Roof, Common Area Electricity, Exterior Painting, Fencing, Garbage, Spa, or Tennis, Management Fee, Common Area Gas, Insurance - Common Area, Golf, Maintenance - Common Area, Landscaping / Gardening, Pool</detail>
+				<detail>Bedrooms: Ground Floor Bedroom, Master Bedroom on Ground Floor, Master Suite / Retreat, Walk-in Closet</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Lot Description: Grade - Level, Views</detail>
+				<detail>View: Golf Course</detail>
+				<detail>Pool: Community Facility, Pool - In Ground, Spa - In Ground</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Sewer Septic: Sewer - Public</detail>
+				<detail>Heating: Central Forced Air - Gas</detail>
+				<detail>Structure SqFt Source: Other</detail>
+				<detail>Garage Parking Features: Parking Area, Detached Garage</detail>
+				<detail>Fencing: Gate</detail>
+				<detail>HOA Exist Y/N: 1</detail>
+				<detail>HOA Fee: 616</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Cooling: Central AC</detail>
+				<detail>Roof: Wood Shakes / Shingles, Flat / Low Pitch</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

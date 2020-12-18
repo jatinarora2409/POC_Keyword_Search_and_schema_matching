@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,200,000</price>
+		<bd>4</bd>
+		<ba>4</ba>
+		<area>3,033</area>
+	</summary>
+	<address>
+		<street_address>4455 Van Horne Ave,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>This Large Family home was built in 2005 with over 3,000 square feet of living space featuring 4 Bedrooms and 4 bathrooms. Two of which are Master Bedrooms each with their own Bathroom. The other 2 bedrooms share an oversized Jack and Jill bathroom. All bedrooms are upstairs. Downstairs has Tile flooring throughout in the Living room, dining room, family room, kitchen and bath. The kitchen has lots of counter space with granite counters and stainless steel appliances. There is plenty of room for entertaining your guest and enjoying all the amenities this wonderful home has to offer.  Park 4 cars behind the front rolling gate and additional parking available behind the Pass Thru 2 car Garage. Plenty of Privacy due to Cul-De-Sac like Location. Block wall surrounding the property with many mature plants and trees. This home also has a studio in back yard. This home is a must see located near South Pasadena.Read more</overview>
+	<listing_agent>
+		<agentName>frank canseco</agentName>
+		<phoneNumber>714-510-0770</phoneNumber>
+		<agentLicenseNumber>License #01229213</agentLicenseNumber>
+		<postingGroupName>CANSECO REAL ESTATE</postingGroupName>
+		<postingWebsiteLinkText>CANSECO REAL ESTATE</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">10 spaces</key>
+		<key name="Lot:">6,216 sqft</key>
+		<key name="Price/sqft:">$396</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Range / Oven</item>
+				<item>Laundry features: Gas &amp; Electric Dryer Hookup</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 3,033 sqft</item>
+				<item>Fireplace features: Living Room</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 10</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 10</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Two</item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco</item>
+				<item>Fencing: Wrought Iron, Block</item>
+				<item>View description: Mountain</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,216 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5307021001</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2005</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2005</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 95.36</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

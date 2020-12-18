@@ -1,0 +1,8 @@
+address(listing_id,address,location)
+interior(listing_id,Appliances,Bedrooms_Total,Bathrooms_Total,Bathrooms_Full,Bathrooms_Half,Living_Area,Flooring,Bathrooms_Three_Quarter)
+Building_And_Construction(listing_id,Building_Name,Property_Sub_Type,Property_Type,Year_Built)
+Exterior_And_Lot(listing_id,Lot_Size_Acres,Lot_Size_Square_Feet,Lot_Size_Units,Parking_Total)
+Area_And_Schools(listing_id,City,County_Or_Parish,Elementary_School,High_School,High_School_District,Middle_Or_Junior_School,Subdivision_Name)
+financial_info(listing_id,Tax_Annual_Amount,Tax_Year,Association_Fee)
+listing_agent(listing_id,listed_by)
+listing_detail_stats(listing_id,listing_detail,price,bedrooms,total_baths,full_baths,square_feet,acres,year_built,status,MLS)

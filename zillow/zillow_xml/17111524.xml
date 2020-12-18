@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$474,373</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>824</area>
+	</summary>
+	<address>
+		<street_address>2111 Massachusetts Ave,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>&quot;PRE-FORECLOSURE - This home has a notice of default and will be auctioned off soon, unless a buyer submits an offer and a short sale is approved. If this is your home, visit www.CaShortSaleSpecialists.com for foreclosure alternatives. If the home doesn't sell at auction, the home will then become a bank owned foreclosure. For more information about this and other foreclosures, bank owned, notice of default, short sale and traditional sale properties in California call 866-538-6057 or visit www.REofUSA.com to access complete information for this property, including full address, foreclosure details, lender information, and more. Receive 24 hour updates on San Diego County homes and Get the latest information on every real estate listing in San Diego. *This information is deemed reliaRead more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1955</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">0.36 Acres</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 824 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.36 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5760811500</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Year built: 1955</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1955</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.21</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Lemon Grove</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

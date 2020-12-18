@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2838 Sacramento St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94118</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$5,850,000</Price>
+		<Beds>4</Beds>
+		<Baths>4.5</Baths>
+		<key name="$1623 / Sq. Ft.">3,605</key>
+	</main_stats>
+	<text_base_description>Steps from Alta Plaza Park and Fillmore St, this updated light-filled Victorian features the perfect unique blend of sophisticated modern style and classical elegance. Time-honored details such as herringbone floors, bay windows, ceiling medallions, detailed moldings, and a graceful skylit staircase meet artful contemporary fixtures. On the main level, the spacious living room boasts a fireplace and a richly hued sitting area. The dining room flows to the kitchen and family room, which features distinctive honed-stone countertops and an island with counter seating. A wall of sliding glass doors opens to the private backyard. On the home's two upper levels, the bedrooms are generous in size and include ample closets and en suite baths. The master suite enjoys a south-facing deck, walk-in closet, and a relaxing en-suite bath. The second floor also offers a versatile area with a wet bar and a media room with direct access down to the yard. Ideally located on flat block in Pacific Heights.  </text_base_description>
+	<listed_by>
+		<name>Neill Bassi</name>
+		<agentLicenseDisplay>•DRE #01883478</agentLicenseDisplay>
+		<org> Sotheby's International Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$5,850,000</List_Price>
+		<Est._Mo._Payment>$26,731</Est._Mo._Payment>
+		<Redfin_Estimate>$5,907,050</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,623</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>3 Story, Single-Family Home</Property_Type>
+		<Year_Built>1900</Year_Built>
+		<Style>Victorian</Style>
+		<Community>Pacific Heights</Community>
+		<Lot_Size>3,188 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507075</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Type: On Site</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat># of Parking Spaces: 2</group_dat>
+						<group_dat>Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Garden, Patio(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 4</group_dat>
+						<group_dat>2 Bedrooms on Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 4.5</group_dat>
+						<group_dat>2 Baths on Upper Level</group_dat>
+						<group_dat>0.5 Bath/Powder Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Family Room Information</heading>
+					<group_data>
+						<group_dat>On Upper Level</group_dat>
+						<group_dat>Family Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat># of Fireplace(s): 1, Gas Burning, In Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Gas Range, Hood Over Range, Refrigerator, Dishwasher, Garbage Disposal, Island, Remodeled</group_dat>
+						<group_dat>Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Hardwood</group_dat>
+						<group_dat># of Rooms (Total): 0</group_dat>
+						<group_dat>0.5 Bath/Powder Room on Main Level, Living Room on Main Level, Dining Room on Main Level, Family Room on Main Level, Kitchen on Main Level</group_dat>
+						<group_dat>2 Bedrooms on Upper Level, 2 Baths on Upper Level, On Upper Level</group_dat>
+						<group_dat>Double Pane Windows, Security Alarm(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Scott St</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $5,850,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 1, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Type: 3 Story</group_dat>
+						<group_dat>Per Graphic Artist</group_dat>
+						<group_dat>Garden, Patio(s), Double Pane Windows, Security Alarm(s)</group_dat>
+						<group_dat>APN: 1003-012A</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>5</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,709</Total_Sq._Ft.>
+		<Stories>3</Stories>
+		<Lot_Size>3,188 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1900</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>1003 012A</APN>
+	</public_facts>
+</home>

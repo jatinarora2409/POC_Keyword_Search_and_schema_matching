@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$225,425</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>1,000</area>
+	</summary>
+	<address>
+		<street_address>9844 Montrose Ave,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>This 1000 square foot single family home has 3 bedrooms and 1.0 bathrooms. This home is located at 9844 Montrose Ave, Schiller Park, IL 60176.Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1958</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,159 sqft</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,000 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,159 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 1216207017</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: masonry</item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Year built: 1958</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.18</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Schiller Park</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $177,300</item>
+				<item>Annual tax amount: $5,103</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Addtl Room 2 Level: Not Applicable</item>
+				<item>Addtl Room 3 Level: Not Applicable</item>
+				<item>Addtl Room 4 Level: Not Applicable</item>
+				<item>Addtl Room 5 Level: Not Applicable</item>
+				<item>Air Conditioning: Central Air</item>
+				<item>Appliances: Oven/Range, Dishwasher, Refrigerator, Washer, Dryer</item>
+				<item>4th Bedroom Level: Not Applicable</item>
+				<item>Built Before 1978 (Y/N): Yes</item>
+				<item>Exterior Building Type: Brick</item>
+				<item>Heat/Fuel: Gas, Forced Air</item>
+				<item>Sewer: Sewer-Public</item>
+				<item>Listing Type: Exclusive Right To Sell</item>
+				<item>Parking Type: Garage</item>
+				<item>Sale Terms: FHA, VA, Conventional</item>
+				<item>Tax Exemptions: Homeowner</item>
+				<item>2nd Bedroom Level: Main Level</item>
+				<item>Dining Room: Combined w/ LivRm</item>
+				<item>Dining Room Level: Main Level</item>
+				<item>Water: Lake Michigan</item>
+				<item>Kitchen Level: Main Level</item>
+				<item>Living Room Level: Main Level</item>
+				<item>Master Bedroom Level: Main Level</item>
+				<item>Living Room Flooring: Hardwood</item>
+				<item>2nd Bedroom Flooring: Hardwood</item>
+				<item>3rd Bedroom Flooring: Hardwood</item>
+				<item>Dining Room Flooring: Hardwood</item>
+				<item>Other Information: School Bus Service, Commuter Train, Commuter Bus</item>
+				<item>Kitchen Flooring: Vinyl</item>
+				<item>Master Bedroom Flooring: Hardwood</item>
+				<item>Exposure: E (East)</item>
+				<item>Kitchen Type: Eating Area-Table Space</item>
+				<item>Addtl Room 1 Name: Recreation Rm</item>
+				<item>Basement: Finished</item>
+				<item>3rd Bedroom Level: Main Level</item>
+				<item>Family Room Level: Basement</item>
+				<item>Addtl Room 1 Level: Basement</item>
+				<item>Family Room Flooring: Vinyl</item>
+				<item>Addtl Room 10 Level: Not Applicable</item>
+				<item>Addtl Room 6 Level: Not Applicable</item>
+				<item>Addtl Room 7 Level: Not Applicable</item>
+				<item>Addtl Room 8 Level: Not Applicable</item>
+				<item>Addtl Room 9 Level: Not Applicable</item>
+				<item>Frequency: Not Applicable</item>
+				<item>Style Of House: Ranch</item>
+				<item>Status: Pending</item>
+				<item>Square Feet Source: Assessor</item>
+				<item>Age: 61-70 Years</item>
+				<item>Garage On-Site: Yes</item>
+				<item>Additional Rooms: Recreation Room</item>
+				<item>Is Parking Included in Price: Yes</item>
+				<item>Type of House 2: 1 Story</item>
+				<item>Garage Type: Detached2, Detached</item>
+				<item>Lot Dimensions: 56X110</item>
+				<item>Laundry Level: Basement</item>
+				<item>Garage Ownership: Owned</item>
+				<item>Basement (Y/N): Full</item>
+				<item>Additional Sales Information: Short Sale</item>
+				<item>Aprox. Total Finished Sq Ft: 0</item>
+				<item>Total Sq Ft: 0</item>
+				<item>Tax Year: 2018</item>
+				<item>Parcel Identification Number: 12162070170000</item>
+			</item>
+		</item>
+	</other_details>
+</home>

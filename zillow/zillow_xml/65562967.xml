@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$215,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,150</area>
+	</summary>
+	<address>
+		<street_address>519 S Maplewood Ave APT 4N,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Penthouse condo with unobstructed panoramic Chicago skyline view from private balcony for grilling and relaxing.  Open floor plan with natural lighting, Vaulted ceilings, Skylights, Ceiling fans in Living Room with adjustable lighting and skyline window view.  Hallway with adjustable track lighting. 3 spacious Bedrooms with remote control fans/2 full Bathrooms.  Huge Master Suite w/private walk in shower.  Granite counter-tops, Stainless Steel Appliances includes Bosch Dishwasher, Refrigerator, Stove, and Microwave, silent Washer/Dryer in-unit.  Window treatments, spacious closet space.  Gated secure parking spot included, parking also available on quiet street, parking permit not required.      New construction area, 2003 brick building, well maintained.  Low Association dues.  Rental optional, no restrictions.  Convenient public transportation, Harrison/Maplewood bus stop steps away and walking distance to the Blue Line with trains stops to the Loop, Chicago O'Hare and connections to Midway.  Located near UIC/Rush Medical district, Tri-Taylor, Little Italy, Ukrainian Village, I-290, United Center, Pete's Grocery, Shopping, Walgreens.  New Gateway project a few blocks east includes Starbucks, Chipotle and Jimmy John's.  Minutes to Downtown. Unit was used as a 2nd home, brand new condition, peaceful unit, no footsteps above you.  Sanitized and Ready to Move In.Read more</overview>
+	<listing_agent>
+		<agentName>Anel Bonfil</agentName>
+		<phoneNumber>312-471-6444</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Chicago-OHare</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Chicago-OHare</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2003</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$133/mo</key>
+		<key name="Price/sqft:">$187</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,150 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 5,097 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 16132320271007</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2003</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.97</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

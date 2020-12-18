@@ -1,0 +1,295 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1220 N Orange Grove Ave #12 </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,390,000</Price>
+		<Beds>2</Beds>
+		<Baths>3</Baths>
+		<key name="$659 / Sq. Ft.">2,110</key>
+	</main_stats>
+	<text_base_description>Modern, loft-style town home in prime WeHo. The expansive ceiling height enhances the open flow of this corner unit (only 1 common wall), the largest in the building. Filled with top of the line surfaces and fixtures, this is the best unit in the complex. Designer kitchen opens to the sunlit dining and living w/ direct access to the sun deck, spa, and additional balcony with room for a barbecue. Gallery walls, exposed steel beams, and massive Fleetwood windows and sliding doors refine the interior. The loft has a custom bar and built in temp. controlled 150 wine bottle unit, while the master suite is one of 2 en suite beds located on the upper levels, each with oversized walk-in closets. Top floor has private balcony with stunning city views. The unit comes with 2 tandem parking spaces (23/24), extra storage located in the garage, guest parking, all on a fantastic tree-lined street close to the many other shops, eateries and entertainment venues that West Hollywood has to offer.  </text_base_description>
+	<listed_by>
+		<name>Erik Brown</name>
+		<agentLicenseDisplay>•DRE #01958545</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,390,000</List_Price>
+		<Est._Mo._Payment>$6,408</Est._Mo._Payment>
+		<Redfin_Estimate>$1,387,692</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$659</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>23 hours</Time_on_Redfin>
+		<Property_Type>Townhouse, Residential Condo/Co-Op</Property_Type>
+		<Baths>1 full, 2 partial</Baths>
+		<HOA_Dues>$360/month</HOA_Dues>
+		<Year_Built>2009</Year_Built>
+		<Style>Modern</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>0.34 Acres</Lot_Size>
+		<key name="MLS#">20-642644</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Homeowners Association, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat>Management Company Name: 1220 Art Lofts</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: Gated Community, Association Maintains Landscape</group_dat>
+						<group_dat>Fee #1: $360</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+						<group_dat>Fees Include Building and Grounds, Fees Include Insurance, Fees Include Maintenance, Fees IncludeTrash, Fees Include Water and Sewer</group_dat>
+						<group_dat>AssociationPetRules: Yes</group_dat>
+						<group_dat>Association Phone: 562-630-7971</group_dat>
+						<group_dat>Homeowner Assessments: none</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>WalkInCloset, Master Bedroom, All Bedrooms Up</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Baths (3/4): 1</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat>Double Shower, Double Vanity(s), Linen Closet, Remodeled, Shower and Tub, Tub With Jets</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Microwave, Oven-Gas, Free Standing Gas, Range Hood</group_dat>
+						<group_dat>Remodeled, Gourmet Kitchen, Granite Counters, Open to Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Unit, Stacked Laundry in Closet, Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>2nd Story Family Room, Powder Room, Walk-In Closet, Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Living Room Balcony, Cathedral-Vaulted Ceilings, Recessed Lighting, Laundry - Closet Stacked, High Ceilings (9 Feet+), Common Walls</group_dat>
+						<group_dat>Ground Level - no steps</group_dat>
+						<group_dat>Windows: Custom Window Covering, Drapes/Curtains, Double Pane Windows</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors, Wood Floors, Carpeted Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Built-Ins, Cable, Dryer, Hood Fan, Garbage Disposal, Washer, Refrigerator, Range/Oven, Alarm System, Dishwasher, Ice Maker, Microwave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Forced Air Heating, Central Heat</group_dat>
+						<group_dat>Water Heater Features: Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Assigned, Controlled Entrance, Community Garage, Covered Parking, Direct Entrance, Driveway</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Multi Levels, Three Or More Levels</group_dat>
+						<group_dat>Attached, Townhouse</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Entry Floor Number: 1</group_dat>
+						<group_dat>Faces East</group_dat>
+						<group_dat>Security Features: Card/Code Access, Community, Exterior Security Lights, 24 Hour, Carbon Monoxide Detector(s), Gated, Smoke Detector, Fire Sprinklers</group_dat>
+						<group_dat>Foundation - Concrete Slab</group_dat>
+						<group_dat>Exterior Construction: Combination, Concrete, Hard Coat Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Balcony, Patio Open</group_dat>
+						<group_dat>Balcony: West</group_dat>
+						<group_dat>Other Structural Features: Balcony, End Unit, High Ceilings (9 Feet+), Sliding Glass Doors, Partial Copper Plumbing, Sprinkler System</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Association Pool, Fenced Pool, Community Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 12</group_dat>
+						<group_dat>Athletic Court: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5530-002-066</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Unit Floor In Building: 1</group_dat>
+						<group_dat>Unit Location: Front</group_dat>
+						<group_dat>Complex Name: York Condo Services</group_dat>
+						<group_dat>Directions: One block east of N. Fairfax Ave, between Fountain Ave and Santa Monica Blvd.</group_dat>
+						<group_dat>Cross Streets: Fountain and Orange Grove</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: CC and R</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Negotiate</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Exposure: E and W</group_dat>
+						<group_dat>Property Type: Residential Condo/Co-Op</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 14,915</group_dat>
+						<group_dat>Lot Size (Acres): 0.3424</group_dat>
+						<group_dat>Zoning: WDR3C*</group_dat>
+						<group_dat>Special Zoning: None</group_dat>
+						<group_dat>Lot Location: City</group_dat>
+						<group_dat>Lot Description: Gated Community, Utilities - Overhead, Street Paved, Street Asphalt, Sidewalks</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Privacy Fence, Block Wall</group_dat>
+						<group_dat>Sprinkler System</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: City</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,110</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,110</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>2009</Year_Built>
+		<Year_Renovated>2009</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5530002066</APN>
+	</public_facts>
+</home>

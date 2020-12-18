@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$261,068</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,200</area>
+	</summary>
+	<address>
+		<street_address>4546 25th Ave,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>Solid brick home in an incredible location! Charming, family-friendly neighborhood, 5 minutes to all major highways, 7 minutes to O'Hare International Airport (ORD). Meticulously maintained with newer roof, soundproof windows, newer concrete driveway, newer gutters and oversized downspouts, newer HVAC, and a new water heater this year. Large family room, eat-in kitchen, and three bedrooms. Entire first floor has original hardwood protected under carpeting.  Finished basement with bedroom, bathroom, and dry bar.  Laundry room is equipped with gas connection to convert to an eat-in basement kitchen for the perfect guest or in-law suite. Utility room has a high-end workbench with lots of storage, including a 12-ft cedar closet. A party-ready backyard makes this the perfect house for entertaining family and friends! Don't miss out on this affordable gem with huge value! Over 2000 sq ft living space including basement!Read more</overview>
+	<listing_agent>
+		<agentName/>
+		<phoneNumber/>
+		<agentLicenseNumber/>
+		<postingGroupName/>
+		<postingWebsiteLinkText>See listing website</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">7 spaces</key>
+		<key name="Lot:">5,500 sqft</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,200 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 7</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 7</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 5,500 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 1216212018</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: masonry</detail>
+				<detail>Roof: Shake / Shingle</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>Year built: 1959</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 90.18</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $174,460</detail>
+				<detail>Annual tax amount: $6,229</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Parking Type: Garage, Space/s</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Dining Room Level: Not Applicable</detail>
+				<detail>Basement Bathrooms (Y/N): Yes</detail>
+				<detail>3rd Bedroom Level: Main Level</detail>
+				<detail>4th Bedroom Level: Basement</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Not Applicable</detail>
+				<detail>Style Of House: Ranch</detail>
+				<detail>Status: Contingent</detail>
+				<detail>Square Feet Source: Other</detail>
+				<detail>Age: 51-60 Years</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Type of House 2: 1 Story</detail>
+				<detail>Garage Type: Detached2</detail>
+				<detail>Lot Dimensions: 53X110</detail>
+				<detail>Additional Media Type 1: Other Media</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$339,900</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,137</area>
+	</summary>
+	<address>
+		<street_address>2311 Southbrook Dr,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>Live the Eagle Harbor resort lifestyle in this impeccably maintained home on a large, beautifully manicured corner lot. With high ceilings and lots of natural light, this nicely appointed home features a new roof, plantation shutters, crown molding and new bamboo flooring. The updated kitchen features granite countertops, subway tile and stainless steel appliances. Master bedroom boasts dual closets, dual vanities, soaker tub and walk in shower, with the second bedroom featuring an ensuite bath. All this with award winning schools and Eagle Harbor amenities. Enjoy numerous recreation options including swimming in three pools, (one with a water slide and high dive), join a tennis league, play 18 holes at Eagle Harbor Golf Club, or enjoy a day on the water on Doctors Lake. Welcome home!Read more</overview>
+	<listing_agent>
+		<agentName>Tricia Johnson</agentName>
+		<phoneNumber>904-269-7117</phoneNumber>
+		<agentLicenseNumber>License #3417473</agentLicenseNumber>
+		<postingGroupName>COLDWELL BANKER VANGUARD REALTY</postingGroupName>
+		<postingWebsiteLinkText>COLDWELL BANKER VANGUARD REALTY</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2000</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">No Data</key>
+		<key name="Price/sqft:">$159</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,137 sqft</detail>
+				<detail>Fireplace features: Wood Burning Fireplace, 1 Fireplace, Tile Fireplace, Fireplace-Family Room/Den/Gr</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Stucco, Wood</detail>
+				<detail>Patio and porch details: Lanai, Lanai - Screened</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Ranch</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Windows: Window Treatments, Tinted Windows</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2000</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Public Sewer</detail>
+				<detail>Utilities for property: Cable Available</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Smoke Detector(s)</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Fleming Island</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $4/mo</detail>
+				<detail>Association name: Eagle Harbor HOA</detail>
+				<detail>Association phone: 904-621-8363</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1076203</detail>
+				<detail>Measurement Source: Tax Roll</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Flooring: Wood, Tile, Wall-to-Wall Carpet</detail>
+				<detail>Sewer: Public Sewer</detail>
+				<detail>WaterSource: Public</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Microwave, Washer, Electric Range, Self Cleaning Oven</detail>
+				<detail>AssociationYN: Yes</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>Roof: Shingle</detail>
+				<detail>ArchitecturalStyle: Ranch</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>Utilities: Cable Available</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>FireplacesTotal: 1</detail>
+				<detail>CommunityFeatures: Playground, Pool, Tennis Court(s), Clubhouse, Bike Path, Golf Course, Boat Ramp, Soccer Field(s), Walking/Jogging Path, Sprinkler System, Boat Slip Common, Garbage Pick-up, Dock/Pier, Community Childrens Pool</detail>
+				<detail>BusinessType: Residential</detail>
+				<detail>ConstructionMaterials: Stucco, Wood Frame</detail>
+				<detail>LotFeatures: Corner Lot, Regular Lot</detail>
+				<detail>InteriorFeatures: Breakfast Bar, Walk-In Closet(s), Great Room, Separate Dining Room, Entrance Foyer, Ceiling 8+ Ft., Separate Living Room, Eating Space-Kitchen, Pantry - Closet</detail>
+				<detail>FireplaceFeatures: Wood Burning Fireplace, 1 Fireplace, Tile Fireplace, Fireplace-Family Room/Den/Gr</detail>
+				<detail>ExteriorFeatures: Sprinkler System</detail>
+				<detail>CoveredSpaces: 2</detail>
+				<detail>RoadFrontageType: City Street</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>LivingAreaSource: Tax roll</detail>
+				<detail>SecurityFeatures: Smoke Detector(s)</detail>
+				<detail>WindowFeatures: Window Treatments, Tinted Windows</detail>
+				<detail>ParkingFeatures: Attached Garage, Garage Door Opener, RV/Boat Parking, Side Entry Garage</detail>
+				<detail>RoomKitchenFeatures: Breakfast Bar, Pantry - Closet, Solid Surface Countertops</detail>
+				<detail>RoadSurfaceType: Asphalt</detail>
+				<detail>RoomDiningRoomFeatures: Separate Dining Room, Eating Space-Kitchen</detail>
+				<detail>BuildingAreaSource: Tax Roll</detail>
+				<detail>Heating: Central Heating</detail>
+				<detail>RoomBedroomFeatures: Split Bedrooms</detail>
+				<detail>PatioAndPorchFeatures: Lanai, Lanai - Screened</detail>
+				<detail>RoomBathroomFeatures: Garden Bath, Owner BathTub Separate Shower</detail>
+				<detail>AssociationName: Eagle Harbor HOA</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>AssociationPhone: 904-621-8363</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

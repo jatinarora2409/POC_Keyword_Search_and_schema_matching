@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$245,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,555</area>
+	</summary>
+	<address>
+		<street_address>2626 Via Los Altos,</street_address>
+		<city_state> Carrollton, TX 75006</city_state>
+	</address>
+	<overview>MULTIPUL OFFERS RECEIVED BEST AND FINAL DUE MON. OCT 12TH AT 1:PM  Beautiful open and spacious home. Recently updated and well kept. Kitchen is roomy and open with granite counter tops and custom  cabinetry. Large master bedroom includes sitting area used as office or nursery with own closet. Large walk in closet. Roomy Master Bath has his and her vanities and granite countertops. Separate full-size utility room. Smart home features, Nest thermostat, Ring doorbell, and more. Full size 2 car garage with openers. Private backyard has a cozy covered porch area that borders Maridoe Golf Club, with no back yard neighbors. New Roof 2017. Walking distance to Country Place Elementary. Great locationRead more</overview>
+	<listing_agent>
+		<agentName>micah weaks</agentName>
+		<phoneNumber>214-823-7783</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Texas Urban Living Realty</postingGroupName>
+		<postingWebsiteLinkText>Texas Urban Living Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1977</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">3,136 sqft</key>
+		<key name="Price/sqft:">$158</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Microwave</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,555 sqft</detail>
+				<detail>Fireplace features: Brick, Wood Burning, Masonry Box</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Brick</detail>
+				<detail>Fencing: Wood, Chain Link, Iron</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3,136 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 14107500200140000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Traditional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: Frame</detail>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1977</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1977</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water, Sidewalk, Concrete, Curbs, Underground Utilities, Individual Gas Meter</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 76.26</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Carrollton</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $106/mo</detail>
+				<detail>Services included: Full Use of Facilities, Management Fees, Front Yard Maintenance, Maintenance of Common Areas</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $225,480</detail>
+				<detail>Annual tax amount: $2,231</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14447538</detail>
+				<detail>Measurement Source: Tax</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Financing Proposed: Cash, Conventional, FHA, VA</detail>
+				<detail>Architectural Style: Traditional</detail>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>Other Equipment: Built-in Microwave, Range/Oven-Electric, Water Line to Refrigerator, Vent Mechanism, Dishwasher, Disposal</detail>
+				<detail>Special Notes: Survey Available</detail>
+				<detail>Construction Materials: Brick, Wood, Siding</detail>
+				<detail>Utilities: City Sewer, City Water, Sidewalk, Concrete, Curbs, Underground Utilities, Individual Gas Meter</detail>
+				<detail>County Or Parish: Dallas</detail>
+				<detail>Fencing: Wood, Chain Link, Iron</detail>
+				<detail>Fireplace Features: Brick, Wood Burning, Masonry Box</detail>
+				<detail>Exterior Features: Patio Covered, Covered Deck</detail>
+				<detail>Interior Features: Cable TV Available, High Speed Internet Available, Window Coverings, Smart Home System</detail>
+				<detail>Flooring: Carpet, Ceramic Tile, Luxury Vinyl Plank</detail>
+				<detail>Heating: Central Air-Elec, Central Heat-Elec</detail>
+				<detail>Association Type: Mandatory</detail>
+				<detail>Lot Features: Some Trees, Adjacent to Greenbelt, Interior Lot, Landscaped</detail>
+				<detail>Lot Size: Less Than .5 Acre (not Zero)</detail>
+				<detail>Parking Features: Garage, Garage Door Opener, Attached, Front, Opener, 2-Car Single Doors</detail>
+				<detail>Structural Style: Single Detached</detail>
+				<detail>Foundation Details: Slab</detail>
+				<detail>Possession: Negotiable</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Soil Type: Unknown</detail>
+				<detail>Association Fee Includes: Full Use of Facilities, Management Fees, Front Yard Maintenance, Maintenance of Common Areas</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

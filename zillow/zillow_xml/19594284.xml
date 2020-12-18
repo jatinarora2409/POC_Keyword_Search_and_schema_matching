@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,149,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,310</area>
+	</summary>
+	<address>
+		<street_address>1424 Maryann Dr,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Welcome to 1424 Maryann Dr, in the tech hub of the world &amp; the heart of the Silicon Valley, Santa Clara, CA. This home features 3 bedrooms, 2.5 bathrooms, 1,310 SQ ft of living space with hardwood floors, situated on a lot over 6,000 SQ ft &amp; sunlight that shines throughout. The lot features an extensive driveway to fit multiple vehicles down the path into your two car garage. In the backyard, theres an accessory dwelling style shed that has been carpeted &amp; includes double pane windows that can be utilized as a home office, man cave or kids play or study room. Lastly, this home also features a beautifully remodeled En Suite bathroom. Centrally located to nearby tech giants that power the world with Nvidia a few minutes away, as well as Apple and Google within a 15 minute commute. You can also walk to the nearby Santa Clara Town Center to shop at Target or dine at fine dining like Mission City Grill &amp; then take your family out to the park at Steve Carli Park &amp; enjoy a beautiful day!Read more</overview>
+	<listing_agent>
+		<agentName>Ameer Tantawy</agentName>
+		<phoneNumber>650-941-1111</phoneNumber>
+		<agentLicenseNumber>License #02000684</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,416 sqft</key>
+		<key name="Price/sqft:">$877</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Laundry features: Inside</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,310 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,416 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 29008113</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1959</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1959</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 89.26</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

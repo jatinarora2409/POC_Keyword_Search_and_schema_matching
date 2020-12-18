@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3420 W Hadley St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$315,000</Price>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<key name="$127 / Sq. Ft.">2,487</key>
+	</main_stats>
+	<text_base_description>Beautiful home. Lovely kitchen with granite counter tops. Huge lot with basketball area, court yard great for entertaining, pool and lots of space for kids. Close to schools, shopping, freeway, park and hospital 10 minute from downtown Phoenix </text_base_description>
+	<listed_by>
+		<name>Maria Guerrero</name>
+		<org> • Realty ONE Group </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$315,000</List_Price>
+		<Est._Mo._Payment>$1,261</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$127</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>57 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1951</Year_Built>
+		<Style>Santa Barbara/Tuscan</Style>
+		<Community>Tierra Verde</Community>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<key name="MLS#">6114415</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item>Bedrooms Plus: 4</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Bathrooms: 2</item>
+						<item>3/4 Master Bathroom</item>
+					</item>
+				</item>
+				<item>
+					<item>Kitchen &amp; Dining Information</item>
+					<item>
+						<item>Built-in Microwave, Cook Top Electric, Cook Top Gas, Granite Countertops</item>
+						<item>Kitchen Updated In: 2020</item>
+						<item>Eat-in Kitchen</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Separate Workshop</item>
+					</item>
+				</item>
+				<item>
+					<item>Appliances &amp; Equipment</item>
+					<item>
+						<item>Inside Laundry, Washer/Dryer Hookup Only</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item># of Interior Levels: 1</item>
+						<item>1 Fireplace</item>
+						<item>Tile Floors</item>
+						<item>Floors Partially Updated</item>
+						<item>Fixer-Upper/Needs Repair</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Electric Heating</item>
+						<item>Refrigeration</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item># of Parking Spaces (Slab): 4</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>No HOA</item>
+						<item>Capital Improvement/Impact Fee: 0</item>
+						<item>Not Managed</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School: Jack L. Kuban</item>
+						<item>Junior High School: Carl T. Smith Middle</item>
+						<item>High School: Carl Hayden</item>
+						<item>Elementary School District: 021 - Murphy Elementary District</item>
+						<item>High School District: 210 - Phoenix Union High School District</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Water</item>
+						<item>Sewer (Public)</item>
+						<item>Utilities: APS</item>
+						<item>City Services</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Pool &amp; Spa Information</item>
+					<item>
+						<item>Private Pool</item>
+						<item>Private</item>
+						<item>Diving Pool, Private Pool</item>
+					</item>
+				</item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Block Construction, Wood Frame Construction</item>
+						<item>Stucco Exterior</item>
+						<item>Other Roof (See Remarks)</item>
+						<item>Builder Name: unknow</item>
+						<item>Exterior Stories: 1</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Approximate Sq. Ft. Range: 2,251-2,500</item>
+						<item>Sq. Ft. Source: County Assessor</item>
+						<item>Builder Name: unknow</item>
+						<item>Dwelling Styles: Detached</item>
+						<item>Tax Municipality: Maricopa County</item>
+						<item>Assessor Number: 109-58-007</item>
+						<item>Assessor's Book #: 109</item>
+						<item>Assessor's Map #: 58</item>
+						<item>Assessor's Parcel #: 7</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Approximate Lot Size Range: 15,001 - 18,000</item>
+						<item>Block Fencing, View/Wrought Iron Fencing</item>
+						<item>Landscaping: Dirt in Back, Dirt in Front</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: 35th Ave and Buckeye Rd</item>
+						<item>Census Tract: 4.00</item>
+						<item>Directions: I-10 turn south on 35th Ave , turn west on Hadley St  to the property, property is on the north side</item>
+					</item>
+				</item>
+				<item>
+					<item>Reports &amp; Disclosures</item>
+					<item>
+						<item>Seller Disclosure Available</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>2,592</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,592</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1951</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10958007</APN>
+	</public_facts>
+</home>

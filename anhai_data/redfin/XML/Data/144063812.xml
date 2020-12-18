@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3669 17th St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94114</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,195,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$968 / Sq. Ft.">1,235</key>
+	</main_stats>
+	<text_base_description>Stunningly renovated 2BD Vic condo in best location! Open and flexible floor plan w soaring ceilings, period dets and rich wood floors. Spacious light filled LR with bay windows, and a gorgeous fireplace. Romantic, spacious, principal BDR opens to the LR or closes for privacy w the original pocket doors. The 2nd BDR is spacious, private and quiet  perfect for guests and as a large home office. The pro, renovated KIT w Sub Zero refrigerator, Blue Star range, custom cabinetry, and plenty of work and storage space, opens to the expansive DR. The DR lined w windows features original built-ins and is perfect for entertaining. Tiled full bath w the original clawfoot tub and Carrera marble heated floors. In unit laundry room. Updated electrical and plumbing, and CAT 5 wiring throughout. Lush, sun drenched shared garden. Meticulously maintained, owner occupied 3-unit bldg. Ample storage. Rotational 1 car pkg among units. 96 WalkScore, 99 TransitScore, and 96 BikeScore! A must see home! </text_base_description>
+	<listed_by>
+		<name>Jessica Branson</name>
+		<agentLicenseDisplay>•DRE #01729408</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,195,000</List_Price>
+		<Est._Mo._Payment>$5,460</Est._Mo._Payment>
+		<Redfin_Estimate>$1,313,156</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$968</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>Flat, Condominium</Property_Type>
+		<HOA_Dues>$425/month</HOA_Dues>
+		<Year_Built>1911</Year_Built>
+		<Style>Victorian</Style>
+		<Community>Mission Dolores</Community>
+		<key name="MLS#">506852</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Homeowners Association, Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Undesignated On-Site Parking</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Rotational</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $425</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Victorian</group_dat>
+						<group_dat>Type: Flat</group_dat>
+						<group_dat># of Units: 3</group_dat>
+						<group_dat>Per Graphic Artist</group_dat>
+						<group_dat>APN: 3579-047</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Split Bath</group_dat>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 2 Bedrooms, Dining Room, Family Room, Kitchen</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Church</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,195,000</group_dat>
+						<group_dat>On Market Date: Friday, October 2, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,213</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1911</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3579 047</APN>
+	</public_facts>
+</home>

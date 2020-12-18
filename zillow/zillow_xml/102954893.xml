@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$540,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,565</area>
+	</summary>
+	<address>
+		<street_address>309 W Washington Ave UNIT 309,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>An elegant jewel in the city center with spectacular views of the Wisconsin Capitol building from multiple rooms &amp; outdoor spaces! Phenomenal corner unit w/ split bedrooms &amp; baths, open floor plan, contemporary chic finishes &amp; techie upgrades! Cherry floors &amp; cabinets, SubZero refrigerator &amp; stainless steel appliances, travertine tile in baths, California Closets in kitchen &amp; 2nd bedroom, blackout shades in bedrooms, Nest thermostat &amp; August Bluetooth doorlock! Enormous owners suite w/ room for office AND workout area, posh bathroom w/ soaking tub, tiled shower &amp; dbl sinks! Awesome amenities: storage unit across the hall, heated parking, onsite managemt, fitness &amp; biz center!Read more</overview>
+	<listing_agent>
+		<agentName>Anna Trull</agentName>
+		<phoneNumber>608-256-9011</phoneNumber>
+		<agentLicenseNumber>License #53579-90</agentLicenseNumber>
+		<postingGroupName>Stark Company, REALTORS</postingGroupName>
+		<postingWebsiteLinkText>Stark Company, REALTORS</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2008</key>
+		<key name="Heating:">Forced air, Other</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$345</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,565 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage - Attached</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Other, Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923165348</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2008</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2010</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $414,200</item>
+				<item>Annual tax amount: $8,618</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

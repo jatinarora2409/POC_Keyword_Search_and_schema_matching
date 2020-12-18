@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$139,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,150</area>
+	</summary>
+	<address>
+		<street_address>2200 Marsh Hawk Ln UNIT 416,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>This is a beautiful condo in a great location. 2nd story unit so no neighbors above you. High ceilings, 2 spacious bedrooms with walk in closets and separate full baths. Includes a balcony with an amazing view! Have access to all the Fleming Island Plantation amenities while staying on the quieter side of Fleming Island. Come check it out while it last.Read more</overview>
+	<listing_agent>
+		<agentName>LISA GARNER</agentName>
+		<phoneNumber>904-996-9115</phoneNumber>
+		<agentLicenseNumber>License #BK3188296</agentLicenseNumber>
+		<postingGroupName>FLORIDA HOMES REALTY &amp; MORTGAGE LLC</postingGroupName>
+		<postingWebsiteLinkText>FLORIDA HOMES REALTY &amp; MORTGAGE LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$185/mo</key>
+		<key name="Price/sqft:">$121</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,150 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+				<item>Covered spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Vinyl, Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 04052601426620064</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+				<item>Architectural style: Contemporary</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 93.24</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s), Fire Sprinkler System</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Fleming Island</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $185/mo</item>
+				<item>Association name: The CAM Team</item>
+				<item>Association phone: (904) 278-2338</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $100,489</item>
+				<item>Annual tax amount: $2,394</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 1076318</item>
+				<item>Measurement Source: Tax Roll</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Sewer: Public Sewer</item>
+				<item>WaterSource: Public</item>
+				<item>Flooring: Tile, Wall-to-Wall Carpet</item>
+				<item>Appliances: Refrigerator, Microwave, Electric Range</item>
+				<item>AssociationYN: Yes</item>
+				<item>Roof: Shingle</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>CommunityFeatures: Playground, Tennis Court(s), Clubhouse, Club Facilities</item>
+				<item>ConstructionMaterials: Vinyl Siding, Wood Frame</item>
+				<item>ExteriorFeatures: Balcony</item>
+				<item>ArchitecturalStyle: Contemporary</item>
+				<item>InteriorFeatures: Breakfast Bar, Walk-In Closet(s), Family Room, Living/Dining Combo, Ceiling 8+ Ft., Pantry - Closet</item>
+				<item>CoveredSpaces: 0</item>
+				<item>RoadFrontageType: City Street</item>
+				<item>Cooling: Central Air</item>
+				<item>LivingAreaSource: Tax roll</item>
+				<item>SecurityFeatures: Smoke Detector(s), Fire Sprinkler System</item>
+				<item>RoomKitchenFeatures: Breakfast Bar, Pantry - Closet</item>
+				<item>RoadSurfaceType: Asphalt</item>
+				<item>LotFeatures: Suburban, Regular Lot</item>
+				<item>RoomDiningRoomFeatures: Living/Dining Combo</item>
+				<item>BuildingAreaSource: Tax Roll</item>
+				<item>Heating: Central Heating</item>
+				<item>AssociationName: The CAM Team</item>
+				<item>AssociationPhone: (904) 278-2338</item>
+				<item>MlsStatus: Active</item>
+				<item>RoomBathroomFeatures: Owner Bath Tub W/Shower</item>
+			</item>
+		</item>
+	</other_details>
+</home>

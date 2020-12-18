@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$19,500,000</price>
+		<bd>4</bd>
+		<ba>6</ba>
+		<area>6,685</area>
+	</summary>
+	<address>
+		<street_address>2574 Green St,</street_address>
+		<city_state> San Francisco, CA 94123</city_state>
+	</address>
+	<overview>Spectacular view home! Located on a prime block in Pacific Heights this stately light-filled mansion-style residence has grand scale public rms w/high ceilings &amp; exquisite detail &amp; spans 4 lvls (connected by elevator) each w/views of the Bay &amp; w/GG Bridge views from the upper floors. With roots dating back to 1906 this exceptional home has been renovated w/incredible luxury while still retaining its heritage &amp; architectural integrity. Exquisite moldings, leaded &amp; stained glass windows, &amp; 7 FP's all w/elaborate surrounds recall the home's original grandeur. Main lvl w/banquette-sized living &amp; dining rms, renovated eat-in kitchen, library/office, &amp; bedrm suite. 2nd lvl w/master suite w/2 full baths &amp; exceptional closet space, additional bedrm, &amp; family/media rm. 3rd lvl w/recreation rm, game rm, large terrace, &amp; an all-glass solarium w/spa. Lower lvl w/fitness ctr, bedrm suite, wine cellar, &amp; direct access to a private &amp; serene walk-out garden. Oversized 1 car garage + driveway parking.Read more</overview>
+	<listing_agent>
+		<agentName>Steven Gothelf</agentName>
+		<phoneNumber>415-901-1700</phoneNumber>
+		<agentLicenseNumber>License #00709006</agentLicenseNumber>
+		<postingGroupName>Sotheby's International Realty</postingGroupName>
+		<postingWebsiteLinkText>Sotheby's International Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1906</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="Lot:">6,111 sqft</key>
+		<key name="Price/sqft:">$2,917</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 6</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 6,685 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick, Stucco, Wood</item>
+				<item>View description: City, Territorial, Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.14 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0952014</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1906</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.44</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

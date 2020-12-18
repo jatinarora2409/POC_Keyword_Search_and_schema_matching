@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2305 Barton Creek Blvd #24 </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,700,000</Price>
+		<Beds>4</Beds>
+		<Baths>3.5</Baths>
+		<key name="$451 / Sq. Ft.">3,772</key>
+	</main_stats>
+	<text_base_description> * THE BEST VIEWS OF THE FAZIO FOOTHILLS GOLF COURSE AT BARTON CREEK * LOCATED IN THE GATED COMMUNITY OF THE FAIRWAYS AT BARTON CREEK * PERFECT FOR GOLFERS, PERFECT FOR LOCK  &amp;  LEAVE, PERFECT FOR ACCESS TO BARTON CREEK  RESORT * PROPERTY OWNER MEMBERSHIP AVAILABLE TO BARTON CREEK COUNTRY CLUB * 2 MASTERS ONE UP  &amp;  ONE DOWN * FLEXIBLE FLOOR PLAN * MULTIPLE DECKS * GOLF CART GARAGE * JUST BRING YOUR CLUBS! </text_base_description>
+	<listed_by>
+		<name>Cathie Richard</name>
+		<agentLicenseDisplay>•TREC #0376266</agentLicenseDisplay>
+		<org> RE/MAX Austin Skyline</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,700,000</List_Price>
+		<Est._Mo._Payment>$8,512</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$451</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<HOA_Dues>$360/month</HOA_Dues>
+		<Year_Built>1997</Year_Built>
+		<Community>Fairways On Fazio At Barton Creek Co</Community>
+		<Lot_Size>0.50 Acres</Lot_Size>
+		<key name="MLS#">6902758</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 3</group_dat>
+						<group_dat># of Half Bathrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Bedroom</group_dat>
+						<group_dat>Features: Ceiling Fan(s), High Ceilings, Recessed Lighting</group_dat>
+						<group_dat>Level: Lower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Bedroom</group_dat>
+						<group_dat>Features: Ceiling Fan(s)</group_dat>
+						<group_dat>Level: Lower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Bedroom</group_dat>
+						<group_dat>Features: High Ceilings, Recessed Lighting, Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Lower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Features: Bookcases, Ceiling Fan(s), Recessed Lighting, Smart Thermostat</group_dat>
+						<group_dat>Level: Lower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Living Room</group_dat>
+						<group_dat>Features: Bookcases, Ceiling Fan(s), High Ceilings, Sound System, Vaulted Ceiling(s), Wired for Sound</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Features: Chandelier, High Ceilings</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Office</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 8 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Area, Ceiling Fan(s), Kitchen Island, Recessed Lighting</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 9 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Ceiling Fan(s), Double Vanity, Garden Tub/Roman Tub, High Ceilings, Recessed Lighting, Separate Shower, Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 10 Information</heading>
+					<group_data>
+						<group_dat>Master Bathroom</group_dat>
+						<group_dat>Features: Ceiling Fan(s), Double Vanity, Garden Tub/Roman Tub, High Ceilings, His and Hers Closets, Recessed Lighting, Separate Shower</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Glass Doors, Gas Log, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Oven, Cooktop, Dryer, Dishwasher, Gas Cooktop, Disposal, Microwave, Refrigerator, Warming Drawer, Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Flooring: Carpet, Tile, Wood</group_dat>
+						<group_dat>Other Features: Built-in Features, Ceiling Fan(s), Crown Molding, Separate/Formal Dining Room, Double Vanity, High Ceilings, His and Hers Closets, In-Law Floorplan, Interior Steps, Kitchen Island, Multiple Living Areas, Multiple Closets, Recessed Lighting, Sound System, Walk-In Closet(s), Wired for Sound</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking (Total): 2</group_dat>
+						<group_dat># of Covered Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Year Built Source: Public Records</group_dat>
+						<group_dat>Roof Details: Tile</group_dat>
+						<group_dat>Construction Details: Stone Veneer, Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Balcony, Exterior Steps</group_dat>
+						<group_dat>Patio And Porch Features: Covered, Deck, Porch, Balcony</group_dat>
+						<group_dat>Security Features: Security System Owned</group_dat>
+						<group_dat>Fencing: Wrought Iron</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Green Features</heading>
+					<group_data>
+						<group_dat>Green Energy Efficient: HVAC, Thermostat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, School / Neighborhood, Location Details</heading>
+			<details>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: The Fairways</group_dat>
+						<group_dat>Association Fee: $360</group_dat>
+						<group_dat>Monthly</group_dat>
+						<group_dat>Association Fee Includes: Common Areas, Maintenance Grounds, Trash</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Common Grounds/Area, Golf, Gated</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Cable Available, Electricity Connected, Natural Gas Connected, Phone Available, Sewer Connected</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air, Ceiling Fan(s), Zoned</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central, Natural Gas, Zoned</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Assessment</heading>
+					<group_data>
+						<group_dat>Assessed Value: $914,300</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $15,807</group_dat>
+						<group_dat>Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.5</group_dat>
+						<group_dat>Lot Size Acres: 0.5</group_dat>
+						<group_dat>Lot Features: Close to Clubhouse, Landscaped, Moderate Trees, On Golf Course, Sprinklers In Ground, Views</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Direction Faces: Northeast</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>3,772</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,772</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1997</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>541132</APN>
+	</public_facts>
+</home>

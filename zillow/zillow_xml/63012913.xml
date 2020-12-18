@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$220,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>700</area>
+	</summary>
+	<address>
+		<street_address>614 W Doty St APT 305,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Great Downtown Condo close to everything! Updated luxury vinyl plank flooring and new fridge in 2017. High ceilings, wide hallway and large windows create an open and spacious feel in this urban retreat. Stainless appliances and granite counter tops. Convenient to the Capitol Square, UW Madison Athletic Venues, Farmers Market, Restaurants, Lake Monona, Brittingham Bay and boat rentals. The Southwest Commuter Bike Trail is steps from your front door. Quiet dead-end street and heated underground parking with available guest parking. Beautiful courtyard. Great condo community and neighborhood make this a wonderful place to call home.Read more</overview>
+	<listing_agent>
+		<agentName>Lena Oberwetter</agentName>
+		<phoneNumber>608-836-7433</phoneNumber>
+		<agentLicenseNumber>License #80810-94</agentLicenseNumber>
+		<postingGroupName>First Weber Inc</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2004</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$314</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 700 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923411593</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2004</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.78</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

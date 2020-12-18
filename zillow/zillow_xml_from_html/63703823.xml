@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$249,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,200</area>
+	</summary>
+	<address>
+		<street_address>2351 W Congress Pkwy APT 1,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>First floor 2BR/2Bath condo near UIC /Rush Medical District! Recently remodeled Kitchen with stainless appliances and granite counter. 9' high ceiling. Newly polished hardwood floor through out. Large living room with gas fireplace. MBB features double bowl vanity sinks, jacuzzi, and separate shower. In unit washer/dryer. Newer HAVC.  Exterior parking space included. Easy access to I-290. Walking distance to Blue line train, parks and shopping. Self managed. Rental allowed.Read more</overview>
+	<listing_agent>
+		<agentName>Kai Han</agentName>
+		<phoneNumber>630-929-1100</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Charles Rutenberg Realty of IL</postingGroupName>
+		<postingWebsiteLinkText>Charles Rutenberg Realty of IL</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$200/mo</key>
+		<key name="Price/sqft:">$208</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,200 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Off-street, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 4</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3,704 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 17181270591001</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2002</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 85.37</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Chicago</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $200/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $176,000</detail>
+				<detail>Annual tax amount: $2,807</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10886480</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Driveway: Asphalt</detail>
+				<detail>Electricity: Circuit Breakers</detail>
+				<detail>Exterior Building Type: Brick, Block</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas, Forced Air</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Water: Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Snow Removal, Parking</detail>
+				<detail>Status: Active</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Exposure: W (West), S (South), E (East), N (North)</detail>
+				<detail>Parking: Off Street, Off Alley, Assigned Spaces</detail>
+				<detail>Parking Type: Space/s</detail>
+				<detail>Kitchen Flooring: Hardwood</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>2nd Bedroom Flooring: Hardwood</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Square Feet Source: Assessor</detail>
+				<detail>Master Bedroom Bath (Y/N): Full</detail>
+				<detail>Age: 16-20 Years</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Recent Rehab (Y/N): Yes</detail>
+				<detail>Exterior Property Features: End Unit</detail>
+				<detail>Interior Property Features: Hardwood Floors</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 17181270591001</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

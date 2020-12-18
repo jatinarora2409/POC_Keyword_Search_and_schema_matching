@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,400,000</price>
+		<bd>5</bd>
+		<ba>5</ba>
+		<area>5,225</area>
+	</summary>
+	<address>
+		<street_address>2908 Maravillas Loop,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Remodeled in Woods I of Barton Creek, this is truly one of the most stately and inviting homes on a private estate lot. Beautiful herringbone white oak hardwoods throughout. Clean lines, open and airy. Expanded kitchen with custom cabinetry, quartz counters and professional grade appliances. Must see first floor main primary bedroom with sitting area, en suite bath boasts heated marble flooring, and a massive walk-in closet with built ins. The study has walls of custom bookshelves and cabinets certain to impress. The grand curved staircase which leads to second floor game room with wet bar, fireplace, and second wine refrigerator. Large secondary bedrooms all with walk-in closets. The lush fairy-tale backyard, with plenty of room to play, swim, spa and unwind can be your next entertainment destination.  Optional property owner membership to Omni Barton Creek Country Club conveys. 2020-09-17Read more</overview>
+	<listing_agent>
+		<agentName>Kathryn Scarborough</agentName>
+		<phoneNumber>512-328-3939</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Engel &amp; Voelkers Austin Westlake</postingGroupName>
+		<postingWebsiteLinkText>Engel &amp; Voelkers Austin Westlake</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1995</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="HOA:">$123/month</key>
+		<key name="Lot:">0.84 acres</key>
+		<key name="Price/sqft:">$459</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 5,225 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.84 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01133605140000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1995</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2012</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 62.39</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

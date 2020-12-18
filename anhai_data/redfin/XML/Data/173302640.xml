@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2575 Dominion </street-address>
+		<locality>Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$150,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>OPPORTUNITY KNOCKS ON THIS PRIME HIGHLY SOUGHT OUT NEIGHBORHOOD OF MOUNT OLYMPUS!!! Build your dream home on this beautiful parcel of land with 350 degree views of Los Angeles. Surrounded by Multi Million Dollar custom homes and less than 1/2 mile away from Harry Houdinis private estate, this piece of land is a true hidden gem. Priced to sell! </text_base_description>
+	<listed_by>
+		<name>Jennifer Weston</name>
+		<agentLicenseDisplay>•DRE #01899200</agentLicenseDisplay>
+		<org> R.F.N Homes</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$150,000</List_Price>
+		<Est._Mo._Payment>$692</Est._Mo._Payment>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Community>C20 - Hollywood</Community>
+		<Lot_Size>8,411 Sq. Ft.</Lot_Size>
+		<key name="MLS#">SR20205910</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Mountainous</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Water Source: None, Private</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.11887100</group_dat>
+						<group_dat>Longitude: -118.37224600</group_dat>
+						<group_dat>Directions: Laurel Canyon to Dominion Ln</group_dat>
+						<group_dat>Zoning: LARE11</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Distance To Water Comments: 1</group_dat>
+						<group_dat>Elevation Units: Feet</group_dat>
+						<group_dat>Lot Size Source: Assessor's Data</group_dat>
+						<group_dat>Lot Size Dimensions: 8411</group_dat>
+						<group_dat>Lot Features: 0-1 Unit/Acre</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Parcel Number: 5565027001</group_dat>
+						<group_dat>Has View</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5565027001</APN>
+	</public_facts>
+</home>

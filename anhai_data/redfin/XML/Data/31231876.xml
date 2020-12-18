@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8309 Club Ridge Dr </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,695,000</Price>
+		<Beds>4</Beds>
+		<Baths>4</Baths>
+		<key name="$315 / Sq. Ft.">5,381</key>
+	</main_stats>
+	<text_base_description>Come and enjoy the outstanding resort lifestyle associated with The Ridge at Barton Creek!  This stunning custom home offers panoramic Hill Country, Resort and Golf Course views backing to expansive greenbelt. Private negative edge pool, gourmet kitchen, study, game/hobby room off the kitchen. Private entrance to Garage apartment offering  living, kitchen, bedroom and full bath. 2 car plus golf cart garage, storage galore, stone floors and cherry hardwoods, mahogany doors. Second game room or large view 4th bedroom up. The Ridge is a private fully fenced and gated enclave of luxury homes featuring direct golf cart access to the facilities of the Omni Resort, spa, golf and Barton Creek Country Club.  </text_base_description>
+	<listed_by>
+		<name>Eve Kush</name>
+		<agentLicenseDisplay>•TREC #0476494</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,695,000</List_Price>
+		<Est._Mo._Payment>$8,547</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$315</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>2 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<HOA_Dues>$153/month</HOA_Dues>
+		<Year_Built>1994</Year_Built>
+		<Community>Ridge At Barton Creek</Community>
+		<Lot_Size>0.34 Acres</Lot_Size>
+		<key name="MLS#">9034996</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Area, Granite Counters, Gourmet Kitchen, Pantry</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Master Bathroom</group_dat>
+						<group_dat>Features: Double Vanity, His and Hers Closets, Jetted Tub, Stone Counters, Separate Shower, Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Coffered Ceiling(s), Double Vanity, High Ceilings, Soaking Tub, Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Gas Log, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Electric Oven, Built-In Refrigerator, Cooktop, Down Draft, Dishwasher, Gas Cooktop, Disposal, Gas Water Heater, Icemaker, Microwave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Flooring: Carpet, Stone, Wood</group_dat>
+						<group_dat>Other Features: Built-in Features, Cedar Closet(s), Ceiling Fan(s), Chandelier, Crown Molding, Coffered Ceiling(s), Double Vanity, Entrance Foyer, French Door(s)/Atrium Door(s), High Ceilings, In-Law Floorplan, Multiple Living Areas, Main Level Master, Vaulted Ceiling(s), Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Garage, Garage Faces Side</group_dat>
+						<group_dat># of Parking (Total): 4</group_dat>
+						<group_dat># of Covered Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Year Built Source: Public Records</group_dat>
+						<group_dat>Roof Details: Tile</group_dat>
+						<group_dat>Construction Details: Stone Veneer, Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Garden, Private Entrance, Private Yard, Rain Gutters</group_dat>
+						<group_dat>Patio And Porch Features: Deck, Patio</group_dat>
+						<group_dat>Security Features: Security System Owned, Fenced, Smoke Detector(s)</group_dat>
+						<group_dat>Fencing: Back Yard, Partial, Wrought Iron</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Has Private Pool</group_dat>
+						<group_dat>Pool Features: Heated, In Ground, Pool/Spa Combo</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, School / Neighborhood, Location Details</heading>
+			<details>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Ridge at BC HOA</group_dat>
+						<group_dat>Association Fee: $460</group_dat>
+						<group_dat>Quarterly</group_dat>
+						<group_dat>Association Fee Includes: Common Areas, Trash</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Community Mailbox, Curbs, Golf, Gated</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Natural Gas Connected, Water Connected</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air, Zoned</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central, Natural Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Assessment</heading>
+					<group_data>
+						<group_dat>Assessed Value: $1,449,610</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $16,481</group_dat>
+						<group_dat>Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.34</group_dat>
+						<group_dat>Lot Size Acres: 0.34</group_dat>
+						<group_dat>Lot Features: Close to Clubhouse, Cul-De-Sac, Backs to Greenbelt/Park, Near Golf Course, Landscaped, Moderate Trees, Private, Sprinklers Automatic, Views</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Direction Faces: Northwest</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>5,105</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>5,105</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>0.34 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1994</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>115473</APN>
+	</public_facts>
+</home>

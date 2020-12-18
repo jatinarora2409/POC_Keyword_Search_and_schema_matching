@@ -1,0 +1,239 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>812 Woodrock Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$119,900</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$150 / Sq. Ft.">800</key>
+	</main_stats>
+	<text_base_description>Such a cute home in the Forest Grove community!  3 beds, 2 full baths and attached one-car garage. Some remodeling finished, some started but not finished. Chance to start from scratch and design your own kitchen!  Lots of possibilities for this property. Less than 20 minutes to downtown Dallas, and within walking distance of schools and parks. Schedule your showing today.  </text_base_description>
+	<listed_by>
+		<name>Christopher Lawrence</name>
+		<org> • Trillionaire Realty </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$119,900</List_Price>
+		<Est._Mo._Payment>$779</Est._Mo._Payment>
+		<Redfin_Estimate>$127,830</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$150</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1983</Year_Built>
+		<Style>Single Detached, Traditional</Style>
+		<Community>Forest Grove 06</Community>
+		<Lot_Size>10,716 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14448398</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking &amp; Garage</item>
+					<item>
+						<item># of Parking Spaces (Garage): 1</item>
+						<item># of Parking Spaces (Total Covered): 1</item>
+						<item>Garage Dimensions: 15 x 17</item>
+						<item>Attached</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Buckner</item>
+						<item>Intermediate School Name: Patton</item>
+						<item>Middle School Name: Comstock</item>
+						<item>Junior High School Name: Piedmont Global Academy</item>
+						<item>High School Name: Seagoville</item>
+						<item>Primary School Name: Brashear</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Sewer, City Water</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item># of Rooms: 5</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 1 Information</item>
+					<item>
+						<item>Room Type: Master Bedroom</item>
+						<item>Level: 1</item>
+						<item>Dimensions: 14 x 16</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 2 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 14</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 3 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 12 x 15</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 4 Information</item>
+					<item>
+						<item>Room Type: Living Room</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 14 x 18</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 5 Information</item>
+					<item>
+						<item>Room Type: Kitchen</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: 10 x 9</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Other (See Remarks)</item>
+						<item># of Fireplaces: 1</item>
+						<item>Fireplace Features: Brick</item>
+						<item>Flooring: Carpet, Laminate</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central A/C (Electric), Central Heat (Gas)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Pre-Owned</item>
+						<item>Building Area Source: Tax</item>
+						<item>Foundation: Slab</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Roof: Composition</item>
+						<item>Exterior Construction: Brick</item>
+						<item>Fencing: Wood</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Taxes / Assessments, Financing, Location Details</item>
+			<item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Legal Description: FOREST GROVE #6 BLK B/6689 LT 10 INT201800127</item>
+						<item>Unexempt Taxes: $3,261</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Financing Proposed: Cash, Conventional, FHA-203K, Other (See Remarks)</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: Forest Grove 06</item>
+						<item>Directions: Take I-635 S to US-175 Frontage Rd W in Dallas. Take the exit toward Masters Dr from US-175 W. Take S Masters Dr to Woodrock Dr.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Living Areas: 1</item>
+						<item>Restrictions: Unknown Encumbrance(s)</item>
+						<item>For Sale</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item># of Stories: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Block: B6689</item>
+						<item>Lot Number: 10</item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.246</item>
+						<item>Area Sq. Ft.: 10,715.76</item>
+						<item>Parcel Number: 0066890B000100000</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>800</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>800</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>10,720 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1983</Year_Built>
+		<Year_Renovated>2000</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>0066890B000100000</APN>
+	</public_facts>
+</home>

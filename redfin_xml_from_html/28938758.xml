@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>300 Berry St #409 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94158</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$950,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$1226 / Sq. Ft.">775</key>
+	</main_stats>
+	<text_base_description>One of a kind with views!  Arterra is Mission Bay's first LEED-certified green luxury residential high-rise. 409 has park  &amp;  water views through floor-to-ceiling windows that flood the unit with morning light. This 2BR/1BA split floor plan features bamboo floors, open kitchen with granite counters and stainless appliances. Building amenities include 24-hour doorman, fitness center, and roof deck with BBQ area and Arterra has extra suite for guests. Lower HOA dues. Close to shopping, entertainment, both ball parks, Mission Creek Park, CalTrain and 101/280. 1 deeded parking space is included. Mission Bay is San Francisco's most dynamic neighborhood! </text_base_description>
+	<listed_by>
+		<name>Bill Williams</name>
+		<agentLicenseDisplay>•DRE #01343131</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$950,000</List_Price>
+		<Est._Mo._Payment>$4,340</Est._Mo._Payment>
+		<Redfin_Estimate>$948,648</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,226</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$592/month</HOA_Dues>
+		<Year_Built>2009</Year_Built>
+		<Style>Modern/High Tech</Style>
+		<Community>Mission Bay</Community>
+		<key name="MLS#">507516</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 2 Bedrooms, 1 Bath</group_dat>
+						<group_dat># of Rooms: 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Built/Remodeled Green Certification: LEED</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Gym</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Gas, Garbage</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $592.32</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>Articles of Incorporation, Bylaws, CC&amp;Rs, Financial Statements, Budget</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Water, Park</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Modern/High Tech</group_dat>
+						<group_dat>Energy Conservation: Low-Flow Toilet(s)</group_dat>
+						<group_dat># of Units: 269</group_dat>
+						<group_dat>Floor #: 4</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 8704-039</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 5th</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $950,000</group_dat>
+						<group_dat>On Market Date: Tuesday, October 6, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>775</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2009</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>8704 039</APN>
+	</public_facts>
+</home>

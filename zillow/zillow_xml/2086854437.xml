@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$4,100,000</price>
+		<bd>14</bd>
+		<ba>14</ba>
+		<area>8,583</area>
+	</summary>
+	<address>
+		<street_address>7631 Norton Ave,</street_address>
+		<city_state> West Hollywood, CA 90046</city_state>
+	</address>
+	<overview>7631 Norton Avenue, constructed in 1961, is an 8,583 square foot building on a 6,269 square foot WDR2 lot.  The property boasts a desirable unit mix of six one-bedroom/one-bathroom units and four two-bedroom/two-bathroom units.  The spacious units offer tile and laminate flooring, gas stoves, forced heat, wall units for cooling, and select units have a balcony.  Four units have been extensively renovated with new kitchens and bathrooms, upgraded flooring, and recessed lights. This property is part of a portfolio sale with 924 N Stanley Avenue and 1047 N Stanley Avenue. Properties can be sold together or separately.Read more</overview>
+	<listing_agent>
+		<agentName>Priscilla Nee</agentName>
+		<phoneNumber>323-333-0909</phoneNumber>
+		<agentLicenseNumber>License #01435254</agentLicenseNumber>
+		<postingGroupName>CB Richard Ellis, Inc.</postingGroupName>
+		<postingWebsiteLinkText>CB Richard Ellis, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multi Family</key>
+		<key name="Year built:">1961</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central, Wall</key>
+		<key name="Parking:">10 spaces</key>
+		<key name="Price/sqft:">$478</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 14</item>
+				<item>Bathrooms: 14</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Linoleum / Vinyl, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central, Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Freezer, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 8,583 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 10</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.14 acres</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1961</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.42</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: West Hollywood</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$700,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>822</area>
+	</summary>
+	<address>
+		<street_address>4471 Richard Dr,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Northeast of Downtown LA and south of Pasadena, this 2Bed/1Bath SFR is on two lot sale. House is on Lot 69 connected to vacant Lot 70, which adds up to a lot size of almost 12,000 sqft! In a great up-and-coming Los Angeles neighborhood near Pasadena, Downtown LA, Alhambra, Highland Park. A great opportunity for developers and contractors. BIG potential for development opportunity!Read more</overview>
+	<listing_agent>
+		<agentName>Anna Lee</agentName>
+		<phoneNumber>323-762-2600</phoneNumber>
+		<agentLicenseNumber>License #01438991</agentLicenseNumber>
+		<postingGroupName>Keller Williams Larchmont</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Larchmont</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1938</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">0.27 Acres</key>
+		<key name="Price/sqft:">$852</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Laundry features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 822 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.27 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Other</item>
+				<item>Parcel number: 5309009037</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1938</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1944</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 81.76</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

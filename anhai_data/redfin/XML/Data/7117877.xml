@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1255 N Harper Ave #3 </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$338,000</Price>
+		<Beds>—</Beds>
+		<Bath>1</Bath>
+		<key name="$793 / Sq. Ft.">426</key>
+	</main_stats>
+	<text_base_description>Welcome to the Harper Regency, a Mid-Century Modern building in the heart of West Hollywood featuring a beautiful, well-maintained pool. This comfortable studio unit is located on the ground floor between the front entrance and the pool. One assigned parking spot and private storage is included.  </text_base_description>
+	<listed_by>
+		<name>Lucy Mao</name>
+		<agentLicenseDisplay>•DRE #01779052</agentLicenseDisplay>
+		<org> COMPASS</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$338,000</List_Price>
+		<Est._Mo._Payment>$1,559</Est._Mo._Payment>
+		<Redfin_Estimate>$340,698</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$793</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$311/month</HOA_Dues>
+		<Year_Built>1960</Year_Built>
+		<Style>Mid Century Modern</Style>
+		<Community>C10 - West Hollywood Vicinity</Community>
+		<Lot_Size>0.35 Acres</Lot_Size>
+		<key name="MLS#">P1-1685</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour URL Branded: Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual TourURL Unbranded: Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking / Garage Information</heading>
+					<group_data>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Assigned, Built-In Storage, Garage, Gated</group_dat>
+						<group_dat>Has Parking</group_dat>
+						<group_dat># of Parking Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units In Community: 26</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association</heading>
+					<group_data>
+						<group_dat>Is Part of Association</group_dat>
+						<group_dat>Association Name: Harper Regency</group_dat>
+						<group_dat>Monthly</group_dat>
+						<group_dat>Association Fee: $311</group_dat>
+						<group_dat>Association Amenities: Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Has Laundry</group_dat>
+						<group_dat>Community, In Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Appliances: Gas Range, Refrigerator</group_dat>
+						<group_dat>Has Appliances</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Cooling Information</heading>
+					<group_data>
+						<group_dat>Wall Window</group_dat>
+						<group_dat>Has Cooling</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>All Bedrooms Down, Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating Information</heading>
+					<group_data>
+						<group_dat>Wall Heater</group_dat>
+						<group_dat>Has Heating</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Ceiling Fan</group_dat>
+						<group_dat>Levels: One</group_dat>
+						<group_dat>Security Features: Gated Community</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Exterior Information</heading>
+					<group_data>
+						<group_dat>Multi Family</group_dat>
+						<group_dat>Fencing: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio And Porch Features: None</group_dat>
+						<group_dat>Pool Features: In Ground</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Sidewalks</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>High School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Property / Lot Details, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Sewer: Sewer or Septic - Unknown</group_dat>
+						<group_dat>Water Source: District/Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Common Interest: Condominium</group_dat>
+						<group_dat>Common Walls: 2+ common walls, No one below</group_dat>
+						<group_dat>Direction Faces: South</group_dat>
+						<group_dat>Living Area Source: Public Records</group_dat>
+						<group_dat>Parcel Number: 5554020098</group_dat>
+						<group_dat>Attached Property</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.09343700</group_dat>
+						<group_dat>Longitude: -118.36928500</group_dat>
+						<group_dat>Other Subdivision Name: Not Applicable</group_dat>
+						<group_dat>Subdivision Name: Not Applicable</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>426</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>426</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1960</Year_Built>
+		<Year_Renovated>1970</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5554020098</APN>
+	</public_facts>
+</home>

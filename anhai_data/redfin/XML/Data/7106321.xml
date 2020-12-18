@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1205 N Orange Grove Ave </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,995,000</Price>
+		<Beds>5</Beds>
+		<Baths>4</Baths>
+		<key name="$715 / Sq. Ft.">2,789</key>
+	</main_stats>
+	<text_base_description>Prime West Hollywood location, 95 on WalkScore.com. Only a 4 minute walk to Whole Foods. The main house is 3 bed/2 bath +den, hardwood floors throughout. Remodeled kitchen has granite countertops, stainless steel appliances, built in microwave vent hood and dishwasher. The living room features a fireplace and bright dining room with sky light. The separate office could be used as a den or convert to 4th bedroom. Spacious master bedroom with a custom walk in closet. Spa and quality finishes in the master bath, with oversized jacuzzi tub and shower, custom tile and skylight. In-unit washer and dryer. Large enclosed private patio offers lovely outdoor space. Rear 2 units are 1 bedroom and 1 bathroom. Both have been lightly renovated and have hardwood flooring throughout, dishwashers, and in unit washer and dryers. Property is gated with secured entry. Great owner/user asset. Zoned R3C also provides development opportunity.  </text_base_description>
+	<listed_by>
+		<name>Kimberly Roberts Stepp</name>
+		<agentLicenseDisplay>•DRE #01251767</agentLicenseDisplay>
+		<org> KWSM</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,995,000</List_Price>
+		<Est._Mo._Payment>$9,200</Est._Mo._Payment>
+		<Redfin_Estimate>$1,969,549</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$715</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>5 hours</Time_on_Redfin>
+		<Property_Type>Residential Income</Property_Type>
+		<Year_Built>1920</Year_Built>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>7,330 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-544070</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>No Cooling</group_dat>
+						<group_dat>Wall Gas Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features, School / Neighborhood, Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5530-001-033</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: N Fairfax Avenue and Fountain Avenue</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Multi-Unit Income</heading>
+					<group_data>
+						<group_dat>Laundry Income: $1,200</group_dat>
+						<group_dat>Gross Income: 105384</group_dat>
+						<group_dat>Gross Operating Income: $105,384</group_dat>
+						<group_dat>Net Operating Income: $70,909</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Expenses</heading>
+					<group_data>
+						<group_dat>Pest Expense: $300</group_dat>
+						<group_dat>Insurance Expense: $1,700</group_dat>
+						<group_dat>Water Expense: $2,800</group_dat>
+						<group_dat>Gardener Expense: $900</group_dat>
+						<group_dat>Total Annual Expense: $31,314</group_dat>
+						<group_dat>Tax Expense: $24,614</group_dat>
+						<group_dat>Other Expense: $1,000</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Other Financial Information</heading>
+					<group_data>
+						<group_dat>Cap Rate: 3.48</group_dat>
+						<group_dat>Gross Rent Multiplier: 18.93</group_dat>
+						<group_dat>Vacancy Rate: 1</group_dat>
+						<group_dat>Scheduled Actual: Actual</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat>Unit Type Type: 1, 2, 3</group_dat>
+						<group_dat>Type Of Units: Mixed</group_dat>
+						<group_dat># of Buildings: 2</group_dat>
+						<group_dat>Laundry Equipment: Own</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 1 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 3</group_dat>
+						<group_dat># of Baths: 2.00</group_dat>
+						<group_dat>Rent: $4,160</group_dat>
+						<group_dat>Projected Rent: $4,160</group_dat>
+						<group_dat>Actual Rent: $4,160</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 2 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $2,400</group_dat>
+						<group_dat>Projected Rent: $2,400</group_dat>
+						<group_dat>Actual Rent: $2,400</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 3 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $2,222</group_dat>
+						<group_dat>Projected Rent: $2,222</group_dat>
+						<group_dat>Actual Rent: $2,222</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Income</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 7,330</group_dat>
+						<group_dat>Zoning: R3C</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: City Inspection Required</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,191</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,191</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>7,330 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1920</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5530001027</APN>
+	</public_facts>
+</home>

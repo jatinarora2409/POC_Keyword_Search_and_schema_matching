@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$799,900</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>2,878</area>
+	</summary>
+	<address>
+		<street_address>12116 W Potter Rd,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>New Construction! Stunning 2019 Demlang open concept exposed ranch w/ soaring ceilings, white oak wide planked floors &amp; knotty alder beams. Light filled foyer leads to great room w/ vaulted ceiling that is open to a fabulous Chef's kitchen w/ sunny formal dining room &amp; family room. State of the Art kitchen w/ white quartz counter tops, spacious prep island, top of line stainless appliances, &amp; walk in pantry. Mudroom/ study is an all-purpose utility room with dog washing station, laundry room &amp; cubbies for the kids. First floor Master Suite has cozy screened in porch &amp; walk-in closets, private bath w/ dual vanities &amp; oversize shower. 2 additional bedrooms w/ Jack &amp; Jill Bath. Exposed lower level adds another 2800 unfinished square feet &amp; is stubbed for a full bath &amp; has full sized windows.Read more</overview>
+	<listing_agent>
+		<agentName>Suzanne Powers</agentName>
+		<phoneNumber>414-963-0000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Powers Realty Group</postingGroupName>
+		<postingWebsiteLinkText>Powers Realty Group</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2019</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">0.48 Acres</key>
+		<key name="Price/sqft:">$278</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 2</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Full, Sump Pump, 8+ Ceiling, Stubbed for Bathroom, Full Size Windows, Exposed Basement</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+				<detail>Laundry features: Main Level</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,878 sqft</detail>
+				<detail>Fireplace features: Gas</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 3</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 3</detail>
+				<detail>Covered spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Accessible Approach with Ramp, Open Floor Plan, Stall Shower, Bedroom on Main Level, Full Bath on Main Level</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Stone, Cement / Concrete</detail>
+				<detail>Patio and porch details: Patio</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.48 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 3780094000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Ranch</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Windows: Low Emissivity Windows</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2019</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2019</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+				<detail>Utilities for property: Cable Available</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Energy efficient items: Appliances</detail>
+				<detail>Sunscore: Great solar potentialSun Number™: 88.12</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $81,900</detail>
+				<detail>Annual tax amount: $2,075</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1709558</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Microwave, Washer, Oven/Range</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>ArchitecturalStyle: Ranch</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>InteriorFeatures: Wet Bar, Kitchen Island, Pantry, Walk-In Closet(s), Vaulted Ceiling(s), High Speed Internet, Split Bedrooms, At least one Bathtub, Ceramic Tile, MBR Bath Separate Tub, MBR Bath Walk-in Shower, Shower Over Tub, Shower Stall</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>Utilities: Cable Available</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>PatioAndPorchFeatures: Patio</detail>
+				<detail>Basement: Full, Sump Pump, 8+ Ceiling, Stubbed for Bathroom, Full Size Windows, Exposed Basement</detail>
+				<detail>FireplaceFeatures: Gas</detail>
+				<detail>RoomsTotal: 10</detail>
+				<detail>ConstructionMaterials: Stone, Fiber Cement</detail>
+				<detail>GreenEnergyEfficient: Appliances</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Attached, Paved, Garage Door Opener</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>LaundryFeatures: Main Level</detail>
+				<detail>AccessibilityFeatures: Accessible Approach with Ramp, Open Floor Plan, Stall Shower, Bedroom on Main Level, Full Bath on Main Level</detail>
+				<detail>LotFeatures: Sidewalk</detail>
+				<detail>WindowFeatures: Low Emissivity Windows</detail>
+				<detail>CoveredSpaces: 3.50</detail>
+				<detail>Flooring: Wood or Sim. Wood Floors</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

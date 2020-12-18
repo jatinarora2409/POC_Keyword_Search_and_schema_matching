@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>5540 32nd St NW </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,030,000</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$449 / Sq. Ft.">2,294</key>
+	</main_stats>
+	<text_base_description>Charming 4 BR 3 BA cape in Chevy Chase DC. Sun filled home w spacious BRs  &amp;  closets, renovated baths, hrdwd flrs, arched doorways, upgraded kit appl, sep DR, LR with FP  &amp;  sunrm to flagstone patio w fenced yrd. Private access to in-law suite/Apt w sep BR, full bath  &amp;  kit. Walk to Redline Metro Bus to Friendship Heights. 3 blocks to  &amp;  Lafayette Elementary  &amp;  Broad Branch Mkt. See Virtual Tour </text_base_description>
+	<listed_by>
+		<name>Andrew Silverberg</name>
+		<org> Structure Realty LLC</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,030,000</List_Price>
+		<Est._Mo._Payment>$4,251</Est._Mo._Payment>
+		<Redfin_Estimate>$1,028,938</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$449</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>13 hours</Time_on_Redfin>
+		<Year_Built>1947</Year_Built>
+		<Style>Cape Cod</Style>
+		<Community>CHEVY CHASE</Community>
+		<Lot_Size>5,000 Sq. Ft.</Lot_Size>
+		<key name="MLS#">DCDC485316</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Unbranded (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Unassigned</group_dat>
+						<group_dat>On Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: LAFAYETTE</group_dat>
+						<group_dat>Middle Or Junior School: DEAL</group_dat>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>Forced Air</group_dat>
+						<group_dat>Heating Fuel: Natural Gas</group_dat>
+						<group_dat>Hot Water: Natural Gas</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On 1st Upper Level: 2</group_dat>
+						<group_dat># of Bedrooms On Main Level: 1</group_dat>
+						<group_dat># of Bedrooms On 1st Lower Level: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On 1st Upper Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On Main Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On 1st Lower Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Upper Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Lower Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Appliances: Dishwasher, Disposal, Dryer, Microwave, Range Hood, Refrigerator, Stove, Washer</group_dat>
+						<group_dat>Not Furnished</group_dat>
+						<group_dat>Interior Features: Dining Area, Family Room Off Kitchen, Built-Ins, Wood Floors, Floor Plan - Traditional</group_dat>
+						<group_dat>Living Area Sq.Ft. Source: Estimated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Laundry Type: Lower Floor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 2</group_dat>
+						<group_dat>Screen, Gas/Propane, Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Assessed Value: $888,710</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $6,580</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Outside City Limits</group_dat>
+						<group_dat>Directions: Connecticut Avenue to Mckinley St (East) - to 32nd St - Mk R - Home on R</group_dat>
+						<group_dat>Transportation: Metro/Subway Station less than 1 mile</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Not Federal Flood Zone</group_dat>
+						<group_dat>Total Below Grade Sq. Ft.: 816</group_dat>
+						<group_dat>Horse: No</group_dat>
+						<group_dat>Ownership Interest: Fee Simple</group_dat>
+						<group_dat>Property Condition: Very Good</group_dat>
+						<group_dat>Year Built Source: Estimated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Construction Materials: Brick</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Outdoor Living Structures: Patio(s), Porch(es), Screened</group_dat>
+						<group_dat>Pets Allowed: No</group_dat>
+						<group_dat>Structure Type: Detached</group_dat>
+						<group_dat>Window Features: Bay/Bow, Energy Efficient, Low-E, Screens</group_dat>
+						<group_dat>Other Structures: Shed</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Information</heading>
+					<group_data>
+						<group_dat>Extensive Hardscape</group_dat>
+						<group_dat>Fencing: Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Features: Landscaping, Rear Yard</group_dat>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft.: 0</group_dat>
+						<group_dat>Unfinished Sq.Ft. Source: Estimated</group_dat>
+						<group_dat>Finished Sq.Ft.: 1,478</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Estimated</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft. Source: Estimated</group_dat>
+						<group_dat>Finished Sq.Ft.: 816</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Estimated</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>1,478</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,478</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>5,000 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1947</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>2023    0028</APN>
+	</public_facts>
+</home>

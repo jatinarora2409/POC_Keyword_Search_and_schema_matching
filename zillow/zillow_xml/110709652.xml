@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$274,900</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,035</area>
+	</summary>
+	<address>
+		<street_address>2107 N 119th St,</street_address>
+		<city_state> Wauwatosa, WI 53226</city_state>
+	</address>
+	<overview>Beautiful 4 bedroom 2 full bath Cape Cod sits at Wauwatosa's hot location. New flooring, updated kitchen and bathrooms, newer SS appliances and new A/C unit with transferrable warranty. Open concept layout from the kitchen to the family room. Natural fireplace and fenced backyard. Beautiful landscaping offers lots of privacy. A large 3 car detached garage gives more storage space. The house is much larger than it looks from the street. Come today to make it your home!!!Read more</overview>
+	<listing_agent>
+		<agentName>Jing Hua</agentName>
+		<phoneNumber>414-899-3888</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Wave Realty</postingGroupName>
+		<postingWebsiteLinkText>Wave Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1957</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">6,969 sqft</key>
+		<key name="Price/sqft:">$135</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Full, Block, Sump Pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,035 sqft</item>
+				<item>Fireplace features: Wood Burning</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 3</item>
+				<item>Covered spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Open Floor Plan, Bedroom on Main Level, Full Bath on Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Spa included: Yes</item>
+				<item>Spa features: Bath</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,969 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3380198002</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: CAPE COD</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1957</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1970</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+				<item>Utilities for property: Cable Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Energy efficient items: Appliances</item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.92</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Wauwatosa</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

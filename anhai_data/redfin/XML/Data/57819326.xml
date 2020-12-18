@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>123 W Washington Ave #509 </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$355,000</Price>
+		<Bed>1</Bed>
+		<Baths>1.5</Baths>
+		<key name="$356 / Sq. Ft.">996</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Own a piece of history! The Loraine is a stunning national landmark that's been recently updated and is just steps to the capitol square. You're going to be wowed when you walk in to this spacious, immaculate, one bedroom one and a half bath condo. The interior boasts tray ceilings, a den/guest room with pocket door, built-ins, gourmet kitchen with custom maple cabinetry, solid surface countertops, and breakfast bar. The spacious master bedroom overlooks the capitol with small attached den/library and private full bath with double vanity. Front powder room with in-unit laundry. Includes storage unit right down the hall and 1 underground parking space. (Storage 509, parking 62) Condo fee includes water.  </text_base_description>
+	<listed_by>
+		<name>Heather Weasler</name>
+		<org> Inventure Realty Group, Inc</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$355,000</List_Price>
+		<Est._Mo._Payment>$1,951</Est._Mo._Payment>
+		<Redfin_Estimate>$346,839</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$356</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>120 days</Time_on_Redfin>
+		<Property_Type>Condo</Property_Type>
+		<HOA_Dues>$469/month</HOA_Dues>
+		<Year_Built>2004</Year_Built>
+		<Community>Madison</Community>
+		<key name="MLS#">1885544</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading> Virtual Tour Branded</heading>
+					<group_data>
+						<group_dat> Branded Virtual Tour: https://wisconsin3d.com/tours/123-w-washington-ave-unit-509-madison-wi-53703/skinned/</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Condo Fee Monthly: $469</group_dat>
+						<group_dat>Association Common Amenities: Common Green Space, Elevator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Forced Air, Central Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $7,590</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 14 x 13</group_dat>
+						<group_dat>Master Bedroom Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): At Least 1 Tub, Tub/Shower Combo  in Master Bathroom</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Wood or Simulation Wood Floors, Great Room, Cable/Satellite Available, High Speed Internet, Storage Locker Included</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Other Room 2 Name: Other</group_dat>
+						<group_dat>Living Room Dimensions: 16 x 15</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 10 x 9</group_dat>
+						<group_dat>Den/Office Dimension: 8 x 7</group_dat>
+						<group_dat>Den/Office Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher, Microwave, Garbage Disposal, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking: Underground, 1-5 Spaces, 1 Space, Assigned</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat>Garage: Underground, Underground Garage, Underground Space, Opener Included</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Estimated Sq. Ft. Range: 751-1000</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior: Brick, Stone</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Condo Information</heading>
+					<group_data>
+						<group_dat>Condominium Name: The Loraine</group_dat>
+						<group_dat>Garden</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 87</group_dat>
+						<group_dat>Units In Association: 87</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Middle School: Hamilton</group_dat>
+						<group_dat>High School: West</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Rental Information</heading>
+					<group_data>
+						<group_dat>Pets Permitted</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: range/oven, refrigerator, dishwasher, microwave, disposal, washer &amp; dryer</group_dat>
+						<group_dat>Exclusions: personal property of seller (however some items may be negotiable)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Condo</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat> Zoning: DC</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1.5</Baths>
+		<Finished_Sq._Ft.>942</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>942</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2004</Year_Built>
+		<Year_Renovated>2007</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070923150406</APN>
+	</public_facts>
+</home>

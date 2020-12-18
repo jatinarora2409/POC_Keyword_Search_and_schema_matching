@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$779,500</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,191</area>
+	</summary>
+	<address>
+		<street_address>1525 N Hayworth Ave APT 101,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>PRIME LOCATION: Enjoy coveted living just north of Sunset Blvd in this large, 1191 Sqft, recently remodeled front desirable condo. Rare 2 bedrooms, 2 bath condo at the Versailles Terrace.  Fall in love immediately upon entry with the sophisticated open floor plan, beautifully accented with sleek laminate floors and beautiful tiles. A luxurious  kitchen with quartz countertops, that boasts stainless steel appliances, stylish custom solid wood cabinetry that graciously flows to the dining space. Beautiful new remodeled deco guest bathroom and Master Bathroom. Relax in this one of a kind ultra luxurious 26 sqft master shower with custom seated area and high pressure rain shower head. You'll feel like you're in a spa. Has HVAC system with Hepa air filtration. Must see to believe. Revel in the beauty of this tropical courtyard mid century complex with a beautiful sparkling swimmers pool. New copper plumbing and water purifier throughout the unit as well as the building. Move-in today. With this Super central location right in the heart of everything off Sunset Boulevard. Located across from Starbucks, Veggie Grill, just moments from Trader Joe's, Bristol Farms, Château Marmont, Crunch gym, all local banks, as well as the famous Laugh Factory and Greenblats Deli. This unit comes with 1 secured underground parking spot and in-unit washer/dryer hook up, in addition to guest parking. Low HOA dues. Hurry this property won't last.Read more</overview>
+	<listing_agent>
+		<agentName>Keith Jacobson</agentName>
+		<phoneNumber>818-707-6926</phoneNumber>
+		<agentLicenseNumber>License #00865982</agentLicenseNumber>
+		<postingGroupName>Option Realty</postingGroupName>
+		<postingWebsiteLinkText>Option Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Other, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$394/mo</key>
+		<key name="Price/sqft:">$654</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 1,191 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Entry location: Ground Level w/Steps, Ground Level - No Steps</item>
+				<item>Private pool: Yes</item>
+				<item>View description: City, Mountain</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.50 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5551017067</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1959</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2017</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: In Street</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.22</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

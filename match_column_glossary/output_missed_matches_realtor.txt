@@ -1,0 +1,51 @@
+C: property_year
+G: listed residence built-in year
+
+C: address_locality
+G: city of the residence
+
+C: property_id
+G: listed residence mls id
+
+C: principal_interest
+G: residences monthly mortgage payment
+
+C: home_style
+G: residences style of construction
+
+C: price_per_sqft
+G: price per square feet of the residence
+
+C: longitude
+G: residences geographical coordinates
+
+C: latitude
+G: residences geographical coordinates
+
+C: streetAddress
+G: address of the residence
+
+C: bath
+G: number of bathrooms of the residence listed
+
+C: beds
+G: number of bedrooms of the residence listed
+
+C: price
+G: offer price of the residence in usd
+
+C: lotsize
+G: lot area size of the residence in acres
+
+C: sqft
+G: area size of the residence in square feet
+
+C: hoa
+G: home owners association fees of the residence
+
+C: branding_agent_name
+G: realtors name
+
+C: property_tax_section
+G: None
+

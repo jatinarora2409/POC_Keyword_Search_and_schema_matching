@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$250,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,250</area>
+	</summary>
+	<address>
+		<street_address>2826 W Harrison St #3,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Pride in ownership shows in this stunning top floor 3 bedroom 2 bathroom with lots of upgrades. Walk into the large open living space with dramatic vaulted ceilings featuring multiple skylights that bleed sunlight into every corner of the home. The open kitchen is is detailed with 42&quot; cherry cabinets, granite counters, stainless steel appliances, Island, and separate dining room. The large master suite is outfitted with a good sized walk-in closet and a nicely updated bathroom with a double vanity and jacuzzi tub. All closets have been professionally organized. Hardwood floors throughout.  Upgrades include. New water heater, all new windows/ sliding doors, new custom entryway railing, surround sound in the living area, natural gas line to exterior grill. Secured/ gated parking for 2 cars and a very large storage area complete this great home. Priced below market!  Schedule your showing today.Read more</overview>
+	<listing_agent>
+		<agentName>JP Bitting</agentName>
+		<phoneNumber>312-254-0200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>@properties</postingGroupName>
+		<postingWebsiteLinkText>@properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$171/mo</key>
+		<key name="Price/sqft:">$200</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,250 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Brick</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,851 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 16131320491003</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Septic-Mechanical</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.57</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

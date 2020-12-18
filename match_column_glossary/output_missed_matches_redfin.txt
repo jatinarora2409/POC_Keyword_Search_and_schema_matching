@@ -1,0 +1,69 @@
+C: street_address
+G: address of the listing
+
+C: locality
+G: city of the listing
+
+C: MLS#
+G: listing mls id
+
+C: APN
+G: listing apn id
+
+C: agent_org
+G: listing agents office name
+
+C: beds
+G: bedroom count in the listing
+
+C: beds
+G: bedroom count in the listing
+
+C: baths
+G: bathroom count in the listing
+
+C: baths
+G: bathroom count in the listing
+
+C: area
+G: area size of the listing in square feet
+
+C: total_sq
+G: area size of the listing in square feet
+
+C: price
+G: offer price of the listing in usd
+
+C: listing_price
+G: offer price of the listing in usd
+
+C: year_built
+G: listing built-in year
+
+C: year_built
+G: listing built-in year
+
+C: lot_size
+G: lot area of the listing in acres
+
+C: finished_sq_ft
+G: furnished area size of the listing in square feet
+
+C: cost_per_squre_feet
+G: price per square feet of the listing
+
+C: price_per_Sq_ft
+G: price per square feet of the listing
+
+C: est
+G: listings monthly mortgage payment
+
+C: redfin_estimate
+G: the estimated price of the listing
+
+C: hoa_dues
+G: home owners association fees of the listing
+
+C: unfinished_sq_ft
+G: unfurnished area size of the listing in square feet
+

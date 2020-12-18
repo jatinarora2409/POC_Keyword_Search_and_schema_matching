@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,249,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,037</area>
+	</summary>
+	<address>
+		<street_address>451 Kansas St UNIT 468,</street_address>
+		<city_state> San Francisco, CA 94107</city_state>
+	</address>
+	<overview>City skyline views from one of the largest 2BR/2BA condos at The Potrero! This light and bright, corner unit boasts an open floor plan and the ideal layout with split bedrooms. Recent upgrades include custom closet organizers, glass tile kitchen backsplash, wide plank wood floors, light fixtures, and fresh new finishes throughout. Master suite features dual sinks and walk-in closet. Unit includes independent parking in secured garage. Common area amenities include gym, pilates room, rooftop deck with views and lush courtyards. Easy access to Whole Foods!Read more</overview>
+	<listing_agent>
+		<agentName>Becky Layton</agentName>
+		<phoneNumber>415-345-3000</phoneNumber>
+		<agentLicenseNumber>License #01395866</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$637/mo</key>
+		<key name="Price/sqft:">$1,204</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,037 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage - Attached</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,037 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3978093</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 22.44</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Fitness Center, On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

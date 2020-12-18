@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,199,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,440</area>
+	</summary>
+	<address>
+		<street_address>88 King St UNIT 822,</street_address>
+		<city_state> San Francisco, CA 94107</city_state>
+	</address>
+	<overview>Exceptional waterfront corner residence w spectacular Bay Bridge, Marina &amp; Oracle Park views! Feel your absolute best in this rejuvenating oasis on water w 2 outdoor terraces perfect for entertaining! Enclosed flex rm, expansive living area &amp; spacious bedrooms showcasing stunning Bay Bridge views. Enjoy nightly light shows &amp; beautiful sunrises daily! Modern large windows w calming Bay views &amp; bright natural light in all 4 rooms. Expansive gourmet kitchen feat. beautiful cabinetry, extended counter &amp; ample cabinet space. Spacious master suite w floor to ceiling windows &amp; ensuite bath w soaking tub. In-unit washer/dryer, secured parking, add'l storage, internet included. Deluxe 5 star amenities; pool/spa, gym, outdoor bbq/fireplace, business ctr, entertainment rm, concierge, 24 hour security. A short walk to SF Ferry Building, Farmer's Market, Mission Bay Parks, Grocery stores, Oracle Park, Embarcadero Waterfront &amp; FiDi. A commuter's dream w easy access to Freeways, Caltrain, MUNI/BARTRead more</overview>
+	<listing_agent>
+		<agentName>Miyuki &quot;Mia&quot; Takami</agentName>
+		<phoneNumber>415-483-9285</phoneNumber>
+		<agentLicenseNumber>License #01796537</agentLicenseNumber>
+		<postingGroupName>Keller Williams San Francisco</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams San Francisco</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2000</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$1,153/mo</key>
+		<key name="Price/sqft:">$1,527</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,440 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage - Attached</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>View description: Water</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3793174</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2000</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.14</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Fitness Center, On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

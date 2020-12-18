@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1919 Broderick St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94115</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,699,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$1077 / Sq. Ft.">1,578</key>
+	</main_stats>
+	<text_base_description>Welcome home to this charming remodeled Pacific Heights Victorian that looks and feels like a single family two story home, but technically is a condo. The light filled first floor features a spacious living/dining room with lovely bay window and patio, leading you to the well appointed eat in kitchen with stainless appliances, limestone counters, built in office area, breakfast bar and french doors opening on to the lush greenery of a peaceful shared garden. A full bath, laundry+storage room complete the first floor. The dramatic staircase brings you up to the second floor, featuring two large bedrooms including a huge primary suite with bay window, walk in closet remodeled spa like bathroom with jet tub and heated floors. Down the hall, the spacious 2nd bedroom opens onto a private deck overlooking the garden. Parking pad/space and no monthly HOA dues make this a great opportunity, not to be missed! Steps to Sacramento/California and Fillmore streets restaurants, cafes, shops and transportation.  </text_base_description>
+	<listed_by>
+		<name>Marianne Bacigalupi Schier</name>
+		<agentLicenseDisplay>•DRE #01194797</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,699,000</List_Price>
+		<Est._Mo._Payment>$7,764</Est._Mo._Payment>
+		<Redfin_Estimate>$1,717,029</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,077</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 hours</Time_on_Redfin>
+		<Property_Type>2 Story, Single-Family Home</Property_Type>
+		<Year_Built>1902</Year_Built>
+		<Style>Contemporary, Victorian</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">507842</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+						<group_dat>2 Bedrooms on Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 2</group_dat>
+						<group_dat>1 Bath on Upper Level</group_dat>
+						<group_dat>1 Bath on Main Level</group_dat>
+						<group_dat>Shower over Tub, Stall Shower, Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room on Main Level</group_dat>
+						<group_dat>Combination Living/Dining Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: In Laundry Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Remodeled</group_dat>
+						<group_dat>Kitchen on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Partial Carpet, Hardwood</group_dat>
+						<group_dat># of Rooms (Total): 0</group_dat>
+						<group_dat>1 Bath on Main Level, Living Room on Main Level, Dining Room on Main Level, Kitchen on Main Level</group_dat>
+						<group_dat>2 Bedrooms on Upper Level, 1 Bath on Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Heating/Cooling: Electric</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Multi-Unit Information, Homeowners Association, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Type: On Site</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat># of Parking Spaces: 1</group_dat>
+						<group_dat>Uncovered</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Sacramento</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Water &amp; Sewer</heading>
+					<group_data>
+						<group_dat>Public Water</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Wood Siding</group_dat>
+						<group_dat>Deck(s), Patio(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Description: Irregular</group_dat>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block</group_dat>
+						<group_dat>Shopping: 1 Block</group_dat>
+						<group_dat>Type: 2 Story</group_dat>
+						<group_dat>Per Graphic Artist</group_dat>
+						<group_dat>Patio(s), Deck(s)</group_dat>
+						<group_dat>APN: 1024033</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,699,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 8, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,367</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1902</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>1024 033</APN>
+	</public_facts>
+</home>

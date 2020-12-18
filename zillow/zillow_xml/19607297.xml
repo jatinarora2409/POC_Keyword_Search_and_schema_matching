@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,475,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,511</area>
+	</summary>
+	<address>
+		<street_address>3354 Londonderry Pl,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Crisp 1950s ranch-style home with tons of curb appeal! Situated on a fully manicured park-like property, this 1,511sf 3-bed/2-bath charmer is updated inside and out with no loss to its original mid-century appeal. A bright formal living room w/newly finished hardwood floors accentuate the rooms original brick fireplace and diamond muntin windows. The formal living room and large family room are connected by a central dining area w/large pass-through kitchen. When the weathers nice, throw a party that flows seamlessly out to the immaculate backyard where theres space to play on the lush lawn, grill on the brick patio, or simply sit and relax. Theres even a place to plant your favorite veggies and herbs! Mature trees surround the yard.The home boasts 2 fresh spa-like bathrooms with subway tile, an HVAC, 2 original brick fireplaces, stainless steel appliances, and new kitchen countertops. Close to Valley Fair, Santana Row, and major freeways.Move right in and make this home your own!Read more</overview>
+	<listing_agent>
+		<agentName>Shannon Rose</agentName>
+		<phoneNumber>408-560-9000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>KW Bay Area Estates - Los Gatos</postingGroupName>
+		<postingWebsiteLinkText>KW Bay Area Estates - Los Gatos</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1955</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,194 sqft</key>
+		<key name="Price/sqft:">$976</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven</item>
+				<item>Laundry features: In Garage</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,511 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco, Brick</item>
+				<item>View description: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,194 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 30314037</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1955</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1971</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.66</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

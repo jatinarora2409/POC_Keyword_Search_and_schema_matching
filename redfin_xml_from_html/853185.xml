@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1800 Bryant St #313 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94110</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,099,000</Price>
+		<Bed>1</Bed>
+		<Baths>2</Baths>
+		<key name="$1096 / Sq. Ft.">1,003</key>
+	</main_stats>
+	<text_base_description>A coveted top floor corner unit with private deck and stunning views at Franklin Square. Impressive large-scale windows offering the best city views spanning from Downtown to Twin Peaks and beyond. Absolutely flooded with light from windows cleverly placed at every angle and beaming with whimsical charm, this condo offers two step-out balconies in addition to its private deck, and a chance to play while inside too; a unique upgrade includes a swing from its soaring ceiling, hand-painted ceiling and papered walls, and decorative shelving, polished concrete and hardwood floors, plus a huge walk-in customized closet in its primary suite. An incredible location within walking distance to Tartine, Farmhouse Thai, Sightglass, many take-away hotspots, MUNI/BART, and freeway access.  </text_base_description>
+	<listed_by>
+		<name>Mollie Poe</name>
+		<agentLicenseDisplay>•DRE #01239280</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,099,000</List_Price>
+		<Est._Mo._Payment>$5,022</Est._Mo._Payment>
+		<Redfin_Estimate>$1,166,508</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,096</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Top Floor, Condominium</Property_Type>
+		<HOA_Dues>$524/month</HOA_Dues>
+		<Year_Built>2000</Year_Built>
+		<Style>Modern/High Tech</Style>
+		<Community>Inner Mission</Community>
+		<key name="MLS#">507595</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Deck</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower Over Tub, Stall Shower</group_dat>
+						<group_dat># of Baths: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Family Room Information</heading>
+					<group_data>
+						<group_dat>Family Room: View, Cathedral/Vaulted, Sunken, Deck Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood, Tile, Concrete</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Electric Range, Refrigerator, Dishwasher, Microwave, Garbage Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 1 Bath, Family Room, Kitchen</group_dat>
+						<group_dat>Upper Level: 1 Master Suite</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Outside Management</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $524.94</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>CC&amp;Rs</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 17th</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,099,000</group_dat>
+						<group_dat>On Market Date: Tuesday, October 6, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Panoramic, City Lights, San Francisco</group_dat>
+						<group_dat>Paved Driveway, Paved Sidewalk</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Modern/High Tech</group_dat>
+						<group_dat>Type: Top Floor</group_dat>
+						<group_dat># of Units: 50</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 3970-054</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,003</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2000</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3970 054</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$269,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,775</area>
+	</summary>
+	<address>
+		<street_address>2342 W Harrison St APT 2,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>You will not believe how massive this three bedroom, two bath home is. There is nothing like it in the area. This Tri-Taylor area home is just what you've been looking for. The open concept layout is ideal for entertaining. The kitchen has stainless steel appliances, granite countertops, a breakfast bar that can easily fit 5, and 42-inch cabinets which offer tons of storage. The master bedroom is spacious and has an oversized walk-in closet along with an attached master bath with large soaking tub and separate shower. Off of the master is a 200 square foot private balcony. This home also has washer and dryer in the unit and parking in a gated lot is included in the price.Read more</overview>
+	<listing_agent>
+		<agentName>Klopas Stratton</agentName>
+		<phoneNumber>312-927-0334</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Berkshire Hathaway HomeServices Chicago</postingGroupName>
+		<postingWebsiteLinkText>Berkshire Hathaway HomeServices Chicago</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1997</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$200/mo</key>
+		<key name="Price/sqft:">$152</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,775 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Off-street, On-street, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,200 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17181270501002</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1997</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

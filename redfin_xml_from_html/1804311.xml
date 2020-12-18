@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>601 Van Ness Ave #51 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94102</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$929,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$896 / Sq. Ft.">1,037</key>
+	</main_stats>
+	<text_base_description>Remarkable mid-century townhouse condo at Opera Plaza. The personal residence of noted architect Lois Davidson Gottlieb, a student and colleague of Frank Lloyd Wright, this home exudes the finest in mid-century modern design and craftsmanship. Custom walnut woodwork throughout with architectural details at every turn. Unique and clever storage solutions that enhance the usable space, including shelves for collectors of artwork and books. Tranquil location with bright and sunny south facing outlooks with fabulous views of City Hall and Twin Peaks. Exquisite fireplace hearth. Wood flooring and stainless kitchen with skylight. In unit w/ d hookups. Opera Plaza is a full service complex with many amenities including 24 hour security staff, concierge, on site management, heated pool and spa, fitness, racquetball court and more. Amazing central San Francisco location is close to Symphony, Ballet, Opera and City Hall. Leased parking available on site.  </text_base_description>
+	<listed_by>
+		<name>Daniel Langford</name>
+		<agentLicenseDisplay>•DRE #01751282</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$929,000</List_Price>
+		<Est._Mo._Payment>$4,246</Est._Mo._Payment>
+		<Redfin_Estimate>$930,566</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$896</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 hours</Time_on_Redfin>
+		<Property_Type>Townhouse, Top Floor, Condominium</Property_Type>
+		<HOA_Dues>$1,095/month</HOA_Dues>
+		<Year_Built>1982</Year_Built>
+		<Community>Van Ness/Civic Center</Community>
+		<key name="MLS#">507841</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Lease Available</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Subject to Monthly Parking Fees</group_dat>
+						<group_dat>Monthly Parking Fees: 240.00</group_dat>
+						<group_dat>Parking Features: Enclosed, Attached, Interior Access</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Spa/Hot Tub, Sauna, Racquetball Court(s), Gym</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Cable TV, Ext Bldg Maintenance, Grounds Maintenance, Security Service, Earthquake Insurance, Internet</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $1,095</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>Name: Opera Plaza HOA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Living/Dining Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1, Wood Burning</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Hookups Only, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Wall-to-Wall Carpet, Parquet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Electric Range, Refrigerator, Freezer, Dishwasher, Garbage Disposal, Skylight(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: Living Room, Dining Room, Kitchen</group_dat>
+						<group_dat>Lower Level/Basement: 2 Bedrooms, 2 Baths</group_dat>
+						<group_dat># of Rooms: 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Concrete Block Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool &amp; Spa Information</heading>
+					<group_data>
+						<group_dat>In-Ground, Common Facility</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Concrete</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Property / Lot Details, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Rental Information</heading>
+					<group_data>
+						<group_dat>Lease Term: Month-to-Month</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Type: Townhouse, Top Floor</group_dat>
+						<group_dat>Energy Conservation: Low-Flow Toilet(s)</group_dat>
+						<group_dat>Construction: Reinforced Concrete</group_dat>
+						<group_dat># of Units: 451</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 0762-051</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Turk/Golden Gate</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Restrictions</heading>
+					<group_data>
+						<group_dat>Pet Size Restrictions, Limited Number of Pets</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $929,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 8, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,037</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1982</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0762 051</APN>
+	</public_facts>
+</home>

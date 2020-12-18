@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2501 Apollo Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,375,000</Price>
+		<Beds>4</Beds>
+		<Baths>3.5</Baths>
+		<key name="$897 / Sq. Ft.">3,761</key>
+	</main_stats>
+	<text_base_description>Meticulous design and impeccable detail come together in this newly remodeled Mt Olympus masterpiece. Impressive open floor plan flows seamlessly to an outdoor paradise with oversized pool, spacious grassy deck, walls of ficus, &amp;  gorgeous canyon views. Kitchen was designed with the chef and entertainer in mind, w/ full Miele suite, 11ft custom slab island, &amp;  walnut cabinetry. Spacious 1000sqft master suite in its own wing features views of the canyon, private balcony, jaw-dropping designer bathroom  &amp;  walk-in closet, and separate private living area perfect for office, nursery, home gym, etc. Massive 4k theater off the main living space completes this designer-quality home. Indisputably the best finishes  &amp;  features to be found in the Hollywood Hills at this price.  </text_base_description>
+	<listed_by>
+		<name>Tomer Fridman</name>
+		<agentLicenseDisplay>•DRE #01750717</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,375,000</List_Price>
+		<Est._Mo._Payment>$15,559</Est._Mo._Payment>
+		<Redfin_Estimate>$3,228,447</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$897</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>34 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1977</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.41 Acres</Lot_Size>
+		<key name="MLS#">20-628442</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>All Bedrooms Up, Master Bedroom, WalkInCloset</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat>Powder Room, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Microwave, Range</group_dat>
+						<group_dat>Gourmet Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Breakfast Area, In Kitchen, Kitchen Island</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Family Room, Master Bedroom, Powder Room, Walk-In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Furnished Or Unfurnished</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Dryer, Microwave, Refrigerator, Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Multi Levels</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>In Ground Pool</group_dat>
+						<group_dat>In Ground Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5569-023-025</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Laurel Canyon to Mt. Olympus, Right on Oceanus Dr, Left on Hercules Dr, Right on Apollo.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: New Construction</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 17,955</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>3,561</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,561</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>0.41 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1977</Year_Built>
+		<Year_Renovated>1977</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5569023025</APN>
+	</public_facts>
+</home>

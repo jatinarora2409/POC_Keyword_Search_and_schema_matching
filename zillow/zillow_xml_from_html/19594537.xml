@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,699,946</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,810</area>
+	</summary>
+	<address>
+		<street_address>1142 Maryann Dr,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Newly finished home masterfully rebuilt with all the designer touches crafted around an open floor plan with no halls, no wasted space, just one large open entertaining area and 4 bedrooms including new Master Suite addition with 10ft ceilings.  Solid stone surfaces, over sized center island with breakfast bar, custom white shaker cabinets, all stainless appliances, motion sensing kitchen faucet, recessed LED lighting, custom laminate flooring, dramatic crown molding, craftsman style window and door molding, A solid STEEL entry door punctuate the attention to detail in the grand kitchen/living area.  It's all NEW including  electrical, plumbing, insulation, roof, dual pane windows, stucco, forced air heating &amp; AC, tankless water heater, roof, foundation retrofit/seismic bracing, huge 2.5 car garage, Italian Slate stamped/sealed concrete driveway &amp; rear entertaining area.  Minutes to Apple and all Tech Employers, 10 mins to Santana Row/Valley Fair, this is the good life!Read more</overview>
+	<listing_agent>
+		<agentName>Armin JR Mckee</agentName>
+		<phoneNumber>408-871-9111</phoneNumber>
+		<agentLicenseNumber>License #00901100</agentLicenseNumber>
+		<postingGroupName>Home In Silicon Valley</postingGroupName>
+		<postingWebsiteLinkText>Home In Silicon Valley</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">7,387 sqft</key>
+		<key name="Price/sqft:">$939</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Range / Oven, Refrigerator</detail>
+				<detail>Laundry features: Gas Hookup, In Utility Room, Electricity Hookup (220V), Electricity Hookup (110V)</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,810 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Stucco, Wood</detail>
+				<detail>Fencing: Wood, Fenced Back</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 7,387 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 29013050</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1954</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2020</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.86</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $66,841</detail>
+				<detail>Annual tax amount: $865</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81809360</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Amenities Misc.: High Ceiling, Walk-in Closet</detail>
+				<detail>Dining Room: Breakfast Nook, No Formal Dining Room, Dining Area in Living Room, Eat in Kitchen, Breakfast Bar, Dining Bar</detail>
+				<detail>Building Type: Detached</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Foundation: Concrete Perimeter, Crawl Space, Raised, Post and Beam</detail>
+				<detail>Style: Ranch</detail>
+				<detail>Lot Size Area Maximum Units: Square Feet</detail>
+				<detail>Energy Features: Ceiling Insulation, Insulation - Per Owner, Low Flow Shower, Low Flow Toilet, Double Pane Windows, Tankless Water Heater</detail>
+				<detail>Lot Size Area Minimum Units: Square Feet</detail>
+				<detail>Roof: Composition, Shingle</detail>
+				<detail>Sewer Septic: Sewer Connected, Sewer - Public</detail>
+				<detail>Water: Public</detail>
+				<detail>Heating: Forced Air, Central Forced Air - Gas</detail>
+				<detail>Garage Parking Features: Off-Street Parking, Room for Oversized Vehicle, Workshop in Garage, Drive Through, Detached Garage</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Flooring: Laminate</detail>
+				<detail>Additional Rooms: Formal Entry, Workshop, Great Room, Den / Study / Office</detail>
+				<detail>Bathroom: Shower and Tub, Tile, Double Sinks, Granite, Solid Surface, Stone</detail>
+				<detail>Kitchen: Oven Range - Gas, Island, Oven - Electric, Countertop - Stone, Exhaust Fan, Ice Maker, Refrigerator</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Construction Type: Wood Frame, Stone, Stucco</detail>
+				<detail>Fencing: Wood, Fenced Back</detail>
+				<detail>Structure SqFt Source: Other</detail>
+				<detail>Family Room: Other</detail>
+				<detail>HOA Exist Y/N: 0</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Cooling: Central AC</detail>
+				<detail>Laundry: Gas Hookup, In Utility Room, Electricity Hookup (220V), Electricity Hookup (110V)</detail>
+				<detail>Bedrooms: Master Bedroom on Ground Floor, Master Suite / Retreat, More than One Bedroom on Ground Floor, Walk-in Closet</detail>
+				<detail>Property Faces: East</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

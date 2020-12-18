@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$409,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,340</area>
+	</summary>
+	<address>
+		<street_address>2463 Tuckahoe Ct,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>Incredible Opportunity to own this Colonial Home Located right off 228/Berry Road.  This Home offers Open Space on the Main Living Area, and 90% of the floors on this level are Hardwood.  The Kitchen is Open and provides plenty of cabinets and counter space, plus tons of natural light in the kitchen and Recess Lighting!  There is an adjoining living room and family room that is perfect for All Your Gatherings.  The Upstairs also will not disappoint you, Large Rooms, and Plenty of Light.  The basement has a rough-in bathroom, and you can finish the area to fit your needs. Laundry is on the main level off the kitchen.  Perfect location for shopping and commuting!Read more</overview>
+	<listing_agent>
+		<agentName>Theresa Shoptaw</agentName>
+		<phoneNumber>301-609-9000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Century 21 New Millennium</postingGroupName>
+		<postingWebsiteLinkText>Century 21 New Millennium</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1996</key>
+		<key name="Heating:">Heat pump, Electric</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.35 Acres</key>
+		<key name="Price/sqft:">$175</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Partially finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,340 sqft</item>
+				<item>Finished area below ground: 0</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.35 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 06219438</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Shake / Shingle</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1996</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.89</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Waldorf</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $313,000</item>
+				<item>Annual tax amount: $3,928</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: MDCH217266</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>GarageYN: Yes</item>
+				<item>AttachedGarageYN: Yes</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>StructureType: Detached</item>
+				<item>ConstructionMaterials: Vinyl Siding</item>
+				<item>Cooling: Heat Pump</item>
+				<item>StoriesTotal: 3</item>
+				<item>ArchitecturalStyle: Colonial</item>
+				<item>SpecialListingConditions: Standard</item>
+				<item>ParkingFeatures: Driveway, Attached Garage, Asphalt, Garage Faces Front</item>
+				<item>CoveredSpaces: 2</item>
+				<item>BelowGradeFinishedArea: 0</item>
+				<item>Heating: Heat Pump - Electric BackUp</item>
+				<item>MlsStatus: Active</item>
+				<item>TaxAnnualAmount: 4160.0</item>
+			</item>
+		</item>
+	</other_details>
+</home>

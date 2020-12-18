@@ -1,0 +1,244 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>125 N Hamilton St #805 </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,175,000</Price>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<key name="$398 / Sq. Ft.">2,950</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Welcome to your own spa-like retreat to call home. Breathtaking views every day, sunsets over lake Mendota, sail boats, the list goes on. Original owners have loved every minute living in this beautiful condo. High end stainless steel appliances, almost 3000 square feet of living space, two balconies, 3 bedrooms, many built-ins, large kitchen with hood fan vented to exterior for best air quality inside. Same floor storage unit. Short walk to all nearby amenities, entertainment, and leisure. Easiest access parking spaces for condo building.  </text_base_description>
+	<listed_by>
+		<name>Kristine Jaeger</name>
+		<org> • Sprinkman Real Estate </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,175,000</List_Price>
+		<Est._Mo._Payment>$6,064</Est._Mo._Payment>
+		<Redfin_Estimate>$1,143,316</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$398</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>98 days</Time_on_Redfin>
+		<Property_Type>Condo</Property_Type>
+		<HOA_Dues>$825/month</HOA_Dues>
+		<Year_Built>2002</Year_Built>
+		<Community>Madison</Community>
+		<key name="MLS#">1886490</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item>Master Bedroom Dimensions: 18 x 15</item>
+						<item>Master Bedroom Level: Main</item>
+						<item>Bedroom 2 Dimensions: 13 x 13</item>
+						<item>Bedroom 2 Level: Main</item>
+						<item>Bedroom 3 Dimensions: 13 x 12</item>
+						<item>Bedroom 3 Level: Main</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item>Bath Description(s): Whirlpool, At Least 1 Tub, Master Bedroom Bath (Full), Master Bedroom Bath, Walk-In Shower  in Master Bathroom, Tub/No Shower in Master Bathroom</item>
+						<item># of Baths (1/2): 1</item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Wood or Simulation Wood Floors, Great Room, Security System, Intercom</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item>Living Room Dimensions: 24 x 20</item>
+						<item>Living Room Level: Main</item>
+						<item>Kitchen Level: Main</item>
+						<item>Kitchen Dimensions: 17 x 14</item>
+						<item>Family Room Level: Main</item>
+						<item>Family Room Length: 15 x 11</item>
+						<item>Dining Room Dimensions: 16 x 9</item>
+						<item>Dining Room Level: Main</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Appliances: Range/Oven, Refrigerator, Dishwasher, Microwave, Washer, Dryer</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item>Parking: Underground, Heated, 2 Spaces, Assigned, 1-5 Spaces</item>
+					</item>
+				</item>
+				<item>
+					<item>Garage Information</item>
+					<item>
+						<item>Garage: Attached, Underground, Underground Garage, Underground Space, Heated, Opener Included</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Estimated Sq. Ft. Range: 2501-3000</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior</item>
+					<item>
+						<item>Exterior Features: Deck</item>
+						<item>Exterior: Brick</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Multi-Unit Information</item>
+			<item>
+				<item>
+					<item>Condo Information</item>
+					<item>
+						<item>Condominium Name: Capitol Point</item>
+						<item>Garden, End Unit</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi-Unit Information</item>
+					<item>
+						<item># of Units: 64</item>
+						<item>Units In Association: 64</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Homeowners Association, Utilities, Taxes / Assessments, Lease / Rent Details</item>
+			<item>
+				<item>
+					<item>HOA Information</item>
+					<item>
+						<item>Condo Fee Monthly: $825</item>
+						<item>Association Common Amenities: Rental Allowed, Common Green Space, Elevator, Rooftop Common Area</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>Municipal Water, Municipal Sewer</item>
+						<item>Heating/Cooling: Forced Air, Central Air</item>
+						<item>Natural Gas</item>
+					</item>
+				</item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item> Total Taxes: $20,396</item>
+						<item> Tax Year: 2019</item>
+					</item>
+				</item>
+				<item>
+					<item>Rental Information</item>
+					<item>
+						<item>Pets Permitted</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>School / Neighborhood</item>
+			<item>
+				<item>
+					<item>Neighborhood Information</item>
+					<item>
+						<item>Municipality: MADISON</item>
+						<item>Municipality Type: City</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item> School District: Madison</item>
+						<item>Elementary School: Lapham/Marquette</item>
+						<item>Middle School: Okeeffe</item>
+						<item>High School: East</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Condo</item>
+						<item>Information Source Year Built: Assessor/Public Record</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item>Water Features: Waterview (No Frontage), Lake</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item> Zoning: PD</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Listing Information</item>
+			<item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Inclusions: cooktop, double oven, microwave, dishwasher, wine fridge, washer, dryer</item>
+						<item>Exclusions: seller's personal items</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<Finished_Sq._Ft.>2,950</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,950</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2002</Year_Built>
+		<Year_Renovated>2002</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070913346354</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,700,000</price>
+		<bd>4</bd>
+		<ba>4</ba>
+		<area>3,772</area>
+	</summary>
+	<address>
+		<street_address>2305 Barton Creek Blvd UNIT 24,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>*THE BEST VIEWS OF THE FAZIO FOOTHILLS GOLF COURSE AT BARTON CREEK*LOCATED IN THE GATED COMMUNITY OF THE FAIRWAYS AT BARTON CREEK*PERFECT FOR GOLFERS, PERFECT FOR LOCK &amp; LEAVE, PERFECT FOR ACCESS TO BARTON CREEK  RESORT*PROPERTY OWNER MEMBERSHIP AVAILABLE TO BARTON CREEK COUNTRY CLUB*2 MASTERS ONE UP &amp; ONE DOWN*FLEXIBLE FLOOR PLAN*MULTIPLE DECKS*GOLF CART GARAGE*JUST BRING YOUR CLUBS!Read more</overview>
+	<listing_agent>
+		<agentName>Cathie Richard</agentName>
+		<phoneNumber>512-328-5151</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX Austin Skyline</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX Austin Skyline</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1997</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$360/month</key>
+		<key name="Lot:">0.5 acres</key>
+		<key name="Price/sqft:">$451</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,772 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stone, Stucco</item>
+				<item>Patio and porch details: Deck, Porch, Covered</item>
+				<item>Residential vegetation: Partially Wooded</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.5 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01133406160000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1997</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Utilities for property: Cable Available, Natural Gas Connected, Electricity Connected, Phone Available, Sewer Connected</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 68.79</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Security System Owned</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: See Remarks, Gated, Golf, Common Grounds</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

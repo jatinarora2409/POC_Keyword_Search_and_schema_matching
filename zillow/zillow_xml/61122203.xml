@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$269,900</price>
+		<bd>1</bd>
+		<ba>2</ba>
+		<area>900</area>
+	</summary>
+	<address>
+		<street_address>201 N Blair St APT 106,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Popular Blair House Condo - Comfortable Downtown Living.  Walking distance to everything including steps away from the Lake, Capital Square, Farmer's Market, Restaurants &amp; Shops. One master bedroom suite w/full bath, double sinks, &amp; walk-in closet - plus additional half bath for guests.  Washer &amp; Dryer in unit.  Nine-foot ceilings, wood &amp; tile flooring, Living Room, w/gas fireplace.  Unit has a NEST thermostat &amp; August system controlled by phone if desired. South-facing unit w/private sunny screen porch &amp; patio.  Inside heated parking space &amp; storage unit.  Also, additional plus is a community patio for grilling.  LOW CONDO FEES that include many extras:  Internet, Hot Water, Water &amp; Sewer, Trash, Common area maintenance, insurance, snow removal &amp; reserve funds.Read more</overview>
+	<listing_agent>
+		<agentName>Laurie Homan</agentName>
+		<phoneNumber>608-274-7500</phoneNumber>
+		<agentLicenseNumber>License #51365-94</agentLicenseNumber>
+		<postingGroupName>First Weber Inc</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$300</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 900 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stone, Stucco, Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913344069</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2002</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.18</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

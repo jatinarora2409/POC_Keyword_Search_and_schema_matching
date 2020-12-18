@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$539,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,752</area>
+	</summary>
+	<address>
+		<street_address>533 W Main St APT 201,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Downtown end unit condo featuring two bedrooms, two full bathrooms and a very rare three indoor garage parking spaces (heated, reserved). Master bathroom has both bathtub and separate walk-in shower. Spacious open floor plan, 10 ft ceilings, balcony with room for table and chairs and gas grill (grill included). Substantial upgrades throughout entire unit, including Viking appliances, built-in bookshelves throughout living area and master bedroom. Maple floors and and granite countertops throughout. Tons of natural light with large windows! Very quiet building and condo community with common area private courtyard. Owner managed and strong reserves.Read more</overview>
+	<listing_agent>
+		<agentName>Seth Pfaehler</agentName>
+		<phoneNumber>608-772-3640</phoneNumber>
+		<agentLicenseNumber>License #79493-94</agentLicenseNumber>
+		<postingGroupName>The McGrady Group, LLC</postingGroupName>
+		<postingWebsiteLinkText>The McGrady Group, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2001</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">$308</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,752 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923138353</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2001</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2001</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 89.58</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

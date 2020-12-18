@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8912 Chalk Knoll Dr </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,785,000</Price>
+		<Beds>5</Beds>
+		<Baths>5.5</Baths>
+		<key name="$166 / Sq. Ft.">10,730</key>
+	</main_stats>
+	<text_base_description>Desired Gorgeous Barton Creek Resort - gated comm. Imposing entry w/ grand spiral staircase. Open rooms, game rm, media. See-thru fireplace. 2500 sq. ft basement living quarters, 2  offices. Cul-de-sac. Covered veranda and premier hill county viewsFEMA - Unknown Guest Accommodations: Yes Restrictions: Yes </text_base_description>
+	<listed_by>
+		<name>Cheryl Crawford</name>
+		<agentLicenseDisplay>•TREC #0456419</agentLicenseDisplay>
+		<org>•TREC #0456419</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,785,000</List_Price>
+		<Est._Mo._Payment>$11,406</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$166</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>141 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<HOA_Dues>$150/month</HOA_Dues>
+		<Year_Built>1999</Year_Built>
+		<Community>Barton Creek Abc Midsection</Community>
+		<Lot_Size>0.49 Acres</Lot_Size>
+		<key name="MLS#">5180855</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Multi-Unit Information, Homeowners Association, School / Neighborhood</item>
+			<item>
+				<item>
+					<item>Virtual Tour</item>
+					<item>
+						<item>Virtual Tour Unbranded(External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi Unit Information</item>
+					<item>
+						<item>Pets Allowed: No</item>
+					</item>
+				</item>
+				<item>
+					<item>HOA Information</item>
+					<item>
+						<item>Has Home Owners Association</item>
+						<item>Association Name: Barton Creek</item>
+						<item>Association Fee: $450</item>
+						<item>Quarterly</item>
+						<item>Association Fee Includes: Common Areas</item>
+					</item>
+				</item>
+				<item>
+					<item>School</item>
+					<item>
+						<item>Elementary School District: Austin ISD</item>
+						<item>Middle Or Junior School District: Austin ISD</item>
+						<item>High School District: Austin ISD</item>
+						<item>Elementary School: Oak Hill</item>
+						<item>Middle Or Junior School: O Henry,</item>
+						<item>High School: Austin,</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item># of Main Level Bedrooms: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Full Bathrooms: 5</item>
+						<item># of Half Bathrooms: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 1 Information</item>
+					<item>
+						<item>Basement</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 2 Information</item>
+					<item>
+						<item>Game Room</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 3 Information</item>
+					<item>
+						<item>Master Bathroom</item>
+						<item>Features: Double Vanity, Garden Tub/Roman Tub, Jetted Tub, Separate Shower</item>
+						<item>Level: Main</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 4 Information</item>
+					<item>
+						<item>Laundry</item>
+						<item>Level: Main</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 5 Information</item>
+					<item>
+						<item>Dining Room</item>
+						<item>Features: Breakfast Area</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 6 Information</item>
+					<item>
+						<item>Master Bedroom</item>
+						<item>Features: His and Hers Closets</item>
+						<item>Level: Main</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 7 Information</item>
+					<item>
+						<item>Kitchen</item>
+						<item>Features: Breakfast Bar, Breakfast Area, Granite Counters, Kitchen Island, Kitchen/Family Room Combo, Pantry</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 8 Information</item>
+					<item>
+						<item>Foyer</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 9 Information</item>
+					<item>
+						<item>Office</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 10 Information</item>
+					<item>
+						<item>Family Room</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 11 Information</item>
+					<item>
+						<item>Media Room</item>
+					</item>
+				</item>
+				<item>
+					<item>Fireplace Information</item>
+					<item>
+						<item>Has Fireplace</item>
+						<item># of Fireplaces: 2</item>
+						<item>Features: Family Room, Gas Log, Living Room</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Appliances: Built-In Oven, Double Oven, Dishwasher, Electric Water Heater, Gas Cooktop, Disposal, Microwave, Refrigerator, Trash Compactor</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Unfurnished</item>
+						<item>Flooring: Carpet, Tile, Wood</item>
+						<item>Other Features: Breakfast Bar, Separate/Formal Dining Room, Entrance Foyer, Elevator, Interior Steps, Multiple Living Areas, Main Level Master</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Garage/Carport Information</item>
+					<item>
+						<item>Has Garage</item>
+						<item>Has Attached Garage</item>
+						<item># of Garage Spaces: 3</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking</item>
+					<item>
+						<item>Features: Attached, Garage, Garage Door Opener</item>
+						<item># of Covered Spaces: 3</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Roof Details: Tile</item>
+						<item>Construction Details: Masonry</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Exterior Features: Exterior Steps, Playground, Rain Gutters, Barbecue</item>
+						<item>Patio And Porch Features: Covered, Patio, Porch</item>
+						<item>Fencing: Fenced, Wrought Iron</item>
+					</item>
+				</item>
+				<item>
+					<item>Pool Information</item>
+					<item>
+						<item>Pool Features: Community</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Utilities</item>
+			<item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>Utilities: Electricity Available, Natural Gas Available</item>
+						<item>Sewer: Public Sewer</item>
+						<item>Water Source: Public</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Has Cooling</item>
+						<item>Cooling: Central Air</item>
+						<item>Has Heating</item>
+						<item>Heating: Central, Electric</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Taxes / Assessments, Location Details</item>
+			<item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Year: 2020</item>
+					</item>
+				</item>
+				<item>
+					<item>Community Information</item>
+					<item>
+						<item>Community Features: Clubhouse, Curbs, Fitness Center, Golf, Gated, Pool, Sauna, Sport Court(s), Tennis Courts</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size Area: 0.49</item>
+						<item>Lot Size Acres: 0.49</item>
+						<item>Lot Size Dimensions: 0 x 0</item>
+						<item>Lot Features: Cul-De-Sac, Backs to Greenbelt/Park, Sprinklers In Rear, Sprinklers In Front, Many Trees, Sprinklers Automatic, Trees Large Size</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Has View</item>
+						<item>Direction Faces: West</item>
+						<item>Foundation Details: Slab</item>
+						<item>Resale</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>5</Baths>
+		<Finished_Sq._Ft.>10,730</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>10,730</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>0.49 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1999</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>437875</APN>
+	</public_facts>
+</home>

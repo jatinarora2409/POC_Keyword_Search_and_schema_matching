@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2608 W VAN BUREN St #4 </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$200,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Excellent location! Epicenter of expanding business site. C-3 zoned parcel, conveniently located adjacent to I-17 Freeway, minutes from Central Phoenix, in a busy business district (lots of traffic). Sky Harbor International Airport, shopping, and more nearby! Endless possibilities here, with anything from a car repair lot, construction yard, night-club, wholesale, food truck lot, retail or almost ANY service! The possibilities are endless!! </text_base_description>
+	<listed_by>
+		<name>Estela Correa Chavez</name>
+		<org> Zipworld Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$200,000</List_Price>
+		<Est._Mo._Payment>$789</Est._Mo._Payment>
+		<Redfin_Estimate>$188,581</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>42 days</Time_on_Redfin>
+		<Community>CASA BELLA</Community>
+		<Lot_Size>8,121 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6124337</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Exterior Features, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 1,052,631.58</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: William R. Sullivan</group_dat>
+						<group_dat>Junior High School: Isaac Middle</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Cable Under 350 Feet</group_dat>
+						<group_dat>Phone Under 350 Feet</group_dat>
+						<group_dat>Electricity Under 350 Feet</group_dat>
+						<group_dat>APS Electric</group_dat>
+						<group_dat>Gas Unavailable</group_dat>
+						<group_dat>No Gas</group_dat>
+						<group_dat>Water Under 350 Feet</group_dat>
+						<group_dat>City Water Franchise</group_dat>
+						<group_dat>Sewer Under 350 Feet</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft.: Gross</group_dat>
+						<group_dat>Week Available (Timeshare): 8121.00</group_dat>
+						<group_dat>Existing Land Use: Commercial Lot</group_dat>
+						<group_dat>Potential Use: Commercial</group_dat>
+						<group_dat>Zoned Presently: Commercial</group_dat>
+						<group_dat>Zoning: C-3</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 109-28-004</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 28</group_dat>
+						<group_dat>Assessor's Parcel #: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Total Acres: Gross</group_dat>
+						<group_dat>Lot Size Dimensions: 60 x 134</group_dat>
+						<group_dat># Lots in Listing: 1.00</group_dat>
+						<group_dat>North/South Exposure</group_dat>
+						<group_dat>Asphalt/Blacktop Roads/Streets</group_dat>
+						<group_dat>Block Fencing, Chain Link Fencing</group_dat>
+						<group_dat>Vegetation: Natural Vegetation</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 27th Ave &amp; Van Buren St</group_dat>
+						<group_dat>Census Tract: 116800.00</group_dat>
+						<group_dat>Census Tract: 116800.00</group_dat>
+						<group_dat>Directions: It is next to Yepis Auto Repair Shop</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>109-28-004</APN>
+	</public_facts>
+</home>

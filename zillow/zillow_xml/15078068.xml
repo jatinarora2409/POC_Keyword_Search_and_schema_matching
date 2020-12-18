@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,499,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,276</area>
+	</summary>
+	<address>
+		<street_address>1288 Mcallister St APT 302,</street_address>
+		<city_state> San Francisco, CA 94115</city_state>
+	</address>
+	<overview>With modern style and a generous floor plan, this recently remodeled 2 bedroom 2 bathroom corner condo is a spacious and light-filled retreat. Top floor w/ south-west exposure, vaulted ceilings &amp; open liv/din area w/ wood-burning fplc. Remod kit w/ skylight, breakfast bar, sleek cabinetry, ssl appls &amp; custom tile. Bright &amp; spacious principal BD w/ lg closet &amp; ensuite tiled BA w/ glass-enclosed shower. 2nd BD w/ lg closet &amp; south-facing windows. 2nd BA w/ shower over tub, decorative tile &amp; sleek matte black finishes. In-unit w/d, storage &amp; garage park. Shared garden &amp; roof deck w/ stunning City views. 1 block from Alamo Square w/ a walk score of 95. Near transit &amp; restaurants, shops &amp; nightlife in Hayes Valley, Nopa, Lower Haight &amp; Fillmore/Divisadero. With ample space &amp; light, sophisticated finishes, plentiful amenities &amp; a convenient location, this contemporary condo is ideal for enjoying the City &amp; the comforts of home. HOA dues inc. earthquake insurance &amp; bldg/condo insurance.Read more</overview>
+	<listing_agent>
+		<agentName>Judson Gregory</agentName>
+		<phoneNumber>415-824-1100</phoneNumber>
+		<agentLicenseNumber>License #01936073</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1987</key>
+		<key name="Heating:">Baseboard</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$693/mo</key>
+		<key name="Price/sqft:">$1,175</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Baseboard</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,276 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Wood</item>
+				<item>View description: Park, City</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0774033</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Wood</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1987</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.84</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

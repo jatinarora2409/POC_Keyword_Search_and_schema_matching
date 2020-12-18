@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$629,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,185</area>
+	</summary>
+	<address>
+		<street_address>5201-5201B Wisconsin Ave NW #104,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Incredible location! Just steps to the hustle and bustle of Friendship Heights, this property truly has access to everything, including fine dining, great shopping, Metro access, and a short drive to both American University and Downtown Bethesda. 5201B Wisconsin Ave NW #104 is a fantastic 2 bedroom/2 bathroom, 1st Floor unit with convenient access from the main lobby of the building. Windows flood this unit with natural light! Includes stainless steel appliances, separate pantry, wood floors, large private patio (approximately 175 SF), separate den or dining space open to the rest of the living area, and a brand new wine refrigerator in the kitchen. New washer and dryer as well. Building includes 24/7 secure access and an outdoor communal terrace as well. Unit also includes one parking space.Read more</overview>
+	<listing_agent>
+		<agentName>Lindsay Reishman</agentName>
+		<phoneNumber>301-298-1001</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2010</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">None</key>
+		<key name="Price/sqft:">$531</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,185 sqft</item>
+				<item>Finished area below ground: 0 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Other</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2010</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Annual tax amount: $5,683</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

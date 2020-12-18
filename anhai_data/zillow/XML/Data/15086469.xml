@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$968,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>824</area>
+	</summary>
+	<address>
+		<street_address>1250 Page St APT 3,</street_address>
+		<city_state> San Francisco, CA 94117</city_state>
+	</address>
+	<overview>Tucked between the lush green spaces of Buena Vista Park and The Panhandle of Golden Gate Park? is the lovely tree-lined Page Street promenade offering picturesque 'slow street' living. Light pours into this south-facing condo located in a friendly, 5-unit building. Take your Zoom call or enjoy your coffee on the balcony soaking in the treetops and period architecture. The comfortable design of the large living room includes a corner fireplace and cozy bay window dining area. The updated galley-style kitchen offers ample counter space, granite countertops, new stainless appliances and access to the generous balcony. Both bedrooms are set back from the street, separated by the handsome tile bathroom. ??Closet organizing dreams come true in the primary bedroom which also features a bright office alcove. Low dues, parking, storage, shared Laundry, and large, common yard complete the checklist. Access the best of Nopa, Cole Valley &amp; Haight from this perfect Page perch.Read more</overview>
+	<listing_agent>
+		<agentName>Courtney Behan</agentName>
+		<phoneNumber>415-552-9500</phoneNumber>
+		<agentLicenseNumber>License #01955870</agentLicenseNumber>
+		<postingGroupName>Corcoran Global Living</postingGroupName>
+		<postingWebsiteLinkText>Corcoran Global Living</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1980</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$203/month</key>
+		<key name="Price/sqft:">$1,175</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 824 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 1220035</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1980</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 87.64</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: San Francisco</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $203/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $783,768</detail>
+				<detail>Annual tax amount: $9,952</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 507219</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Dining Room: Lvng/Dng Rm Combo</detail>
+				<detail>HOA?: Yes</detail>
+				<detail>HOA Fee Includes: Water, Garbage, Homeowners Insurance</detail>
+				<detail>Square Footage Source: Not Available</detail>
+				<detail>Status: Active</detail>
+				<detail>Bath Type/Includes: Shower Over Tub</detail>
+				<detail>Exclusive Use Areas: Additional Storage, Deck</detail>
+				<detail>Heating/Cooling: Central Heating</detail>
+				<detail>Property Subtype 1: Condominium</detail>
+				<detail>Fireplace(s): 1</detail>
+				<detail>Foundation: Concrete Perimeter</detail>
+				<detail>Type: Low-Rise (1-3)</detail>
+				<detail>Exterior: Wood Siding, Shingle</detail>
+				<detail>Common Areas: Lndry Facility-Free</detail>
+				<detail>Laundry Appliances: In Garage</detail>
+				<detail>District: SF District 5</detail>
+				<detail>Shopping: 3 Blocks</detail>
+				<detail>Subdist: Haight Ashbury</detail>
+				<detail>Parking Features: Garage, Automatic Door</detail>
+				<detail>Parking Access: Side-by-Side</detail>
+				<detail>Parking Type: Designated On Site</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

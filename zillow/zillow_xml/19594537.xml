@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,699,946</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,810</area>
+	</summary>
+	<address>
+		<street_address>1142 Maryann Dr,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Newly finished home masterfully rebuilt with all the designer touches crafted around an open floor plan with no halls, no wasted space, just one large open entertaining area and 4 bedrooms including new Master Suite addition with 10ft ceilings.  Solid stone surfaces, over sized center island with breakfast bar, custom white shaker cabinets, all stainless appliances, motion sensing kitchen faucet, recessed LED lighting, custom laminate flooring, dramatic crown molding, craftsman style window and door molding, A solid STEEL entry door punctuate the attention to detail in the grand kitchen/living area.  It's all NEW including  electrical, plumbing, insulation, roof, dual pane windows, stucco, forced air heating &amp; AC, tankless water heater, roof, foundation retrofit/seismic bracing, huge 2.5 car garage, Italian Slate stamped/sealed concrete driveway &amp; rear entertaining area.  Minutes to Apple and all Tech Employers, 10 mins to Santana Row/Valley Fair, this is the good life!Read more</overview>
+	<listing_agent>
+		<agentName>Armin JR Mckee</agentName>
+		<phoneNumber>408-871-9111</phoneNumber>
+		<agentLicenseNumber>License #00901100</agentLicenseNumber>
+		<postingGroupName>Home In Silicon Valley</postingGroupName>
+		<postingWebsiteLinkText>Home In Silicon Valley</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">7,387 sqft</key>
+		<key name="Price/sqft:">$939</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven, Refrigerator</item>
+				<item>Laundry features: Gas Hookup, In Utility Room, Electricity Hookup (220V), Electricity Hookup (110V)</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,810 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco, Wood</item>
+				<item>Fencing: Wood, Fenced Back</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,387 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 29013050</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1954</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.86</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

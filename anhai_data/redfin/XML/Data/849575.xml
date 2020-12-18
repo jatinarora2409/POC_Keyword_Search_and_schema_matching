@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>246 2nd St #502 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94105</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,325,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Located in the heart of Yerba Buena, this corner-unit condominium gives you balance between outdoor and indoor living. There is a huge multi-purpose, private outdoor terrace overlooking the city skyline perfect for entertaining, relaxing, work-from-home or as an exercise area. Indoors you will enjoy the open-concept living/dining/kitchen with hardwood floors and access leading out to your two terraces. There is a great living room alcove to work from home. The kitchen boasts quartz counters, cherrywood cabinets, breakfast bar and high-end appliances. Down the hallway is an in-unit washer/dryer, guest bedroom and bath and the large main bedroom-suite with access to the huge terrace, en-suite bath, generous closet, and a flood of natural light with motorized black-out shades for sleeping. Bathrooms offer marble counters, cherrywood vanities, tile floors and tub/shower combination or large walk-in shower. Steps to Transbay Terminal, fine  &amp;  causal dining, parks, and easy highway access.  </text_base_description>
+	<listed_by>
+		<name>Christian Buckley</name>
+		<agentLicenseDisplay>•DRE #01740601</agentLicenseDisplay>
+		<org> Vanguard Properties</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,325,000</List_Price>
+		<Est._Mo._Payment>$6,056</Est._Mo._Payment>
+		<Redfin_Estimate>$1,322,705</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>3 days</Time_on_Redfin>
+		<Property_Type>Flat, Hi-Rise (9+), Condominium</Property_Type>
+		<HOA_Dues>$650/month</HOA_Dues>
+		<Year_Built>2000</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Yerba Buena</Community>
+		<key name="MLS#">507661</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Attached, Automatic Door, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+						<group_dat>Patio, Deck</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Has View, Deck Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Living/Dining Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Partial Carpet, Hardwood, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Electric Range, Cooktop Stove, Refrigerator, Ice Maker, Dishwasher, Microwave, Garbage Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 2 Bedrooms, 2 Baths, Living Room, Dining Room, Kitchen</group_dat>
+						<group_dat># of Rooms: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $650.51</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Folsom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Restrictions</heading>
+					<group_data>
+						<group_dat>Pet Size Restrictions, Limited Number of Pets, Rentals, Signs</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,325,000</group_dat>
+						<group_dat>On Market Date: Tuesday, October 6, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights, San Francisco, Downtown</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Contemporary</group_dat>
+						<group_dat>Type: Flat, Hi-Rise (9+)</group_dat>
+						<group_dat># of Units: 94</group_dat>
+						<group_dat>APN: 3735069</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>983</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2000</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3735 069</APN>
+	</public_facts>
+</home>

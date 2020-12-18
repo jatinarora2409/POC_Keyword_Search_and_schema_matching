@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$365,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,789</area>
+	</summary>
+	<address>
+		<street_address>14589 Princeton Ct,</street_address>
+		<city_state> Addison, TX 75001</city_state>
+	</address>
+	<overview>Situated on a quiet cul-de-sac lot with it's own gate backing up to the walking trail in fantastic Addison! Original owner has a stunning  sun splashed open living, dining,  &amp; study with vaulted ceilings, crown moldings, French doors, and mirrored wall. Rich Italian porcelain floor tile entry, dining,  &amp; kitchen. Mohawk Stainmaster designer carpet in living and study. Custom Pella etched glass door &amp; glass blocks let in lots of light. Study could be easily converted to a 3rd bedroom with existing closet on other side of sheet rock. Tankless water heater.  13 SEER A.C. 2012. Lush exquisitely landscaped yard has its own backyard sprinkler system. SS frig to remain. Enjoy Addison Athletic Club one time charge $10.Read more</overview>
+	<listing_agent>
+		<agentName>Gina Sanders</agentName>
+		<phoneNumber>972-960-0012</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Jency Hills Realtors, LLC</postingGroupName>
+		<postingWebsiteLinkText>Jency Hills Realtors, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1994</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">4,051 sqft</key>
+		<key name="Price/sqft:">$204</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,789 sqft</item>
+				<item>Fireplace features: Gas Logs, Gas Starter</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+				<item>Fencing: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 4,051 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10004350030120000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Traditional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1994</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1994</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: City Sewer, City Water, Individual Gas Meter</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.66</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Burglar, Fire/Smoke, Fire Sprinkler System</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Addison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $74/mo</item>
+				<item>Services included: Management Fees, Front Yard Maintenance, Sprinkler System</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $283,060</item>
+				<item>Annual tax amount: $3,310</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 14426329</item>
+				<item>Measurement Source: Building Plan</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Financing Proposed: Cash, Conventional</item>
+				<item>Architectural Style: Traditional</item>
+				<item>Building Area Source: Building Plan</item>
+				<item>Lot Size Units: Acres</item>
+				<item>Other Equipment: Built-in Microwave, Refrigerator, Water Line to Refrigerator, Cooktop - Electric, Dishwasher, Disposal, Oven-Electric, Built-in Icemaker</item>
+				<item>Construction Materials: Brick</item>
+				<item>Utilities: City Sewer, City Water, Individual Gas Meter</item>
+				<item>County Or Parish: Dallas</item>
+				<item>Energy Saving Features: Ceiling Fans, Gas Water Heater, Programmable Thermostat, Double Pane Windows, Storm Door(s), 13-15 SEER AC, Tankless Water Heater</item>
+				<item>Exterior Features: Patio Open, Gutters, Sprinkler System</item>
+				<item>Fencing: Wood</item>
+				<item>Heating: Central Heat-Gas, Central Air-Elec</item>
+				<item>Interior Features: Cable TV Available, High Speed Internet Available, Vaulted Ceilings, Window Coverings</item>
+				<item>Fireplace Features: Gas Logs, Gas Starter</item>
+				<item>Flooring: Carpet, Ceramic Tile, Laminate</item>
+				<item>Association Type: Mandatory</item>
+				<item>Lot Features: Some Trees, Cul De Sac, Interior Lot, Subdivision, No Backyard Grass, Irregular, Landscaped</item>
+				<item>Security Features: Burglar, Fire/Smoke, Fire Sprinkler System</item>
+				<item>Parking Features: Garage, Garage Door Opener, Attached, Front, 2-Car Double Doors</item>
+				<item>Structural Style: Single Detached, Garden/Zero Lot Line</item>
+				<item>Lot Size: Zero Lot</item>
+				<item>Foundation Details: Slab</item>
+				<item>Possession: Closing/Funding</item>
+				<item>Roof: Composition</item>
+				<item>Association Fee Includes: Management Fees, Front Yard Maintenance, Sprinkler System</item>
+				<item>Transaction Type: For Sale</item>
+				<item>Multi Parcel IDYN: 0</item>
+				<item>Country: United States</item>
+			</item>
+		</item>
+	</other_details>
+</home>

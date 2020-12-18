@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$169,900</price>
+		<bd>4</bd>
+		<ba>1</ba>
+		<area>1,440</area>
+	</summary>
+	<address>
+		<street_address>1603 Houghton Rd,</street_address>
+		<city_state> Dallas, TX 75217</city_state>
+	</address>
+	<overview>OPPORTUNITY OPPORTUNITY OPPORTUNItY!!! ATTENTION ALL AGENTS AND HOME BUYERS!! Heres your chance to own a very nice family home or rental. This home offer 4 large bedrooms, 1 large bathroom, a huge living room and kitchen with lots of cabinets and large utility room. This home sits on a nice large corner lot in a well established family neighborhood. Close to schools and all shopping and just minutes from Town East Mall. This Home is priced right and won't last long. CALL NOW!!!Read more</overview>
+	<listing_agent>
+		<agentName>Daniel Franklin</agentName>
+		<phoneNumber>214-929-5555</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Flip Your House, Inc</postingGroupName>
+		<postingWebsiteLinkText>Flip Your House, Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">8,799 sqft</key>
+		<key name="Price/sqft:">$118</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Laminate, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,440 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: Attached Garage</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Other</detail>
+				<detail>Fencing: Chain Link</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.2 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 00000548458000000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Foundation: Slab</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1954</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1954</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: City Sewer, City Water, Sidewalk, Curbs</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 83.42</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Dallas</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $129,500</detail>
+				<detail>Annual tax amount: $3,540</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 14449315</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Financing Proposed: Cash, Conventional, FHA, VA</detail>
+				<detail>Lot Size Units: Acres</detail>
+				<detail>Building Area Source: Tax</detail>
+				<detail>County Or Parish: Dallas</detail>
+				<detail>Parking Features: On Street, Rear, Side</detail>
+				<detail>Other Equipment: Cooktop - Gas, Dishwasher, Disposal</detail>
+				<detail>Interior Features: Window Coverings</detail>
+				<detail>Construction Materials: Wood</detail>
+				<detail>Lot Features: Lrg. Backyard Grass, Some Trees, Subdivision, Corner, Landscaped</detail>
+				<detail>Lot Size: Less Than .5 Acre (not Zero)</detail>
+				<detail>Structural Style: Single Detached</detail>
+				<detail>Foundation Details: Slab</detail>
+				<detail>Possession: Closing/Funding</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Transaction Type: For Sale</detail>
+				<detail>Lake Pump: 0</detail>
+				<detail>Waterfront YN: 0</detail>
+				<detail>Multi Parcel IDYN: 0</detail>
+				<detail>Country: United States</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

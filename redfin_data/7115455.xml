@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1636 N Curson Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,799,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$923 / Sq. Ft.">1,949</key>
+	</main_stats>
+	<text_base_description>Welcome to Two Leaves. Perched in the heart of the historically landmarked Hollywood Foothills, this charming Craftsman has been a creative sanctuary for famous writers, artists and musicians. Built in 1916, the main house boasts natural textures, hardwood floors, beautiful woodwork and timeless retro details, like the original kitchen, capturing the charisma of the home. A serene oasis, the recently renovated back deck leads you to a detached 1 bed, 1 bath guest house with an artist studio overlooking the flourishing fruit trees (fig, orange, lemon, pomegranate, and passion fruit) and mature greenery that offer a private, tranquil escape. Located near Runyon Canyon hiking trails, Sunset Strip shopping and some of the best restaurants in LA, this property's prime location is quintessential to the Los Angeles lifestyle.  </text_base_description>
+	<listed_by>
+		<name>Carl Gambino</name>
+		<agentLicenseDisplay>•DRE #01971890</agentLicenseDisplay>
+		<org>•DRE #01971890</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,799,000</List_Price>
+		<Est._Mo._Payment>$8,295</Est._Mo._Payment>
+		<Redfin_Estimate>$1,797,877</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$923</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1916</Year_Built>
+		<Style>Craftsman</Style>
+		<Community>Hollywood</Community>
+		<Lot_Size>6,975 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-641910</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Stacked Laundry in Closet</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Living Room, Patio Covered, Other Room, Dining Area, Master Bedroom</item>
+					</item>
+				</item>
+				<item>
+					<item>Fireplace Information</item>
+					<item>
+						<item>In Living Room</item>
+					</item>
+				</item>
+				<item>
+					<item>Flooring Information</item>
+					<item>
+						<item>Hardwood Floors, Tile Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Built-Ins, Dishwasher, Dryer, Washer, Range/Oven</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central Cooling</item>
+						<item>Central Heat</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Garage</item>
+					<item>
+						<item>Driveway</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking</item>
+					<item>
+						<item># of Parking Spaces (Total): 2</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features, Taxes / Assessments, Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Total Floors: 2</item>
+						<item>Detached</item>
+						<item>Detached/No Common Walls</item>
+						<item>Guest House: Detached</item>
+					</item>
+				</item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5550-008-006</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Directions: North of Sunset, East of Fairfax</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: None</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Single-Family</item>
+						<item>Property Condition: Updated/Remodeled</item>
+					</item>
+				</item>
+				<item>
+					<item>Land Information</item>
+					<item>
+						<item>Other Structures: GuestHouse</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 6,975</item>
+						<item>Lot Size (Acres): 0.1601</item>
+						<item>Lot Size Dimensions: 50 x 140</item>
+						<item>Zoning: LAR1</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,736</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,736</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>6,975 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1916</Year_Built>
+		<Year_Renovated>1920</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5550008006</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$357,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,416</area>
+	</summary>
+	<address>
+		<street_address>503 W Doty St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Single family home &amp; low maintenance condo living unite in this bright &amp; sunny 2bd+study/1.5 ba townhome, located in an urban, yet cozy neighborhood setting in downtown Madison. Home-like features incl private entry, attached 1-car garage, outdoor spaces, many windows &amp; great division of living, working &amp; sleeping space. Features &amp; updates incl remodeled kitchen w/new cabinetry, granite ctrs &amp; SS appliances, remodeled baths incl tile floors, new vanities, tub w/glass door &amp; tile surround, hardwoods on entry &amp; main living levels, big living/dining, gas FP w/stone surround, tall ceilings, skylight, private balcony, patio/terrace, fresh paint throughout &amp; upgraded fixtures/hardware. Entry level offers the perfect setup for a home office or den. Located a few blocks from the capitol square!Read more</overview>
+	<listing_agent>
+		<agentName>Katie Jo Schmitz</agentName>
+		<phoneNumber>608-556-4400</phoneNumber>
+		<agentLicenseNumber>License #58120-90</agentLicenseNumber>
+		<postingGroupName>The Hub Realty</postingGroupName>
+		<postingWebsiteLinkText>The Hub Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1992</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$60/mo</key>
+		<key name="Price/sqft:">$252</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,416 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Vinyl</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 871 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923133379</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1992</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1998</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.98</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$499,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>624</area>
+	</summary>
+	<address>
+		<street_address>2380 Homestead Rd UNIT 3103,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Ground floor spacious 1 bedroom unit conveniently located in the heart of Santa Clara. Just a few minutes away from the Apple Headquarters, Santana Row, Valley Fair. Walking distance to Santa Clara Central Park, Safeway, Sprouts, Target, Banks, Restaurants, and more. Contemporary upgraded kitchen with granite counters and stainless steel appliances, including the refrigerator. Upgraded bathroom. Spacious bedroom including a walking closet. Stackable space-saving washer and dryer included.  Cozy fenced front patio w/greenbelt. Unified schools: C. W. Haman Elementary School; Buchser Middle School; Santa Clara High SchoolRead more</overview>
+	<listing_agent>
+		<agentName>Sela Homes Team</agentName>
+		<phoneNumber>415-525-4913</phoneNumber>
+		<agentLicenseNumber>License #01385315</agentLicenseNumber>
+		<postingGroupName>Sela Homes</postingGroupName>
+		<postingWebsiteLinkText>Sela Homes</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air, Electric</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$382/mo</key>
+		<key name="Price/sqft:">$800</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Electric</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+				<item>Laundry features: Washer / Dryer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 624 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 664 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 29415089</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2007</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2007</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.46</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

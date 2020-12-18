@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>801 Wixom Ln </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$119,000</Price>
+		<Beds>3</Beds>
+		<Bath>1</Bath>
+		<key name="$106 / Sq. Ft.">1,120</key>
+	</main_stats>
+	<text_base_description>Excellent Location !! Huge Lot. Perfect for entertaining guest and family. Has a deck on the back yard. Chicken Coops and Horse Stables !! Seller will make no repairs, sold as is. Buyer agent and buyer to verify all information.  </text_base_description>
+	<listed_by>
+		<name>Mauricio Vigueria</name>
+		<org> Edward Christian Realty, LLC</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$119,000</List_Price>
+		<Est._Mo._Payment>$622</Est._Mo._Payment>
+		<Redfin_Estimate>$116,456</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$106</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>15 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1955</Year_Built>
+		<Style>Single Detached, Other (See Remarks)</Style>
+		<Community>na</Community>
+		<Lot_Size>0.29 Acres</Lot_Size>
+		<key name="MLS#">14437784</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat>On Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Moseley</group_dat>
+						<group_dat>Middle School Name: Comstock</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Dimensions: 13 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 23 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Room Dimensions: 19 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Kitchen</group_dat>
+						<group_dat>Room Dimensions: 13 x 8</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Dining Room</group_dat>
+						<group_dat>Room Dimensions: 13 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 19 x 12</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Cable TV Available, High Speed Internet Available</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Carpet, Laminate</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Other (See Remarks), Window Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Other (See Remarks)</group_dat>
+						<group_dat>Exterior Construction: Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BLK 7817 LT 13 VOL99201/1871 DD092799 CO-DALL</group_dat>
+						<group_dat>Unexempt Taxes: $1,423</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: na</group_dat>
+						<group_dat>Directions: From US-175 Take exit St Agustine  go south . Make a right onto Fireside dr. Turn right on Wixom Ln.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 1</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: 7817</group_dat>
+						<group_dat>Lot Number: 13</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.293</group_dat>
+						<group_dat>Area Sq. Ft.: 12,763.08</group_dat>
+						<group_dat>Parcel Number: 00000770899000000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>882</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>882</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>0.29 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1955</Year_Built>
+		<Year_Renovated>1955</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000770899000000</APN>
+	</public_facts>
+</home>

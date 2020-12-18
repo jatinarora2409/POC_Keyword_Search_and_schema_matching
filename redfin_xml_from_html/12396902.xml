@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>12 Jennifer Pl </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94107</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,049,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$817 / Sq. Ft.">1,284</key>
+	</main_stats>
+	<text_base_description>Not your average SOMA townhome! This spectacular urban oasis features a stunning Mural by one of SF's most prolific artists, Ian Ross. Ross's work dons the walls of the tech industry's most trendy firms. Known as both energetic  &amp;  provocative - the privately commissioned Mural @ 12 Jennifer Pl is no exception! Ross's Mural is the heart of this 3-level loft that enjoys the privacy of a SFH w/ separate entrance, private garage, in-unit laundry  &amp;  storage. The loft level is flexible as a bdrm/office or gym w/ wonderful light! Main living level has gorgeous 2-tone kitchen w/ newer SS appliances  &amp;  flows into the spacious communal space w/ soaring ceilings, gleaming Hdwd flrs  &amp;  wood burning fireplace. 1st level includes lrg bdrm w/ walk-in closet, bay windows w/ seating + private deck w/ views of the common courtyard. Updates: Refinished hrdwd flrs, newer wood stairs  &amp;  fresh carpet. Located in a quiet gated complex close to Caltrain, Bart, Whole Foods  &amp;  a slew of trendy bars  &amp;  clubs! This is the one! </text_base_description>
+	<listed_by>
+		<name>Cece Doricko</name>
+		<agentLicenseDisplay>•DRE #01513516</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,049,000</List_Price>
+		<Est._Mo._Payment>$4,793</Est._Mo._Payment>
+		<Redfin_Estimate>$1,052,592</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$817</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>34 hours</Time_on_Redfin>
+		<Property_Type>Townhouse, Low-Rise (1-3), 3 Level, Loft Condominium</Property_Type>
+		<HOA_Dues>$129/month</HOA_Dues>
+		<Year_Built>2000</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>South of Market</Community>
+		<key name="MLS#">507697</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Enclosed, Attached, Interior Access, Automatic Door, Private, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Garden/Greenbelt</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $129.02</group_dat>
+						<group_dat>Name: City Mews ll of Jennifer Place HOA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower Over Tub</group_dat>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Cathedral/Vaulted Ceiling</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Office</group_dat>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1, Wood Burning, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>In Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Partial Carpet, Partial Hardwood, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Gas Range, Refrigerator, Freezer, Dishwasher, Microwave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: Living Room, Dining Room, Kitchen</group_dat>
+						<group_dat>Lower Level/Basement: 1 Bedroom, 1 Bath</group_dat>
+						<group_dat>Upper Level: 1 Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Concrete Block Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+						<group_dat>Deck</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights</group_dat>
+						<group_dat>Paved Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Loft Use: Residential Use Only</group_dat>
+						<group_dat>Style: Contemporary</group_dat>
+						<group_dat>Type: Townhouse, Low-Rise (1-3), 3 Level</group_dat>
+						<group_dat># of Units: 30</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 3752173</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 5th</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,049,000</group_dat>
+						<group_dat>On Market Date: Wednesday, October 7, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,284</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>2000</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3752 173</APN>
+	</public_facts>
+</home>

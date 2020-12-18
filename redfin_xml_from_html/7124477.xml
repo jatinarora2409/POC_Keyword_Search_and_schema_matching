@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2226 Stanley Hills Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$959,000</Price>
+		<Beds>2</Beds>
+		<Baths>1.75</Baths>
+		<key name="$1120 / Sq. Ft.">856</key>
+	</main_stats>
+	<text_base_description>Great opportunity. Charming 1923 Craftsman Bungalow in historic Laurel Canyon needs a lot of love. Has a million dollar PROTECTED CANYON VIEW and a 7519 SF street to street lot with tons of potential. Second bedroom/den and 3/4 bath not pictured. Walking distance to Wonderland School, one of the top schools in L. A. and a 2x National Blue Ribbon recipient. The music of the 1960's originated in the canyon and it is still home to creative people of all types. Open house Sunday 09/06 2 to 4, by appointment only.  </text_base_description>
+	<listed_by>
+		<name>Abby Belkin</name>
+		<agentLicenseDisplay>•DRE #01300275</agentLicenseDisplay>
+		<org> United Real Estate Los Angeles</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$959,000</List_Price>
+		<Est._Mo._Payment>$4,423</Est._Mo._Payment>
+		<Redfin_Estimate>$971,865</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,120</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>36 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1923</Year_Built>
+		<Style>Bungalow</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>7,519 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-625656</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Remote Controls: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Connected and Paid</group_dat>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5567-006-014</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Baths (3/4): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den</group_dat>
+						<group_dat>Den</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Living Room</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Dryer, Gas Or Electric Dryer Hookup, Garbage Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Window Unit Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+						<group_dat>Water Heater Features: Central Water Heater</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Private Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>Two Level</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Exterior Construction: Brick, Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition, Shingle</group_dat>
+						<group_dat>Other Structural Features: Sliding Glass Doors, Partial Copper Plumbing</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+						<group_dat>Property Condition: Fixer, Tear Down</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 7,519</group_dat>
+						<group_dat>Lot Size (Acres): 0.1726</group_dat>
+						<group_dat>Lot Size Dimensions: 50 x 150</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Laurel Canyon to Lookout Mountain. First left on Stanley Hills Drive.    IMPORTANT: cars driving uphill have the right of way.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: Listing Broker Advantage, As Is</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: COE Plus 3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>856</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>856</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,519 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1923</Year_Built>
+		<Year_Renovated>1928</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5567006014</APN>
+	</public_facts>
+</home>

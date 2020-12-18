@@ -1,0 +1,258 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>7250 Franklin Ave #1004 </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$689,000</Price>
+		<Bed>1</Bed>
+		<Baths>1.5</Baths>
+		<key name="$658 / Sq. Ft.">1,047</key>
+	</main_stats>
+	<text_base_description>Jetliner downtown Los Angeles skyscraper views from every room draw you in giving the heightened experience that only high-rise living brings out. Inviting entry foyer hall expands to open loft-style living providing unobstructed transitions between living room, dining area, galley kitchen  &amp;  floor-to-ceiling glass sliding doors to large private terrace. Simplified spaces for easy entertaining combined w/ hard-surface flooring throughout, modern fixtures, in-unit washer/dryer, chic powder room  &amp;  dramatic master suite w/ ample closet space. Double vanity spa-like master bath with oversized dual shower. Full service amenities: 1 car parking with storage, valet guest parking, refined lobby, updated hallways, security, concierge, pool/spa, clubhouse, rooftop sundeck, yoga room  &amp;  gym all w/ comparatively low HOA dues. Convenient to Runyon Canyon hiking, Sunset Strip  &amp;  the Hollywood Walk of Fame.  </text_base_description>
+	<listed_by>
+		<name>Ian Rhodes</name>
+		<agentLicenseDisplay>•DRE #01844869</agentLicenseDisplay>
+		<org> Keller Williams Realty Los Feliz</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$689,000</List_Price>
+		<Est._Mo._Payment>$3,178</Est._Mo._Payment>
+		<Redfin_Estimate>$684,040</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$658</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>37 days</Time_on_Redfin>
+		<Property_Type>Condominium, Residential Condo/Co-Op</Property_Type>
+		<HOA_Dues>$777/month</HOA_Dues>
+		<Year_Built>1964</Year_Built>
+		<Style>High or Mid-Rise Condo</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>1.23 Acres</Lot_Size>
+		<key name="MLS#">20-624846</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: Association Maintains Landscape, Association Pet Rules, Clubhouse, Concierge, Controlled Access, Elevator, Exercise Room, Fitness Center, Gated Parking, Guest Parking, Onsite Property Management, Sauna, Pool, Security, Spa, Steam Room, Sun Deck, Valet Parking, Extra Storage</group_dat>
+						<group_dat>Fee #1: $777.06</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+						<group_dat>Fees Include Building and Grounds, Fees Include Clubhouse, Fees Include Concierge, Fees Include On Site Security, Fees Include Sewer, Fees IncludeTrash, Fees Include Water</group_dat>
+						<group_dat>AssociationPetRules: Assoc Pet Rules, Call</group_dat>
+						<group_dat>Homeowner Assessments: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 190</group_dat>
+						<group_dat>24-Hour Concierge, Club Room, Dog Run, Entrance Lobby, Sun Deck, Valet Parking, Yoga and Pilates Studio</group_dat>
+						<group_dat>Athletic Court: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5548-025-144</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Suite</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat>Remodeled, Shower Stall, Double Vanity(s), Tile, Double Shower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Built-In Electric, Microwave</group_dat>
+						<group_dat>Remodeled, Galley Kitchen, Open to Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Stacked Laundry in Closet, Laundry in Unit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area, In Kitchen, Breakfast Area</group_dat>
+						<group_dat>Breakfast Area, Dining Area, Master Bedroom, Living Room, Patio Covered</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Drywall Walls, Built-Ins, Coffered Ceiling(s), Recessed Lighting, Open Floor Plan, Living Room Balcony, Laundry - Closet Stacked, Common Walls</group_dat>
+						<group_dat>Windows: Window Blinds</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Microwave, Dryer, Built-Ins, Garbage Disposal, Washer, Refrigerator, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Assigned, Community Garage, Parking for Guests, Gated, Valet</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 1</group_dat>
+						<group_dat># of Covered Parking Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 13</group_dat>
+						<group_dat>One Level</group_dat>
+						<group_dat>High Rise, Condominium, Attached</group_dat>
+						<group_dat>Attached</group_dat>
+						<group_dat>Entry Floor Number: 10</group_dat>
+						<group_dat>Security Features: 24 Hour</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Balcony, Covered, Living Room Balcony</group_dat>
+						<group_dat>Balcony: Yes</group_dat>
+						<group_dat>Other Structural Features: Balcony, Sliding Glass Doors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Association Pool, Fenced Pool, Heated Pool, Community Pool</group_dat>
+						<group_dat>Association Spa, Community Spa, Fenced Spa, Heated Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Condo/Co-Op</group_dat>
+						<group_dat>Property Condition: Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 53,586</group_dat>
+						<group_dat>Lot Size (Acres): 1.2302</group_dat>
+						<group_dat>Zoning: LAR3</group_dat>
+						<group_dat>Special Zoning: Property Report</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: City, City Lights, Pool, Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Unit Floor In Building: 10</group_dat>
+						<group_dat>Complex Name: Franklin Towers HOA</group_dat>
+						<group_dat>Directions: North of Hollywood Blvd, East of N Fuller Ave, West of N La Brea Ave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is, Listing Broker Advantage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,047</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,047</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1964</Year_Built>
+		<Year_Renovated>1964</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5548025144</APN>
+	</public_facts>
+</home>

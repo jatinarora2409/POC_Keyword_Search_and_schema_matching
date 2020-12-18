@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>4301 Military Rd NW #112 </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$489,000</Price>
+		<Beds>—</Beds>
+		<Bath>1</Bath>
+		<key name="$870 / Sq. Ft.">562</key>
+	</main_stats>
+	<text_base_description>The perfect and most convenient location in Friendship Heights. This studio condominium has a gourmet kitchen with Viking appliances, granite countertops, custom made Murphy bed (matches the kitchen cabinets), walk-in closet, and Bosch washer and dryer in the unit. There are also custom made black out curtains that convey. There is one parking spot in the garage, along with one storage unit. The 1st class building features a renovated fitness room, party/meeting room, and a beautiful lobby with concierge. Close to Friendship Heights Metro and all the wonderful shopping and restaurants nearby.  </text_base_description>
+	<listed_by>
+		<name>Kathi Kershaw</name>
+		<org> Long &amp; Foster Real Estate, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$489,000</List_Price>
+		<Est._Mo._Payment>$2,053</Est._Mo._Payment>
+		<Redfin_Estimate>$472,807</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$870</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>167 days</Time_on_Redfin>
+		<HOA_Dues>$547/month</HOA_Dues>
+		<Year_Built>2007</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>CHEVY CHASE</Community>
+		<key name="MLS#">DCDC466536</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Unbranded (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Garage Features: Garage Door Opener, Inside Access, Underground</group_dat>
+						<group_dat># of Total Garage and Parking Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Parking Garage - # of Spaces: 1</group_dat>
+						<group_dat>Parking Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Condo/Coop Fee: $547.70</group_dat>
+						<group_dat>Condo/Coop Fee Frequency: Monthly</group_dat>
+						<group_dat>HOA/Condo/Coop Fee Includes: Common Area Maintenance, Ext Bldg Maint, Health Club, Insurance, Lawn Care Front, Lawn Care Rear, Lawn Maintenance, Management, Reserve Funds, Snow Removal, Trash</group_dat>
+						<group_dat>HOA/Condo/Coop Amenities: Concierge, Elevator, Exercise Room, Extra Storage, Game Room, Meeting Room, Party Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: JANNEY</group_dat>
+						<group_dat>Middle Or Junior School: DEAL</group_dat>
+						<group_dat>High School: WILSON SENIOR</group_dat>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>Elementary School Source: 3rd Party</group_dat>
+						<group_dat>Middle School Source: 3rd Party</group_dat>
+						<group_dat>High School Source: 3rd Party</group_dat>
+						<group_dat>School District Source: 3rd Party</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On Main Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Microwave, Cooktop, Cooktop - Down Draft, Dishwasher, Disposal, Dryer, Exhaust Fan, Microwave, Oven - Wall, Refrigerator, Stainless Steel Appliances, Washer</group_dat>
+						<group_dat>Interior Features: Built-Ins, CeilngFan(s), Combination Dining/Living, Combination Kitchen/Dining, Efficiency, Entry Level Bedroom, Floor Plan - Open, Kitchen - Gourmet, Recessed Lighting</group_dat>
+						<group_dat>Living Area Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Living Room, Kitchen</group_dat>
+						<group_dat>Laundry Type: Washer In Unit, Dryer In Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Lease / Rent Details, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>Forced Air</group_dat>
+						<group_dat>Heating Fuel: Natural Gas</group_dat>
+						<group_dat>Hot Water: Natural Gas</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Lease Considered: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>In City Limits</group_dat>
+						<group_dat>Cross Street: Wisconsin</group_dat>
+						<group_dat>Directions: Wisconsin to Military (parking at daycare behind the building - just let front desk know you are parking there. </group_dat>
+						<group_dat>Entry Floor Number: 1</group_dat>
+						<group_dat>Transportation: Bus Stop less than 1 mile, Metro/Subway Station less than 1 mile</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Agricultural Tax Due: No</group_dat>
+						<group_dat>City/Town Tax: $3,563</group_dat>
+						<group_dat>Tax Assessed Value: $390,810</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $3,563</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Not Federal Flood Zone</group_dat>
+						<group_dat>Property Manager Present</group_dat>
+						<group_dat>Total Below Grade Sq. Ft.: 0</group_dat>
+						<group_dat>Accessibility Features: Level Entry - Main, No Stairs</group_dat>
+						<group_dat># of Floors In Unit: 1</group_dat>
+						<group_dat>Improvement Assessed Value: $273,570</group_dat>
+						<group_dat>Ownership Interest: Condominium</group_dat>
+						<group_dat>Property Condition: Very Good</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Unit Building Type: Hi-Rise 9+ Floors</group_dat>
+						<group_dat>Building Name: CHASE POINT</group_dat>
+						<group_dat>Construction Materials: Mixed</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Pets Allowed: No</group_dat>
+						<group_dat>Structure Type: Unit/Flat</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $117,240</group_dat>
+						<group_dat>Soil Types: Urban Land-Sassafras-Chillum</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 562</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft. Source: Assessor</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>562</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2007</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>1663    2012</APN>
+	</public_facts>
+</home>

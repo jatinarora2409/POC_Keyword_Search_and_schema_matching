@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8212 Barton Club Dr Unit 29-12 </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$29,500</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$11 / Sq. Ft.">2,600</key>
+	</main_stats>
+	<text_base_description>FRACTIONAL OWNERSHIP! Incredible vacation home on the grounds of the luxurious Omni Barton Creek Resort  &amp;  Spa. Owners enjoy 27 days of use with the ability to purchase extra days at discounted price. Fully furnished, beautifully appointed 3 bedroom 3.5 bath home. During your 27 days in residence, enjoy golf (cart fee only) and all other resort amenities. Owners can apply days to stay at The Homestead, VA, Hilton Head, Puerto Vallarta MX. Timeshare exchange through The Registry Collection </text_base_description>
+	<listed_by>
+		<name>Jason Long</name>
+		<agentLicenseDisplay>•TREC #0523896</agentLicenseDisplay>
+		<org> Sky Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$29,500</List_Price>
+		<Est._Mo._Payment>$157</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$11</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>41 days</Time_on_Redfin>
+		<Property_Type>Residential, Condominium</Property_Type>
+		<HOA_Dues>$474/month</HOA_Dues>
+		<Year_Built>2001</Year_Built>
+		<Community>The Owners Club at Barton Creek</Community>
+		<Lot_Size>4,533 Sq. Ft.</Lot_Size>
+		<key name="MLS#">4632563</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Branded (External Link)</group_dat>
+						<group_dat>Virtual Tour Unbranded(External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi Unit Information</heading>
+					<group_data>
+						<group_dat>Pets Allowed: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: The Owners Club</group_dat>
+						<group_dat>Association Fee: $5,690</group_dat>
+						<group_dat>Annually</group_dat>
+						<group_dat>Association Fee Includes: Cable TV, Electricity, Insurance, Maintenance Grounds</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 3</group_dat>
+						<group_dat># of Half Bathrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Workshop</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Area, Granite Counters, Kitchen Island</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Laundry</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Features: Breakfast Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 8 Information</heading>
+					<group_data>
+						<group_dat>Master Bathroom</group_dat>
+						<group_dat>Features: Double Vanity, Jetted Tub, Separate Shower</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 9 Information</heading>
+					<group_data>
+						<group_dat>Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Dryer, Dishwasher, ENERGY STAR Qualified Appliances, Electric Cooktop, Disposal, Microwave, Refrigerator, Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Unfurnished</group_dat>
+						<group_dat>Flooring: Carpet, Stone, Tile</group_dat>
+						<group_dat>Other Features: Separate/Formal Dining Room, French Door(s)/Atrium Door(s), High Ceilings, Main Level Master, Murphy Bed, Recessed Lighting, Walk-In Closet(s), Wired for Sound</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Has Carport</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Carport, Off Street, Outside</group_dat>
+						<group_dat># of Covered Spaces: 1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Roof Details: Composition</group_dat>
+						<group_dat>Construction Details: Masonry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Exterior Steps, Rain Gutters, Barbecue</group_dat>
+						<group_dat>Patio And Porch Features: Covered, Deck, Patio</group_dat>
+						<group_dat>Security Features: Pre Wired, Smoke Detector(s), Security Lights</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Green Features</heading>
+					<group_data>
+						<group_dat>Green Energy Efficient: Appliances</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Has Private Pool</group_dat>
+						<group_dat>Pool Features: Heated, Indoor, In Ground</group_dat>
+						<group_dat>Has Spa</group_dat>
+						<group_dat>Spa Features: Hot Tub, In Ground</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Phone Connected, Underground Utilities</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Clubhouse, Fitness Center, Golf, Game Room, Playground, Sauna, Tennis Courts, Trails/Paths</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.25</group_dat>
+						<group_dat>Lot Size Acres: 0.25</group_dat>
+						<group_dat>Lot Size Dimensions: 45 x 120</group_dat>
+						<group_dat>Lot Features: Backs to Greenbelt/Park, Near Golf Course, On Golf Course, Many Trees, Sprinklers Automatic, Sprinklers In Ground, Trees Large Size, Trees Medium Size</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Direction Faces: West</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Timeshare</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>Owners Club Home #29 Int #12</APN>
+	</public_facts>
+</home>

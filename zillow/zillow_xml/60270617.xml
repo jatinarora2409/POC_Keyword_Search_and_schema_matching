@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$199,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,300</area>
+	</summary>
+	<address>
+		<street_address>2141 W Gladys Ave #3,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Welcome home to this stunning Top floor unit home. 2 Bedroom, 2 bath with beautiful fireplace Located in Prime West Loop Area, This Home Features: Vaulted Ceilings, Skylights, Hardwood Floors, Whirlpool Tub, Gas Fireplace in Livingroom, 42&quot; Maple Cabinetry, Private Deck and In Unit Washer Dryer. Garage Parking Included! Extra Storage! Close to UIC, Rush, &amp; Downtown!Read more</overview>
+	<listing_agent>
+		<agentName>Eric Xie</agentName>
+		<phoneNumber>312-890-3290</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>ETX Realty and Management LLC</postingGroupName>
+		<postingWebsiteLinkText>ETX Realty and Management LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1999</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$105/mo</key>
+		<key name="Price/sqft:">$153</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,300 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,264 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17181230581003</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1999</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>7911 Norton Ave #7911 </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$849,000</Price>
+		<Beds>2</Beds>
+		<Baths>1.5</Baths>
+		<key name="$914 / Sq. Ft.">929</key>
+	</main_stats>
+	<text_base_description>Beautiful Front Facing 2 Bedroom, 1.5 Bathroom with only one shared wall. 1920s Historic Traditional Townhome in the heart of West Hollywood. Old World Charm abounds as you enter into this two story home from your brick walkway and lushly landscaped courtyard. Featuring original oak floors, classic stove  &amp;  oven, wine fridge, cabinet covered dishwasher and refrigerator, gorgeous tile work in bathroom, French windows, recessed smart lighting, central heat and air, washer and dryer inside the unit, and so much more! Tons of storage. Gated and covered parking. Spacious finished attic space that can be used for extra storage, office or hobby room. Across from Whole Foods and only minutes from some of the best shops, markets, and restaurants West Hollywood has to offer.  </text_base_description>
+	<listed_by>
+		<name>Mona Marinova</name>
+		<agentLicenseDisplay>•DRE #01709986</agentLicenseDisplay>
+		<org>•DRE #01709986</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$849,000</List_Price>
+		<Est._Mo._Payment>$3,915</Est._Mo._Payment>
+		<Redfin_Estimate>$848,822</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$914</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>33 days</Time_on_Redfin>
+		<Property_Type>Townhouse, Residential Condo/Co-Op</Property_Type>
+		<HOA_Dues>$293/month</HOA_Dues>
+		<Year_Built>1925</Year_Built>
+		<Style>French</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>0.51 Acres</Lot_Size>
+		<key name="MLS#">20-628850</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 1</item>
+						<item># of Baths (1/2): 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Laundry in Unit</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Dining Room</item>
+						<item>Attic Room, Bonus Room, Dining Room, Living Room, Master Bedroom, Walk-In Closet</item>
+					</item>
+				</item>
+				<item>
+					<item>Flooring Information</item>
+					<item>
+						<item>Wood Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Dishwasher, Dryer, Washer, Range/Oven, Refrigerator</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central Cooling</item>
+						<item>Central Heat</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Garage</item>
+					<item>
+						<item>Assigned, Carport, Detached</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking</item>
+					<item>
+						<item># of Parking Spaces (Total): 1</item>
+						<item># of Covered Parking Spaces: 1</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features, Homeowners Association, School / Neighborhood, Taxes / Assessments</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Total Floors: 2</item>
+						<item>Attached, Townhouse</item>
+						<item>Attached</item>
+						<item>Entry Floor Number: 1</item>
+						<item>Security Features: Carbon Monoxide Detector(s), Card/Code Access, Community, Smoke Detector, Fire Sprinklers, Gated</item>
+					</item>
+				</item>
+				<item>
+					<item>HOA Information</item>
+					<item>
+						<item>Amenities: Gated Community</item>
+						<item>Fee #1: $293</item>
+						<item>Fee #1 Frequency: Monthly</item>
+						<item>AssociationPetRules: Call</item>
+					</item>
+				</item>
+				<item>
+					<item>Community Information</item>
+					<item>
+						<item># of Units in Complex (Total): 15</item>
+					</item>
+				</item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5554-012-037</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Condo/Co-Op</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 22,220</item>
+						<item>Lot Size (Acres): 0.5101</item>
+						<item>Zoning: WDR4*</item>
+						<item>Special Zoning: None</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Unit Floor In Building: 1</item>
+						<item>Complex Name: NortonTownHomes HOA</item>
+						<item>Directions: 1 BLOCK NORTH OF SANTA MONICA BLVD. JUST WEST OF FAIRFAX, EAST OF CRESCENT HTS...Use Google Maps for accurate directions.</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: None</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>929</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>929</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1925</Year_Built>
+		<Year_Renovated>1935</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5554012037</APN>
+	</public_facts>
+</home>

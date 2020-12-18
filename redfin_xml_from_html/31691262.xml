@@ -1,0 +1,272 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3823 Gaines Ct </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$625,000</Price>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<key name="$289 / Sq. Ft.">2,165</key>
+	</main_stats>
+	<text_base_description>Welcome Home to this quaint gated community with an unbeatable location. Off Mopac with easy access to 290 and 71 and 360, close to Southwest Parkway, greenbelt, shopping and dining districts. Home is in amazing school district along with the close proximity to private schools in area. Spacious 2 story, 3 bedroom home, 2 dining spaces, 1 large formal living with a fireplace. You have a new roof and new paint on exterior and new Pergola outback. Come take a look, homes in this community dont last long. Restrictions: Yes  Sprinkler Sys:Yes </text_base_description>
+	<listed_by>
+		<name>Jahna Cathey</name>
+		<agentLicenseDisplay>•TREC #0683386</agentLicenseDisplay>
+		<org> Keller Williams Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$625,000</List_Price>
+		<Est._Mo._Payment>$3,321</Est._Mo._Payment>
+		<Redfin_Estimate>$620,911</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$289</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>28 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family Residence</Property_Type>
+		<HOA_Dues>$260/month</HOA_Dues>
+		<Year_Built>2000</Year_Built>
+		<Community>Courtyard At Gaines Ranch</Community>
+		<Lot_Size>3,615 Sq. Ft.</Lot_Size>
+		<key name="MLS#">4675358</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Unbranded(External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi Unit Information</heading>
+					<group_data>
+						<group_dat>Pets Allowed: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Gaines Ranch</group_dat>
+						<group_dat>Association Fee: $260</group_dat>
+						<group_dat>Monthly</group_dat>
+						<group_dat>Association Fee Includes: Common Areas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 2</group_dat>
+						<group_dat># of Half Bathrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Features: Breakfast Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Area, Kitchen Island</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Workshop</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Laundry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Oven, Dishwasher, Microwave, Refrigerator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Unfurnished</group_dat>
+						<group_dat>Flooring: Carpet, Tile, Wood</group_dat>
+						<group_dat>Other Features: Separate/Formal Dining Room, High Ceilings, Murphy Bed, Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat>Has Attached Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Attached, Garage</group_dat>
+						<group_dat># of Covered Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Roof Details: Tile</group_dat>
+						<group_dat>Construction Details: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Private Yard, Rain Gutters</group_dat>
+						<group_dat>Patio And Porch Features: Covered, Patio</group_dat>
+						<group_dat>Other Structures: Gazebo</group_dat>
+						<group_dat>Security Features: Smoke Detector(s)</group_dat>
+						<group_dat>Fencing: Fenced, Wood, Wrought Iron</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Pool Features: Community</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Natural Gas Available</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $8,107</group_dat>
+						<group_dat>Tax Year: 2010</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Playground, Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.08</group_dat>
+						<group_dat>Lot Size Acres: 0.08</group_dat>
+						<group_dat>Lot Features: Sprinklers In Rear, Sprinklers In Front, Moderate Trees</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,165</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,165</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>3,611 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2000</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>429741</APN>
+	</public_facts>
+</home>

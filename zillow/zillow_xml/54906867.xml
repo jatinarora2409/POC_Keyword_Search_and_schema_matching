@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$639,900</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,918</area>
+	</summary>
+	<address>
+		<street_address>8254 Lincoln St,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>This generous sized home on its .41 acre lot is tucked away down a long gated drive in the highly desired and sought after north Lemon Grove neighborhood. The home features classic 1930's architecture, hardwood floors, wood windows, spacious living room w/ fire place, dining room, large master bedroom addition and forced air and heat.  The flat usable lot is expansive with RV parking, Detached 2- car garage with 12 additional potential parking spaces and room to add a pool in the front or back yard.Read more</overview>
+	<listing_agent>
+		<agentName>Jamie Hopkins</agentName>
+		<phoneNumber>619-778-8888</phoneNumber>
+		<agentLicenseNumber>License #01070481</agentLicenseNumber>
+		<postingGroupName>Team Metro</postingGroupName>
+		<postingWebsiteLinkText>Team Metro</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1932</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">16 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">0.41 acres</key>
+		<key name="Price/sqft:">$334</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Garbage disposal, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,918 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport, Detached Garage</item>
+				<item>Garage spaces: 16</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stucco, Wood</item>
+				<item>Fencing: Partial, Gate, Wood, Brick Wall</item>
+				<item>Topography of land: Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.41 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5032014800</item>
+				<item>Zoning: R-1:SINGLE</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1932</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1932</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 82.21</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Lemon Grove</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

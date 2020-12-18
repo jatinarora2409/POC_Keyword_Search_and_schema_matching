@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$239,900</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>713</area>
+	</summary>
+	<address>
+		<street_address>360 W Washington Ave UNIT 1110,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Live, Work &amp; Play Downtown Madison!  Awesome 11th Fl, 1BR Condo w/private deck &amp; views of the city, lakes &amp; beautiful one acre Metro Place courtyard below.  Spacious LR, gas fireplace, open concept kitchen w/ breakfast bar, stainless appl (gas stove) &amp; new LVT flooring in kitchen/LR.  Large BR w/deep closet, full bath/ jetted tub &amp; stacked washer &amp; dryer.  All the perks of living downtown ... close to Lakes, State Street, Farmer's Market Capital, Overture Center, UW, grocery store, restaurants, shops, public transportation &amp; more!  Guest parking, fitness center, gated dog run, separate dog-friendly elevators &amp; on-site mgmt! Parking &amp; Storage located on 4th Fl, Parking #P526  Storage #414.  Assessment &amp; taxes reflect unit &amp; parking parcels. Condo fee $313.67, Parking fee $40.97 = $354.64.Read more</overview>
+	<listing_agent>
+		<agentName>Wendy Grunewald</agentName>
+		<phoneNumber>608-665-2060</phoneNumber>
+		<agentLicenseNumber>License #46618-90</agentLicenseNumber>
+		<postingGroupName>Century 21 Affiliated</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Affiliated</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2003</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">$336</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Heat pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 713 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: Attached Garage</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Brick, Stone</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 070923143550</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2003</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2006</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 84.78</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Madison</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $230,000</detail>
+				<detail>Annual tax amount: $5,001</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1890951</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Fuel: Natural gas</detail>
+				<detail>Water/Waste: Municipal water, Municipal sewer</detail>
+				<detail>Laundry Level: M</detail>
+				<detail>Living Room Lvl: M</detail>
+				<detail>Kitchen Lvl: M</detail>
+				<detail>Master BedRm Lvl: M</detail>
+				<detail>Common Amenities: Common Green Space, Close to busline, Exercise room, Security system, Elevator</detail>
+				<detail>Style: Garden</detail>
+				<detail>Exterior Features: Deck/Balcony</detail>
+				<detail>Heating/Cooling: Central air, Heat pump</detail>
+				<detail>Location: MADISON - C  W01</detail>
+				<detail>Interior Features: Washer, Dryer, At Least 1 tub, Walk-in closet(s), Water softener included, Wood or sim. wood floors, Hi-Speed Internet Avail, Jetted bathtub, Storage Unit Inc</detail>
+				<detail>Kitchen Features: Breakfast bar, Range/Oven, Refrigerator, Dishwasher, Microwave, Disposal</detail>
+				<detail>Fireplace: 1 fireplace, Gas</detail>
+				<detail>Source of Fin SqFt: Assessor</detail>
+				<detail>Source of Year Built: Assessor</detail>
+				<detail>Exterior: Brick, Stone</detail>
+				<detail>Parcel ID: 0709-231-4355-0</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

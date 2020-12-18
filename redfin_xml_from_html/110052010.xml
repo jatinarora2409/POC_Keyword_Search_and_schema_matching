@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1515 15th St #401 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94103</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$292,001</Price>
+		<Beds>—</Beds>
+		<Bath>1</Bath>
+		<key name="$762 / Sq. Ft.">383</key>
+	</main_stats>
+	<text_base_description>Studio Below Market Rate (BMR) housing opportunity available at 100% Area Median Income (AMI). Maximum income for 1 person = $89,650; 2 people = $102,500; 3 = $115,300; 4 = $128,100, etc. Must be 1st-time homebuyer  &amp;  income eligible. Unit available thru the Mayor's Office of Housing and Community Development (MOHCD)  &amp;  subject to resale controls, monitoring  &amp;  other restrictions. Unit will be listed on DAHLIA, the SF Housing Portal (https://housing. sfgov. org) starting on the application date, October 5, 2020. Visit https://housing. sfgov.org for application  &amp;  program info. Application, loan pre-approval, and homebuyer education verification due on October 26, 2020. Fair Housing Opportunity.  </text_base_description>
+	<listed_by>
+		<name>Robert Belli</name>
+		<agentLicenseDisplay>•DRE #01913570</agentLicenseDisplay>
+		<org> Home Quest Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$292,001</List_Price>
+		<Est._Mo._Payment>$1,334</Est._Mo._Payment>
+		<Redfin_Estimate>$290,998</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$762</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>5 days</Time_on_Redfin>
+		<Property_Type>Studio, Mid-Rise (4-8), Condominium</Property_Type>
+		<HOA_Dues>$481/month</HOA_Dues>
+		<Year_Built>2014</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Inner Mission</Community>
+		<key name="MLS#">507554</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Roof Deck</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 2 Blocks Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Ext Bldg Maintenance, Outside Management</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $481</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>Articles of Incorporation, Bylaws, CC&amp;Rs, Rules &amp; Regulations, Financial Statements, Budget</group_dat>
+						<group_dat>Name: Fifteen Fifteen</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower Over Tub</group_dat>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Hookups Only, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Simulated Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Gas Range, Refrigerator, Dishwasher, Garbage Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 1 Bath</group_dat>
+						<group_dat># of Rooms: 2</group_dat>
+						<group_dat>Intercom, Elevator/Lift</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Contemporary</group_dat>
+						<group_dat>Type: Studio, Mid-Rise (4-8)</group_dat>
+						<group_dat># of Units: 40</group_dat>
+						<group_dat>Floor #: 4</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 3553-126</group_dat>
+						<group_dat>Special Features: Intercom, Elevator/Lift</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: South Van Ness Ave</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $292,001</group_dat>
+						<group_dat>Known Below Market Rate: Known Below Market Rate</group_dat>
+						<group_dat>On Market Date: Sunday, October 4, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>383</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2014</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3553 126</APN>
+	</public_facts>
+</home>

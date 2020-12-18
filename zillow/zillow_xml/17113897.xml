@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$649,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,682</area>
+	</summary>
+	<address>
+		<street_address>1661 Colfax Dr,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>RARE Fully renovated DUPLEX! Main house is 3bd/1ba Craftsmen with its own private yard and garage. A permitted detached studio in the back perfect to rent out and offset the mortgage.. All units have their own yards and have been completely renovated with a new kitchen, roofs, bedrooms, bathrooms, new flooring throughout, new dual pane vinyl windows, and freshly painted interior/ exterior.  This property will sell quickly. Call or text for more info/ EARLY private showing (619) 852-4244. 
+Read more</overview>
+	<listing_agent>
+		<agentName>Jamal Johnson</agentName>
+		<phoneNumber>619-852-4244</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Acropolis Developments</postingGroupName>
+		<postingWebsiteLinkText>Acropolis Developments</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1942</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Price/sqft:">$386</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,682 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,405 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5771921600</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1942</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 82.21</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Lemon Grove</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

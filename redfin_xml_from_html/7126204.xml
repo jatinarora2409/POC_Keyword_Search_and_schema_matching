@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>7932 Woodrow Wilson Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,195,000</Price>
+		<Beds>4</Beds>
+		<Baths>6</Baths>
+		<key name="$385 / Sq. Ft.">5,700</key>
+	</main_stats>
+	<text_base_description>Prime Location on Celebrity Row Above the Famous Sunset Strip, 7932 Woodrow Wilson Offers a Unique Opportunity for Both an Owner-user or Developer to be a Part of Something Truly Special!  Designed by Renowned CLR Design Group, This Organic Modern Approach Meshes the Quintessential L. A. Resort-style Living with Ultimate Privacy. RTI Plans with Full Mulholland Design Board Approval Lays Out What Will Soon Become a Local Masterpiece. This 5,700 Sqft Contemporary Will Feature 4 Beds, 6 Baths, Including a Master Bedroom Which Comprises the Entire Second Floor. The Expansive Flat Lot Will Transform into Your Own Oasis with a Zero-edge Pool/Spa and Outdoor Kitchen and Bar. Enjoy Your Very Own Subterranean Media Room and Entertainers Lounge; The Ultimate Use of Space Defined. All of This Combined Creates an Incredible Indoor/Outdoor Flow, Complemented by Walls of Glass, Leading to Multiple Water and Fire Features. Do Not Miss This Rare Opportunity.  </text_base_description>
+	<listed_by>
+		<name>Joshua Altman</name>
+		<agentLicenseDisplay>•DRE #01764587</agentLicenseDisplay>
+		<org> Douglas Elliman</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,195,000</List_Price>
+		<Est._Mo._Payment>$10,121</Est._Mo._Payment>
+		<Redfin_Estimate>$2,142,103</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$385</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>39 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1950</Year_Built>
+		<Style>New Project</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>10,192 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-624184</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Other Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Other Cooling</group_dat>
+						<group_dat>Other Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5570-029-013</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: From Valley, Laurel Canyon to Mulholland, Mulholland go left/then immediate right onto Woodrow Wilson</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Other Pool (See Remarks)</group_dat>
+						<group_dat>Other Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 10,192</group_dat>
+						<group_dat>Zoning: LARE11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,557</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,557</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>10,192 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1950</Year_Built>
+		<Year_Renovated>1950</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5570029013</APN>
+	</public_facts>
+</home>

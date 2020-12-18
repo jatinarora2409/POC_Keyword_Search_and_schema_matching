@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$499,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>624</area>
+	</summary>
+	<address>
+		<street_address>2380 Homestead Rd UNIT 3103,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Ground floor spacious 1 bedroom unit conveniently located in the heart of Santa Clara. Just a few minutes away from the Apple Headquarters, Santana Row, Valley Fair. Walking distance to Santa Clara Central Park, Safeway, Sprouts, Target, Banks, Restaurants, and more. Contemporary upgraded kitchen with granite counters and stainless steel appliances, including the refrigerator. Upgraded bathroom. Spacious bedroom including a walking closet. Stackable space-saving washer and dryer included.  Cozy fenced front patio w/greenbelt. Unified schools: C. W. Haman Elementary School; Buchser Middle School; Santa Clara High SchoolRead more</overview>
+	<listing_agent>
+		<agentName>Sela Homes Team</agentName>
+		<phoneNumber>415-525-4913</phoneNumber>
+		<agentLicenseNumber>License #01385315</agentLicenseNumber>
+		<postingGroupName>Sela Homes</postingGroupName>
+		<postingWebsiteLinkText>Sela Homes</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2007</key>
+		<key name="Heating:">Forced air, Electric</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$382/mo</key>
+		<key name="Price/sqft:">$800</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Washer</detail>
+				<detail>Laundry features: Washer / Dryer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 624 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Carport, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Stucco</detail>
+				<detail>View description: None</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 664 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 29415089</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2007</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 2007</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 92.46</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $382/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $270,000</detail>
+				<detail>Annual tax amount: $3,279</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81810102</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Family Room: No Family Room</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Sewer Septic: Sewer Connected</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Water: Public</detail>
+				<detail>Garage Parking Features: Off-Street Parking, Common Parking Area</detail>
+				<detail>Association Fees Include: Reserves, Exterior Painting, Garbage, Hot Water, Insurance - Common Area, Maintenance - Common Area, Landscaping / Gardening, Water / Sewer</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Roof: Other</detail>
+				<detail>Heating: Central Forced Air</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Dining Room: Dining Area, Dining Bar</detail>
+				<detail>Cooling: Multi-Zone, Window / Wall Unit</detail>
+				<detail>Foundation: Raised</detail>
+				<detail>HOA Exist Y/N: 1</detail>
+				<detail>HOA Fee: 382</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Laundry: Washer / Dryer</detail>
+				<detail>HOA Amenities: Garden / Greenbelt / Trails</detail>
+				<detail>HOA Fee Frequency: Monthly</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

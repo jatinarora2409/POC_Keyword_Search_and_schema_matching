@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>9085 Alto Cedro Dr </street-address>
+		<locality>Beverly Hills, </locality>
+		<region>CA</region>
+		<postal-code>90210</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$2,995,000</Price>
+		<Beds>4</Beds>
+		<Baths>4.5</Baths>
+		<key name="$788 / Sq. Ft.">3,800</key>
+	</main_stats>
+	<text_base_description>Trousdale-adjacent, sophisticated and private home, minutes from Beverly Hills shops and restaurants, offers awe inspiring views. This gated, chic hillside home, flooded with natural light, has been totally transformed with the utmost style and attention to detail. Long private driveway with parking for several cars leads to a secluded garden. Living room with vaulted ceilings and breathtaking views. Chef's kitchen has top of the line appliances and center island. Large patio with adjoining gourmet outdoor kitchen. Outdoor space is perfect for al fresco dining, suitable for all entertaining needs. Kitchen opens to family room and wet bar; an expansive great-room for all to enjoy. Upstairs are three generous bedrooms, all with designer en suite bathrooms. Luxurious master suite offers canyon and ocean views. Lower level offers additional private bedroom, bath, office space and full gym. Subterranean 3000 bottle refrigerated wine cellar for the collector or connoisseur. A must-see! </text_base_description>
+	<listed_by>
+		<name>Jordana Leigh</name>
+		<agentLicenseDisplay>•DRE #01239166</agentLicenseDisplay>
+		<org> Rodeo Realty - Beverly Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$2,995,000</List_Price>
+		<Est._Mo._Payment>$13,810</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$788</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>39 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1991</Year_Built>
+		<Style>Hacienda</Style>
+		<Community>Beverly Hills Post Office</Community>
+		<Lot_Size>0.30 Acres</Lot_Size>
+		<key name="MLS#">20-626276</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 4</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Breakfast Area, Breakfast Bar, Family Room, Patio Open, Powder Room, Walk-In Closet, Wine Cellar</group_dat>
+						<group_dat>Maids Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Family Room, In Master Bedroom</group_dat>
+						<group_dat># of Fireplaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Barbeque, Dishwasher, Dryer, Freezer, Garbage Disposal, Hood Fan, Range/Oven, Refrigerator, Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Attached, Direct Entrance, Driveway, 2 Car Garage, Parking for Guests - Onsite, Side By Side</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 5</group_dat>
+						<group_dat># of Open Other Spaces: 3</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Guest House: Attached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Hot Tub</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 4388-015-007</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Loma Vista to Evelyn - turns into Alto Cedro. Cherokee to Bowmont to Hazen to Alto Cedro.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 13,271</group_dat>
+						<group_dat>Lot Size (Acres): 0.3047</group_dat>
+						<group_dat>Zoning: LARE40</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, Ocean, Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>3,425</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,425</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>0.30 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1991</Year_Built>
+		<Year_Renovated>1991</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>4388015007</APN>
+	</public_facts>
+</home>

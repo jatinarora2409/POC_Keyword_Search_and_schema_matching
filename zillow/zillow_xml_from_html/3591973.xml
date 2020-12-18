@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$298,700</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>1,158</area>
+	</summary>
+	<address>
+		<street_address>4041 Denley Ave,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>This is the Home you have been looking for: Beautiful Single Family Brick Home with great curb appeal in quiet residential neighborhood, conveniently located minutes from Kennedy Park. This recently Remodeled home offers a large primary bedroom, two additional bedrooms, and full size bathroom with original custom tilework, all located on main level. The spacious floor plan offers room for large sectional and dining area just off the updated kitchen with new SS appliances, granite countertops, modern backsplash, room for breakfast table, new ceramic tile flooring, and plenty of original solid wood cabinetry. Home features an abundance of natural light from over-sized panoramic window in living room, refinished hardwood floors throughout main level, all indoor walls freshly painted, central air and heating, finished basement with two additional bedrooms, laundry room with full sized washer/dryer, utility room, and long driveway leading to plenty of outdoor space with large fenced in backyard and ground level 250sq ft concrete patio, as well as a full sized freshly  painted two car garage. Just a short 5-minute walk is Kennedy Park with baseball diamond, basketball court, children's playground, Schiller Park swimming pool, water slides, and much more outdoor entertainment! Cherry on top - The home includes a professionally installed Briggs &amp; Stratton Whole House Generator. Very close to O'Hare airport .Read more</overview>
+	<listing_agent>
+		<agentName>Doris Hansen</agentName>
+		<phoneNumber>708-867-5454</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Century 21 Affiliated</postingGroupName>
+		<postingWebsiteLinkText>Century 21 Affiliated</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1961</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,599 sqft</key>
+		<key name="Price/sqft:">$258</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,158 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,599 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 1216316016</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: masonry</detail>
+				<detail>Roof: Shake / Shingle</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1961</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 90.98</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $197,170</detail>
+				<detail>Annual tax amount: $1,874</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10846163</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>Appliances: Oven/Range, Microwave, Refrigerator, Washer, Dryer, All Stainless Steel Kitchen Appliances</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Exterior Building Type: Brick</detail>
+				<detail>Foundation: Concrete</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Water: Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Parking Type: Garage</detail>
+				<detail>Status: Active</detail>
+				<detail>Sale Terms: FHA, VA, Conventional</detail>
+				<detail>Tax Exemptions: Homeowner, Senior, Senior Freeze</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Exposure: W (West)</detail>
+				<detail>Kitchen Flooring: Ceramic Tile</detail>
+				<detail>Dining Room Level: Not Applicable</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>2nd Bedroom Flooring: Hardwood</detail>
+				<detail>3rd Bedroom Flooring: Hardwood</detail>
+				<detail>Other Information: School Bus Service</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Kitchen Type: Eating Area-Table Space, Updated Kitchen, Granite Counters</detail>
+				<detail>Basement: Finished</detail>
+				<detail>3rd Bedroom Level: Main Level</detail>
+				<detail>Driveway: Side Drive, Concrete</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Not Applicable</detail>
+				<detail>Style Of House: Ranch</detail>
+				<detail>Square Feet Source: Assessor</detail>
+				<detail>Kitchen Window Treatments (Y/N): Blinds</detail>
+				<detail>Living Room Window Treatments (Y/N): Blinds</detail>
+				<detail>Master Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>Age: 51-60 Years</detail>
+				<detail>2nd Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>3rd Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>Family Room Window Treatments (Y/N): Blinds</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Recent Rehab (Y/N): Yes</detail>
+				<detail>Laundry Window Treatments: Blinds</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Type of House 2: 1.5 Story</detail>
+				<detail>Garage Type: Detached2, Detached</detail>
+				<detail>Lot Dimensions: 50X131.8</detail>
+				<detail>Laundry Level: Basement</detail>
+				<detail>Garage Ownership: Owned</detail>
+				<detail>Basement (Y/N): Full</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Additional Sales Information: List Broker Must Accompany</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 12163160160000</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

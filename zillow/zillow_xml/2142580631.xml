@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$299,900</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,900</area>
+	</summary>
+	<address>
+		<street_address>210 S Troy St,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Hot Townhome in East Garfield Park with a modern contemporary design layout and beautiful finishes. NO HOA FEEs. Recently rehabbed single family home consisting of three levels, four bedrooms, two and a half bath. Main level has an open space layout with all hardwood flooring, a huge living room, half bathroom and a great kitchen that consists of a beautiful island, stainless steel sink and appliances, quartz countertop with quality dark kitchen cabinets. Plenty of natural lighting! The upper level has a Master suite with two closets and two beautiful bedrooms all with hardwood flooring and a full bath with porcelain tile. The finished lower lever consists of 1 bedroom, full bathroom,  laundry room and a bright spacious recreation room. HVAC system and smart thermostats included. Rear Deck overlooking beautiful grassy backyard and 2 car parking space. Walking distance to green line and blue line, minutes from United Center, nearby park, and I-290 Expressway. Virtual Tour Available.Read more</overview>
+	<listing_agent>
+		<agentName>Christopher Gamboa</agentName>
+		<phoneNumber>847-906-3352</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Cobblestone Realty Inc</postingGroupName>
+		<postingWebsiteLinkText>Cobblestone Realty Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1885</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">2,744 sqft</key>
+		<key name="Price/sqft:">$158</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,900 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: None, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2,744 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1885</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 85.38</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

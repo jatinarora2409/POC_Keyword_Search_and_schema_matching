@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3531 W VERNON Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$220,000</Price>
+		<Beds>2</Beds>
+		<Baths>1.75</Baths>
+		<key name="$168 / Sq. Ft.">1,307</key>
+	</main_stats>
+	<text_base_description>2bed 1bath house with a 1bed 1bath studio/guest house in back. Owner just finishing up remodel, extra long driveway can fit eight+ cars. Extra room to expand. New owner can live in one rent the other, each with own electric meter. Lease Month to Month.  </text_base_description>
+	<listed_by>
+		<name>Sandra Torres Valdez</name>
+		<org> • At Home Real Estate Arizona </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$220,000</List_Price>
+		<Est._Mo._Payment>$844</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$168</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>217 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached, 2/3/4 Plex</Property_Type>
+		<Year_Built>1945</Year_Built>
+		<Community>FAIRFIELD</Community>
+		<Lot_Size>7,600 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6047235</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item>Bedrooms Plus: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Bathrooms: 1.75</item>
+						<item>3/4 Master Bathroom</item>
+					</item>
+				</item>
+				<item>
+					<item>Kitchen &amp; Dining Information</item>
+					<item>
+						<item>Range/Oven Gas, Refrigerator in Kitchen</item>
+						<item>Eat-in Kitchen</item>
+					</item>
+				</item>
+				<item>
+					<item>Appliances &amp; Equipment</item>
+					<item>
+						<item>Inside Laundry</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item># of Interior Levels: 1</item>
+						<item>Tile Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Electric Heating</item>
+						<item>Ceiling Fan(s), Refrigeration</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features, Homeowners Association, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Block Construction</item>
+						<item>Painted Exterior, Stucco Exterior</item>
+						<item>Composition Shingle Roof</item>
+						<item>Builder Name: INDEPENDANT BUILDER</item>
+						<item>Exterior Stories: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>No HOA</item>
+						<item>Capital Improvement/Impact Fee: 0</item>
+						<item>Capital Improvement/Impact Fee Type: Percentage</item>
+						<item>Capital Improvement/Impact Fee #2: 0</item>
+						<item>Capital Improvement/Impact Fee #2 Type: Percentage</item>
+						<item>Other Rules/Information (See Remarks)</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School: Esperanza Elementary - 85009</item>
+						<item>Junior High School: Isaac Middle</item>
+						<item>High School: Carl Hayden</item>
+						<item>Elementary School District: 005 - Isaac Elementary District</item>
+						<item>High School District: 210 - Phoenix Union High School District</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Water</item>
+						<item>Sewer (Public)</item>
+						<item>Utilities: Salt River Project, Southwest Gas</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item>Architect: Architect: INDEPENDENT BUILDER</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Approximate Sq. Ft. Range: Less Than 1,000</item>
+						<item>Sq. Ft. Source: County Assessor</item>
+						<item>Builder Name: INDEPENDANT BUILDER</item>
+						<item>Dwelling Styles: Detached</item>
+						<item>Tax Municipality: Maricopa County</item>
+						<item>Assessor Number: 108-14-057</item>
+						<item>Assessor's Book #: 108</item>
+						<item>Assessor's Map #: 14</item>
+						<item>Assessor's Parcel #: 57</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Approximate Lot Size Range: 1 - 7,500</item>
+						<item>Block Fencing</item>
+						<item>Landscaping: Dirt in Back, Dirt in Front</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: 35th Ave &amp; Thomas</item>
+						<item>Census Tract: 2.00</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>827</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>827</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,600 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1950</Year_Built>
+		<Year_Renovated>1950</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10814057</APN>
+	</public_facts>
+</home>

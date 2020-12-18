@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>3643 19th St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94110</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$4,490,000</Price>
+		<Beds>5</Beds>
+		<Baths>5.5</Baths>
+		<key name="$1091 / Sq. Ft.">4,116</key>
+	</main_stats>
+	<text_base_description>Dolores Dream Home! Located on the flat block of 19th Street next to the Park, this stunningly renovated two-unit building (and great single family home alternative) features high-end contemporary designer finishes and fabulous indoor/ outdoor living spaces with a large back yard as well as two terraces. Situated at the nexus of Dolores Park and the incredibly diverse array of hip and trendy dining, shopping, cultural attractions of the dynamic Castro, Valencia Corridor and Mission areas, this property is also strategically near the major tech and bio-tech hubs of SoMa and Mission Bay, as well as the sporting and entertainment attractions of Oracle Park and the new Chase Center- a perfect urban location next to one of the City's most beautiful parks! </text_base_description>
+	<listed_by>
+		<name>Joel Goodrich</name>
+		<agentLicenseDisplay>•DRE #01028702</agentLicenseDisplay>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$4,490,000</List_Price>
+		<Est._Mo._Payment>$20,518</Est._Mo._Payment>
+		<Redfin_Estimate>$4,478,764</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,091</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>4+ Story, Single-Family Home</Property_Type>
+		<Year_Built>1908</Year_Built>
+		<Style>Modern/High Tech</Style>
+		<Community>Mission Dolores</Community>
+		<Lot_Size>3,870 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507422</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking Type: On Site</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat># of Parking Spaces: 2</group_dat>
+						<group_dat>Garage, Automatic Door</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Deck(s), Enclosed Patio(s), Fenced Yard, Garden, Patio(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 5</group_dat>
+						<group_dat>2 Bedrooms on Upper Level</group_dat>
+						<group_dat>2 Bedrooms on Main Level</group_dat>
+						<group_dat>1 Bedroom on Lower Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 5.5</group_dat>
+						<group_dat>2.5 Baths on Upper Level</group_dat>
+						<group_dat>2 Baths on Main Level</group_dat>
+						<group_dat>1 Bath on Lower Level</group_dat>
+						<group_dat>Tile, Shower over Tub, Stall Shower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>On Upper Level</group_dat>
+						<group_dat>Living Room on Main Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Family Room Information</heading>
+					<group_data>
+						<group_dat>Family Room on Lower Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>On Upper Level</group_dat>
+						<group_dat>Dining Room on Main Level</group_dat>
+						<group_dat>Combination Living/Dining Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+						<group_dat>Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat># of Fireplace(s): 1, Gas Burning</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Appliances: Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Gas Range, Hood Over Range, Refrigerator, Freezer, Dishwasher, Microwave, Island</group_dat>
+						<group_dat>Kitchen on Main Level</group_dat>
+						<group_dat>On Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Floors: Hardwood</group_dat>
+						<group_dat># of Rooms (Total): 0</group_dat>
+						<group_dat>1 Bedroom on Lower Level, 1 Bath on Lower Level, Family Room on Lower Level</group_dat>
+						<group_dat>2 Bedrooms on Main Level, 2 Baths on Main Level, Living Room on Main Level, Dining Room on Main Level, Kitchen on Main Level</group_dat>
+						<group_dat>2 Bedrooms on Upper Level, 2.5 Baths on Upper Level, On Upper Level, On Upper Level, On Upper Level</group_dat>
+						<group_dat>Bay Window(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Heating/Cooling: Radiant</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Dolores</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $4,490,000</group_dat>
+						<group_dat>On Market Date: Friday, October 2, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights, San Francisco, Garden/Greenbelt</group_dat>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Transportation: 2 Blocks</group_dat>
+						<group_dat>Shopping: 1 Block</group_dat>
+						<group_dat>Type: 4+ Story</group_dat>
+						<group_dat>Per Builder</group_dat>
+						<group_dat>Garden, Fenced Yard, Patio(s), Enclosed Patio(s), Deck(s), Bay Window(s)</group_dat>
+						<group_dat>APN: 3598068</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>6</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,870</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>2,848 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1908</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3598 068</APN>
+	</public_facts>
+</home>

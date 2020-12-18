@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$199,000</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>1,430</area>
+	</summary>
+	<address>
+		<street_address>2418 W Madison St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Budget priced duplex that has been in the same family for many years. Both units are 2 bed/1 bath with 715 SF. Rents are well below market on month-to-month leases. One AC unit is new, the other has a new compressor per owner. Value-add needing some cosmetics, etc. Nice upside with raising rents to market. Unit showings in escrow, please do not disturb tenants. Buyer to complete and rely on own due diligence.Read more</overview>
+	<listing_agent>
+		<agentName>James Stephens</agentName>
+		<phoneNumber>480-699-0777</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Platinum Living Realty</postingGroupName>
+		<postingWebsiteLinkText>Platinum Living Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1965</key>
+		<key name="Heating:">Wall, Electric</key>
+		<key name="Cooling:">Central, Other</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$139</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 0</detail>
+				<detail>Bathrooms: 0</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Wall, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central, Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,430 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Cement / Concrete</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,000 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10947136</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Multiple Occupancy</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: concrete</detail>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1965</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1965</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Electric information: APS</detail>
+				<detail>Gas information: Other (See Remarks)</detail>
+				<detail>Sewer information: Sewer - Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 90.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $104,100</detail>
+				<detail>Annual tax amount: $528</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6131064</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Community Amenities: Other (See Remarks)</detail>
+				<detail>Cooling: 2 or More Units, Central A/C, Electric Refrigeratd, Individual, Other (See Remarks)</detail>
+				<detail>Exterior Amenities: Desert Landscaping, Partially Fenced</detail>
+				<detail>Heating: Electric</detail>
+				<detail>Interior Amenities: Fire/Smoke Alarm(s)</detail>
+				<detail>Parking: &gt;1 Space Per Unit, Paved Parking</detail>
+				<detail>Project Type: Duplex</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Water: City Franchise</detail>
+				<detail>Gas: Other (See Remarks)</detail>
+				<detail>Water: Master Meter</detail>
+				<detail>Const - Finish: Painted</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Floors: Vinyl/Composition</detail>
+				<detail>Owner Pays: Water, Sewer, Other</detail>
+				<detail>Tenant Pays: Electric</detail>
+				<detail>Source of Fincl Data: Provided by Owner, Other (See Remarks)</detail>
+				<detail>New Financing: Conventional</detail>
+				<detail>Sale Includes: Building(s) Only</detail>
+				<detail>Construction: Block</detail>
+				<detail>Appliances Included: Other (See Remarks)</detail>
+				<detail>Electric: APS</detail>
+				<detail>Tax Municipality: Phoenix</detail>
+				<detail>Roads/Streets: Curb(s) &amp; Gutter(s), Asphalt</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

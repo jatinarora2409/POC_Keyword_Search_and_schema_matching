@@ -1,0 +1,16 @@
+Something went wrong with: https://www.zillow.com/community/thomas-place-townhomes/2078191415_zpid/Traceback (most recent call last):
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_scarper.py", line 49, in <module>
+    zillow.zillow_functions.record(property_link,save_xml=False)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 234, in record
+    dom = record_xml_util(property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 211, in record_xml_util
+    record_xml["listing_agent"] = get_listing_agent(property_page_soup)
+  File "/Users/jarora/PycharmProjects/websiteScarper/zillow/zillow_functions.py", line 46, in get_listing_agent
+    listing_agent_details = json.loads(listing_string)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 357, in loads
+    return _default_decoder.decode(s)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

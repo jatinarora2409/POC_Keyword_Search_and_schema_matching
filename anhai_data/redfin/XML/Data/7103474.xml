@@ -1,0 +1,205 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>813 N Spaulding Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,695,000</Price>
+		<Beds>6</Beds>
+		<Baths>6.5</Baths>
+		<key name="$737 / Sq. Ft.">5,015</key>
+	</main_stats>
+	<text_base_description>Sophistication and luxury is exemplified throughout this meticulously designed newly constructed Traditional style 6 bedroom 6.5 bathroom estate located in the highly desirable West Hollywood vicinity. Offering impeccable craftsmanship and exceptional amenities, this 5000 sqft home boasts wide plank white oak floors, open floor plan, 3 fireplaces, coffered ceilings and custom curated finishes. The master suite features double entry doors, high pitched ceilings, dual walk-in closets, fireplace, and a luxurious spa-like master bathroom. The chefs kitchen is dressed with brilliant white marble counter tops, large center island, top of the line appliances, a butlers pantry and for the enthusiast- a wine cellar. Desirable kitchen and family room combo flow seamlessly into the spacious sun filled backyard equipped with a bbq, pool and spa. Complete with an integrated smart home automation this graceful home is the perfect blend of traditional elegance with modern amenities.  </text_base_description>
+	<listed_by>
+		<name>Scott Ammann</name>
+		<agentLicenseDisplay>•DRE #01295980</agentLicenseDisplay>
+		<org> Keller Williams Hollywood Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,695,000</List_Price>
+		<Est._Mo._Payment>$17,035</Est._Mo._Payment>
+		<Redfin_Estimate>$3,542,813</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$737</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>41 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Traditional</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,501 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-624724</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5527-005-018</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Melrose to Spaulding</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: None</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Suite, WalkInCloset</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 6</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Gourmet Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry on Upper Level, Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Den</group_dat>
+						<group_dat>Bonus Room, Breakfast Room, Dressing Area, Entry Room, Family Room, Great Room, Guest-Maids Quarters, Patio Open, Separate Family Room, Breakfast Area, Breakfast Bar, Study/Office, Living Room, Master Bedroom, Walk-In Closet, Walk-In Pantry, Wine Cellar, Office, Den, Dining Room</group_dat>
+						<group_dat>Maids Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Family Room, In Living Room, In Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Hardwood Floors, Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Alarm System, Antenna, Attic Fan, Barbeque, Built-Ins, Cable, Dishwasher, Dryer, Freezer, Garbage Disposal, Gas Dryer Hookup, Hood Fan, Ice Maker, Intercom, Washer, Vented Exhaust Fan, Refrigerator, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage, Driveway</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 4</group_dat>
+						<group_dat># of Open Other Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 2</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>In Ground Pool, Heated Pool, Heated And Filtered Pool, Waterfall Pool</group_dat>
+						<group_dat>In Ground Spa, Heated Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,501</group_dat>
+						<group_dat>Lot Size (Acres): 0.1492</group_dat>
+						<group_dat>Zoning: LAR2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>6</Beds>
+		<Baths>5</Baths>
+		<Finished_Sq._Ft.>4,766</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>4,766</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>6,501 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>2019</Year_Built>
+		<Year_Renovated>2019</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5527005018</APN>
+	</public_facts>
+</home>

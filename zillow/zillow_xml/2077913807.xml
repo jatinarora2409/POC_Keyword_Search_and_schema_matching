@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$754,800</price>
+		<bd>3</bd>
+		<ba>4</ba>
+		<area>2,457</area>
+	</summary>
+	<address>
+		<street_address>7922 Yellow Thistle Trl #40,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Lot #40 ; TO BE BUILT ; ESTIMATED COMPLETION Summer of 2021 - Serrano Floorplan - Roof Top Terrace - Hardwood floors throughout. Discover our 41 modern 2 and 3 story detached city homes. 9 floorplans combine contemporary architecture and high-end interiors. Close to downtown, these spacious homes are sophisticated and refined, featuring high ceilings, expansive rooftop terraces, elevator option on select plans, and two-car ground-level garages.  MODEL HOURS: Sat &amp; Sun 11am - 5pm Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Nicole Kessler</agentName>
+		<phoneNumber>512-575-3644</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass RE Texas, LLC</postingGroupName>
+		<postingWebsiteLinkText>Compass RE Texas, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">No Data</key>
+		<key name="Heating:">Forced air, Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$175/month</key>
+		<key name="Lot:">4,356 sqft</key>
+		<key name="Price/sqft:">$307</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air, Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,457 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stucco</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.1 acres</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Cluster Mailbox</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

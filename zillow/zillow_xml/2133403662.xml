@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$249,900</price>
+		<bd>8</bd>
+		<ba>3</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2753 W Jackson Blvd,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>10% cap rate in Super-Hot East Garfield Park! This 2 Flat was gut renovated in 2014 with all new mechanicals, kitchens and baths and is configured as a 3/1 simplex on the 2nd floor and a 5/2 duplex down. Currently in CHAC service, but way under-rented. With some TLC and scheduled Section 8 rents, this building could easily be a 15% cap rate!Read more</overview>
+	<listing_agent>
+		<agentName>Scott Siegel</agentName>
+		<phoneNumber>773-968-1110</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>SRFG  Inc</postingGroupName>
+		<postingWebsiteLinkText>SRFG  Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1886</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 8</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Refrigerator</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: None</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1886</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.97</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

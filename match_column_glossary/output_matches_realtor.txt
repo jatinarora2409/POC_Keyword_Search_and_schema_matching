@@ -1,0 +1,15 @@
+column_name: ['postal', 'code']
+glossary_term: ['postal', 'code/zip', 'code', 'of', 'the', 'residence']
+
+column_name: ['property', 'type']
+glossary_term: ['listed', 'residence', 'of', 'the', 'property', 'type']
+
+column_name: ['description']
+glossary_term: ['residence', 'description']
+
+column_name: ['branding', 'office', 'name']
+glossary_term: ['realtors', 'office', 'name']
+
+column_name: ['address', 'region']
+glossary_term: ['region', 'of', 'the', 'residence']
+

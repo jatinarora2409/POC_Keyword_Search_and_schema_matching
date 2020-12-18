@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$755,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>3,002</area>
+	</summary>
+	<address>
+		<street_address>8200 SW Pkwy W #103,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Lock &amp; Leave SW Austin condo located in gated community of The Enclave at Escondera! Main floor master suite, Fam. room with 14 ft. ceilings, FP &amp; built in bookcases. Lower level guest suite with kitchenette &amp; family/game room. 2 covered terraces plus rooftop deck with pergola offer soaring views of the 50 acre preserve and beautiful sun rises. Plantation shutters throughout, hardwood floors &amp; custom epoxy garage floor are just a few upgrades. 10 minutes to downtown &amp; 20 min. to new Tesla Mfg. Plant. Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Linda Gatling</agentName>
+		<phoneNumber>512-502-7800</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>JBGoodwin REALTORS NW</postingGroupName>
+		<postingWebsiteLinkText>JBGoodwin REALTORS NW</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2015</key>
+		<key name="Heating:">Forced air, Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$563/month</key>
+		<key name="Price/sqft:">$251</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air, Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</item>
+				<item>Laundry features: Laundry Room</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,002 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Entry location: 1st Floor Entry</item>
+				<item>Exterior features: Stucco</item>
+				<item>Patio and porch details: Deck, Arbor</item>
+				<item>View description: Park</item>
+				<item>Residential vegetation: Trees-Medium (20 Ft - 40 Ft)</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Tile</item>
+				<item>Windows: Plantation Shutters</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2015</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Sewer information: Public Sewer</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available, Phone Connected, Underground Utilities</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Fire Alarm, Smoke Detector(s), Prewired</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Pool, Clubhouse, Controlled Access, Picnic Area, Gated, Fitness Center, Dog Park, Cluster Mailbox, Common Grounds, BBQ Pit/Grill</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

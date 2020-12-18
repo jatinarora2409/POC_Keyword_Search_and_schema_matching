@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,099,888</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,700</area>
+	</summary>
+	<address>
+		<street_address>554 Los Olivos Dr,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>OUTSTANDING Central Location! You may find yourself living in this beautiful and spacious tri-level 1700 sq. ft., sun drenched home with vaulted ceilings, skylight &amp; 2 fireplaces after you see it.  If you desire safe &amp; secure, tranquil living with abundant redwood trees views in a perfect area &amp; setting, then this is the home for you.  Enjoy the private patio off living room &amp; pleasing balcony views from the master bedroom.  You can enjoy the master suite retreat with fireplace which could be used as an office, study, or even a nursery.  New flooring throughout!  New kitchen appliances!  Fresh paint!  Large 2 car garage!  Appealing locale: Mitsuwa, Santana Row, Valley Fair, Santa Clara Town Center.  Apple, Nvida, Intel and Tech Centers. Parks, Hospitals, Golf, Dining &amp; Grocery Stores just minutes away. Owner amenities  include pool, spa, sauna &amp; redwoods.  Convenient 280, 17, 101,85,  San Tomas Expressway / Lawrence Expressway / Stevens Creek / El Camino Real / Homestead Rd.Read more</overview>
+	<listing_agent>
+		<agentName>Steven Gary</agentName>
+		<phoneNumber>408-377-2700</phoneNumber>
+		<agentLicenseNumber>License #01895061</agentLicenseNumber>
+		<postingGroupName>Realty One Group Infinity</postingGroupName>
+		<postingWebsiteLinkText>Realty One Group Infinity</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">1981</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">1,311 sqft</key>
+		<key name="Price/sqft:">$647</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave</item>
+				<item>Laundry features: Upper Floor, Gas Hookup, Electricity Hookup (220V)</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,700 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>View description: Park</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,311 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 29448030</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Townhouse</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1981</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1982</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.46</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

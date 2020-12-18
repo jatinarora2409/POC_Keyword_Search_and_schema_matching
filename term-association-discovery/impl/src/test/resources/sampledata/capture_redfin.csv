@@ -1,0 +1,36 @@
+Column Name,Business Term
+region,region of the listing
+street_address,address of the listing
+locality,city of the listing
+style,style of construction of the listing
+style,style of construction of the listing
+property_type,property type of the listing
+county,county of the listing
+community,community of the listing
+stories,number of stories in the listing
+MLS#,listing mls id
+postal_code,postal code/zip code of the listing
+year_renovated,listing renovated in year
+APN,listing apn id
+agent_name,listing agents name
+agent_org,listing agents office name
+agent_license,listing agents license number
+beds,bedroom count in the listing
+beds,bedroom count in the listing
+status,current status of the listing
+baths,bathroom count in the listing
+baths,bathroom count in the listing
+area,area size of the listing in square feet
+total_sq.ft,area size of the listing in square feet
+price,offer price of the listing in usd
+listing_price,offer price of the listing in usd
+year_built,listing built-in year
+year_built,listing built-in year
+lot_size,lot area of the listing in acres
+finished_sq_ft,furnished area size of the listing in square feet
+cost_per_squre_feet,price per square feet of the listing
+price_per_Sq_ft,price per square feet of the listing
+est._mo._payment,listings monthly mortgage payment
+redfin_estimate,the estimated price of the listing
+hoa_dues,home owners association fees of the listing
+unfinished_sq_ft,unfurnished area size of the listing in square feet

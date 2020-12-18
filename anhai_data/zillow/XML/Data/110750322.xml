@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$369,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>2,276</area>
+	</summary>
+	<address>
+		<street_address>12040 W Walnut Rd,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Located in desirable west Wauwatosa, this brick ranch has sits on .4 acre lot &amp; is near everything! Living room has floor to ceiling woodburning stone fireplace opens to  the kitchen and dining areas. Quartz countertop on kitchen island is great for entertaining. Vinyl flooring makes cleaning a breeze!  Dining hutch repurposed as a powered coffee nook for those cold WI mornings. Good sized bedrooms upstairs with ample closet space. Updated main and half baths feature new vanities, mirrors and flooring. Downstairs basement space is refinished as a great entertainment, exercise and bonus room. 200 amp electrical service for all manner of electronics or hobbies in660 square foot workshop in back. Fenced yard, outdoor seating and painted garage gives you even more usable space. Great find!!Read more</overview>
+	<listing_agent>
+		<agentName>Terra Radtke</agentName>
+		<phoneNumber>262-783-7080</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Realty Executives Integrity~Brookfield</postingGroupName>
+		<postingWebsiteLinkText>Realty Executives Integrity~Brookfield</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1955</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">0.40 Acres</key>
+		<key name="Price/sqft:">$163</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 1</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Partially Finished, Full, Block, Sump Pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,276 sqft</detail>
+				<detail>Fireplace features: Wood Burning</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 4</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 4</detail>
+				<detail>Covered spaces: 5</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Open Floor Plan, Bedroom on Main Level, Full Bath on Main Level</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Vinyl, Brick</detail>
+				<detail>Patio and porch details: Patio</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.40 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Additional structures included: Second Garage</detail>
+				<detail>Parcel number: 3380375000</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Ranch</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1955</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1970</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+				<detail>Utilities for property: Cable Available</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 91.32</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $218,900</detail>
+				<detail>Annual tax amount: $5,547</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1709482</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Dryer, Microwave, Washer, Oven/Range</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>ArchitecturalStyle: Ranch</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>Basement: Partially Finished, Full, Block, Sump Pump</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>Utilities: Cable Available</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>FireplaceFeatures: Wood Burning</detail>
+				<detail>PatioAndPorchFeatures: Patio</detail>
+				<detail>ConstructionMaterials: Vinyl Siding, Brick</detail>
+				<detail>InteriorFeatures: Kitchen Island, Pantry, Walk-In Closet(s), High Speed Internet, At least one Bathtub, Shower Over Tub</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Attached, Paved, Garage Door Opener, Parking Space</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>OtherStructures: Second Garage</detail>
+				<detail>AccessibilityFeatures: Open Floor Plan, Bedroom on Main Level, Full Bath on Main Level</detail>
+				<detail>CoveredSpaces: 4.50</detail>
+				<detail>Flooring: Wood or Sim. Wood Floors</detail>
+				<detail>MlsStatus: Active</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

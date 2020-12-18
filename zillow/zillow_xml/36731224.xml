@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$270,000</price>
+		<bd>3</bd>
+		<ba>4</ba>
+		<area>1,836</area>
+	</summary>
+	<address>
+		<street_address>2945 Cassidy Pl,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>Welcome home to this lovely 3 bedroom, 3.5 bath townhome! 2 large master suites with vaulted ceilings. Spacious kitchen with island and newer appliances. New windows, New Dryer, Furnace 4 years old. Fully finished basement with 3rd bedroom, full bath and bonus room. Conveniently located in Waldorf. Close to schools, shopping, restaurants, and more!Read more</overview>
+	<listing_agent>
+		<agentName>Jon Lahey Your Home Sold Guaranteed</agentName>
+		<phoneNumber>301-309-0300</phoneNumber>
+		<agentLicenseNumber>License #0225099090</agentLicenseNumber>
+		<postingGroupName>RE/MAX Fine Living</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX Fine Living</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">1995</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">1,498 sqft</key>
+		<key name="Price/sqft:">$147</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,836 sqft</item>
+				<item>Finished area below ground: 500</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,498 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 06229190</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Townhouse</item>
+				<item>Architectural style: Colonial</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1995</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.89</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Waldorf</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $57/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $243,500</item>
+				<item>Annual tax amount: $2,651</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: MDCH217644</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Heating: Forced Air</item>
+				<item>AssociationYN: Yes</item>
+				<item>FireplaceYN: Yes</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>ConstructionMaterials: Vinyl Siding</item>
+				<item>StoriesTotal: 3</item>
+				<item>ArchitecturalStyle: Colonial</item>
+				<item>SpecialListingConditions: Standard</item>
+				<item>ParkingFeatures: Assigned, Other</item>
+				<item>Cooling: Central Air</item>
+				<item>BelowGradeFinishedArea: 500</item>
+				<item>InteriorFeatures: Wood Floors</item>
+				<item>MlsStatus: Active</item>
+				<item>StructureType: Interior Row/Townhouse</item>
+				<item>TaxAnnualAmount: 2879.0</item>
+			</item>
+		</item>
+	</other_details>
+</home>

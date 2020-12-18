@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2200 Nichols Canyon Rd </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,500,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$811 / Sq. Ft.">1,850</key>
+	</main_stats>
+	<text_base_description>Investors Dream. Has great potential and can be added on. Sold 'AS IS' Buyer  and buyer's Broker should do their due diligence. Listing broker does not guarantee any square footage or bedroom and bathrooms.  </text_base_description>
+	<listed_by>
+		<name>Iboro Essang</name>
+		<agentLicenseDisplay>•DRE #01489538</agentLicenseDisplay>
+		<org> Iboro J Essang</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,500,000</List_Price>
+		<Est._Mo._Payment>$6,915</Est._Mo._Payment>
+		<Redfin_Estimate>$1,538,324</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$811</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>33 days</Time_on_Redfin>
+		<Property_Type>Single Family Residence</Property_Type>
+		<Year_Built>1942</Year_Built>
+		<Community>C03 - Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.49 Acres</Lot_Size>
+		<key name="MLS#">SR20185380</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Has Laundry</group_dat>
+						<group_dat>Gas &amp; Electric Dryer Hookup, Washer Hookup</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Appliances: None</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>All Bedrooms Down</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Levels: One</group_dat>
+						<group_dat>Main Level Bathrooms: 1</group_dat>
+						<group_dat>Main Level Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking / Garage Information</heading>
+					<group_data>
+						<group_dat>Attached Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat># of Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: District/Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.11075800</group_dat>
+						<group_dat>Longitude: -118.36044900</group_dat>
+						<group_dat>Directions: Hollywood Blvd and Nichols Cayon Road</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Exterior Information</heading>
+					<group_data>
+						<group_dat>House</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio And Porch Features: None</group_dat>
+						<group_dat>Has Patio</group_dat>
+						<group_dat>Pool Features: None</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Hiking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>High School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Elevation Units: Feet</group_dat>
+						<group_dat>Lot Size Source: Assessor's Data</group_dat>
+						<group_dat>Lot Features: 0-1 Unit/Acre</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Total # of Units: 1</group_dat>
+						<group_dat>Common Walls: No Common Walls</group_dat>
+						<group_dat>Parcel Number: 5571008003</group_dat>
+						<group_dat>Total # of Stories: 1</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,850</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,850</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>0.49 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1942</Year_Built>
+		<Year_Renovated>1944</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5571008003</APN>
+	</public_facts>
+</home>

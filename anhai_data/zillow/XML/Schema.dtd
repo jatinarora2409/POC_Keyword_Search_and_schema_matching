@@ -1,0 +1,147 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT home (summary,address,overview,listing_agent,facts,
+                interior_details,property_details,construction_details,
+                utility_and_energy_details,
+                community_and_neibhourhood_details,
+                hoa_and_financial_details,other_details)>
+<!ATTLIST home
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT summary (price,bd,ba,area)>
+<!ATTLIST summary
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT address (street_address,city_state)>
+<!ATTLIST address
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT overview (#PCDATA)>
+<!ATTLIST overview
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT listing_agent (agentName,phoneNumber,agentLicenseNumber,
+                         postingGroupName,postingWebsiteLinkText)>
+<!ATTLIST listing_agent
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT facts (key)+>
+<!ATTLIST facts
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT interior_details (interior_detail)+>
+<!ATTLIST interior_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT property_details (property_detail)+>
+<!ATTLIST property_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT construction_details (construction_detail)+>
+<!ATTLIST construction_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT utility_and_energy_details (utility_and_energy_detail)>
+<!ATTLIST utility_and_energy_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT community_and_neibhourhood_details (community_and_neibhourhood_detail)>
+<!ATTLIST community_and_neibhourhood_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT hoa_and_financial_details (hoa_and_financial_detail)>
+<!ATTLIST hoa_and_financial_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT other_details (other_detail)+>
+<!ATTLIST other_details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT bd (#PCDATA)>
+<!ATTLIST bd
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ba (#PCDATA)>
+<!ATTLIST ba
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT area (#PCDATA)>
+<!ATTLIST area
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT street_address (#PCDATA)>
+<!ATTLIST street_address
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT city_state (#PCDATA)>
+<!ATTLIST city_state
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT agentName (#PCDATA)>
+<!ATTLIST agentName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT phoneNumber (#PCDATA)>
+<!ATTLIST phoneNumber
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT agentLicenseNumber EMPTY>
+<!ATTLIST agentLicenseNumber
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT postingGroupName (#PCDATA)>
+<!ATTLIST postingGroupName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT postingWebsiteLinkText (#PCDATA)>
+<!ATTLIST postingWebsiteLinkText
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT key (#PCDATA)>
+<!ATTLIST key
+  xmlns CDATA #FIXED ''
+  name CDATA #REQUIRED>
+
+<!ELEMENT interior_detail (heading,details)>
+<!ATTLIST interior_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT property_detail (heading,details)>
+<!ATTLIST property_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT construction_detail (heading,details)>
+<!ATTLIST construction_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT utility_and_energy_detail (heading,details)>
+<!ATTLIST utility_and_energy_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT community_and_neibhourhood_detail (heading,details)>
+<!ATTLIST community_and_neibhourhood_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT hoa_and_financial_detail (heading,details)>
+<!ATTLIST hoa_and_financial_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT other_detail (heading,details)>
+<!ATTLIST other_detail
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT heading (#PCDATA)>
+<!ATTLIST heading
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT details (detail)+>
+<!ATTLIST details
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT detail (#PCDATA)>
+<!ATTLIST detail
+  xmlns CDATA #FIXED ''>

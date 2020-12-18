@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$467,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,100</area>
+	</summary>
+	<address>
+		<street_address>7563 Pacific Ave,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>Great starter home, come build your very own ADU on the lot and have rental income, the lot is big enough and ready for all your ideas!  Original wood flooring adds character to this cute 3 bedroom bungalow home. Centrally located and close to everything, this home is a must see!  Professional photos to come.Read more</overview>
+	<listing_agent>
+		<agentName>Jenny Becasen-Jones</agentName>
+		<phoneNumber>619-472-8000</phoneNumber>
+		<agentLicenseNumber>License #01858909</agentLicenseNumber>
+		<postingGroupName>FOSTER HAMILTON Real Estate Co</postingGroupName>
+		<postingWebsiteLinkText>FOSTER HAMILTON Real Estate Co</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1931</key>
+		<key name="Heating:">Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">8,712 sqft</key>
+		<key name="Price/sqft:">$425</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 1</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,100 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Garage spaces: 3</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Stucco, Wood</detail>
+				<detail>Fencing: Full</detail>
+				<detail>Topography of land: Level</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.2 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 4800820800</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1931</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1931</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 82.21</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Lemon Grove</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $313,186</detail>
+				<detail>Annual tax amount: $3,730</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 200045823</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Sale/Rent: For Sale</detail>
+				<detail>Heat Source: Natural Gas</detail>
+				<detail>Sales Restrictions: N/K</detail>
+				<detail>Sewer/Septic: Sewer Connected</detail>
+				<detail>Water: Meter on Property</detail>
+				<detail>Pool: N/K</detail>
+				<detail>Searchable Rooms: Family Room</detail>
+				<detail>Ownership: Other/Remarks</detail>
+				<detail>Heat Equipment: Fireplace</detail>
+				<detail>Prop Restrictions Known: Other/Remarks</detail>
+				<detail>Exterior: Wood/Stucco</detail>
+				<detail>Laundry Utilities: Other/Remarks</detail>
+				<detail>Laundry Location: Garage</detail>
+				<detail>Community: LEMON GROVE</detail>
+				<detail>Market Area: East County</detail>
+				<detail>Age Restrictions: N/K</detail>
+				<detail>Equipment: Range/Stove Hood</detail>
+				<detail>Roof: Shingle</detail>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bedrooms Total: 3</detail>
+				<detail>Bedroom 2 Dimensions: 11x10</detail>
+				<detail>Dining Room Dimensions: 13X10</detail>
+				<detail>Optional Bedrooms: 0</detail>
+				<detail>Master Bedroom Dimensions: 13x11</detail>
+				<detail>Bedroom 3 Dimensions: 10x10</detail>
+				<detail>Kitchen Dimensions: 14X8</detail>
+				<detail>Family Room Dimensions: 18x14</detail>
+				<detail>Neighborhood: Lemon Grove</detail>
+				<detail>Assessors Parcel #: 480-082-08-00</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

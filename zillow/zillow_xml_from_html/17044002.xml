@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$554,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,296</area>
+	</summary>
+	<address>
+		<street_address>8235 Adams St,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>Updated single-story home in Lemon Grove! ***Bright and open living area with vaulted ceilings, handsome fireplace, and a large window seat. ***Modern kitchen with newer stainless steel appliances, large breakfast bar, and tons of cabinet and countertop space. ***Spacious dining area with a large glass slider leading to the backyard. ***Serene Master bedroom with a large closet and ensuite bathroom. ***Relax and soak in the beautiful sunsets in the private backyard with two decks, retaining wall, and mature fruit trees. ***Detached 2-car garage and RV space including 40 amp power, water hook-up, and cleanout. ***Great, central location! Walk to the local schools, restaurants, stores, and brewery.Read more</overview>
+	<listing_agent>
+		<agentName>Beer Home Team</agentName>
+		<phoneNumber>888-584-9427</phoneNumber>
+		<agentLicenseNumber>License #01504952</agentLicenseNumber>
+		<postingGroupName>eXp Realty of California Inc</postingGroupName>
+		<postingWebsiteLinkText>eXp Realty of California Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1987</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">6 spaces</key>
+		<key name="Lot:">9,570 sqft</key>
+		<key name="Price/sqft:">$428</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,296 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 6</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 6</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Wood</detail>
+				<detail>Fencing: Full, Gate</detail>
+				<detail>Topography of land: Level, Slope Gentle</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 9,570 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5032014500</detail>
+				<detail>Zoning: R-1:SINGLE</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1987</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1987</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 82.21</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Lemon Grove</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $360,922</detail>
+				<detail>Annual tax amount: $4,312</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 200047853</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Sale/Rent: For Sale</detail>
+				<detail>Heat Equipment: Forced Air Unit, Fireplace</detail>
+				<detail>Heat Source: Natural Gas, Wood</detail>
+				<detail>Laundry Utilities: Gas, Electric</detail>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Sales Restrictions: N/K</detail>
+				<detail>Sewer/Septic: Sewer Connected</detail>
+				<detail>Fencing: Full, Gate</detail>
+				<detail>Topography: Level, Slope Gentle</detail>
+				<detail>Water: Meter on Property</detail>
+				<detail>Stories: 1 Story</detail>
+				<detail>Exterior: Wood</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Pool: N/K</detail>
+				<detail>Searchable Rooms: Bonus Room</detail>
+				<detail>Prop Restrictions Known: None Known</detail>
+				<detail>Cooling: Wall/Window</detail>
+				<detail>Laundry Location: Garage</detail>
+				<detail>Community: LEMON GROVE</detail>
+				<detail>Market Area: East County</detail>
+				<detail>Age Restrictions: N/K</detail>
+				<detail>Equipment: Dishwasher, Disposal, Range/Oven, Garage Door Opener</detail>
+				<detail>Fireplace: FP in Family Room, FP in Dining Room</detail>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bedrooms Total: 3</detail>
+				<detail>Bedroom 2 Dimensions: 12X12</detail>
+				<detail>Bedroom 3 Dimensions: 12x12</detail>
+				<detail>Dining Room Dimensions: 12x10</detail>
+				<detail>Optional Bedrooms: 0</detail>
+				<detail>Family Room Dimensions: 0x0</detail>
+				<detail>Zoning: R-1:SINGLE</detail>
+				<detail>Kitchen Dimensions: 12x10</detail>
+				<detail>Fireplaces(s): 2</detail>
+				<detail>Master Bedroom Dimensions: 15X12</detail>
+				<detail>Neighborhood: Lemon Grove</detail>
+				<detail>Assessors Parcel #: 503-201-45-00</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

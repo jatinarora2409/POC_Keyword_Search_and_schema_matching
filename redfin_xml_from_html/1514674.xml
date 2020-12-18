@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1895 Pacific Ave #502 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94109</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,250,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$1059 / Sq. Ft.">1,180</key>
+	</main_stats>
+	<text_base_description>Spacious and peaceful top floor corner condo with city and Bay outlooks! Bright and airy residence is an ideal city retreat perched atop desirable Art Deco building in PacHts. Sprawling 1-BR residence (1,180sqf!) features eastern and northern outlooks, with the city and SF Bay as the backdrop. A spacious bedroom with north-facing bay window watches the ships pass by, and is outfitted with a large walk in closet and stylish bath. Home features a large corner living room with arched windows, built in cabinetry and casual dining, a bright dining room/den with southern and eastern outlooks, and sleek kitchen with marble counters and eastern outlooks to peek-a-boo Transamerica Building. The home, equally suited as a pied-a-terre or for a full-time city penthouse, provides flexibility in space and usage, perfect for a city dweller in today's world. Shared Roof deck + deeded parking. Charming outlooks, overflowing space and light, 98% walk score between Union/Polk/Fillmore and outdoor rec! </text_base_description>
+	<listed_by>
+		<name>Peter Rodway</name>
+		<agentLicenseDisplay>•DRE #02039991</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,250,000</List_Price>
+		<Est._Mo._Payment>$5,712</Est._Mo._Payment>
+		<Redfin_Estimate>$1,258,045</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,059</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>Flat, Mid-Rise (4-8), Top Floor, Condominium</Property_Type>
+		<HOA_Dues>$635/month</HOA_Dues>
+		<Year_Built>1931</Year_Built>
+		<Style>Traditional, Art Deco</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">506919</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Independent</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Enclosed, Attached, Interior Access, Automatic Door, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Laundry Facility (Coin Operated), Roof Deck</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Gas, Garbage, Security Service, Outside Management</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $635.42</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>Articles of Incorporation, Bylaws, CC&amp;Rs, Rules &amp; Regulations, Financial Statements, Budget</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower and Tub, Tile</group_dat>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Formal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Storage</group_dat>
+						<group_dat>Den/Bonus Room: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>In Basement</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood, Tile, Linoleum</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Electric Range, Refrigerator, Freezer, Dishwasher, Microwave, Garbage Disposal, Marble Counter, Pantry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 1 Bedroom, 1 Bath, Living Room, Dining Room, Kitchen</group_dat>
+						<group_dat>Intercom, Elevator/Lift</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating, Steam</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Tar &amp; Gravel Roof</group_dat>
+						<group_dat>Concrete Perimeter Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Partial, City Lights, Water, Bay, San Francisco, Downtown, Mt Tamalpais</group_dat>
+						<group_dat>Paved Driveway, Paved Sidewalk</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Traditional, Art Deco</group_dat>
+						<group_dat>Type: Flat, Mid-Rise (4-8), Top Floor</group_dat>
+						<group_dat>Construction: Steel Frame</group_dat>
+						<group_dat># of Units: 29</group_dat>
+						<group_dat>Floor #: 6</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 0593-118</group_dat>
+						<group_dat>Special Features: Intercom, Elevator/Lift</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Gough</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,250,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 1, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Restrictions</heading>
+					<group_data>
+						<group_dat>Limited Number of Pets</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,180</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1931</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0593 118</APN>
+	</public_facts>
+</home>

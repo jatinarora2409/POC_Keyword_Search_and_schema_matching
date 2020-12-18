@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$369,900</price>
+		<bd>5</bd>
+		<ba>4</ba>
+		<area>2,607</area>
+	</summary>
+	<address>
+		<street_address>2503 Charter Oak Dr,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>This  5 bedroom home just needs a little bit of love and it will truly shine..Lots of privacy in the heart of Waldorf..minutes from 301 ( crain Hwy ) and Route 5 ( Leonardtown Road) 5th bedroom would be ideal for Nanny, or independent teenager... Kitchen had breakfast area that opens to the family.. with separate dinning room and formal living room. Large Owners Suite, with large bath, walk in closet and extra closet space upstairs..Sold As-IsRead more</overview>
+	<listing_agent>
+		<agentName>Pamela Young</agentName>
+		<phoneNumber>443-295-6123</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>RE/MAX One</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX One</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1990</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.34 Acres</key>
+		<key name="Price/sqft:">$142</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 5</detail>
+				<detail>Bathrooms: 4</detail>
+				<detail>Full bathrooms: 3</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Heat pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,607 sqft</detail>
+				<detail>Finished area below ground: 0</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.34 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 06192017</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Conventional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Shake / Shingle</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1990</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 74.47</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Waldorf</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $29/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $319,200</detail>
+				<detail>Annual tax amount: $3,825</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: MDCH217778</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>AssociationYN: Yes</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>StructureType: Detached</detail>
+				<detail>StoriesTotal: 2</detail>
+				<detail>Heating: Heat Pump</detail>
+				<detail>Cooling: Heat Pump</detail>
+				<detail>ArchitecturalStyle: Colonial</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>CoveredSpaces: 2</detail>
+				<detail>ParkingFeatures: Attached Garage, Garage Faces Front</detail>
+				<detail>BelowGradeFinishedArea: 0</detail>
+				<detail>ConstructionMaterials: Brick Front</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>TaxAnnualAmount: 4056.0</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

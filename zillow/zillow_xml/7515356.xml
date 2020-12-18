@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$199,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,759</area>
+	</summary>
+	<address>
+		<street_address>2004 W Madison St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Amazing Opportunity to Own  Your Own Piece of History in Capitol West! Zoned Single Family &amp; R-5 Multi-Family! Great Investment Opportunity. Home is 1925 Historically Built Home, With Newer Addition. So Many Original Details: Wood Floors, Detailing, Trim, Wine/ Root Cellar, Horse Stable &amp; More! Unique Opportunity to Own Large Lot = Owner Owns 7,000 Sq. Ft.  R-5 Multi- Family Zoned Lot Next Door, Listed for $79,000 in ''Land &amp; Lots''! DO NOT MISS THIS OPPORTUNITY! Oven in main kitchen does not convey.Read more</overview>
+	<listing_agent>
+		<agentName>Georgi Stratton</agentName>
+		<phoneNumber>480-722-9800</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>eXp Realty</postingGroupName>
+		<postingWebsiteLinkText>eXp Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1925</key>
+		<key name="Heating:">Forced air, Other</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">7,000 sqft</key>
+		<key name="Price/sqft:">$113</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Evaporative</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven</item>
+				<item>Laundry features: Other (See Remarks)</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,759 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Garage, Carport</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Brick</item>
+				<item>Fencing: Chain Link</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,000 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10949096</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1925</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2013</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: Other (See Remarks)</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 86.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

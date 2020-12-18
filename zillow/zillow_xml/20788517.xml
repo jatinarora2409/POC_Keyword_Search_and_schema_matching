@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$495,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>696</area>
+	</summary>
+	<address>
+		<street_address>951 N Gardner St UNIT 7,</street_address>
+		<city_state> West Hollywood, CA 90046</city_state>
+	</address>
+	<overview>Top floor, light and bright corner unit with treetop views in central West Hollywood. Ideally located a short distance from The Sunset Strip, bustling Hollywood with its ever expanding skyline and new Netflix campus and the massive LACMA revitalization and expansion. New flooring and paint throughout. Bathroom with shower and separate soaking tub with period tilework. Abundant closet space and storage. Close to restaurants and shops on Melrose and Santa Monica Blvd and two neighborhood parks. Low HOA dues.Read more</overview>
+	<listing_agent>
+		<agentName>Tom Scrocco/ Randy Isaacs</agentName>
+		<phoneNumber>310-259-7355</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Douglas Elliman</postingGroupName>
+		<postingWebsiteLinkText>Douglas Elliman</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1962</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$255/month</key>
+		<key name="Price/sqft:">$711</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 696 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.15 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5530020030</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1962</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1967</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 95.42</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Community</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: West Hollywood</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

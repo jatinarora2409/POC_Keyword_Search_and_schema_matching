@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,495,000</price>
+		<bd>3</bd>
+		<ba>4</ba>
+		<area>2,083</area>
+	</summary>
+	<address>
+		<street_address>1601 N Fuller Ave APT 604,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Do not miss this one-of-a-kind luxury penthouse that showcases an oversized private rooftop terrace with panoramic 360 views. This sun-drenched terrace also provides direct access to a sparkling rooftop, heated pool, and spa. The bright, corner unit has been tastefully redesigned with high-end custom finishes throughout and custom cabinetry to maximize space. The kitchen spills into a living room with soaring 17-foot vaulted ceilings leading to glass doors that open to balconies with breathtaking views from downtown to the Pacific Ocean. The master suite includes a large walk-in closet and pristine bathroom complete with a redesigned shower, recessed lighting, and floating vanity. Similar improvements have been made to the guest bedroom and bathroom. A true walker's paradise, you'll enjoy being just a stone's throw away from Runyon Canyon and nearby all of the fantastic restaurants, shops, and bars that Hollywood has to offer!Read more</overview>
+	<listing_agent>
+		<agentName>Nicholas Kordiak</agentName>
+		<phoneNumber>310-820-0195</phoneNumber>
+		<agentLicenseNumber>License #01994316</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1985</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$475/mo</key>
+		<key name="Price/sqft:">$718</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Refrigerator, Washer</item>
+				<item>Laundry features: In Unit</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 2,083 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 6</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>View description: Territorial, City, Mountain</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.26 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5550016049</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1985</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1985</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.22</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Exterior Security Lights, Smoke Detector, Carbon Monoxide Detector(s), T.V.</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

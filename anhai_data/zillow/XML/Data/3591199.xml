@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$119,900</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>750</area>
+	</summary>
+	<address>
+		<street_address>4612 River Rd APT 1D,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>Very nice condo in the sought after Schiller Park. 2 bedroom, 1 bathroom, 1st  floor, newer bathroom, n ew laminated  floor in the living room and one of the bedrooms, ceramic tile in kitchen and dinning room, great size bedrooms, generous closet space. Away from traffic. Triple pane soundproof windows to keep the street noise away. Furnace will be replaced before closing. Roof on the building 4 years old. Gas, heat, and water included in the low association fee. Can be rented out. Close to Rosemont entertainment, close to expressway and transportation. In front of gorgeous park very nice view and for walking, jogging just come see it.Read more</overview>
+	<listing_agent>
+		<agentName>Jose Campoverde</agentName>
+		<phoneNumber>773-745-1000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Chicagoland Brokers  Inc.</postingGroupName>
+		<postingWebsiteLinkText>Chicagoland Brokers  Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1967</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$220/mo</key>
+		<key name="Price/sqft:">$160</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Freezer, Microwave, Range / Oven, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 750 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 3</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.66 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 12151160491010</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1967</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $220/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $58,810</detail>
+				<detail>Annual tax amount: $873</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10724686</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>Appliances: Oven/Range, Microwave, Dishwasher, Refrigerator, Freezer</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Dining Room: Separate</detail>
+				<detail>Electricity: Circuit Breakers</detail>
+				<detail>Exterior Building Type: Brick</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas, Forced Air</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Kitchen Type: Galley</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Lawn Care, Snow Removal, Heat, Water, Scavenger, Gas</detail>
+				<detail>Management: Manager Off-site</detail>
+				<detail>Status: Active</detail>
+				<detail>Tax Exemptions: Homeowner</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Common Area Amenities: Coin Laundry, Storage, Bike Room/Bike Trails</detail>
+				<detail>Equipment: CO Detectors, Intercom</detail>
+				<detail>Exposure: W (West), E (East)</detail>
+				<detail>Sale Terms: Conventional, Cash Only</detail>
+				<detail>Parking Type: Space/s</detail>
+				<detail>Kitchen Flooring: Hardwood</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Master Bedroom Flooring: Wood Laminate</detail>
+				<detail>2nd Bedroom Flooring: Wood Laminate</detail>
+				<detail>Roof Type: Rubber</detail>
+				<detail>Listing Type: Exclusive Agency</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Square Feet Source: Estimated</detail>
+				<detail>Parking: Assigned Spaces</detail>
+				<detail>Age: 51-60 Years</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2018</detail>
+				<detail>Parcel Identification Number: 12151160491010</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$210,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,361</area>
+	</summary>
+	<address>
+		<street_address>4019 W Almeria Rd,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Wow! Incredible opportunity to own this genuine single level home located in popular Phoenix. Providing great curb appeal, slab parking, RV gate, and beautiful grassy front landscaping. You will absolutely love this welcoming interior complete with 4 bed, 3 bath, designer paint tones, living/dining room, and perfectly sized bedrooms. Come take a look at this unique kitchen with plenty cabinet/counter space and appliances ready to be used. Inside this bright master bedroom you will find a walk-in closet and spotless full bathroom. Out the back you have a covered patio, 2 detached car garage, RV parking, and so much potential to get creative and make this place your own. You know you have found the one. Hurry come see this inviting home today before it's too late!Read more</overview>
+	<listing_agent>
+		<agentName>Gonzalo Contreras</agentName>
+		<phoneNumber>480-685-2760</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>My Home Group Real Estate</postingGroupName>
+		<postingWebsiteLinkText>My Home Group Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1946</key>
+		<key name="Heating:">Other, Electric</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">7,457 sqft</key>
+		<key name="Price/sqft:">$154</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Laundry features: Inside Laundry</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,361 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 4</detail>
+				<detail>Parking features: Garage, Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Cement / Concrete</detail>
+				<detail>Fencing: Chain Link, Block, Wrought Iron</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 7,457 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10822013</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1946</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: SRP</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.5</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $131,100</detail>
+				<detail>Annual tax amount: $1,040</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6142098</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Additional Bedroom: Mstr Bdr Walkin Clst</detail>
+				<detail>Cooling: Refrigeration, Ceiling Fan(s)</detail>
+				<detail>Dining Area: Formal</detail>
+				<detail>Exterior Features: Covered Patio(s), Patio</detail>
+				<detail>Features: No Interior Steps, 9+ Flat Ceilings</detail>
+				<detail>Fencing: Chain Link, Block, Wrought Iron</detail>
+				<detail>Heating: Electric Heat</detail>
+				<detail>Kitchen Features: Disposal, Laminate Counters</detail>
+				<detail>Master Bathroom: Full Bth Master Bdrm</detail>
+				<detail>Other Rooms: Guest Qtrs-Sep Entrn</detail>
+				<detail>Parking: Detached, RV Parking, RV Gate</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Utilities: SRP</detail>
+				<detail>Water: City Water</detail>
+				<detail>Source of SqFt: County Assessor</detail>
+				<detail>Laundry: Inside Laundry</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Construction: Block</detail>
+				<detail>Const - Finish: Painted</detail>
+				<detail>Technology: Cable TV Avail, HighSpd Intrnt Aval</detail>
+				<detail>Services: City Services</detail>
+				<detail>Flooring: Tile, Vinyl</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Complex Feature: Biking/Walking Path</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Landscaping: Grass Back, Grass Front, Dirt Back, Dirt Front</detail>
+				<detail>Tax Municipality: Phoenix</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Alhambra High School</detail>
+				<detail>Tax Year: 2020</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

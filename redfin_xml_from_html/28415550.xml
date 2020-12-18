@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2337 W MARICOPA St </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$279,000</Price>
+		<Beds>5</Beds>
+		<Baths>3</Baths>
+		<key name="$143 / Sq. Ft.">1,956</key>
+	</main_stats>
+	<text_base_description>Two Houses on one lot. One Fully remodeled 3bd/2ba house with new windows and doors, new kitchen cabinets  &amp;  granite countertops, new stainless steel appliances, new bathrooms with new cabinets, new tile flooring, new fixtures and fans, new texture and fresh paint throughout the house, new roof and trusses. House has new stucco and new paint . .. well that makes it a new house. Guest house in the back is a 2bd/1ba house suitable for a family member(s) or could be rented out for extra income. Back house could easily rent for $1,100.00/month. (Seller already had offer to rent but he refused to better acquaint the buyer. ) </text_base_description>
+	<listed_by>
+		<name>Camelia Dobos</name>
+		<org> Metro North Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$279,000</List_Price>
+		<Est._Mo._Payment>$1,032</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$143</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>16 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1950</Year_Built>
+		<Community>I-ON-A-HOME TRACT</Community>
+		<Lot_Size>6,005 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6136285</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 3</group_dat>
+						<group_dat>3/4 Master Bathroom</group_dat>
+						<group_dat>Bathroom(s) Fully Updated</group_dat>
+						<group_dat>Bathrooms Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Disposal in Kitchen, Granite Countertops, Range/Oven Electric, Refrigerator in Kitchen</group_dat>
+						<group_dat>Kitchen Fully Updated</group_dat>
+						<group_dat>Kitchen Updated In: 2020</group_dat>
+						<group_dat>Eat-in Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Washer/Dryer Hookup Only</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane, Sunscreen(s)</group_dat>
+						<group_dat>Carpet, Tile Floors</group_dat>
+						<group_dat>Floors Fully Updated</group_dat>
+						<group_dat>Floors Updated In: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Ceiling Fan(s), Refrigeration, Window/Wall Cooling Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 2</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Alfred F. Garcia</group_dat>
+						<group_dat>Junior High School: Alfred F. Garcia</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>Elementary School District: 021 - Murphy Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Plumbing: Recirculation Pump</group_dat>
+						<group_dat>Utilities: APS</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction</group_dat>
+						<group_dat>Painted Exterior, Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: unknown</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 780</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Covered Patio(s), Patio, Separate Guest House, Storage Shed(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 780</group_dat>
+						<group_dat>Approximate Sq. Ft. Range: 1,801-2,000</group_dat>
+						<group_dat>Sq. Ft. Source: Owner</group_dat>
+						<group_dat>Builder Name: unknown</group_dat>
+						<group_dat>All on One Level</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Maricopa County</group_dat>
+						<group_dat>Assessor Number: 109-62-137</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 62</group_dat>
+						<group_dat>Assessor's Parcel #: 137</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Block Fencing, View/Wrought Iron Fencing</group_dat>
+						<group_dat>Landscaping: Gravel/Stone in Back, Gravel/Stone in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Buckeye &amp; 24th Ave</group_dat>
+						<group_dat>Census Tract: 5.00</group_dat>
+						<group_dat>Directions: West on Buckeye, North on 24th Avenue, East on Maricopa to property</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>784</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>784</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>6,005 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1950</Year_Built>
+		<Year_Renovated>1950</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10962137</APN>
+	</public_facts>
+</home>

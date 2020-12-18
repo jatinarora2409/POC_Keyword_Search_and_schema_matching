@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1719 E Shore Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$70,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Beautiful clean lot, ready to build. Large lot over 9K square feet.  </text_base_description>
+	<listed_by>
+		<name>Oscar Reyes</name>
+		<org> Hi View Real Estate</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$70,000</List_Price>
+		<Est._Mo._Payment>$342</Est._Mo._Payment>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>91 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>Breezley Stone Add</Community>
+		<Lot_Size>9,060 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14385336</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Alexander</group_dat>
+						<group_dat>Junior High School Name: Young</group_dat>
+						<group_dat>High School Name: Manns</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Sewer, City Water, Concrete, Curbs</group_dat>
+						<group_dat>City Electric, Electric</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BREEZLEY STONE ADDN BLK A/6315 LOT 3 ACS 0.21</group_dat>
+						<group_dat>Unexempt Taxes: $547</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Restrictions: No Known Restriction(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: A6315</group_dat>
+						<group_dat>Development: Other (See Remarks), Utilities Installed</group_dat>
+						<group_dat>Easements: None</group_dat>
+						<group_dat>Lot Number: 3</group_dat>
+						<group_dat>Features: Creek, Heavily Treed, Large Backyard Grass</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.208</group_dat>
+						<group_dat>Area Sq. Ft.: 9,060.48</group_dat>
+						<group_dat>Parcel Number: 0063150A000030000</group_dat>
+						<group_dat>Zoning: Residential</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Breezley Stone Add</group_dat>
+						<group_dat>Directions: From Highway US-175 take exit Second Ave-Bruton Rd. Turn right on Bruton Rd. Turn right onto N St. Augustine Dr., Turn right onto E Shore Drive. Lot will be on the right. No sign on lot.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>9,074 Sq. Ft.</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>0063150A000030000</APN>
+	</public_facts>
+</home>

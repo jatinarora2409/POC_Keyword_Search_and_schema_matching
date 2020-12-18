@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$279,900</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,901</area>
+	</summary>
+	<address>
+		<street_address>2517 N 96th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Handsome - stunning architecture with recognizable cottage - tudor charm! Appreciate the distinction; steep pitch roof with gables, timbered exterior with brick and stucco, tall windows with lead panes, earth tone cladding colors - all before stepping inside! Matching this authentic treasure on the interior with tall coved ceilings, genuine stone fireplace, arched doorways, beautiful lead windows, hardwood flooring, uniquely antique wall scones, updated kitchen, spacious storage, spacious bedrooms, spacious lower level! Expand onto the back deck through the dining room french doors adjacent to deep backyard space. All well positioned in the highly sought after Swan Park Neighborhood!Read more</overview>
+	<listing_agent>
+		<agentName>Double Boldt Real Estate Team*</agentName>
+		<phoneNumber>414-807-6812</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams~WFB</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams~WFB</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1931</key>
+		<key name="Heating:">Radiant, Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">7,405 sqft</key>
+		<key name="Price/sqft:">$147</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Full, Block, Concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Radiant, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,901 sqft</item>
+				<item>Fireplace features: Gas</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+				<item>Covered spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+				<item>Patio and porch details: Deck</item>
+				<item>Fencing: Fenced</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,405 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Shed(s)</item>
+				<item>Parcel number: 3340321000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Tudor/Provincial</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Windows: Skylight(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1931</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1975</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+				<item>Utilities for property: Cable Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 67.32</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

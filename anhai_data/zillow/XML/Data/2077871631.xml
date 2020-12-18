@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$129,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>9445 W Kelvin Ln #2992,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>Schiller Park! Beautifully updated 2 bedroom condo located near O'Hare. This units offers an open living room and kitchen area with ceramic tile floors. All stainless steel appliances including a dishwasher and built in microwave. Large kitchen island with granite countertops, undermount sink and plenty of counter space. Updated bathroom with jacuzzi tub and ceramic tile floor. 2 nice sized bedrooms with custom built in closets and drawers. In unit laundry and 2 parking spaces included along with 2 storage units. One of the storage closets is conveniently located in the front hallway outside of the unit. Building offers a pool and workout facility. Close to all transportation, shopping and entertainment.Read more</overview>
+	<listing_agent>
+		<agentName>Lori Giannini-Amelio</agentName>
+		<phoneNumber>773-250-0400</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Dream Town Realty</postingGroupName>
+		<postingWebsiteLinkText>Dream Town Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">No Data</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$181/mo</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 3</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $181/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10856287</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Appliances: Oven/Range, Microwave, Dishwasher, Refrigerator, Washer, Dryer, All Stainless Steel Kitchen Appliances</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Exterior Building Type: Brick</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas, Forced Air</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Lawn Care, Snow Removal, Water, Scavenger, Pool</detail>
+				<detail>Status: Active</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Type: Eating Area-Breakfast Bar</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Parking: Unassigned</detail>
+				<detail>Common Area Amenities: Storage, Exercise Room, On Site Manager/Engineer, Pool-Outdoors, Whirlpool</detail>
+				<detail>Kitchen Flooring: Ceramic Tile</detail>
+				<detail>Parking Type: Space/s</detail>
+				<detail>Dining Room Level: Not Applicable</detail>
+				<detail>Management: Manager On-site</detail>
+				<detail>Living Room Flooring: Ceramic Tile</detail>
+				<detail>Master Bedroom Flooring: Ceramic Tile</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Square Feet Source: Not Reported</detail>
+				<detail>Kitchen Window Treatments (Y/N): Blinds</detail>
+				<detail>Living Room Window Treatments (Y/N): Blinds</detail>
+				<detail>Master Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>2nd Bedroom Window Treatments (Y/N): Blinds</detail>
+				<detail>Age: 41-50 Years</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Recent Rehab (Y/N): Yes</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Type of House: Garden Unit</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Interior Property Features: Storage</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>2nd Bedroom Flooring: Ceramic Tile</detail>
+				<detail>Bath Amenities: Whirlpool</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Parcel Identification Number: 12103140231025</detail>
+				<detail>Additional Sales Information: List Broker Must Accompany</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

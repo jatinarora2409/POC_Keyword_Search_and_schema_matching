@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2500 Steiner St #3 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94115</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$7,150,000</Price>
+		<Beds>5</Beds>
+		<Baths>4</Baths>
+		<key name="$2043 / Sq. Ft.">3,500</key>
+	</main_stats>
+	<text_base_description>Magnificent full floor co-op apartment in signature Pacific Heights building. Hardwood floors, high ceilings  &amp;  large windows boasting exceptional views. The GG Bridge, Bay, Alta Plaza Park, and architecture all become an integral part of each room whether standing or sitting. Grand formal rooms, intimate library, and updated kitchen. 4 bedrooms, each with its own bath plus additional room with flexibility of use for bedroom, nursery, fitness, and/or office. In-unit laundry, direct elevator access to assigned parking and storage. Professionally managed with staffed entrance. This exquisite residence offers outstanding proximity to shops, restaurants  &amp;  acclaimed private schools. Truly a rare opportunity! All attached light fixtures excluded.  </text_base_description>
+	<listed_by>
+		<name>Bernadette Lamothe</name>
+		<agentLicenseDisplay>•DRE #01068440</agentLicenseDisplay>
+		<org> Sotheby's International Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$7,150,000</List_Price>
+		<Est._Mo._Payment>$32,671</Est._Mo._Payment>
+		<Redfin_Estimate>$7,076,583</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$2,043</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>Stock Cooperative</Property_Type>
+		<HOA_Dues>$3,186/month</HOA_Dues>
+		<Year_Built>1927</Year_Built>
+		<Style>Traditional</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">507339</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower and Tub, Stall Shower, Tub in Master Bdrm</group_dat>
+						<group_dat># of Baths: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Formal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Office, Sunroom, Laundry Room, Storage</group_dat>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1, Wood Burning, Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Gas Range, Hood Over Range, Dishwasher, Garbage Disposal, Pantry</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 4+ Bedrooms, 3+ Baths</group_dat>
+						<group_dat># of Rooms: 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Steam</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Homeowners Association, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Enclosed, Attached, Interior Access, Automatic Door, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Ext Bldg Maintenance, Door Person, Outside Management</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $3,186</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Jackson</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Water, Bay, Golden Gate Bridge</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Traditional</group_dat>
+						<group_dat># of Units: 12</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 0587C-003</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Restrictions</heading>
+					<group_data>
+						<group_dat>Requires Board Approval</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $7,150,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 1, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>5</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,500</Total_Sq._Ft.>
+		<Stories>12</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1927</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0587C003</APN>
+	</public_facts>
+</home>

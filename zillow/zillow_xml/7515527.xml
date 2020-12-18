@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$318,888</price>
+		<bd>5</bd>
+		<ba>3.5</ba>
+		<area>24,888</area>
+	</summary>
+	<address>
+		<street_address>915 S 33rd Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>A brand new home with all stainless appliances ,large kitchen island with Quartz counter, pantry, open concept, inside laundry, vinyl plank floor coverings ,upgrade window coverings, ceiling fans, 8 ft. car garage door, 9 foot flat ceiling master bedroom with walk in closet and double sinks, open kitchen. There is a city park behind the home. GUEST HOME is being rented to month to month for $580 per month and tenant pays all utilities, Guest home is one bedroom and .75 bathroom, a large living room and kitchen. main house is 4 bedrooms and 2.5 bathrooms with 1958 sqft.Read more</overview>
+	<listing_agent>
+		<agentName>Brian Lau</agentName>
+		<phoneNumber>602-272-1400</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Sanchez &amp; Associates Realty</postingGroupName>
+		<postingWebsiteLinkText>Sanchez &amp; Associates Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Electric, Gas</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">8,838 sqft</key>
+		<key name="Price/sqft:">$13</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Evaporative</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Range / Oven</item>
+				<item>Laundry features: Inside Laundry, Wshr/Dry HookUp Only, 220 V Dryer Hookup</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 24,888 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Cement / Concrete</item>
+				<item>Fencing: Wood, Block</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,838 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10959007</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: Yes</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer - Public</item>
+				<item>Utilities for property: APS, SW Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 84.1</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

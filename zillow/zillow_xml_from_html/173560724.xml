@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$235,000</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>1,343</area>
+	</summary>
+	<address>
+		<street_address>11720 W Dearbourn Ave,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Well maintained Wauwatosa ranch includes 4 bedrooms (hard to find), 1.5 bathrooms, fenced yard with patio and 2.5 car garage. Updates include carpet, windows, roof, gutter, fascia, foundation. All appliances are included. The open and bright living room flows into the dining area and kitchen. Perfect for daily living and entertaining. Hardwood floors throughout, six panel doors and fresh paint. This quiet neighborhood is conveniently located near freeway access and Bluemound Road.Read more</overview>
+	<listing_agent>
+		<agentName>Jennifer Muller</agentName>
+		<phoneNumber>262-782-3110</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>First Weber Inc - Brookfield</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc - Brookfield</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1963</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">6,098 sqft</key>
+		<key name="Price/sqft:">$175</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 1</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Full, Block, Sump Pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,343 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 3</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Level Drive, Bedroom on Main Level, Full Bath on Main Level</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Vinyl</detail>
+				<detail>Patio and porch details: Patio</detail>
+				<detail>Fencing: Fenced</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,098 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 4120150009</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Ranch</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1963</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Gas information: Natural Gas</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 84.92</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Milwaukee</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $172,300</detail>
+				<detail>Annual tax amount: $4,366</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1713911</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Forced Air, Natural Gas</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Dryer, Washer, Oven/Range</detail>
+				<detail>ArchitecturalStyle: Ranch</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>PatioAndPorchFeatures: Patio</detail>
+				<detail>Basement: Full, Block, Sump Pump</detail>
+				<detail>RoomsTotal: 6</detail>
+				<detail>ConstructionMaterials: Vinyl Siding</detail>
+				<detail>Fencing: Fenced</detail>
+				<detail>Gas: Natural Gas</detail>
+				<detail>ParkingFeatures: Detached, Paved, Garage Door Opener</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>AccessibilityFeatures: Level Drive, Bedroom on Main Level, Full Bath on Main Level</detail>
+				<detail>CoveredSpaces: 2.50</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>InteriorFeatures: At least one Bathtub, Dual Entry Off MBR</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

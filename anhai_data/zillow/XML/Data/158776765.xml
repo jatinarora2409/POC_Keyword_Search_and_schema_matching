@@ -1,0 +1,269 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,450,000</price>
+		<bd>5</bd>
+		<ba>4</ba>
+		<area>4,584</area>
+	</summary>
+	<address>
+		<street_address>2334 W Ohio St,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>This 4584 square foot single family home has 5 bedrooms and 4.0 bathrooms. This home is located at 2334 W Ohio St, Chicago, IL 60612.Read more</overview>
+	<listing_agent>
+		<agentName>Melissa Murphy Hainault</agentName>
+		<phoneNumber>708-544-3550</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Casey &amp; Wagner Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Casey &amp; Wagner Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2015</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">3,660 sqft</key>
+		<key name="Price/sqft:">$316</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 5</detail>
+				<detail>Bathrooms: 4</detail>
+				<detail>Full bathrooms: 3</detail>
+				<detail>1/2 bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Finished</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Carpet, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 4,584 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Exterior features: Other, Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 3,660 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 1707113016</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: masonry</detail>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2015</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 86.17</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Chicago</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $1,073,600</detail>
+				<detail>Annual tax amount: $20,529</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10873612</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Air Conditioning: Central Air, Zoned</detail>
+				<detail>Appliances: Microwave, Dishwasher, Disposal, Washer, Dryer, Refrigerator-Bar, All Stainless Steel Kitchen Appliances, Wine Cooler/Refrigerator, High End Refrigerator, Oven/Built-in, Cooktop, Range Hood, Gas Oven, Gas Cooktop, Intercom, ENERGY STAR Qualified Appliances</detail>
+				<detail>2nd Bedroom Level: 2nd Level</detail>
+				<detail>Dining Room: Separate</detail>
+				<detail>Exterior Building Type: Brick, Other</detail>
+				<detail>Foundation: Concrete</detail>
+				<detail>Heat/Fuel: Gas, Forced Air, Indv Controls, Radiant, 2+ Sep Heating Systems, Zoned</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Master Bedroom Level: 2nd Level</detail>
+				<detail>Parking Type: Garage</detail>
+				<detail>Status: Active</detail>
+				<detail>Tax Exemptions: Homeowner</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Equipment: Ceiling Fan, CO Detectors, Sump Pump, Intercom, Humidifier, Air Cleaner, Backup Sump Pump;, Security System</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Type: Eating Area-Breakfast Bar, Eating Area-Table Space, Island, Pantry-Butler, Updated Kitchen, SolidSurfaceCounter</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Exposure: S (South)</detail>
+				<detail>Kitchen Flooring: Hardwood</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>2nd Bedroom Flooring: Hardwood</detail>
+				<detail>3rd Bedroom Flooring: Hardwood</detail>
+				<detail>3rd Bedroom Level: 2nd Level</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Basement Bathrooms (Y/N): Yes</detail>
+				<detail>Addtl Room 1 Flooring: Carpet</detail>
+				<detail>Addtl Room 1 Level: Lower</detail>
+				<detail>Electricity: 200+ Amp Service</detail>
+				<detail>Other Information: Commuter Bus, Interstate Access</detail>
+				<detail>Addtl Room 2 Level: 2nd Level</detail>
+				<detail>Family Room Level: Lower</detail>
+				<detail>Family Room Flooring: Carpet</detail>
+				<detail>Bath Amenities: Separate Shower, Double Sink, Soaking Tub, Double Shower</detail>
+				<detail>Basement: Finished</detail>
+				<detail>Addtl Room 3 Level: Main Level</detail>
+				<detail>Addtl Room 4 Level: Main Level</detail>
+				<detail>Age: 1-5 Years</detail>
+				<detail>Addtl Room 2 Flooring: Hardwood</detail>
+				<detail>Roof Type: Rubber</detail>
+				<detail>Addtl Room 2 Name: Loft</detail>
+				<detail>Addtl Room 4 Name: Foyer</detail>
+				<detail>4th Bedroom Flooring: Carpet</detail>
+				<detail>4th Bedroom Level: Lower</detail>
+				<detail>Addtl Room 5 Level: Basement</detail>
+				<detail>Lot Description: Fenced Yard</detail>
+				<detail>Addtl Room 3 Name: Deck</detail>
+				<detail>Addtl Room 1 Name: 5th Bdrm</detail>
+				<detail>Frequency: Not Applicable</detail>
+				<detail>Area Amenities: Tennis Courts, Curbs/Gutters, Gated Entry, Street Lights, Street Paved, Sidewalks, Park/Playground, Pool</detail>
+				<detail>Addtl Room 6 Flooring: Hardwood</detail>
+				<detail>Addtl Room 7 Level: Main Level</detail>
+				<detail>Addtl Room 8 Level: Lower</detail>
+				<detail>Addtl Room 6 Level: 2nd Level</detail>
+				<detail>Addtl Room 6 Name: Walk in Closet</detail>
+				<detail>Addtl Room 9 Level: Main Level</detail>
+				<detail>Addtl Room 8 Name: Storage</detail>
+				<detail>Addtl Room 10 Level: Lower</detail>
+				<detail>Green Features: Photovoltaic/Solar System</detail>
+				<detail>Energy/Green Building Rating Source: LEED-H Silver, Special Energy Feat</detail>
+				<detail>Square Feet Source: Builder</detail>
+				<detail>Master Bedroom Bath (Y/N): Full, Tub &amp; Separate Shwr, Double Sink</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Additional Rooms: Storage, 5th Bedroom, Mud Room, Utility Room-Lower Level</detail>
+				<detail>Interior Property Features: Hardwood Floors, 2nd Floor Laundry, Bar-Wet, In-Law Arrangement, Heated Floors, Walk-In Closet(s), Built-in Features, Open Floorplan, Drapes/Blinds, Cocktail Lounge, 10'  Ceiling</detail>
+				<detail>Exterior Property Features: Patio, Storms/Screens, Roof Deck, Deck</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Laundry Flooring: Porcelain Tile</detail>
+				<detail>Attached Disclosures: LEED</detail>
+				<detail>Addtl Room 5 Name: Utility Room-Lower Level</detail>
+				<detail>Type of House 2: 3 Stories</detail>
+				<detail>Garage Type: Detached2, Detached</detail>
+				<detail>Additional Rooms: Foyer, Terrace, Loft, Deck, Walk In Closet</detail>
+				<detail>Laundry Level: 2nd Level</detail>
+				<detail>Basement (Y/N): English, Full</detail>
+				<detail>Addtl Room 7 Name: Mud</detail>
+				<detail>Garage Ownership: Owned</detail>
+				<detail>Driveway: Off Alley</detail>
+				<detail>Additional Media Type 1: 3D Tour</detail>
+				<detail>Addtl Room 10 Name: Walk in Closet</detail>
+				<detail>Addtl Room 9 Name: Terrace</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2018</detail>
+				<detail>Additional Sales Information: List Broker Must Accompany</detail>
+				<detail>Family Room Window Treatments (Y/N): Window Treatments, Insulated Windows</detail>
+				<detail>Living Room Window Treatments (Y/N): Window Treatments</detail>
+				<detail>Master Bedroom Window Treatments (Y/N): Window Treatments</detail>
+				<detail>Addtl Room 1 Window Treatments (Y/N): Window Treatments</detail>
+				<detail>3rd Bedroom Window Treatments (Y/N): Window Treatments</detail>
+				<detail>2nd Bedroom Window Treatments (Y/N): Window Treatments</detail>
+				<detail>4th Bedroom Window Treatments (Y/N): Window Treatments</detail>
+				<detail>Lot Dimensions: 30.11X124.22</detail>
+				<detail>Parcel Identification Number: 17071130160000</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

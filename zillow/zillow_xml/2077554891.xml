@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,495,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,483</area>
+	</summary>
+	<address>
+		<street_address>1336 A Green St,</street_address>
+		<city_state> San Francisco, CA 94133</city_state>
+	</address>
+	<overview>Behind this gorgeously-preserved Edwardian building in Russian Hill lies newly-remodeled and modernized interiors. 1336A Green, a newly developed residence, was designed to optimize modern living with three full-sized bedrooms on one level, including a Primary Suite and guest bath.    Featuring an open floor plan with high ceilings, the effect is awe-inspiring and dramatic. A single family alternative, this residence has it's own private entrance and over-sized sliding glass doors that walk out to a deeded patio, deck, &amp; shared yard. Wonderful Russian Hill location with close proximity to both Polk &amp; Hyde Street shops and restaurants. Shared roof deck with panoramic views of the Golden Gate Bridge, Marin Headlands &amp; North Bay.Read more</overview>
+	<listing_agent>
+		<agentName>John Farnham</agentName>
+		<phoneNumber>415-345-3000</phoneNumber>
+		<agentLicenseNumber>License #01335382</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">No Data</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$450/month</key>
+		<key name="Price/sqft:">$1,008</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,483 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>View description: Water</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $450/mo</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

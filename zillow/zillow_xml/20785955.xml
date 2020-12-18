@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,975,000</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,973</area>
+	</summary>
+	<address>
+		<street_address>714 N Spaulding Ave,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Remodeled contemporary oasis with 14-foot privacy hedges outline this green wonderland for the utmost tranquility and security! Enter through a secure pedestrian gate to a French-countryside inspired courtyard. Multiple outdoor sitting areas, fire pit, multiple Redwood decks, grass, olive trees &amp; privacy to bask in the sun in true French Riviera style. Main house consists of an open floor plan with 1,133 sq ft, white-washed French oak floors, Chef's kitchen with high-gloss white cabinetry, quartz countertops, stainless steel appliances, abundant natural light and two beds en suite. Detached fully permitted guest house consists of 840 sq ft, 9-foot ceilings, washer/dryer hook up, full kitchen and bath. Security cameras and electric gate for secure parking for two plus a 60 sq. ft. storage garage with compartments for tool organization. Incredible income potential with projected rental value of $12k/mo on a long-term basis. Virtual tour available.Read more</overview>
+	<listing_agent>
+		<agentName>Julia DeLorme</agentName>
+		<phoneNumber>310-819-3250</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Douglas Elliman</postingGroupName>
+		<postingWebsiteLinkText>Douglas Elliman</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1923</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central, Wall</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">5,662 sqft</key>
+		<key name="Price/sqft:">$1,001</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central, Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 1,973 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One, Ground Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.13 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: GuestHouse, Shed(s), Accessory Dwelling Unit</item>
+				<item>Parcel number: 5527007020</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1923</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1923</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 85.83</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Fire and Smoke Detection System, Gated, Automatic Gate, Exterior Security Lights, Fire Sprinklers, Card/Code Access</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

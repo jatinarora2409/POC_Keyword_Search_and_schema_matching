@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$299,900</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>995</area>
+	</summary>
+	<address>
+		<street_address>360 W Washington Ave UNIT 1214,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Metropolitan Place! Immaculate 12th floor condo located in the heart of Madison! Beautiful split bedroom design w/open floorplan, wood floors throughout, &amp; private balcony w/soaring courtyard views &amp; the downtown skyline. Kitchen features stainless appliances w/gas range, under cabinet lighting, granite counters &amp; breakfast bar. Bright living rm w/tall ceilings &amp; gas fireplace w/granite surround. enjoy a meal at the cozy dining area or the elevated breakfast bar. Main bedroom features a walk in closet. Spacious bathroom w/tile flooring &amp; jetted tub. Additional features include private in unit laundry (washer &amp; dryer included). Two side by side underground parking stalls &amp; storage unit included. Metropolitan Place offers an amazing central downtown location &amp; excellent amenities.Read more</overview>
+	<listing_agent>
+		<agentName>Luke Bruckner</agentName>
+		<phoneNumber>608-662-7777</phoneNumber>
+		<agentLicenseNumber>License #63334-94</agentLicenseNumber>
+		<postingGroupName>Bunbury &amp; Assoc, REALTORS</postingGroupName>
+		<postingWebsiteLinkText>Bunbury &amp; Assoc, REALTORS</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2003</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$301</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 995 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923143740</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2003</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2003</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 77.58</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

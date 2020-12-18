@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$899,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>700</area>
+	</summary>
+	<address>
+		<street_address>1998 Broadway APT 902,</street_address>
+		<city_state> San Francisco, CA 94109</city_state>
+	</address>
+	<overview>Welcome to this bright 1 bed 1 bath home with floor to ceiling windows in one of Pacific Heights most prestigious full service buildings. This home features an open floorplan with a large dining/living room that leads to a sunroom with views of our gorgeous San Francisco Bay and Marin! Amenities include a walk-in closet, a generous parking space in a secure garage, deeded storage, elevators, doorman service and a spectacular shared roof deck with iconic views of the Bay, the Golden Gate Bridge and San Francisco. Walking distance to Union Street, Fillmore Street, Polk Street and three blocks from Lafayette Park.Read more</overview>
+	<listing_agent>
+		<agentName>Simran Alden</agentName>
+		<phoneNumber>415-655-5600</phoneNumber>
+		<agentLicenseNumber>License #01966755</agentLicenseNumber>
+		<postingGroupName>Vanguard Properties</postingGroupName>
+		<postingWebsiteLinkText>Vanguard Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1964</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$1,151/mo</key>
+		<key name="Price/sqft:">$1,284</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 700 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 0567072</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: concrete</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1964</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 92.84</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Community</heading>
+			<details>
+				<detail>Community features: On Site Laundry Available</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: San Francisco</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $1,151/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $599,778</detail>
+				<detail>Annual tax amount: $7,116</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 507467</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Common Areas: Roof Deck</detail>
+				<detail>HOA?: Yes</detail>
+				<detail>View(s): Partial</detail>
+				<detail>Status: Active</detail>
+				<detail>Exclusive Use Areas: Additional Storage, Deck</detail>
+				<detail>Floors: Partial Carpet, Bamboo</detail>
+				<detail>Property Subtype 1: Condominium</detail>
+				<detail>Square Footage Source: Per Tax Records</detail>
+				<detail>Subdist: Pacific Heights</detail>
+				<detail>District: SF District 7</detail>
+				<detail>Laundry Appliances: In Laundry Room</detail>
+				<detail>Shopping: 3 Blocks</detail>
+				<detail>Parking Type: Designated On Site</detail>
+				<detail>Parking Access: Independent</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

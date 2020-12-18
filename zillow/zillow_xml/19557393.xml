@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$500,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>653</area>
+	</summary>
+	<address>
+		<street_address>1700 Civic Center Dr APT 203,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>One bedroom, one bathroom apartment, +/- 653 SF, located in the heart of Santa Clara. Updated kitchen with new appliances opens to a living room/ dining area.  Hardwood flooring in the living room and bedroom.  The unit is air conditioned.  The well maintained and secure 1700 Civic Center has on-site laundry facilities, secure parking, swimming pool and community center.Read more</overview>
+	<listing_agent>
+		<agentName>Suheil Sahouria</agentName>
+		<phoneNumber>650-685-1644</phoneNumber>
+		<agentLicenseNumber>License #01408008</agentLicenseNumber>
+		<postingGroupName>Bruce H. Bean, Broker</postingGroupName>
+		<postingWebsiteLinkText>Bruce H. Bean, Broker</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1972</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$363/mo</key>
+		<key name="Price/sqft:">$766</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Range / Oven, Refrigerator</item>
+				<item>Laundry features: Coin Operated, Community Facility</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 653 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 871 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 22441015</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1972</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1973</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Individual Electric Meters, Public Utilities, Individual Gas Meters</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.66</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Security Building, Secured Garage / Parking, Controlled / Secured Access</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

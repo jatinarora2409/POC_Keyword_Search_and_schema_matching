@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,995,000</price>
+		<bd>3</bd>
+		<ba>3.5</ba>
+		<area>2,120</area>
+	</summary>
+	<address>
+		<street_address>2145 Turk Blvd,</street_address>
+		<city_state> San Francisco, CA 94115</city_state>
+	</address>
+	<overview>Lush gardens serve up a wonderful shock as you travel through the gated entrance of this Zen-inspired 3bd/3.5ba home. A red brick path sweeps down to the front door, where you enter on the second level, an open living space with garden views and a stone fireplace. Walls of windows flood the home with light, leveraging breathtaking views on every level. A spiral staircase that leads to the bedroom below, a comfortable en suite with floor-to-ceiling sliding doors that open to the secluded landscaped backyard. The upper level boasts a bright, airy layout, gas fireplace, and a stunning view of Buena Vista Park. Skylights enhance the easy flow of open kitchen/living/dining areas. The chef's kitchen showcases a Sub-Zero fridge, Wolf range, center island sink, and ample counter space. A sense of calm pervades both bedrooms on this level, each with lovely garden views. A full bath features a deep soaking tub and Japanese design elements.Read more</overview>
+	<listing_agent>
+		<agentName>Ruth Krishnan</agentName>
+		<phoneNumber>415-738-7000</phoneNumber>
+		<agentLicenseNumber>License #01862279</agentLicenseNumber>
+		<postingGroupName>Compass SF</postingGroupName>
+		<postingWebsiteLinkText>Compass SF</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1953</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">3,441 sqft</key>
+		<key name="Price/sqft:">$941</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,120 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Parking features: Covered, Garage - Detached</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>View description: Territorial</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,441 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 1150036</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1953</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.44</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$749,800</price>
+		<bd>4</bd>
+		<ba>4</ba>
+		<area>2,462</area>
+	</summary>
+	<address>
+		<street_address>7919 Yellow Thistle Trl #8,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Lot 8 Pasilla: Cayena -a new community of modern homes off Southwest Pkwy. The Pasilla floorplan includes high ceilings, hardwood floors, tile &amp; stainless appliances. This 3 story modern city home is equipped with covered patios on each level, an attached 2 car garage, and large casement windows providing lots of natural light. Cayena is just minutes to downtown Austin, airport &amp; hill country. Short walk to the new Lantana Place - Movie House &amp; Eatery, Perry's Steakhouse, Salons, Markets &amp; More! Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Nicole Kessler</agentName>
+		<phoneNumber>512-575-3644</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass RE Texas, LLC</postingGroupName>
+		<postingWebsiteLinkText>Compass RE Texas, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2019</key>
+		<key name="Heating:">Forced air, Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$175/month</key>
+		<key name="Lot:">435 sqft</key>
+		<key name="Price/sqft:">$305</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air, Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 2,462 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Entry location: 1st Floor Entry</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stucco</item>
+				<item>Patio and porch details: Patio, Covered</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.01 acres</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: New Construction</item>
+				<item>New construction: Yes</item>
+				<item>Year built: 2019</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Sidewalks, Cluster Mailbox</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

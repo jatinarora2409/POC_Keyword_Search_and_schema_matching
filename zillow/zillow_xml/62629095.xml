@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$294,500</price>
+		<bd>4</bd>
+		<ba>2</ba>
+		<area>2,307</area>
+	</summary>
+	<address>
+		<street_address>2194 Blue Heron Cove Dr,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>OPEN HOUSE SATURDAY OCT 10 FROM 11-2. Hidden gem in Fleming Island. Home nestled off of Old Hard Rd in Admirals Inlet. This is a spacious 4 bedroom 2 bath home, with a Bonus room upstairs. Home features new hardwood floors throughout common areas and master bedroom, as well as new carpet in the remaining three bedrooms and upstairs bonus room. Enjoy Fleming Island living with NO CDD and low HOA fees.Read more</overview>
+	<listing_agent>
+		<agentName>The Park Avenue Group</agentName>
+		<phoneNumber>727-314-3942</phoneNumber>
+		<agentLicenseNumber>License #3418142</agentLicenseNumber>
+		<postingGroupName>MAVREALTY</postingGroupName>
+		<postingWebsiteLinkText>MAVREALTY</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2003</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">10,802 sqft</key>
+		<key name="Price/sqft:">$128</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,307 sqft</item>
+				<item>Fireplace features: 1 Fireplace</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: Water</item>
+				<item>On waterfront: Yes</item>
+				<item>Waterfront features: Pond</item>
+				<item>Frontage type: Pond</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 10,802 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 06052601424700138</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2003</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2003</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 78.84</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Fleming Island</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $257,002</item>
+				<item>Annual tax amount: $2,177</item>
+			</item>
+		</item>
+	</hoa_and_financial_details>
+	<other_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 1076935</item>
+				<item>Measurement Source: Tax Roll</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Flooring: Wood</item>
+				<item>Sewer: Public Sewer</item>
+				<item>WaterSource: Public</item>
+				<item>FrontageType: Pond</item>
+				<item>WaterfrontFeatures: Pond</item>
+				<item>Appliances: Dishwasher, Refrigerator, Disposal, Microwave, Electric Range, Self Cleaning Oven</item>
+				<item>FireplaceYN: Yes</item>
+				<item>Roof: Shingle</item>
+				<item>GarageYN: Yes</item>
+				<item>AttachedGarageYN: Yes</item>
+				<item>HeatingYN: Yes</item>
+				<item>CoolingYN: Yes</item>
+				<item>FireplacesTotal: 1</item>
+				<item>BusinessType: Residential</item>
+				<item>CoveredSpaces: 2</item>
+				<item>Cooling: Central Air</item>
+				<item>LivingAreaSource: Tax roll</item>
+				<item>ParkingFeatures: Attached Garage</item>
+				<item>InteriorFeatures: Separate Dining Room, Bonus Room/Game Room, 2nd Story-Bonus Room Only</item>
+				<item>RoomDiningRoomFeatures: Separate Dining Room</item>
+				<item>FireplaceFeatures: 1 Fireplace</item>
+				<item>BuildingAreaSource: Tax Roll</item>
+				<item>Heating: Central Heating</item>
+				<item>LotFeatures: Regular Lot</item>
+				<item>RoomBedroomFeatures: Split Bedrooms, Master Bedroom-First Floor</item>
+				<item>RoomBathroomFeatures: Garden Bath</item>
+				<item>MlsStatus: Active</item>
+				<item>CoListAgentFullName: AMANDA DANTER</item>
+				<item>CoListAgentEmail: Amanda@parkavejax.com</item>
+			</item>
+		</item>
+	</other_details>
+</home>

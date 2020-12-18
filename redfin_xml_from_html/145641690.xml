@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1410 N Stanley </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,495,000</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$794 / Sq. Ft.">1,884</key>
+	</main_stats>
+	<text_base_description>Discreetly located in the north row corner of the exclusive Row 2 community, this stunning architectural and luxurious single-family home boasts 3 bedrooms and 3.5 bathrooms. Inviting and spacious, this home is loaded with features and impeccable finishes throughout: engineered wood flooring, custom tiled bathrooms, white lacquered cabinetry and top-tier appliances such as Bertazzoni, Thermador and Bosch. Ideal for entertaining and relaxation, the generously sized roof top deck features a gas fireplace and 360 degree landmark views of the city and beyond. The attached two-car garage, fit with custom sealed flooring and prepped for an electric vehicle charger, compliments the convenience and elegance of this offering. New construction, forward thinking design, and a phenomenal location combine to make this Row 2 property the complete package, welcome home! </text_base_description>
+	<listed_by>
+		<name>Shaun Alan-Lee</name>
+		<agentLicenseDisplay>•DRE #01955694</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,495,000</List_Price>
+		<Est._Mo._Payment>$6,894</Est._Mo._Payment>
+		<Redfin_Estimate>$1,491,311</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$794</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>9 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<HOA_Dues>$197/month</HOA_Dues>
+		<Year_Built>2017</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Hollywood</Community>
+		<Lot_Size>1,830 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-639864</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Room, Laundry on Upper Level</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Area, Kitchen Island</group_dat>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Breakfast Area, Dining Room, Living Room, Master Bedroom, Patio Open</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Furnished</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Gas Fireplace, On Patio</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Mixed Floors, Tile Floors, Wood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Garbage Disposal, Dishwasher, Microwave, Range/Oven</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Attached, 2 Car Garage, Side By Side</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Townhouse, Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+						<group_dat>Security Features: Fire and Smoke Detection System, Carbon Monoxide Detector(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: None</group_dat>
+						<group_dat>Fee #1: $196.95</group_dat>
+						<group_dat>Fee #1 Frequency: Monthly</group_dat>
+						<group_dat>AssociationPetRules: Call</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Athletic Court: None</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5550-029-052</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Complex Name: Row 2</group_dat>
+						<group_dat>Directions: Please use GPS</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: CC and R, Planned Development, Property Report</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 1,830</group_dat>
+						<group_dat>Special Zoning: Property Report</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: City Lights, Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>1,884</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,884</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>1,830 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>2017</Year_Built>
+		<Year_Renovated>2017</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5550029052</APN>
+	</public_facts>
+</home>

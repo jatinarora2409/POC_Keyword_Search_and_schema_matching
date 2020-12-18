@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1337 N 38TH Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$359,900</Price>
+		<Beds>7</Beds>
+		<Baths>3</Baths>
+		<key name="$124 / Sq. Ft.">2,912</key>
+	</main_stats>
+	<text_base_description>Great home with 7 bedrooms and 3 bathrooms. Perfect space for family and entertaining. Property has been upgraded. Tile thought  the house for easy cleaning. Easy access to freeways and major roads. Come and see it today! </text_base_description>
+	<listed_by>
+		<name>Marsella Peres</name>
+		<org> Keller Williams Realty Phoenix</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$359,900</List_Price>
+		<Est._Mo._Payment>$1,379</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$124</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>202 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1990</Year_Built>
+		<Community>WEST VIEW MANOR PLAT 2</Community>
+		<Lot_Size>6,717 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6054571</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 8</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 3</group_dat>
+						<group_dat>Full Master Bathroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Cook Top Gas, Range/Oven Gas, Refrigerator in Kitchen</group_dat>
+						<group_dat>Dining in Living Room/Great Room, Eat-in Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Family Room, Loft</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Washer/Dryer Hookup Only</group_dat>
+						<group_dat>Cable TV Available</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 2</group_dat>
+						<group_dat>Tile Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Gas Heating</group_dat>
+						<group_dat>Refrigeration</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Slab): 2</group_dat>
+						<group_dat>Gated Parking, RV Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction</group_dat>
+						<group_dat>Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Exterior Stories: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Near Bus Stop</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee Type: Dollar Amount</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2 Type: Dollar Amount</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Alta E. Butler</group_dat>
+						<group_dat>Junior High School: Isaac E. Imes</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>Elementary School District: 210 - Phoenix Union High School District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Utilities: APS</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: McDowell Rd. and 35th Ave</group_dat>
+						<group_dat>Census Tract: 8.00</group_dat>
+						<group_dat>Directions: North of I-10 on 35th Ave, W on Willetta, S on 35th Drive, W Culver, N 38th Ave.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required, Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 2,751-3,000</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>2 Levels</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 106-06-027</group_dat>
+						<group_dat>Assessor's Book #: 106</group_dat>
+						<group_dat>Assessor's Map #: 6</group_dat>
+						<group_dat>Assessor's Parcel #: 27</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Block Fencing</group_dat>
+						<group_dat>Landscaping: Dirt in Back, Dirt in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>2,912</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,912</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>6,717 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1990</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10606027</APN>
+	</public_facts>
+</home>

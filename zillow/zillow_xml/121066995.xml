@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$225,500</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,191</area>
+	</summary>
+	<address>
+		<street_address>2220 W Maypole Ave UNIT 301,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>An Investor's Must See!!! Top floor, South facing, open concept 2 bedroom 2 bath. Master bedroom en-suite with walk in closet. In unit laundry, 1 car garage with side storage space and additional private storage room included in price. Steps to downtown, West Loop restaurants and shopping. New L stop soon to come, quick access to 290, blocks from United Center, close to the medical district and much more!Read more</overview>
+	<listing_agent>
+		<agentName>Jovanka Corazzina</agentName>
+		<phoneNumber>773-517-1323</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Berkshire Hathaway HomeServices Chicago</postingGroupName>
+		<postingWebsiteLinkText>Berkshire Hathaway HomeServices Chicago</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$298/mo</key>
+		<key name="Price/sqft:">$189</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,191 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17073210481023</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2005</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

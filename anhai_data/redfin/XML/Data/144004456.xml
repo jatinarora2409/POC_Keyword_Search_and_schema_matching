@@ -1,0 +1,296 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8200 Southwest Pkwy W #103 </street-address>
+		<locality>Austin, </locality>
+		<region>TX</region>
+		<postal-code>78735</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$755,000</Price>
+		<Beds>3</Beds>
+		<Baths>2.5</Baths>
+		<key name="$251 / Sq. Ft.">3,002</key>
+	</main_stats>
+	<text_base_description>Lock  &amp;  Leave SW Austin condo located in gated community of The Enclave at Escondera! Main floor master suite, Fam. room with 14 ft. ceilings, FP  &amp;  built in bookcases. Lower level guest suite with kitchenette  &amp;  family/game room. 2 covered terraces plus rooftop deck with pergola offer soaring views of the 50 acre preserve and beautiful sun rises. Plantation shutters throughout, hardwood floors  &amp;  custom epoxy garage floor are just a few upgrades. 10 minutes to downtown  &amp;  20 min. to new Tesla Mfg. Plant. Sprinkler Sys:Yes </text_base_description>
+	<listed_by>
+		<name>Linda Gatling</name>
+		<agentLicenseDisplay>•TREC #0650120</agentLicenseDisplay>
+		<org> JBGoodwin REALTORS NW</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$755,000</List_Price>
+		<Est._Mo._Payment>$4,504</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$251</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>146 days</Time_on_Redfin>
+		<Property_Type>Residential, Condominium</Property_Type>
+		<HOA_Dues>$563/month</HOA_Dues>
+		<Year_Built>2015</Year_Built>
+		<Community>Escondera Condo Amd</Community>
+		<Lot_Size>0.49 Acres</Lot_Size>
+		<key name="MLS#">2108401</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Main Level Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Full Bathrooms: 2</group_dat>
+						<group_dat># of Half Bathrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Storage Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom</group_dat>
+						<group_dat>Features: Walk-In Closet(s)</group_dat>
+						<group_dat>Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Foyer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Great Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Living Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 8 Information</heading>
+					<group_data>
+						<group_dat>Kitchen</group_dat>
+						<group_dat>Features: Breakfast Bar, Breakfast Area, Granite Counters, Kitchen/Family Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 9 Information</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Features: Breakfast Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 10 Information</heading>
+					<group_data>
+						<group_dat>Office</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Features: Family Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Oven, Convection Oven, Dryer, Dishwasher, Exhaust Fan, Gas Cooktop, Disposal, Microwave, Refrigerator, Self Cleaning Oven, Stainless Steel Appliance(s), Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Unfurnished</group_dat>
+						<group_dat>Flooring: Carpet, Tile, Wood</group_dat>
+						<group_dat>Other Features: Breakfast Bar, Book Cases, Separate/Formal Dining Room, Entrance Foyer, High Ceilings, In-Law Floorplan, Interior Steps, Multiple Living Areas, Main Level Master, Multiple Master Suites, Pantry, Recessed Lighting, Vaulted Ceiling(s), Walk-In Closet(s)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage/Carport Information</heading>
+					<group_data>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat>Features: Assigned, Garage Faces Front, Garage</group_dat>
+						<group_dat># of Parking (Total): 2</group_dat>
+						<group_dat># of Covered Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Roof Details: Flat Tile</group_dat>
+						<group_dat>Construction Details: Stucco</group_dat>
+						<group_dat>Builder Name: Prestige Builders</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior Features: Balcony, Arbor</group_dat>
+						<group_dat>Patio And Porch Features: Deck, Balcony</group_dat>
+						<group_dat>Security Features: Pre Wired, Fire Alarm, Smoke Detector(s), Controlled Access</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>Pool Features: Community</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information, Homeowners Association, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Multi Unit Information</heading>
+					<group_data>
+						<group_dat>Pets Allowed: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Has Home Owners Association</group_dat>
+						<group_dat>Association Name: Escondera HOA</group_dat>
+						<group_dat>Association Fee: $563</group_dat>
+						<group_dat>Monthly</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School</heading>
+					<group_data>
+						<group_dat>Elementary School District: Austin ISD</group_dat>
+						<group_dat>Middle Or Junior School District: Austin ISD</group_dat>
+						<group_dat>High School District: Austin ISD</group_dat>
+						<group_dat>Elementary School: Oak Hill</group_dat>
+						<group_dat>Middle Or Junior School: O Henry,</group_dat>
+						<group_dat>High School: Austin,</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Annual Amount: $15,700</group_dat>
+						<group_dat>Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Utilities: Electricity Available, Natural Gas Available, Phone Connected, Underground Utilities</group_dat>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Has Cooling</group_dat>
+						<group_dat>Cooling: Central Air</group_dat>
+						<group_dat>Has Heating</group_dat>
+						<group_dat>Heating: Central, Heat Pump</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size Area: 0.49</group_dat>
+						<group_dat>Lot Size Acres: 0.49</group_dat>
+						<group_dat>Lot Features: Backs to Greenbelt/Park, Sprinklers Automatic, Trees Medium Size</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>Direction Faces: West</group_dat>
+						<group_dat>Foundation Details: Slab</group_dat>
+						<group_dat>Resale</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Community Features: Barbecue, Common Grounds/Area, Clubhouse, Community Mailbox, Dog Park, Fitness Center, Gated, Park, Pool</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>3,002</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,002</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2015</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Travis County</County>
+		<APN>886521</APN>
+	</public_facts>
+</home>

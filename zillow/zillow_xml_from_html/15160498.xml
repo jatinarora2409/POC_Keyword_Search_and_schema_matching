@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,599,000</price>
+		<bd>4</bd>
+		<ba>3.5</ba>
+		<area>1,879</area>
+	</summary>
+	<address>
+		<street_address>56 Macedonia St,</street_address>
+		<city_state> San Francisco, CA 94110</city_state>
+	</address>
+	<overview>A modern masterpiece set on the north slope of Bernal Heights, this sprawling 4 bedroom, 3.5 bath oasis boasting stunning skyline and Bay water views. Featuring an open-concept living/dining areas, a stunning  fireplace, and a gourmet kitchen featuring top of the line finishes, a generously sized island, custom cabinetry, a suite of stainless steel Thermador appliances, and panoramic doors that open up to the back patio overlooking a heavenly backyard. the exterior features three separate  decks, including a breathtaking roof deck with dramatic 360-degree panoramic views encompassing the San Francisco skyline and Bay. For added convenience, the home is also equipped with a side-by-side two-car garage and laundry room. This home enjoys the splendor of short commutes into downtown, panoramic hilltop views, and unparalleled proximity to world-class dining, entertainment, parks, cafes and so much more.Read more</overview>
+	<listing_agent>
+		<agentName>William Tran</agentName>
+		<phoneNumber>415-702-9184</phoneNumber>
+		<agentLicenseNumber>License #01425873</agentLicenseNumber>
+		<postingGroupName>Sequoia Real Estate</postingGroupName>
+		<postingWebsiteLinkText>Sequoia Real Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1959</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">Attached Garage</key>
+		<key name="Lot:">3,872 sqft</key>
+		<key name="Price/sqft:">$1,383</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 4</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Gas, Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dryer, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,879 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Parking features: Attached Garage</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Stucco, Wood</detail>
+				<detail>View description: City, Water</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.09 acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5536A009</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1959</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 92.64</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: San Francisco</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $99,105</detail>
+				<detail>Annual tax amount: $1,890</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 507777</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Property Subtype 1: Single-Family Homes</detail>
+				<detail>Driveway/Sidewalks: Paved Driveway</detail>
+				<detail>Floors: Hardwood, Partial Hardwood</detail>
+				<detail>Living Room: View</detail>
+				<detail>Main Level: Living Room, Dining Room, Kitchen, 3 Bedrooms, 2 Baths, 1 Master Suite</detail>
+				<detail>Parking: Garage, Attached</detail>
+				<detail>View(s): Panoramic, City Lights, Water, Bay, San Francisco, Downtown</detail>
+				<detail>Water/Sewer: Water-Public, Sewer System-Public, Wtr Htr-Tankless</detail>
+				<detail>Square Footage Source: Not Available</detail>
+				<detail>Status: Active</detail>
+				<detail>Dining Room: Dining Area</detail>
+				<detail>Exterior: Stucco, Wood Siding</detail>
+				<detail>Heating/Cooling Sys: Central Heating, Gas</detail>
+				<detail>Construction: Wood Frame</detail>
+				<detail>Energy Conservation: Ceiling Insulation, Wall Insulation, Weather Stripped, Insulated Hot Wtr Ht, Low-Flow Toilet(s), Dual Flush Toilet</detail>
+				<detail>Foundation: Concrete Perimeter</detail>
+				<detail>Laundry Appliances: In Garage, Washer/Dryer</detail>
+				<detail>Miscellaneous: Landscaping-Rear</detail>
+				<detail>Miscellaneous: Smoke Alarm(s), Wet Bar(s)</detail>
+				<detail>Style: Contemporary, Modern/High Tech</detail>
+				<detail>Type: 2 Story, Semi-Attached</detail>
+				<detail>Fireplace: 1, Electric</detail>
+				<detail>Lower Level: Family Room, 1 Bedroom, 1 Master Suite, 1.5 Baths</detail>
+				<detail>Bath Type/Includes: Shower and Tub, Stall Shower, Dual Flush Toilet</detail>
+				<detail>Miscellaneous: Storage Area(s)</detail>
+				<detail>Miscellaneous: Deck(s)</detail>
+				<detail>Lot Description: Corner, Irregular</detail>
+				<detail>District: SF District 9</detail>
+				<detail>Miscellaneous: Double Pane Windows</detail>
+				<detail>Roof: Bitumen</detail>
+				<detail>Subdist: Bernal Heights</detail>
+				<detail>Parking Leased: On Site</detail>
+				<detail># of Parking Spaces: 2</detail>
+				<detail>Lot Measurement: SqFt</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

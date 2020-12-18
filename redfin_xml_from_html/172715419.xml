@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>299 S Pleasant Woods Dr #299 </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$500,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>8.991 acres within city limits </text_base_description>
+	<listed_by>
+		<name>Julia Barajas</name>
+		<org> Texas Urban Living Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$500,000</List_Price>
+		<Est._Mo._Payment>$2,654</Est._Mo._Payment>
+		<Redfin_Estimate>$421,640</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>57 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>City Dallas</Community>
+		<Lot_Size>8.99 Acres</Lot_Size>
+		<key name="MLS#">14409425</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Exterior Features, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Fencing: Barbed Wire</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Lagow</group_dat>
+						<group_dat>Middle School Name: Florence</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: BLK 7774 TR 2 ACS 8.991 INT201800199448 DD072</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Financing, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional, Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: City Dallas</group_dat>
+						<group_dat>Directions: South LBJ 635 exit Seagoville, turn right onto Old Seagoville Rd, turn right onto Levant Ave., turn right onto Harvest Rd. turn right onto Pleasant Woods</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Available Documents</heading>
+					<group_data>
+						<group_dat>Survey Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Restrictions: No Known Restriction(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Present Use: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: 7774</group_dat>
+						<group_dat>Development: City Limits, Zoned</group_dat>
+						<group_dat>Easements: None</group_dat>
+						<group_dat>Features: Acreage</group_dat>
+						<group_dat>Size: 5-9.99 Acres</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 8.991</group_dat>
+						<group_dat>Area Sq. Ft.: 391,647.96</group_dat>
+						<group_dat>Parcel Number: 00000769558000000</group_dat>
+						<group_dat>Road Frontage: City</group_dat>
+						<group_dat>Zoning: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000769558000000</APN>
+	</public_facts>
+</home>

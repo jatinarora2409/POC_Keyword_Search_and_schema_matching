@@ -1,0 +1,24 @@
+Column Name,Business Term
+Appliances,appliances in the listed house
+price,price of the listed house in usd
+Living_Area,living area of the listed house in square feet
+High_School,listed houses nearby school names
+Tax_Annual_Amount,annual tax amount of the listed house for the year
+Association_Fee,home owners association fees of the listed house
+Flooring,type of flooring in the listed house
+Property_Type,listed houses property type
+status,current listing status of the house
+listing_id,listed house mls id
+MLS,listed house mls id
+listed_by,real estate agents name
+year_built,listed house built-in year
+Year_Built,listed house built-in year
+address,listings address
+location,listings city
+City,listings city
+Bedrooms_Total,number of the bedrooms in the listed house
+bedrooms,number of the bedrooms in the listed house
+square_feet,area of the listed house in square feet
+listing_detail,description of the listing
+Bathrooms_Total,number of the bathrooms in the listed house
+total_baths,number of the bathrooms in the listed house

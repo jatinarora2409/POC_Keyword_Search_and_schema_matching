@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>233 Franklin St #303 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94102</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,655,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$1230 / Sq. Ft.">1,345</key>
+	</main_stats>
+	<text_base_description>Super fun location, 233 Franklin St, Res. 303, located in the center of vibrant Hayes Valley, where yummy restaurants, boutique shopping, theater/opera, &amp;  downtown are at your doorstep. This luxury 2bed/2bath condo is a gracious 1,345sqft  &amp;  situated on a corner with tons of natural light from both directions. The chef's kitchen would delight any cook with its imported Studio Becker German craftsmanship cabinetry, Walker Zanger tile backsplash, &amp;  Italian Bertazzoni/Fisher+Paykel appliances. The open space living with bold ebony-stained hardwood floors is perfect for entertaining or relaxing/taking in the Hayes Valley vibe/views downstairs. Primary bedroom ensuite is large enough for a king bed  &amp;  has floor/ceiling windows, a spa-like bathroom with a soaking tub, &amp;  separate modern shower, surrounded by custom tile work. Your own EV charger  &amp;  large storage unit. Living here is steps away from coffee at BlueBottle, ice cream at Salt &amp; Straw, wine at Arlequin  &amp;  dinner at Rich Table or aMano </text_base_description>
+	<listed_by>
+		<name>Juliette Vo</name>
+		<agentLicenseDisplay>•DRE #01123443</agentLicenseDisplay>
+		<org> Vanguard Properties</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,655,000</List_Price>
+		<Est._Mo._Payment>$7,564</Est._Mo._Payment>
+		<Redfin_Estimate>$1,657,927</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,230</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 hours</Time_on_Redfin>
+		<Property_Type>Mid-Rise (4-8), Attached, Unit Above, Condominium</Property_Type>
+		<HOA_Dues>$757/month</HOA_Dues>
+		<Year_Built>2010</Year_Built>
+		<Style>Contemporary</Style>
+		<Community>Hayes Valley</Community>
+		<key name="MLS#">507825</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Subject to Monthly Parking Fees</group_dat>
+						<group_dat>Monthly Parking Fees: 44.57</group_dat>
+						<group_dat>Parking Features: Attached, Interior Access, Automatic Door</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Grounds Maintenance</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $757.08</group_dat>
+						<group_dat>Articles of Incorporation, Bylaws, CC&amp;Rs, Rules &amp; Regulations, Financial Statements, Budget</group_dat>
+						<group_dat>Name: Linden Hayes Owners Association</group_dat>
+						<group_dat>Phone Number: (415) 401-2000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower and Tub, Shower Over Tub, Stall Shower, Tub Only, Tub in Master Bdrm, Tile</group_dat>
+						<group_dat># of Baths: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Living Room Information</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Dining Room Information</heading>
+					<group_data>
+						<group_dat>Dining Room: Living/Dining Room Combo</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Storage</group_dat>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Washer/Dryer, In Closet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Partial Carpet, Partial Hardwood, Hardwood, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Gas Range, Freestanding Range, Hood Over Range, Refrigerator, Ice Maker, Dishwasher, Garbage Disposal</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 2 Bedrooms, 2 Baths, 1 Master Suite</group_dat>
+						<group_dat># of Rooms: 4</group_dat>
+						<group_dat>Intercom, Elevator/Lift</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating, Central Air</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Concrete Perimeter Foundation, Concrete Slab Foundation, Concrete Block Foundation</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Concrete</group_dat>
+						<group_dat>Additional Storage</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): City Lights</group_dat>
+						<group_dat>Paved Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Contemporary</group_dat>
+						<group_dat>Type: Mid-Rise (4-8), Attached, Unit Above</group_dat>
+						<group_dat>Energy Conservation: Partial Insulation, Weather Stripped, Low-Flow Shower(s), Low-Flow Toilet(s)</group_dat>
+						<group_dat># of Units: 32</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 0816081</group_dat>
+						<group_dat>Special Features: Intercom, Elevator/Lift</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Hayes</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,655,000</group_dat>
+						<group_dat>On Market Date: Thursday, October 8, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Restrictions</heading>
+					<group_data>
+						<group_dat>Limited Number of Pets</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail, Prelim Title Report, RE Transfer Discl, Sellers Supp to TDS, Flood Hazard Discl, Env Hazards Report, Gen Prop Insp Report</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,345</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2010</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0816 081</APN>
+	</public_facts>
+</home>

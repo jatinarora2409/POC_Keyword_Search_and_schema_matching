@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,295,000</price>
+		<bd>4</bd>
+		<ba>5</ba>
+		<area>4,434</area>
+	</summary>
+	<address>
+		<street_address>8207 Scenic Ridge Cv,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Located on a cul-de-sac, this lovely home with hill country views, is located in one of the few Barton Creek neighborhoods offering golf cart access to the Barton Creek Country Club. Main level PrimarySuite w/private patio.Spa-like Bathroom has soaking tub, separate shower, his &amp; her closets w/ample storage &amp; discreet stair access to a private owner's study, exercise area,covered patio to take in the breathtaking scenery.2nd level w/large living area &amp; spacious patio and 3 bedrooms/2 bathrooms.Restrictions: Yes  Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Beth Drewett</agentName>
+		<phoneNumber>512-575-3644</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass RE Texas, LLC</postingGroupName>
+		<postingWebsiteLinkText>Compass RE Texas, LLC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2001</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$158/month</key>
+		<key name="Lot:">0.34 acres</key>
+		<key name="Price/sqft:">$292</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 4,434 sqft</item>
+				<item>Total number of fireplaces: 1</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Entry location: Entry Steps</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stone</item>
+				<item>Patio and porch details: Porch, Front Porch</item>
+				<item>Residential vegetation: Trees-Medium (20 Ft - 40 Ft), Trees-Large (Over 40 Ft)</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.34 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01153401390000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2001</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Electric utility on property: Yes</item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 70.39</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Gated, Golf</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

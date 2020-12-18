@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1227 Rutledge St </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$525,000</Price>
+		<Beds>4</Beds>
+		<Baths>1.5</Baths>
+		<key name="$259 / Sq. Ft.">2,028</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Great location  &amp;  views of Lake Monona!! A wonderful 4 bed 2 bath 2-story in the Marquette neighborhood! Walk into the foyer and see all original hardwoods  &amp;  great woodwork throughout! The main level boasts a large family room w/ fireplace, an office/den w/ French doors, a formal dining w/ built-ins, and a cozy kitchen space! The ML back door walks out to a 22X8 enclosed porch  &amp;  an attached deck/patio! The UL has all bedrooms, including the main w/ a walk-in closet. There's also an awesome attic space w/ a lake view, waiting to be finished! The unfinished LL offers tons of storage  &amp;  a bonus partially finished 22X19 studio space w/ separate entry! 1-car attached garage! UHP Warranty! Needs a little TLC  &amp;  work, but has tons of potential  &amp;  is steps to parks, co-op, restaurants, cafes, shops! </text_base_description>
+	<listed_by>
+		<name>Dan Schimelfenyg</name>
+		<org> EXP Realty, LLC</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$525,000</List_Price>
+		<Est._Mo._Payment>$2,883</Est._Mo._Payment>
+		<Redfin_Estimate>$504,332</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$259</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>58 days</Time_on_Redfin>
+		<Property_Type>Single-Family</Property_Type>
+		<Year_Built>1915</Year_Built>
+		<Style>Other</Style>
+		<Community>Marquette Neighborhood</Community>
+		<Lot_Size>3,484 Sq. Ft.</Lot_Size>
+		<key name="MLS#">1890662</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 14 x 14</group_dat>
+						<group_dat>Master Bedroom Level: Upper</group_dat>
+						<group_dat>Bedroom 2 Dimensions: 14 x 8</group_dat>
+						<group_dat>Bedroom 2 Level: Upper</group_dat>
+						<group_dat>Bedroom 3 Dimensions: 12 x 12</group_dat>
+						<group_dat>Bedroom 3 Level: Upper</group_dat>
+						<group_dat>Bedroom 4 Dimension: 9 x 6</group_dat>
+						<group_dat>Bedroom 4 Level: Upper</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): At Least 1 Tub, No Master Bedroom Bath</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Wood or Simulation Wood Floors, Walk-In Closet(s), Walk-Up Attic, Cable/Satellite Available, High Speed Internet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Full, Exposed, Full Size Windows, Walk Out/Outer Door, Poured Concrete</group_dat>
+						<group_dat>Other Room 2 Name: Foyer</group_dat>
+						<group_dat>Living Room Dimensions: 22 x 14</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 13 x 9</group_dat>
+						<group_dat>Dining Room Dimensions: 15 x 12</group_dat>
+						<group_dat>Dining Room Level: Main</group_dat>
+						<group_dat>Den/Office Dimension: 14 x 9</group_dat>
+						<group_dat>Den/Office Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Dishwasher, Garbage Disposal, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Utilities, Taxes / Assessments, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat># of Garage Parking Spaces (Total): 1</group_dat>
+						<group_dat>Garage: 1 Car, Detached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Radiant</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $11,206</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Range/Oven, Dishwasher, Disposal, Dryer.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Type: 2 Story</group_dat>
+						<group_dat>Estimated Sq. Ft. Range: 2001-2500</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior Features: Deck, Patio</group_dat>
+						<group_dat>Exterior: Vinyl, Aluminum/Steel</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Elementary School: Lapham/Marquette</group_dat>
+						<group_dat>Middle School: Okeeffe</group_dat>
+						<group_dat>High School: East</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Single-Family</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Water Features: Waterview (No Frontage)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Acreage: 0.08</group_dat>
+						<group_dat>Lot Description: Sidewalks</group_dat>
+						<group_dat> Zoning: TR,HIS-TL</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Subdivision / Building</heading>
+			<details>
+				<detail>
+					<heading> Subdivision</heading>
+					<group_data>
+						<group_dat> Subdivision: Marquette Neighborhood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>1.5</Baths>
+		<Finished_Sq._Ft.>2,028</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>2,028</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>3,696 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1915</Year_Built>
+		<Year_Renovated>1968</Year_Renovated>
+		<County>Dane County</County>
+		<APN>071007315065</APN>
+	</public_facts>
+</home>

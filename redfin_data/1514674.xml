@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1895 Pacific Ave #502 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94109</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,250,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$1059 / Sq. Ft.">1,180</key>
+	</main_stats>
+	<text_base_description>Spacious and peaceful top floor corner condo with city and Bay outlooks! Bright and airy residence is an ideal city retreat perched atop desirable Art Deco building in PacHts. Sprawling 1-BR residence (1,180sqf!) features eastern and northern outlooks, with the city and SF Bay as the backdrop. A spacious bedroom with north-facing bay window watches the ships pass by, and is outfitted with a large walk in closet and stylish bath. Home features a large corner living room with arched windows, built in cabinetry and casual dining, a bright dining room/den with southern and eastern outlooks, and sleek kitchen with marble counters and eastern outlooks to peek-a-boo Transamerica Building. The home, equally suited as a pied-a-terre or for a full-time city penthouse, provides flexibility in space and usage, perfect for a city dweller in today's world. Shared Roof deck + deeded parking. Charming outlooks, overflowing space and light, 98% walk score between Union/Polk/Fillmore and outdoor rec! </text_base_description>
+	<listed_by>
+		<name>Peter Rodway</name>
+		<agentLicenseDisplay>•DRE #02039991</agentLicenseDisplay>
+		<org>•DRE #02039991</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,250,000</List_Price>
+		<Est._Mo._Payment>$5,712</Est._Mo._Payment>
+		<Redfin_Estimate>$1,258,045</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,059</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>8 days</Time_on_Redfin>
+		<Property_Type>Flat, Mid-Rise (4-8), Top Floor, Condominium</Property_Type>
+		<HOA_Dues>$635/month</HOA_Dues>
+		<Year_Built>1931</Year_Built>
+		<Style>Traditional, Art Deco</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">506919</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</item>
+			<item>
+				<item>
+					<item>Virtual Tour</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+						<item>Virtual Media: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item># of Spaces: 1</item>
+						<item># of Garage Spaces: 1</item>
+						<item>On-Site Parking Mapped</item>
+						<item>Parking Access: Independent</item>
+						<item>Monthly Parking Fees: 0.00</item>
+						<item>Parking Features: Enclosed, Attached, Interior Access, Automatic Door, Garage</item>
+					</item>
+				</item>
+				<item>
+					<item>Community Features</item>
+					<item>
+						<item>Laundry Facility (Coin Operated), Roof Deck</item>
+						<item>Transportation: 1 Block Away</item>
+						<item>Shopping: 1 Block Away</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>HOA Fee Includes: Water, Gas, Garbage, Security Service, Outside Management</item>
+						<item>Has Homeowners Association</item>
+						<item>Dues: $635.42</item>
+						<item>Dues Paid: Monthly</item>
+						<item>Articles of Incorporation, Bylaws, CC&amp;Rs, Rules &amp; Regulations, Financial Statements, Budget</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item># of Bedrooms: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item>Bath Type/Includes: Shower and Tub, Tile</item>
+						<item># of Baths: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Living Room Information</item>
+					<item>
+						<item>Has View</item>
+					</item>
+				</item>
+				<item>
+					<item>Dining Room Information</item>
+					<item>
+						<item>Dining Room: Formal</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Other Room(s): Storage</item>
+						<item>Den/Bonus Room: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>In Basement</item>
+					</item>
+				</item>
+				<item>
+					<item>Floor Information</item>
+					<item>
+						<item>Hardwood, Tile, Linoleum</item>
+					</item>
+				</item>
+				<item>
+					<item>Kitchen Features</item>
+					<item>
+						<item>Kitchen: Electric Range, Refrigerator, Freezer, Dishwasher, Microwave, Garbage Disposal, Marble Counter, Pantry</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Main Level: 1 Bedroom, 1 Bath, Living Room, Dining Room, Kitchen</item>
+						<item>Intercom, Elevator/Lift</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central Heating, Steam</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Tar &amp; Gravel Roof</item>
+						<item>Concrete Perimeter Foundation</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Exterior: Stucco</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>View(s): Partial, City Lights, Water, Bay, San Francisco, Downtown, Mt Tamalpais</item>
+						<item>Paved Driveway, Paved Sidewalk</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Style: Traditional, Art Deco</item>
+						<item>Type: Flat, Mid-Rise (4-8), Top Floor</item>
+						<item>Construction: Steel Frame</item>
+						<item># of Units: 29</item>
+						<item>Floor #: 6</item>
+						<item>Per Architect</item>
+						<item>APN: 0593-118</item>
+						<item>Special Features: Intercom, Elevator/Lift</item>
+						<item>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details, Listing Information</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: Gough</item>
+					</item>
+				</item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Original Price: $1,250,000</item>
+						<item>On Market Date: Thursday, October 1, 2020</item>
+						<item>Transfer of Possession: Close of Escrow</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Restrictions</item>
+					<item>
+						<item>Limited Number of Pets</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Documents/Disclosure: Disclosure Pkg Avail</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,180</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1931</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0593 118</APN>
+	</public_facts>
+</home>

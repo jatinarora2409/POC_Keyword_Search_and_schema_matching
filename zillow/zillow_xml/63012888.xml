@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$245,000</price>
+		<bd>1</bd>
+		<ba>2</ba>
+		<area>897</area>
+	</summary>
+	<address>
+		<street_address>615 W Main St APT 406,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Come now to see this Fantastic Top Floor Loft that overlooks the beautiful courtyard.   Quiet living in Madison's Beautiful Downtown.  This unit has great exposure, Skylights in the interior of the unit, 10 Foot Ceilings, an amazing kitchen  overlooking a large living room and even has dining space! The Kitchen features solid surface counters, stainless appliances and great cabinetry.  Amazing floor to ceiling closets for extra storage, long entry hall with half bath perfect for Gallery space.  There is a common courtyard for entertaining and grilling. 4th Ward is located in a quiet residential area. The condo is just 6 blocks to the Capitol and very accessible to Monona Terrace, the Lake, UW and everything else you love about downtown.  It's time for someone else to own this great homeRead more</overview>
+	<listing_agent>
+		<agentName>Devery Cash</agentName>
+		<phoneNumber>608-831-0800</phoneNumber>
+		<agentLicenseNumber>License #53924-94</agentLicenseNumber>
+		<postingGroupName>Keller Williams Realty</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2005</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">$273</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 1</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 897 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923411345</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2005</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2006</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 80.78</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

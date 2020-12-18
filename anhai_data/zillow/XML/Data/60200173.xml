@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$128,950</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>950</area>
+	</summary>
+	<address>
+		<street_address>10154 Hartford Ct APT 2A,</street_address>
+		<city_state> Schiller Park, IL 60176</city_state>
+	</address>
+	<overview>Beautiful Like New, newly renovated  2 bedroom condo with gleaming hardwood floors throughout. Large fully appliances eat-in kitchen has ceramic tile floor, maple cab's ,the unit has 6-panel oak doors and trim. Bathroom includes a whirlpool tub and ceramic tile. 2 good size bedrooms with hardwood floors and good closet space. Additional storage and parking space included with a unit. Sunny private western exposure. Walking distance to schools swimming pool expressway. Shopping mall Rosemont.Read more</overview>
+	<listing_agent>
+		<agentName>Grace Zareba</agentName>
+		<phoneNumber>773-467-8500</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Re/Max Landmark</postingGroupName>
+		<postingWebsiteLinkText>Re/Max Landmark</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1975</key>
+		<key name="Heating:">Baseboard, Gas</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$248/mo</key>
+		<key name="Price/sqft:">$136</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Baseboard, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Microwave, Range / Oven, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 950 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 3</detail>
+				<detail>Exterior features: Brick</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 9,724 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 12211110221005</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1975</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Candidate for a community solar programSun Number™: 18.98</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Schiller Park</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $248/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $71,460</detail>
+				<detail>Annual tax amount: $2,551</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10888697</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 1 Level: Not Applicable</detail>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Appliances: Oven/Range, Microwave, Dishwasher, Refrigerator</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Built Before 1978 (Y/N): Yes</detail>
+				<detail>Electricity: Circuit Breakers</detail>
+				<detail>Exterior Building Type: Brick</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas, Baseboard</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Lawn Care, Snow Removal, Heat, Scavenger, Parking</detail>
+				<detail>Management: Manager Off-site</detail>
+				<detail>Status: Active</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Dining Room: Combined w/ LivRm</detail>
+				<detail>Equipment: Ceiling Fan</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Common Area Amenities: Coin Laundry, Storage</detail>
+				<detail>Exposure: W (West)</detail>
+				<detail>Kitchen Flooring: Ceramic Tile</detail>
+				<detail>Parking Type: Space/s</detail>
+				<detail>Dining Room Level: Not Applicable</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>2nd Bedroom Flooring: Hardwood</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Kitchen Type: Eating Area-Table Space</detail>
+				<detail>Air Conditioning: 1 (Window/Wall Unit)</detail>
+				<detail>Basement: Other</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Square Feet Source: Estimated</detail>
+				<detail>Parking: Assigned Spaces</detail>
+				<detail>Age: 41-50 Years</detail>
+				<detail>Parking On-Site: Yes</detail>
+				<detail>Additional Rooms: No additional rooms</detail>
+				<detail>Interior Property Features: Hardwood Floors</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Basement (Y/N): Full</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Bath Amenities: Whirlpool</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Tax Year: 2019</detail>
+				<detail>Parcel Identification Number: 12211110221005</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

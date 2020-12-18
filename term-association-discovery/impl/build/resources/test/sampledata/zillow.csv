@@ -1,0 +1,37 @@
+﻿Table Name,Description and More information
+street_address,Address of the house
+city,city of the house
+state,region of the house
+zipcode,postal code/zip code of the house
+home_type,Listed houses style of construction
+home_type,Listed houses property type
+roof_material,Roof Material of the house
+major_remodel_year,Listed House renovated in the year
+annual_tax_amount,Tax amount of the house for the year
+beds,Bedroom count in the house
+baths,Bathroom count in the house
+living_area,Area of the house in square feet
+living_area,Living area of the house in square feet
+house_type,Listed houses style of construction
+house_type,Listed houses property type
+year_built,Listed House built-in year
+heating,Heating System in the house
+cooling,Cooling System in the house
+price,Offer price of the House in USD
+price_per_sqft,Price per square feet of the house
+flooring,flooring Material in the house
+appliances,Type of Appliances in the House
+total_interior_livable_area,Area of the house in square feet
+total_interior_livable_area,Living area of the house in square feet
+agent_name,Listed house agents Name
+phone_number,Listing house agents Contact Number
+agent_license_number,Listing house agents license number
+posting_group_name,Listing house agents Office Name
+mls_id,Listed House MLS ID
+overview,House description
+garage_spaces,Garage spaces Count in the house
+total_spaces,Parking spaces Count in the house
+stories,Number of Units in the listed house
+lot_size,Lot Area of the house in acres
+parking,Parking spaces Count in the house
+price,Estimated price of the house

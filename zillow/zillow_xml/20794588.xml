@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,495,000</price>
+		<bd>3</bd>
+		<ba>4</ba>
+		<area>1,884</area>
+	</summary>
+	<address>
+		<street_address>1410 N Stanley Ave,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Discreetly located in the north row corner of the exclusive Row 2 community, this stunning architectural and luxurious single-family home boasts 3 bedrooms and 3.5 bathrooms. Inviting and spacious, this home is loaded with features and impeccable finishes throughout: engineered wood flooring, custom tiled bathrooms, white lacquered cabinetry and top-tier appliances such as Bertazzoni, Thermador and Bosch. Ideal for entertaining and relaxation, the generously sized roof top deck features a gas fireplace and 360 degree landmark views of the city and beyond. The attached two-car garage, fit with custom sealed flooring and prepped for an electric vehicle charger, compliments the convenience and elegance of this offering. New construction, forward thinking design, and a phenomenal location combine to make this Row 2 property the complete package, welcome home!Read more</overview>
+	<listing_agent>
+		<agentName>Shaun Alan-Lee</agentName>
+		<phoneNumber>310-820-0195</phoneNumber>
+		<agentLicenseNumber>License #01955694</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2017</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">1,830 sqft</key>
+		<key name="Price/sqft:">$794</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave</item>
+				<item>Laundry features: Room, On Upper Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Furnished: Yes</item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 1,884 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Other</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,830 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5550029012</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2017</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1917</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Fire and Smoke Detection System, Carbon Monoxide Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $196/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $1,446,731</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

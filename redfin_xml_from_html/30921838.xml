@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8728 Milverton Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$197,500</Price>
+		<Beds>4</Beds>
+		<Baths>2.5</Baths>
+		<key name="$152 / Sq. Ft.">1,296</key>
+	</main_stats>
+	<text_base_description>Newly Updated, adorable 4 bedroom 2.5 bathroom home in well established neighborhood. Open concept with lots of space for entertaining! Beautiful granite counter tops with large over sized island! New stainless steel appliances in the kitchen with fresh new paint and backsplash. Split bedrooms all having wood like flooring! All bathrooms have been updated as well. Be sure to check out the detached garage in the back with electricity all ready for you to make your additions. This could be used as a workshop, storage, man cave or she shed! </text_base_description>
+	<listed_by>
+		<name>Tommy McMahan</name>
+		<org> Keller Williams Rockwall</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$197,500</List_Price>
+		<Est._Mo._Payment>$1,075</Est._Mo._Payment>
+		<Redfin_Estimate>$193,865</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$152</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>24 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1961</Year_Built>
+		<Style>Single Detached, Traditional</Style>
+		<Community>Tangelwood</Community>
+		<Lot_Size>7,579 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14433580</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tours</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 2</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 2</group_dat>
+						<group_dat>Garage Dimensions: 20 x 20</group_dat>
+						<group_dat>Detached, Front, Garage, Garage Conversion, On Street, Open, Rear</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Blanton</group_dat>
+						<group_dat>Middle School Name: Florence</group_dat>
+						<group_dat>High School Name: Samuell</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Alley, City Sewer, City Water, Curbs, Sidewalk</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Living Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: 14 x 13</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 11 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 9 x 9</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Features: Split Bedrooms</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 11 x 11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 10 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 6 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Kitchen</group_dat>
+						<group_dat>Features: Built-In Cabinets, Island</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 10 x 9</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 7 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Dining Room</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Room Dimensions: 13 x 13</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Cable TV Available, Flat Screen Wiring, High Speed Internet Available</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat>Flooring: Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central A/C (Electric), Central Heat (Gas)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Slab</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Covered Porch(es), Patio Open, Storage Building, Workshop</group_dat>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Brick</group_dat>
+						<group_dat>Fencing: Chain Link</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Tax Legal Description: TANGELWOOD BLK D/6313 LOT 5 INT200600251260 D</group_dat>
+						<group_dat>Unexempt Taxes: $2,875</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional, FHA, VA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Tangelwood</group_dat>
+						<group_dat>Directions: I30 to Big Town. Go South to Bruton.  Go right. Left on Holcomb, left on Milverton. Home is on the left.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Living Areas: 1</group_dat>
+						<group_dat>Restrictions: Other (See Remarks)</group_dat>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Built-In Microwave, Cooktop (Gas), Dishwasher, Oven (Electric)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Soil Type: Black</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: D6313</group_dat>
+						<group_dat>Easements: Other (See Remarks)</group_dat>
+						<group_dat>Lot Number: 5</group_dat>
+						<group_dat>Features: Interior Lot, Irregular, Landscaped, Subdivision</group_dat>
+						<group_dat>Size: 0-.5 Acre</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 0.174</group_dat>
+						<group_dat>Area Sq. Ft.: 7,579.44</group_dat>
+						<group_dat>Parcel Number: 00000563191000000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>1.5</Baths>
+		<Finished_Sq._Ft.>1,296</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,296</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,575 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1961</Year_Built>
+		<Year_Renovated>1961</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000563191000000</APN>
+	</public_facts>
+</home>

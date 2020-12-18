@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>834 Jones St Unit A </street-address>
+		<locality>SAN FRANCISCO, </locality>
+		<region>CA</region>
+		<postal-code>94109</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,348,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$1035 / Sq. Ft.">1,302</key>
+	</main_stats>
+	<text_base_description>Highly desirable unit at the Historic Mister Lee's Beauty, Hair  &amp;  Spa building. The three-story building was restored and transformed into three full-floor luxury condos in 2009. This unit has 2 large bedrooms and two bathrooms. The master suite has an exterior patio and an ensuite bathroom with a walk-in closet, designer tile, soaking tub with jets, and separate shower. This unit offers a ton of upscale finishes: crown molding, custom wainscoting, hardwood floors, granite counter tops, Bertazzoni gas range, Grohe fixtures, gas fireplace, radiant heat, and wet bar. There is an attached deeded parking space. Located in vibrant downtown; near upscale restaurants, shops, theaters and Union Square. Low HOA dues.  </text_base_description>
+	<listed_by>
+		<name>Thomas C. Werbe</name>
+		<agentLicenseDisplay>•DRE #01482688</agentLicenseDisplay>
+		<org>•DRE #01482688</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,348,000</List_Price>
+		<Est._Mo._Payment>$6,161</Est._Mo._Payment>
+		<Redfin_Estimate>$1,347,294</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,035</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>2 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$450</HOA_Dues>
+		<Year_Built>1909</Year_Built>
+		<Community>SAN FRANCISCO</Community>
+		<key name="MLS#">ML81814455</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</item>
+			<item>
+				<item>
+					<item>Virtual Tour</item>
+					<item>
+						<item>Branded 3D Tour (External Link)</item>
+						<item>Branded Virtual Tour (External Link)</item>
+						<item>Unbranded 3D Tour (External Link)</item>
+						<item>Unbranded Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item>Garage (Minimum): 1</item>
+						<item>Garage (Maximum): 1</item>
+						<item>Parking Description: Assigned Spaces</item>
+						<item>Garage Spaces: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Multi-Unit Information</item>
+					<item>
+						<item># of Stories: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>HOA Information</item>
+					<item>
+						<item>Has HOA</item>
+						<item>Fees Include: Maintenance (Exterior)</item>
+						<item>HOA Fee: $450</item>
+						<item>HOA Name: 834 Jones HOA</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item># of Bedrooms (Minimum): 2</item>
+						<item># of Bedrooms (Maximum): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item>Dining Room Description: Dining Area</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Laundry: Washer/Dryer</item>
+						<item>Flooring: Wood</item>
+					</item>
+				</item>
+				<item>
+					<item>Fireplace Information</item>
+					<item>
+						<item>Has Fireplace</item>
+						<item>Fireplace Description: Gas-Burning</item>
+						<item>Fireplaces (Minimum): 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling Information</item>
+					<item>
+						<item>Heating: Radiant Floors</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Roof: Other (See Remarks)</item>
+					</item>
+				</item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Reinforced Concrete</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>School / Neighborhood</item>
+			<item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School District: San Francisco Unified</item>
+						<item>High School District: San Francisco Unified</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Utilities</item>
+			<item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>Sewer Septic: Sewer (Public)</item>
+						<item>Utilities: Public Utilities</item>
+					</item>
+				</item>
+				<item>
+					<item>Water Information</item>
+					<item>
+						<item>Water: Public</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item>Living Sq. Ft.: 1,302</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Ownership Type: Condominium Ownership</item>
+						<item>Property Master ID: 648775</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size Source: Assessor</item>
+						<item>Zoning: RC-4</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,302</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1909</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0282 019</APN>
+	</public_facts>
+</home>

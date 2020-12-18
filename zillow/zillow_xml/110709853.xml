@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$799,900</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>2,878</area>
+	</summary>
+	<address>
+		<street_address>12116 W Potter Rd,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>New Construction! Stunning 2019 Demlang open concept exposed ranch w/ soaring ceilings, white oak wide planked floors &amp; knotty alder beams. Light filled foyer leads to great room w/ vaulted ceiling that is open to a fabulous Chef's kitchen w/ sunny formal dining room &amp; family room. State of the Art kitchen w/ white quartz counter tops, spacious prep island, top of line stainless appliances, &amp; walk in pantry. Mudroom/ study is an all-purpose utility room with dog washing station, laundry room &amp; cubbies for the kids. First floor Master Suite has cozy screened in porch &amp; walk-in closets, private bath w/ dual vanities &amp; oversize shower. 2 additional bedrooms w/ Jack &amp; Jill Bath. Exposed lower level adds another 2800 unfinished square feet &amp; is stubbed for a full bath &amp; has full sized windows.Read more</overview>
+	<listing_agent>
+		<agentName>Suzanne Powers</agentName>
+		<phoneNumber>414-963-0000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Powers Realty Group</postingGroupName>
+		<postingWebsiteLinkText>Powers Realty Group</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2019</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">0.48 Acres</key>
+		<key name="Price/sqft:">$278</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Full, Sump Pump, 8+ Ceiling, Stubbed for Bathroom, Full Size Windows, Exposed Basement</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+				<item>Laundry features: Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,878 sqft</item>
+				<item>Fireplace features: Gas</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 3</item>
+				<item>Covered spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Accessible Approach with Ramp, Open Floor Plan, Stall Shower, Bedroom on Main Level, Full Bath on Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Stone, Cement / Concrete</item>
+				<item>Patio and porch details: Patio</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.48 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 3780094000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Ranch</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Windows: Low Emissivity Windows</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2019</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2019</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+				<item>Utilities for property: Cable Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Energy efficient items: Appliances</item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.12</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

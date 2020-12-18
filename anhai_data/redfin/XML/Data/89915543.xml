@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1141 Jenifer St </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$259,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$296 / Sq. Ft.">874</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Charming 2 bedroom + den located just off Williamson St. and walking distance to many retail shops including Willy Street Co-op. There is 1 full bathroom, a finished attic/rec room on the 2nd floor, a full unfinished basement, a detached 1 car garage and patio deck in back. Currently leased out at $1,520/month with tenants paying gas, electric and $20/month per person for water/sewer. (Lease expires 8/14/2021) </text_base_description>
+	<listed_by>
+		<name>James Stopple</name>
+		<org> Madison Property Management, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$259,000</List_Price>
+		<Est._Mo._Payment>$1,400</Est._Mo._Payment>
+		<Redfin_Estimate>$253,339</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$296</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>106 days</Time_on_Redfin>
+		<Property_Type>Single-Family</Property_Type>
+		<Year_Built>1884</Year_Built>
+		<Style>Bungalow</Style>
+		<Community>Farwells</Community>
+		<Lot_Size>4,356 Sq. Ft.</Lot_Size>
+		<key name="MLS#">1886747</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 8 x 9</group_dat>
+						<group_dat>Master Bedroom Level: Main</group_dat>
+						<group_dat>Bedroom 2 Dimensions: 12 x 6</group_dat>
+						<group_dat>Bedroom 2 Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): No Master Bedroom Bath</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Walk-Up Attic</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Full</group_dat>
+						<group_dat>Living Room Dimensions: 12 x 13</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 11 x 12</group_dat>
+						<group_dat>Den/Office Dimension: 7 x 8</group_dat>
+						<group_dat>Den/Office Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Utilities, Taxes / Assessments, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat># of Garage Parking Spaces (Total): 1</group_dat>
+						<group_dat>Garage: 1 Car, Detached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Forced Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $5,259</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Stove, water heater, furnace, washer/dryer, refrigerator &amp; dish washer.</group_dat>
+						<group_dat>Exclusions: Tenant/sellers personal property</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Type: 1 Story, 1.5 Story</group_dat>
+						<group_dat>Estimated Sq. Ft. Range: 751-1000</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior Features: Deck, Patio</group_dat>
+						<group_dat>Exterior: Vinyl, Aluminum/Steel</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Elementary School: Lapham/Marquette</group_dat>
+						<group_dat>Middle School: Okeeffe</group_dat>
+						<group_dat>High School: East</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Single-Family</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Acreage: 0.1</group_dat>
+						<group_dat> Zoning: HIS-TL, TR</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Subdivision / Building</heading>
+			<details>
+				<detail>
+					<heading> Subdivision</heading>
+					<group_data>
+						<group_dat> Subdivision: FARWELLS</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>959</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>959</Total_Sq._Ft.>
+		<Stories>1.5</Stories>
+		<Lot_Size>4,356 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1884</Year_Built>
+		<Year_Renovated>1966</Year_Renovated>
+		<County>Dane County</County>
+		<APN>071007309042</APN>
+	</public_facts>
+</home>

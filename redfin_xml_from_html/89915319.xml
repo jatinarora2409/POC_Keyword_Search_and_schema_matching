@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1349 Jenifer St </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$429,900</Price>
+		<Beds>4</Beds>
+		<Baths>1.5</Baths>
+		<key name="$279 / Sq. Ft.">1,543</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Rare Find! Historic  &amp;  Spacious Marquette Craftsman Four-Square on one of the most desirable blocks in the neighborhood! Come home to the warmth of original wood built-ins  &amp;  hardwood flrs thru-out! Delight in your vintage, functional  &amp;  spacious kitchen or add your own personal touch. Enjoy the convenience of an xtra 1/2 bth on the mn floor--big enough to become a full bth or mn floor laundry! 4 full bedrooms upstrs  &amp;  walk-up attic w/ flooring offers huge potential. Feeling social? Enjoy grand  &amp;  expansive front-porch to see your friendly neighbors, or for more privacy, your custom 14x18 back deck is like an urban oasis. Walk everywhere!Steps to Marquette School, 1 block to Co-op, Ha Long Bay, Ace Hardware, Batch. Tons of parks, shopping  &amp;  culinary adventures w/ n blocks! SO Bus  &amp;  Bike friendly too! </text_base_description>
+	<listed_by>
+		<name>Darcy Haber</name>
+		<org> Solidarity Realty, LLC</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$429,900</List_Price>
+		<Est._Mo._Payment>$2,178</Est._Mo._Payment>
+		<Redfin_Estimate>$422,078</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$279</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>22 days</Time_on_Redfin>
+		<Property_Type>Single-Family</Property_Type>
+		<Year_Built>1909</Year_Built>
+		<Style>Prairie/Craftsman</Style>
+		<Community>Marquette</Community>
+		<Lot_Size>2,178 Sq. Ft.</Lot_Size>
+		<key name="MLS#">1891799</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 9 x 14</group_dat>
+						<group_dat>Master Bedroom Level: Upper</group_dat>
+						<group_dat>Bedroom 2 Dimensions: 9 x 14</group_dat>
+						<group_dat>Bedroom 2 Level: Upper</group_dat>
+						<group_dat>Bedroom 3 Dimensions: 9 x 12</group_dat>
+						<group_dat>Bedroom 3 Level: Upper</group_dat>
+						<group_dat>Bedroom 4 Dimension: 10 x 10</group_dat>
+						<group_dat>Bedroom 4 Level: Upper</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): No Master Bedroom Bath</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Full, Block</group_dat>
+						<group_dat>Other Room 1 Dimensions: 12 x 12</group_dat>
+						<group_dat>Other Room 1 Level: Main</group_dat>
+						<group_dat>Other Room 1 Name: Foyer</group_dat>
+						<group_dat>Living Room Dimensions: 12 x 14</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 12 x 14</group_dat>
+						<group_dat>Dining Room Dimensions: 12 x 13</group_dat>
+						<group_dat>Dining Room Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Type: 2 Story</group_dat>
+						<group_dat>Estimated Sq. Ft. Range: 1501-1750</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior: Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Elementary School: Lapham/Marquette</group_dat>
+						<group_dat>Middle School: Okeeffe</group_dat>
+						<group_dat>High School: East</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Taxes / Assessments, Listing Information, Subdivision / Building</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Forced Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $6,979</group_dat>
+						<group_dat> Tax Year: 2020</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Refrigerator, Range/Oven, Dishwasher, Washer/Dryer</group_dat>
+						<group_dat>Exclusions: Sellers' Personal Property</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading> Subdivision</heading>
+					<group_data>
+						<group_dat> Subdivision: Marquette</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Single-Family</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Acreage: 0.05</group_dat>
+						<group_dat>Lot Description: Sidewalks</group_dat>
+						<group_dat> Zoning: TR-C4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>1.5</Baths>
+		<Finished_Sq._Ft.>1,510</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,510</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>2,170 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1909</Year_Built>
+		<Year_Renovated>1965</Year_Renovated>
+		<County>Dane County</County>
+		<APN>071007223028</APN>
+	</public_facts>
+</home>

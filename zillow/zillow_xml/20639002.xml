@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$559,998</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>661</area>
+	</summary>
+	<address>
+		<street_address>4797 Huntington Dr N,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Darling El Sereno Cottage!!!   This charming home is nestled in the hills and looks out over the city.  A remodeled abode, this home has the charm of its 1947 build with the modern style and convenience of today.  A large kitchen with ample counter and cabinet space features stainless steel appliances and fresh grey cabinetry.  The delightful bath speaks to the nature lover with knotty wood panels lining one wall and a nicely sized stall shower with a rainfall shower head.  The spacious living room is filled with natural light from the upgraded dual pane windows.  Lovely wood floor runs throughout the living areas.  A downstairs bonus room adds the extra space for a home office, second bedroom...the possibilities are endless.  The home has been adorned with modern lighting fixtures and the added benefit of two ductless mini split air conditioners, an energy efficient way of cooling a home.  The large lot leaves plenty of room for possible addition.  A redwood deck sits under the shade of a tree for outdoor living.  Come to this charming abode.  It is the perfect place for you to call HOME!!!Read more</overview>
+	<listing_agent>
+		<agentName>Karen Ulloa</agentName>
+		<phoneNumber>877-973-3346</phoneNumber>
+		<agentLicenseNumber>License #01395066</agentLicenseNumber>
+		<postingGroupName>Redfin Corporation</postingGroupName>
+		<postingWebsiteLinkText>Redfin Corporation</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1947</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Lot:">5,954 sqft</key>
+		<key name="Price/sqft:">$847</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Heat pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Microwave, Refrigerator</item>
+				<item>Laundry features: Gas Dryer Hookup, Washer Hookup, Outside</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 661 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: One</item>
+				<item>Fencing: Chain Link</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 5,954 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5213003005</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1947</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1960</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.36</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

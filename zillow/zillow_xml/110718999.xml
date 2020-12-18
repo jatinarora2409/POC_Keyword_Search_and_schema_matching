@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$229,900</price>
+		<bd>3</bd>
+		<ba>1</ba>
+		<area>1,586</area>
+	</summary>
+	<address>
+		<street_address>2521 N 113th St,</street_address>
+		<city_state> Milwaukee, WI 53226</city_state>
+	</address>
+	<overview>Stop what you're doing! This Tosa gem Has. It. All.  Beautifully updated, large private yard, and crazy affordable!  The open flow of this stunner keeps life and entertaining easy.  The kitchen island makes meal prep a breeze and the dining room is perfect for holiday meals next to a crackling fire.  Cozy up and relax in this spacious master bedroom with custom headboard, double closets, and a view of the huge backyard.  Speaking of outside, enjoy evenings on the deck behind the privacy fence and let your green thumb celebrate with a thriving strawberry patch and asparagus to harvest.  A rain garden graces the front yard and utilizes the custom french drain system installed.  Walk to school and get anywhere quickly with easy freeway access.  There is so much to love here.  Don't miss it!!Read more</overview>
+	<listing_agent>
+		<agentName>Margaret Harris</agentName>
+		<phoneNumber>262-782-3110</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>First Weber Inc - Brookfield</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc - Brookfield</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1950</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">7,840 sqft</key>
+		<key name="Price/sqft:">$145</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Full, Block, Sump Pump</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,586 sqft</item>
+				<item>Fireplace features: Wood Burning</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Accessibility</item>
+			<item>
+				<item>Accessibility features: Level Drive, Open Floor Plan, Bedroom on Main Level, Full Bath on Main Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Vinyl</item>
+				<item>Patio and porch details: Deck</item>
+				<item>Fencing: Fenced</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,840 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Additional structures included: Shed(s)</item>
+				<item>Parcel number: 3360099000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: CAPE COD</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1950</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1970</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Gas information: Natural Gas</item>
+				<item>Utilities for property: Cable Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Good solar potentialSun Number™: 61.72</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Milwaukee</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

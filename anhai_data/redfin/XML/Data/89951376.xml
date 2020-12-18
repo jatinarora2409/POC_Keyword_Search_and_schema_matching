@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>309 W Washington Ave #612 </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$274,900</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$339 / Sq. Ft.">810</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Bright 1 bedroom condo with a modern design only two blocks from Capitol Square! The 10 foot ceilings, premiumfinishes, and open concept layout makes this place feel amazing. Kitchen features breakfast bar, stainless steel appliances, granite counters, cherry wood cabinets. Natural lighting floods the living room from expansive windows and offers panoramic views. Enjoy a cozy night by the fireplace or sit outside on your private balcony. Bedroom with custom install by California  Closets and washer/dryer unit. On-site professional management. Unit includes 1 heated underground parking space and 2 storage units. Building amenities include fitness center and business center. Walk to restaurants, shops, Overture and Concerts on the Square and enjoy the best of downtown living! </text_base_description>
+	<listed_by>
+		<name>Carlos Alvarado</name>
+		<org> The Alvarado Group, Inc</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$274,900</List_Price>
+		<Est._Mo._Payment>$1,495</Est._Mo._Payment>
+		<Redfin_Estimate>$273,325</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$339</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>71 days</Time_on_Redfin>
+		<Property_Type>Condo</Property_Type>
+		<HOA_Dues>$364/month</HOA_Dues>
+		<Year_Built>2008</Year_Built>
+		<Community>Madison</Community>
+		<key name="MLS#">1889585</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading> Virtual Tour Branded</heading>
+					<group_data>
+						<group_dat> Branded Virtual Tour: https://wisconsin3d.com/tours/309-w-washington-avenue-612-madison-wi-53703/nobrand/</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Condo Fee Monthly: $364</group_dat>
+						<group_dat>Association Common Amenities: Exercise Room, Security, Elevator</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Forced Air, Central Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $5,685</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 12 x 14</group_dat>
+						<group_dat>Master Bedroom Level: Main</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): At Least 1 Tub, No Master Bedroom Bath</group_dat>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Wood or Simulation Wood Floors, Walk-In Closet(s), Security System, Cable/Satellite Available, Storage Locker Included</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Living Room Dimensions: 21 x 14</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 10 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher, Microwave, Garbage Disposal, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat>Parking: Underground, Heated, 1-5 Spaces, 1 Space, Assigned</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat>Garage: Underground, Underground Garage, Underground Space, Heated</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Estimated Sq. Ft. Range: 751-1000</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior Features: Deck</group_dat>
+						<group_dat>Exterior: Vinyl, Aluminum/Steel</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Condo Information</heading>
+					<group_data>
+						<group_dat>Condominium Name: Capitol West</group_dat>
+						<group_dat>Garden</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units: 126</group_dat>
+						<group_dat>Units In Association: 141</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Middle School: Hamilton</group_dat>
+						<group_dat>High School: West</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Rental Information</heading>
+					<group_data>
+						<group_dat>Pets Permitted</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: refrigerator, range/oven, dishwasher, microwave, disposal, window coverings, washer, dryer</group_dat>
+						<group_dat>Exclusions: sellers personal property</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Condo</group_dat>
+						<group_dat>Information Source Year Built: Assessor/Public Record</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat> Zoning: PD</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>810</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>810</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2008</Year_Built>
+		<Year_Renovated>2010</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070923165827</APN>
+	</public_facts>
+</home>

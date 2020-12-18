@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,025,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>1,042</area>
+	</summary>
+	<address>
+		<street_address>144 Diamond St,</street_address>
+		<city_state> San Francisco, CA 94114</city_state>
+	</address>
+	<overview>Welcome to 144 Diamond Street, a charming Victorian condominium in the heart of the Castro. This lovely unit has been used as both a one bedroom and a two bedroom flat. It has a large eat-in kitchen, an adjoining living room with original details, a bathroom, and a rear-porch laundry room. Additional details include one car parking and storage, hardwood floors, high ceilings, wood windows, period details and accents, a shared outdoor common area, and a small, self managed HOA of only 4 units.Read more</overview>
+	<listing_agent>
+		<agentName>Geoffrey Williams</agentName>
+		<phoneNumber>415-738-7000</phoneNumber>
+		<agentLicenseNumber>License #00889969</agentLicenseNumber>
+		<postingGroupName>Compass SF</postingGroupName>
+		<postingWebsiteLinkText>Compass SF</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1897</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">Carport</key>
+		<key name="HOA:">$400/month</key>
+		<key name="Price/sqft:">$984</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,042 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Carport</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 2693065</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1897</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 87.32</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,599,000</price>
+		<bd>4</bd>
+		<ba>4</ba>
+		<area>2,111</area>
+	</summary>
+	<address>
+		<street_address>7277 W Hazel Ct,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>5 Brand NEW Construction Single Family Homes with exceptional quality and luxury amenities including: Control4 home security and entertainment automation systems: fully equipped custom designer kitchens complete with high-end appliances and stone counters; high quality designer baths with decorative tiles, finishes and backlit mirrors; stunning hardwood floors and decorative lighting throughout; in-unit laundry equipped with washer and dryer.  Gated and secure over-sized two car private garages with direct entrance. Bright sunny open floor plans, panoramic views, bedrooms with en-suite baths, abundant custom closet and storage spaces.  Top floor master suites feature spectacular baths with double vanities, large dual showers and oversized closets.  Spectacular prime location central to WEHO, Melrose District, The Grove and just minutes to Beverly Hills and Downtown LA.  Close proximity to world class restaurants, parks, entertainment venues, all city services and public transportation.Read more</overview>
+	<listing_agent>
+		<agentName>Rande Gray</agentName>
+		<phoneNumber>310-623-1300</phoneNumber>
+		<agentLicenseNumber>License #01233483</agentLicenseNumber>
+		<postingGroupName>Keller Williams Hollywood Hills</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Hollywood Hills</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">1,640 sqft</key>
+		<key name="Price/sqft:">$757</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 1</item>
+				<item>3/4 bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+				<item>Laundry features: Inside, Laundry Area, On Upper Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Detached/No Common Walls</item>
+				<item>Total interior livable area: 2,111 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Three Or More</item>
+				<item>Stories: 3</item>
+				<item>Exterior features: Stucco</item>
+				<item>View description: Territorial, City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 1,640 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: New Construction</item>
+				<item>New construction: No</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: In Street</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Fire and Smoke Detection System, Owned, Gated, Carbon Monoxide Detector(s), Exterior Security Lights, Fire Sprinklers, Prewired for alarm system, Smoke Detector, T.V., Fire Rated Drywall</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

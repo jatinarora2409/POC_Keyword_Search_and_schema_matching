@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$895,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>1,855</area>
+	</summary>
+	<address>
+		<street_address>6500 Utah Ave NW,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>Just off Pinehurst Circle, this solid brick cape cod in Chevy Chase, DC is truly move-in ready. Easy access to major commuter routes and public transportation. Just a short distance to Friendship Heights and the Metro (about 1.5 miles) and walkable to the upper Connecticut Avenue corridor for errands, shopping, grocery, DC public library, The Avalon Theatre, and sidewalk dining.  Take socially distant walks in nearby Rock Creek Park which is just down the street.  Charm galore and sunny bright rooms. Freshly painted from top to bottom, brand new neutral gray carpeting is on the second floor and lower level, and all the windows have been replaced with energy efficient ones. The first floor with hardwood floors has a bedroom or office/study with an en suite full bath, formal living room with a lovely mantle and wood-burning fireplace, large formal dining room, screened-in side porch, and a bright kitchen. The upper level has 3 more bedrooms and a full bath, and if desired, there are hardwood floors are under the carpet. The windowed lower level has a full bath, laundry, storage and carpeted family room.  Rare driveway and attached 2-car garage with convenient access directly into the lower level.   In bounds for Blue-ribbon Lafayette Elementary School and walkable to the neighborhood gem, the Broad Branch Market and Saturday morning farmer's market. Just unpack and move on in!Read more</overview>
+	<listing_agent>
+		<agentName>Lisa Resch</agentName>
+		<phoneNumber>301-298-1001</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1936</key>
+		<key name="Heating:">Other, Other</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">3,375 sqft</key>
+		<key name="Price/sqft:">$482</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Finished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other, Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,855 sqft</item>
+				<item>Finished area below ground: 412</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 4</item>
+				<item>Covered spaces: 2</item>
+				<item>Uncovered spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3,375 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 20150021</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: CAPE COD</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Slate</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1936</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 35.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$569,900</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,225</area>
+	</summary>
+	<address>
+		<street_address>1481 San Altos Pl,</street_address>
+		<city_state> Lemon Grove, CA 91945</city_state>
+	</address>
+	<overview>Beautifully upgraded home, move-in ready! This home features all new luxury vinyl flooring throughout. Gorgeous kitchen with brand new cabinets, quartz counters,  and stainless steel appliances. Freshly painted inside and out! Enclosed patio room off the living room for relaxing. Large private yard to make your own! Hurry this home won't last long!Read more</overview>
+	<listing_agent>
+		<agentName>Tamara Markey</agentName>
+		<phoneNumber>877-973-3346</phoneNumber>
+		<agentLicenseNumber>License #01372439</agentLicenseNumber>
+		<postingGroupName>Redfin Corporation</postingGroupName>
+		<postingWebsiteLinkText>Redfin Corporation</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1960</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">8,197 sqft</key>
+		<key name="Price/sqft:">$465</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Microwave, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,225 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco, Wood</item>
+				<item>Fencing: Partial, Wood, Chain Link</item>
+				<item>Topography of land: Level</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.19 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5765030200</item>
+				<item>Zoning: R-1:SINGLE</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1960</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1960</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 80.61</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Lemon Grove</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

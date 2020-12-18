@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>6500 Utah Ave NW </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$895,000</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$482 / Sq. Ft.">1,855</key>
+	</main_stats>
+	<text_base_description>Just off Pinehurst Circle, this solid brick cape cod in Chevy Chase, DC is truly move-in ready. Easy access to major commuter routes and public transportation. Just a short distance to Friendship Heights and the Metro (about 1.5 miles) and walkable to the upper Connecticut Avenue corridor for errands, shopping, grocery, DC public library, The Avalon Theatre, and sidewalk dining. Take socially distant walks in nearby Rock Creek Park which is just down the street. Charm galore and sunny bright rooms. Freshly painted from top to bottom, brand new neutral gray carpeting is on the second floor and lower level, and all the windows have been replaced with energy efficient ones. The first floor with hardwood floors has a bedroom or office/study with an en suite full bath, formal living room with a lovely mantle and wood-burning fireplace, large formal dining room, screened-in side porch, and a bright kitchen. The upper level has 3 more bedrooms and a full bath, and if desired, there are hardwood floors are under the carpet. The windowed lower level has a full bath, laundry, storage and carpeted family room. Rare driveway and attached 2-car garage with convenient access directly into the lower level. In bounds for Blue-ribbon Lafayette Elementary School and walkable to the neighborhood gem, the Broad Branch Market and Saturday morning farmer's market. Just unpack and move on in! </text_base_description>
+	<listed_by>
+		<name>LISA RESCH</name>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$895,000</List_Price>
+		<Est._Mo._Payment>$3,779</Est._Mo._Payment>
+		<Redfin_Estimate>$892,963</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$482</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>31 hours</Time_on_Redfin>
+		<Year_Built>1936</Year_Built>
+		<Style>Cape Cod</Style>
+		<Community>CHEVY CHASE</Community>
+		<Lot_Size>3,378 Sq. Ft.</Lot_Size>
+		<key name="MLS#">DCDC490458</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On 1st Upper Level: 3</group_dat>
+						<group_dat># of Bedrooms On Main Level: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On 1st Upper Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On Main Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On 1st Lower Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Upper Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Lower Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Flooring Type: Partially Carpeted, Wood, Vinyl</group_dat>
+						<group_dat>Living Area Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>Living Room, Dining Room, Kitchen, Family Room, Sun/Florida Room, Utility Room</group_dat>
+						<group_dat>Laundry Type: Basement</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Mantel(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Basement Information</heading>
+					<group_data>
+						<group_dat>Combination, Daylight, Partial, Garage Access, Heated, Interior Access, Outside Entrance, Partially Finished, Windows</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, School / Neighborhood, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Attached Garage Spaces: 2</group_dat>
+						<group_dat>Garage Features: Garage - Rear Entry</group_dat>
+						<group_dat># of Total Garage and Parking Spaces: 4</group_dat>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+						<group_dat>Driveway - # of Spaces: 2</group_dat>
+						<group_dat>Concrete Driveway</group_dat>
+						<group_dat>Attached Garage, Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: LAFAYETTE</group_dat>
+						<group_dat>Middle Or Junior School: DEAL JUNIOR HIGH SCHOOL</group_dat>
+						<group_dat>High School: WILSON SENIOR</group_dat>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>Elementary School Source: Listing Agent</group_dat>
+						<group_dat>Middle School Source: Listing Agent</group_dat>
+						<group_dat>High School Source: Listing Agent</group_dat>
+						<group_dat>School District Source: Listing Agent</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>Radiator</group_dat>
+						<group_dat>Heating Fuel: Natural Gas</group_dat>
+						<group_dat>Hot Water: Natural Gas</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>In City Limits</group_dat>
+						<group_dat>Directions: Off Pinehurst Circle, NW</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>Agricultural Tax Due: No</group_dat>
+						<group_dat>City/Town Tax: $6,737</group_dat>
+						<group_dat>Tax Assessed Value: $817,850</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $6,737</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Not Federal Flood Zone</group_dat>
+						<group_dat>Total Below Grade Sq. Ft.: 962</group_dat>
+						<group_dat>Horse: No</group_dat>
+						<group_dat>Improvement Assessed Value: $326,010</group_dat>
+						<group_dat>Ownership Interest: Fee Simple</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Construction Materials: Brick</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Roof: Shingle</group_dat>
+						<group_dat>Structure Type: Detached</group_dat>
+						<group_dat>Window Features: Replacement, Insulated, Vinyl Clad</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $491,840</group_dat>
+						<group_dat>Soil Types: Urban Land-Manor-Gleneig</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 1,443</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft.: 550</group_dat>
+						<group_dat>Unfinished Sq.Ft. Source: Assessor</group_dat>
+						<group_dat>Finished Sq.Ft.: 412</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,443</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,443</Total_Sq._Ft.>
+		<Stories>1.5</Stories>
+		<Lot_Size>3,378 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1936</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>2015    0021</APN>
+	</public_facts>
+</home>

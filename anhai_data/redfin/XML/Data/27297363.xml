@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>359 N 21ST Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$275,000</Price>
+		<Beds>3</Beds>
+		<Baths>1.75</Baths>
+		<key name="$252 / Sq. Ft.">1,092</key>
+	</main_stats>
+	<text_base_description>Location location location!!! complete remodel! New flooring, paint, stucco, kitchen, bathrooms, fixture, windows, tiles, this property will not only check all the boxes it will wow you! All you need is your toothbrush and  your moving boxes. .. This is the home you've literally been waiting for!!! </text_base_description>
+	<listed_by>
+		<name>Ulises Morales Sandoval</name>
+		<org> Coldwell Banker Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$275,000</List_Price>
+		<Est._Mo._Payment>$1,087</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$252</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 hours</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1926</Year_Built>
+		<Community>CRISTY CROFT</Community>
+		<Lot_Size>6,750 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6143988</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 1.75</group_dat>
+						<group_dat>Other Master Bathroom Features (See Remarks)</group_dat>
+						<group_dat>Bathroom(s) Fully Updated</group_dat>
+						<group_dat>Bathrooms Updated In: 2018</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Built-in Microwave, Granite Countertops, Pantry in Kitchen, Range/Oven Gas, Refrigerator in Kitchen</group_dat>
+						<group_dat>Kitchen Fully Updated</group_dat>
+						<group_dat>Kitchen Updated In: 2018</group_dat>
+						<group_dat>Eat-in Kitchen, Formal Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Inside Laundry</group_dat>
+						<group_dat>Cable TV Available, High Speed Internet Available, Pre-Wired Satellite Dish</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane</group_dat>
+						<group_dat>Wood Floors</group_dat>
+						<group_dat>Floors Fully Updated</group_dat>
+						<group_dat>Floors Updated In: 2018</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Refrigeration</group_dat>
+						<group_dat>Heating/Cooling Fully Updated</group_dat>
+						<group_dat>Heating/Cooling Updated In: 2016</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Slab): 5</group_dat>
+						<group_dat>RV Gate</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Wood Frame Construction</group_dat>
+						<group_dat>Painted Exterior, Stucco Exterior</group_dat>
+						<group_dat>Reflective Coating, Rolled Roof</group_dat>
+						<group_dat>Roof Partially Updated</group_dat>
+						<group_dat>Roof Updated In: 2016</group_dat>
+						<group_dat>Builder Name: 2019 REMODEL</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee Type: Dollar Amount</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2 Type: Dollar Amount</group_dat>
+						<group_dat>Other Rules/Information (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Capitol</group_dat>
+						<group_dat>Junior High School: Capitol</group_dat>
+						<group_dat>High School: Central</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Wiring Fully Updated</group_dat>
+						<group_dat>Wiring Updated In: 2016</group_dat>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Plumbing Partially Updated</group_dat>
+						<group_dat>Plumbing Updated In: 2016</group_dat>
+						<group_dat>Utilities: APS, Southwest Gas</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Van Buren and 21st Ave</group_dat>
+						<group_dat>Census Tract: 3.00</group_dat>
+						<group_dat>Directions: North on 21st Ave to Property.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Lender Owned Property</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Storage Shed(s)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 1,000-1,200</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: 2019 REMODEL</group_dat>
+						<group_dat>All on One Level</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Maricopa County</group_dat>
+						<group_dat>Assessor Number: 109-30-074-C</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 30</group_dat>
+						<group_dat>Assessor's Parcel #: 74</group_dat>
+						<group_dat>Assessor's Parcel Letter: C</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Block Fencing, Chain Link Fencing</group_dat>
+						<group_dat>Landscaping: Desert in Front, Grass in Back, Synthetic Grass in Front, Yard Watering System in Back</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,092</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,092</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>6,750 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1926</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10930074C</APN>
+	</public_facts>
+</home>

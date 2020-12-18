@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1945 Education Way </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$248,900</Price>
+		<Beds>4</Beds>
+		<Baths>2</Baths>
+		<key name="$136 / Sq. Ft.">1,833</key>
+	</main_stats>
+	<text_base_description>its a quiet, friendly neighborhood, close to parks, shopping and minutes away from downtown Dallas. Includes 3 bedrooms, 2 full and 1 half bath. The open kitchen and living areas provide a spacious, cozy environment for family gatherings and for entertaining friends. The large master suite has plenty of closet space, a bathroom with double sinks and separate shower and tub. The kitchen offers stained wood cabinets, new appliances, granite countertops, and ceramic tiled floors. This is an amazing property and is perfect for the right family.  </text_base_description>
+	<listed_by>
+		<name>Reuben Riojas</name>
+		<org> • Insight Realty Network </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$248,900</List_Price>
+		<Est._Mo._Payment>$1,321</Est._Mo._Payment>
+		<Redfin_Estimate>$245,501</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$136</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>56 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Single Detached, Other (See Remarks)</Style>
+		<Community>CAMDEN HOMES</Community>
+		<key name="MLS#">14413943</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Room Information</item>
+					<item>
+						<item># of Rooms: 6</item>
+					</item>
+				</item>
+				<item>
+					<item>Room 1 Information</item>
+					<item>
+						<item>Room Type: Master Bedroom</item>
+						<item>Features: Walk-In Closets</item>
+						<item>Level: 1</item>
+						<item>Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 2 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 3 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 4 Information</item>
+					<item>
+						<item>Room Type: Living Room</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 5 Information</item>
+					<item>
+						<item>Room Type: Kitchen</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Room 6 Information</item>
+					<item>
+						<item>Room Type: Bedroom</item>
+						<item>Level: 1</item>
+						<item>Room Dimensions: </item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Other (See Remarks)</item>
+						<item># of Dining Areas: 1</item>
+						<item>Flooring: Ceramic Tile</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central A/C (Electric), Central Heat (Electric)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage, School / Neighborhood, Utilities, Financing</item>
+			<item>
+				<item>
+					<item>Parking &amp; Garage</item>
+					<item>
+						<item># of Parking Spaces (Garage): 2</item>
+						<item># of Parking Spaces (Total Covered): 2</item>
+						<item>Garage Dimensions: 21 x 21</item>
+						<item>Attached, Covered, Garage</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Ebby Halliday</item>
+						<item>Middle School Name: Seagoville</item>
+						<item>High School Name: H Grady Spruce</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Sewer, City Water</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Financing Proposed: Cash, Conventional, FHA, TX VET Assumable, VA</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>New Construction (Incomplete)</item>
+						<item>Building Area Source: Tax</item>
+						<item>Foundation: Slab</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Covered Porch(es), Patio Covered</item>
+						<item>Roof: Composition</item>
+						<item>Exterior Construction: Brick</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Living Areas: 1</item>
+						<item>For Sale</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item># of Stories: 1</item>
+						<item>Built-In Microwave, Cooktop (Electric), Dishwasher, Disposal</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.000</item>
+						<item>Parcel Number: 000000</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: CAMDEN HOMES</item>
+						<item>Directions: Navigate to 1945 Education Way Dallas, TX 75217</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>000000</APN>
+	</public_facts>
+</home>

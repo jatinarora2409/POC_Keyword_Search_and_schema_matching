@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>915 S 33RD Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$318,888</Price>
+		<Beds>5</Beds>
+		<Baths>3.5</Baths>
+		<key name="$13 / Sq. Ft.">24,888</key>
+	</main_stats>
+	<text_base_description>A brand new home with all stainless appliances , large kitchen island with Quartz counter, pantry, open concept, inside laundry, vinyl plank floor coverings , upgrade window coverings, ceiling fans, 8 ft. car garage door, 9 foot flat ceiling master bedroom with walk in closet and double sinks, open kitchen. There is a city park behind the home. GUEST HOME is being rented to month to month for $580 per month and tenant pays all utilities, Guest home is one bedroom and . 75 bathroom, a large living room and kitchen. main house is 4 bedrooms and 2.5 bathrooms with 1958 sqft.  </text_base_description>
+	<listed_by>
+		<name>Brian Lau</name>
+		<org> Sanchez &amp; Associates Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$318,888</List_Price>
+		<Est._Mo._Payment>$1,158</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$13</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>2020</Year_Built>
+		<Style>Ranch</Style>
+		<Community>11/1 N/2E</Community>
+		<Lot_Size>8,840 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6141346</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 3.5</group_dat>
+						<group_dat>Double Sinks in Master Bathroom, Full Master Bathroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Dishwasher in Kitchen, Granite Countertops, Kitchen Island, Non-laminate Counter, Pantry in Kitchen, Range/Oven Electric</group_dat>
+						<group_dat>Breakfast Bar, Dining in Living Room/Great Room, Eat-in Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom 5</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 2 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom 2</group_dat>
+						<group_dat>Dimensions: 12 x 12</group_dat>
+						<group_dat>Area: 144.00</group_dat>
+						<group_dat>Length: 12.00</group_dat>
+						<group_dat>Width: 12.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 3 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Bedroom 3</group_dat>
+						<group_dat>Dimensions: 12 x 12</group_dat>
+						<group_dat>Area: 144.00</group_dat>
+						<group_dat>Length: 12.00</group_dat>
+						<group_dat>Width: 12.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 4 Information</heading>
+					<group_data>
+						<group_dat>Bedroom 4</group_dat>
+						<group_dat>Dimensions: 12 x 11</group_dat>
+						<group_dat>Area: 132.00</group_dat>
+						<group_dat>Length: 12.00</group_dat>
+						<group_dat>Width: 11.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 5 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Dimensions: 23 x 12.5</group_dat>
+						<group_dat>Area: 287.50</group_dat>
+						<group_dat>Length: 23.00</group_dat>
+						<group_dat>Width: 12.50</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>220v Dryer Hookup, Inside Laundry, Washer/Dryer Hookup Only</group_dat>
+						<group_dat>Security System (Leased)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane</group_dat>
+						<group_dat>Vinyl Floors</group_dat>
+						<group_dat>9+ Ft. Flat Ceilings</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Ceiling Fan(s), Refrigeration</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Multi-Unit Information, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 2</group_dat>
+						<group_dat># of Parking Spaces (Slab): 2</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+						<group_dat>Direct Entry from Garage, Electric Door Opener</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Planned Community Name: 0</group_dat>
+						<group_dat>Planned Community Name: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Jack L. Kuban</group_dat>
+						<group_dat>Junior High School: Isaac Middle</group_dat>
+						<group_dat>High School: Carl Hayden</group_dat>
+						<group_dat>Elementary School District: 001 - Phoenix Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Complete Spec Home</group_dat>
+						<group_dat>Wood Frame Construction</group_dat>
+						<group_dat>Painted Exterior, Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: lau HOMES LLC</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 488</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities</heading>
+			<details>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Utilities: APS, Southwest Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Green/Energy Features</heading>
+					<group_data>
+						<group_dat>Solar Panel kW: 0.00</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Patio, Separate Guest House</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 488</group_dat>
+						<group_dat>Approximate Sq. Ft. Range: 2,251-2,500</group_dat>
+						<group_dat>Sq. Ft. Source: Architect</group_dat>
+						<group_dat>Model: RANCH</group_dat>
+						<group_dat>Model: RANCH</group_dat>
+						<group_dat>Marketing Name: Pretty</group_dat>
+						<group_dat>Week Available (Timeshare): 0.00</group_dat>
+						<group_dat>Builder Name: lau HOMES LLC</group_dat>
+						<group_dat>All on One Level</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 109-59-007</group_dat>
+						<group_dat>Assessor's Book #: 109</group_dat>
+						<group_dat>Assessor's Map #: 59</group_dat>
+						<group_dat>Assessor's Parcel #: 7</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 7,501 - 10,000</group_dat>
+						<group_dat>Block Fencing, Wood Fencing</group_dat>
+						<group_dat>Landscaping: Gravel/Stone in Back, Gravel/Stone in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 27 AVENUE &amp;BUCKEYE RD.</group_dat>
+						<group_dat>Census Tract: 5.00</group_dat>
+						<group_dat>Directions: I 17 S TO BUCKEYE . WEST TO 33 AVE.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>480</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>480</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>8,840 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1946</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10959007</APN>
+	</public_facts>
+</home>

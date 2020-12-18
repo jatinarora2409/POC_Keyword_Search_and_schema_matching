@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$374,999</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>5 N Oakley Blvd #301,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>Situated within a boutique elevator building, this luxurious newer construction 2-bed, 2-bath home has everything you've been looking for! An oversized combined living and dining room features floor-to-ceiling windows affording ample natural light and northwestern views. Boasting top-of-the-line finishes, the kitchen includes stainless steel appliances, quartz countertops, subway tile backsplash, and cool gray wooden cabinetry. The lavish master suite affords spacious living and spa-like bath complete with heated floors, dual vanity and an expansive walk-in shower. Ideal for a guest room or home office, the generously sized second bedroom features floor-to-ceiling windows. Enjoy the outdoors from the large terrace-located off the living area-and unobstructed city views from the communal rooftop deck. Garage parking and full-sized additional storage cage included. Offering the perfect location, this home is near public transportation and within walking distance of the West Loop, Medical District, Tri-Taylor and so much more!Read more</overview>
+	<listing_agent>
+		<agentName>Colin Hebson</agentName>
+		<phoneNumber>312-242-1000</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Dream Town Realty</postingGroupName>
+		<postingWebsiteLinkText>Dream Town Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2017</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$219/mo</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 4</detail>
+				<detail>Exterior features: Other, Brick</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 2017</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer-Public</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Chicago</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $219/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 10892026</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Addtl Room 2 Level: Not Applicable</detail>
+				<detail>Addtl Room 3 Level: Not Applicable</detail>
+				<detail>Addtl Room 4 Level: Not Applicable</detail>
+				<detail>Addtl Room 5 Level: Not Applicable</detail>
+				<detail>Air Conditioning: Central Air</detail>
+				<detail>Appliances: Oven/Range, Microwave, Dishwasher, Refrigerator, Disposal, Washer, Dryer, All Stainless Steel Kitchen Appliances</detail>
+				<detail>3rd Bedroom Level: Not Applicable</detail>
+				<detail>4th Bedroom Level: Not Applicable</detail>
+				<detail>Electricity: Circuit Breakers</detail>
+				<detail>Exterior Building Type: Brick, Other, Glass</detail>
+				<detail>Foundation: Concrete</detail>
+				<detail>Family Room Level: Not Applicable</detail>
+				<detail>Heat/Fuel: Gas, Forced Air</detail>
+				<detail>Sewer: Sewer-Public</detail>
+				<detail>Listing Type: Exclusive Right To Sell</detail>
+				<detail>Assessment Includes: Common Insurance, Exterior Maintenance, Snow Removal, Water, Scavenger</detail>
+				<detail>Management: Manager Off-site, Self-Management</detail>
+				<detail>Parking Type: Garage</detail>
+				<detail>Tax Exemptions: Homeowner</detail>
+				<detail>Addtl Room 1 Level: Main Level</detail>
+				<detail>2nd Bedroom Level: Main Level</detail>
+				<detail>Dining Room: Combined w/ LivRm</detail>
+				<detail>Dining Room Level: Main Level</detail>
+				<detail>Equipment: Ceiling Fan, CO Detectors, Intercom</detail>
+				<detail>Water: Lake Michigan</detail>
+				<detail>Kitchen Type: Eating Area-Breakfast Bar, Eating Area-Table Space</detail>
+				<detail>Kitchen Level: Main Level</detail>
+				<detail>Living Room Level: Main Level</detail>
+				<detail>Master Bedroom Level: Main Level</detail>
+				<detail>Common Area Amenities: Storage, Elevator</detail>
+				<detail>Exposure: W (West), N (North), City</detail>
+				<detail>Sale Terms: Conventional</detail>
+				<detail>Kitchen Flooring: Hardwood</detail>
+				<detail>Living Room Flooring: Hardwood</detail>
+				<detail>2nd Bedroom Flooring: Hardwood</detail>
+				<detail>Dining Room Flooring: Hardwood</detail>
+				<detail>Master Bedroom Flooring: Hardwood</detail>
+				<detail>Addtl Room 1 Flooring: Other</detail>
+				<detail>Bath Amenities: Separate Shower, Double Sink, Soaking Tub</detail>
+				<detail>Lot Description: Corner</detail>
+				<detail>Age: 1-5 Years</detail>
+				<detail>Roof Type: Rubber</detail>
+				<detail>Addtl Room 1 Name: Balcony</detail>
+				<detail>Addtl Room 10 Level: Not Applicable</detail>
+				<detail>Addtl Room 6 Level: Not Applicable</detail>
+				<detail>Addtl Room 7 Level: Not Applicable</detail>
+				<detail>Addtl Room 8 Level: Not Applicable</detail>
+				<detail>Addtl Room 9 Level: Not Applicable</detail>
+				<detail>Frequency: Monthly</detail>
+				<detail>Status: New</detail>
+				<detail>Square Feet Source: Not Reported</detail>
+				<detail>Master Bedroom Bath (Y/N): Full</detail>
+				<detail>2nd Bedroom Window Treatments (Y/N): Shades</detail>
+				<detail>Living Room Window Treatments (Y/N): Shades</detail>
+				<detail>Master Bedroom Window Treatments (Y/N): Shades</detail>
+				<detail>Dining Room Window Treatments (Y/N): Shades</detail>
+				<detail>Garage On-Site: Yes</detail>
+				<detail>Additional Rooms: Balcony</detail>
+				<detail>Interior Property Features: Hardwood Floors, Laundry Hook-Up in Unit, Heated Floors, Storage</detail>
+				<detail>Exterior Property Features: Storms/Screens, Roof Deck, Deck, Balcony</detail>
+				<detail>Is Parking Included in Price: Yes</detail>
+				<detail>Lot Dimensions: COMMON</detail>
+				<detail>Garage Type: Attached2, Attached</detail>
+				<detail>Garage Ownership: Owned</detail>
+				<detail>Laundry Level: Not Applicable</detail>
+				<detail>Driveway: Concrete, Off Alley</detail>
+				<detail>Additional Media Type 2: Virtual Tour</detail>
+				<detail>Aprox. Total Finished Sq Ft: 0</detail>
+				<detail>Total Sq Ft: 0</detail>
+				<detail>Parcel Identification Number: 17073290260000</detail>
+				<detail>Additional Sales Information: List Broker Must Accompany</detail>
+				<detail>Tax Year: 2019</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

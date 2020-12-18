@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2729 Nichols Canyon Rd </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,495,000</Price>
+		<Beds>4</Beds>
+		<Baths>4</Baths>
+		<key name="$702 / Sq. Ft.">4,978</key>
+	</main_stats>
+	<text_base_description>Located behind gates in the heart of Nichols Canyon, this exquisite Fred Smathers Mediterranean is the epitome of Old Hollywood and offers the ultimate retreat from city life. Enter through the double doors into a dramatic entryway, complete with soaring ceilings and a grand staircase with hand painted tiles. The eat-in kitchen and formal dining room open to one of many outdoor terraces, perfect for indoor/outdoor entertaining. Descend to the formal living room with highlights including a bar, cozy fireplace, and french doors that open to the outdoor kitchen and sparkling pool and spa. The master suite boasts vaulted ceilings, a balcony, expansive en-suite bathroom and a beautiful private courtyard. Three additional bedroom suites and a spacious office complete the property. This is a prime opportunity to purchase a property rich in privacy, moments from &quot;celebrity row&quot; in one of the most sought-after neighborhoods in the Hollywood Hills.  </text_base_description>
+	<listed_by>
+		<name>Aaron Kirman</name>
+		<agentLicenseDisplay>•DRE #01296524</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,495,000</List_Price>
+		<Est._Mo._Payment>$16,116</Est._Mo._Payment>
+		<Redfin_Estimate>$3,389,011</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$702</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>29 days</Time_on_Redfin>
+		<Property_Type>Single Family, Residential Single-Family</Property_Type>
+		<Year_Built>1986</Year_Built>
+		<Style>Mediterranean</Style>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>8,162 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-630742</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Room</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Dining Room</group_dat>
+						<group_dat>Family Room</group_dat>
+						<group_dat>Bar Room, Dining Room, Family Room, Living Room, Master Bedroom, Office, Pantry, Patio Covered, Patio Open, Powder Room, Walk-In Closet, Wine Cellar</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Decorative, In Kitchen, In Living Room, In Master Bedroom</group_dat>
+						<group_dat># of Fireplaces: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Ceramic Tile Floors, Hardwood Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Barbeque, Cable, Dishwasher, Freezer, Range/Oven, Refrigerator, Other</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling</group_dat>
+						<group_dat>Central Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage, Garage Is Attached, On street</group_dat>
+						<group_dat># of Garage Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Covered Parking Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 3</group_dat>
+						<group_dat>Detached</group_dat>
+						<group_dat>Detached/No Common Walls</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Pool Information</heading>
+					<group_data>
+						<group_dat>In Ground Pool, Private Pool</group_dat>
+						<group_dat>In Ground Spa, Private Spa</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood, Taxes / Assessments, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5570-003-008</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Hollywood Blvd to Nichols Canyon Rd to Address</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Single-Family</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 8,162</group_dat>
+						<group_dat>Zoning: LARE11</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, City Lights, Peek-A-Boo, Tree Top, Trees/Woods</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>4,978</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>4,978</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>8,162 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1986</Year_Built>
+		<Year_Renovated>1986</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5570003008</APN>
+	</public_facts>
+</home>

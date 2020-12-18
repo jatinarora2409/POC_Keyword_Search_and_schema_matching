@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,698,800</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>1,600</area>
+	</summary>
+	<address>
+		<street_address>1041 N Spaulding Ave #204,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Spaulding Court offers 14 new construction townhome residences + garden flats in the Heart of West Hollywood! Comprised of 8 townhomes + 6 flats, floor plans range from 1 bed+1 bath, 675sf to 3 bed+3 bath, 1600sf featuring either patio or private rooftop terrace w/BBQ kitchens + huge views of Runyon Canyon, Griffith Observatory, DTLA &amp; Century City. Each residence is individually designed + thoughtfully crafted w/a contemporary edge. Residences boasts state-of-the-art, yet timeless finishes. This residence features open floor plan w/10 ft ceilings w/top of the line designer finishes. Main level boasts open floor plan, private balcony, wide plank oak wood floors, chef's kitchen w/custom shaker cabinets, Quartz stone &amp; top of line appliances + guest rm. 2 beds up. Master suite features all-stone bath, large walk in closet. Private laundry &amp; 2 car gated parking. Private direct access oversized rooftop terrace features BBQ kitchens &amp; incredible views! A must see!Read more</overview>
+	<listing_agent>
+		<agentName>Heather Bilyeu Altman</agentName>
+		<phoneNumber>310-924-4664</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Douglas Elliman</postingGroupName>
+		<postingWebsiteLinkText>Douglas Elliman</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Townhouse</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$500/month</key>
+		<key name="Lot:">No Data</key>
+		<key name="Price/sqft:">$1,062</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 1,600 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>View description: City</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Townhouse</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: New Construction</item>
+				<item>New construction: Yes</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: In Street</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Other, Gated, Automatic Gate, Card/Code Access, Community, Smoke Detector, Fire Sprinklers, 24 Hour</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

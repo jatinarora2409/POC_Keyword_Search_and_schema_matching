@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,399,999</price>
+		<bd>--</bd>
+		<ba>--</ba>
+		<area>2,248</area>
+	</summary>
+	<address>
+		<street_address>1657 Santa Clara St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>NICE TRIPLEX IN FABULOUS NEIGHBORHOOD LOCATION // GREAT FOR COMMUTERS AND CLOSE TO FREEWAYS AND STORES AND SANTA CLARA UNIVERSITY // GREAT ONE WAY STREET AND DESIRABLE SANTA CLARA UTILITIES !!!Read more</overview>
+	<listing_agent>
+		<agentName>Kevin Flynn</agentName>
+		<phoneNumber>408-252-9800</phoneNumber>
+		<agentLicenseNumber>License #00797437</agentLicenseNumber>
+		<postingGroupName>RE/MAX Real Estate Services</postingGroupName>
+		<postingWebsiteLinkText>RE/MAX Real Estate Services</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1953</key>
+		<key name="Heating:">None</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$623</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 0</detail>
+				<detail>Bathrooms: 0</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Laundry features: Washer/Dryer - Some Units</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 2,248 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 0</detail>
+				<detail>Has garage: No</detail>
+				<detail>Garage spaces: 0</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,616 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 2692507301</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Multiple Occupancy</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1953</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 92.46</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $65,184</detail>
+				<detail>Annual tax amount: $958</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81809588</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Heating: Wall Furnace</detail>
+				<detail>Lot Size Area Maximum Units: Square Feet</detail>
+				<detail>Lot Size Area Minimum Units: Square Feet</detail>
+				<detail>Roof: Composition</detail>
+				<detail>Sewer Septic: Sewer Connected</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Subclass: Triplex</detail>
+				<detail>Kitchen: Varies by Unit, Oven - Gas, Pantry, Cooktop - Gas, Appliances - Vary by Unit</detail>
+				<detail>Water: Public</detail>
+				<detail>Garage Parking Features: Uncovered Parking, Assigned Spaces, Parking Area</detail>
+				<detail>Flooring: Carpet, Vinyl / Linoleum</detail>
+				<detail>Laundry: Washer/Dryer - Some Units</detail>
+				<detail>Foundation: Concrete Perimeter</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Listing Class: Residential Income (2-4 units)</detail>
+				<detail>Meters: Separate Electric, Separate Gas</detail>
+				<detail>Unit 1 Number of Bedrooms: 2</detail>
+				<detail>Unit 3 Number of Bedrooms: 2</detail>
+				<detail>Unit 2 Number of Bedrooms: 1</detail>
+				<detail>Unit 1 Rent: 0</detail>
+				<detail>Unit 2 Rent: 0</detail>
+				<detail>Unit 3 Rent: 1900</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

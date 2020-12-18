@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>10311 Elam Rd </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$75,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>This Lot is in a great location, and also have 3 additional lots attached, aprox 1.601 ac's + or - total. Great for investment property. House does need some updating, Great location, would be good for rental or new builds good deep lots for building on, Perfect site if you need lot's of parking, you will have room for anything, Conveniently located, access to HWY 635 and HWY 175, Lot's 4,5,and 6, 7 also listed individually. Great area for growth. Please contact Listing Agent if you have any questions.  </text_base_description>
+	<listed_by>
+		<name>Julie Henderson</name>
+		<org> • Coldwell Banker Apex, REALTORS </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$75,000</List_Price>
+		<Est._Mo._Payment>$363</Est._Mo._Payment>
+		<Redfin_Estimate>$67,738</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>48 days</Time_on_Redfin>
+		<Property_Type>Lots &amp; Acreage, Residential Land</Property_Type>
+		<Community>BIRD SONG ACRES</Community>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<key name="MLS#">14418963</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Cuellar</item>
+						<item>Middle School Name: Florence</item>
+						<item>High School Name: Spruce</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>City Sewer, City Water</item>
+					</item>
+				</item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Legal Description: BIRD SONG ACRES UNREC BLK A/6690 PT LT 7 LESS</item>
+						<item>Unexempt Taxes: $547</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Restrictions: Deed</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Block: A/669</item>
+						<item>Development: City Limits</item>
+						<item>Easements: Utilities</item>
+						<item>Lot Number: 7</item>
+						<item>Features: Interior Lot</item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.394</item>
+						<item>Area Sq. Ft.: 17,162.64</item>
+						<item>Parcel Number: 00000624646000000</item>
+						<item>Road Frontage: Concrete, Sidewalk</item>
+						<item>Will Subdivide</item>
+						<item>Zoning: Residential</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: BIRD SONG ACRES</item>
+						<item>Directions: From Mesquite Tx, Take I-635 South, Exit 1B onto Elam Rd, Turn Right and go aprox one a 1.6 the destination is on your Right, signs are on property.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000624646000000</APN>
+	</public_facts>
+</home>

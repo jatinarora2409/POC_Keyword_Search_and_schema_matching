@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$585,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>693</area>
+	</summary>
+	<address>
+		<street_address>1400 N Hayworth Ave APT 21,</street_address>
+		<city_state> West Hollywood, CA 90046</city_state>
+	</address>
+	<overview>The iconic Hollywood Riviera, is the most architecturally significant West Hollywood treasure and a designated landmark. It was built in 1954 by renowned architect, Edward H. Fickett. This top floor unit is completely private - no walkways. Featuring high vaulted original ceilings &amp; floor to ceiling windows viewing hills and trees to the north and large swimmers heated pool &amp; sundeck to the south. Remodeled kitchen with best high-end appliances. Large closets - 1 is walk-in.  Beautiful full bath has mid-century tiles and fixtures. Hardwood floors throughout. Large deck. Central heat and air. 2 parking spaces. On the Mills Act passing lower taxes to buyer. Featured in films (Rush Hour, L.A. Stories + many more), TV shows, and commercials. Best location - walk to Sunset.Read more</overview>
+	<listing_agent>
+		<agentName>Kathy Small</agentName>
+		<phoneNumber>818-757-4567</phoneNumber>
+		<agentLicenseNumber>License #00407520</agentLicenseNumber>
+		<postingGroupName>Gold Star Realty - Encino</postingGroupName>
+		<postingWebsiteLinkText>Gold Star Realty - Encino</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$461/mo</key>
+		<key name="Price/sqft:">$844</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Range / Oven, Refrigerator</detail>
+				<detail>Laundry features: Room, Community</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Common walls with other units/homes: Attached</detail>
+				<detail>Total interior livable area: 693 sqft</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Covered</detail>
+				<detail>Garage spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Levels: One</detail>
+				<detail>Stories: 2</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>View description: Territorial</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.69 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5554002048</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>Property condition: Updated/Remodeled</detail>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1954</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1954</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 86.62</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Gated, Card/Code Access, Fire and Smoke Detection System, Carbon Monoxide Detector(s)</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: West Hollywood</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $461/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $107,000</detail>
+				<detail>Annual tax amount: $2,086</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 20630534</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>AssociationPetRules: Yes, Assoc Pet Rules</detail>
+				<detail>Cooling: Central, Air Conditioning</detail>
+				<detail>Heating: Central, Forced Air</detail>
+				<detail>ListingStatus: Active</detail>
+				<detail>ParkingGarage: Community Garage, Controlled Entrance, Assigned, Garage - 2 Car, Door Opener</detail>
+				<detail>PropertyType: Residential</detail>
+				<detail>Amenities: Pool, Gated Community, Assoc Maintains Landscape, Assoc Pet Rules, Controlled Access, Gated Parking, Extra Storage</detail>
+				<detail>County: Los Angeles</detail>
+				<detail>Equipment: Dishwasher, Range/Oven, Garbage Disposal, Refrigerator, Water Line to Refrigerator</detail>
+				<detail>Flooring: Hardwood</detail>
+				<detail>Rooms: Dining Area, Living Room, Walk-In Closet, Patio Covered</detail>
+				<detail>SecurityFeatures: Gated, Card/Code Access, Fire and Smoke Detection System, Carbon Monoxide Detector(s)</detail>
+				<detail>CommonWalls: Attached</detail>
+				<detail>EatingAreas: Dining Area</detail>
+				<detail>HOAFeeFrequency1: Monthly</detail>
+				<detail>Laundry: Room, Community</detail>
+				<detail>PoolDescription: Association Pool, Heated And Filtered, In Ground, Fenced</detail>
+				<detail>Levels: One</detail>
+				<detail>SourceLivingArea: Vendor Enhanced</detail>
+				<detail>SourceLotSizeArea: Vendor Enhanced</detail>
+				<detail>ListingArea: West Hollywood Vicinity</detail>
+				<detail>Country: US</detail>
+				<detail>ViewDescription: Hills, Pool, Tree Top</detail>
+				<detail>Style: Mid-Century</detail>
+				<detail>HOAFeeFrequency2: Monthly</detail>
+				<detail>PropertyCondition: Updated/Remodeled</detail>
+				<detail>CookingAppliances: Range, Free Standing Gas</detail>
+				<detail>OtherStructuralFeatures: High Ceilings (9 Feet+), Historical, Partial Copper Plumbing</detail>
+				<detail>KitchenFeatures: Remodeled, Laminate Counters</detail>
+				<detail>PatioFeatures: Deck(s)</detail>
+				<detail>DirectionFaces: South</detail>
+				<detail>Furnished: Unfurnished</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

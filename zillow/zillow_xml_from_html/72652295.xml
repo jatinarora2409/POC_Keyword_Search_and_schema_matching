@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$463,933</price>
+		<bd>--</bd>
+		<ba>1</ba>
+		<area>550</area>
+	</summary>
+	<address>
+		<street_address>7320 Hawthorn Ave APT 419,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>This 550 square foot condo home has 0 bedrooms and 1.0 bathrooms. This home is located at 7320 Hawthorn Ave APT 419, Los Angeles, CA 90046.Read more</overview>
+	<listing_agent>
+		<agentName>Jeffrey Billinger</agentName>
+		<phoneNumber>310-300-8448</phoneNumber>
+		<agentLicenseNumber>License #01475932</agentLicenseNumber>
+		<postingGroupName>The Hills Premier Realty</postingGroupName>
+		<postingWebsiteLinkText>The Hills Premier Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1985</key>
+		<key name="Heating:">Forced air, Heat pump, Electric</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$399/mo</key>
+		<key name="Price/sqft:">$844</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 0</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Laminate</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Heat pump, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Washer</detail>
+				<detail>Laundry features: Inside, In Unit</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Common walls with other units/homes: Attached</detail>
+				<detail>Total interior livable area: 550 sqft</detail>
+				<detail>Fireplace: Yes</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: None, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 4</detail>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>View description: City</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.84 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 5550017126</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>Property condition: Updated/Remodeled</detail>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1985</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1988</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: In Street</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 94.62</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Gated, Automatic Gate, Card/Code Access, Community, Smoke Detector, Fire Sprinklers, Carbon Monoxide Detector(s)</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Community</heading>
+			<details>
+				<detail>Community features: Fitness Center</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Los Angeles</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $399/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $424,320</detail>
+				<detail>Annual tax amount: $5,220</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 20639442</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>AssociationPetRules: Yes, Assoc Pet Rules</detail>
+				<detail>Cooling: Central, Air Conditioning</detail>
+				<detail>Laundry: Inside, In Unit</detail>
+				<detail>ListingStatus: Active</detail>
+				<detail>ParkingGarage: Community Garage, Controlled Entrance, Door Opener</detail>
+				<detail>PropertyType: Residential</detail>
+				<detail>Style: Contemporary</detail>
+				<detail>Amenities: Guest Parking, Pool, Gated Community, Assoc Maintains Landscape, Assoc Pet Rules, Controlled Access, Elevator, Fitness Center, Gated Parking, Onsite Property Management, Spa, Hot Water</detail>
+				<detail>County: Los Angeles</detail>
+				<detail>Equipment: Dishwasher, Range/Oven, Garbage Disposal, Dryer, Washer, Microwave, Water Line to Refrigerator</detail>
+				<detail>Rooms: Dining Area, Living Room, Walk-In Closet</detail>
+				<detail>SecurityFeatures: Gated, Automatic Gate, Card/Code Access, Community, Smoke Detector, Fire Sprinklers, Carbon Monoxide Detector(s)</detail>
+				<detail>AssociationFeesInclude: Building and Grounds, Sewer, Trash, Earthquake Insurance, Water</detail>
+				<detail>CommonWalls: Attached</detail>
+				<detail>EatingAreas: Dining Area</detail>
+				<detail>Flooring: Mixed, Laminate, Ceramic Tile</detail>
+				<detail>HighMidRiseAmenities: Controlled Access</detail>
+				<detail>HOAFeeFrequency1: Monthly</detail>
+				<detail>PoolDescription: Association Pool, Heated And Filtered</detail>
+				<detail>Spa: Association Spa, Community</detail>
+				<detail>WaterHeaterFeatures: Central Water Heater</detail>
+				<detail>FireplaceRooms: Living Room, Gas</detail>
+				<detail>SourceLivingArea: Vendor Enhanced</detail>
+				<detail>SourceLotSizeArea: Vendor Enhanced</detail>
+				<detail>ViewDescription: City Lights, City</detail>
+				<detail>Country: US</detail>
+				<detail>ListingArea: Hollywood</detail>
+				<detail>CookingAppliances: Range Hood, Self Cleaning Oven, Free Standing Gas</detail>
+				<detail>OtherStructuralFeatures: Balcony</detail>
+				<detail>PropertyCondition: Updated/Remodeled</detail>
+				<detail>KitchenFeatures: Granite Counters</detail>
+				<detail>Sewer: In Street</detail>
+				<detail>Heating: Heat Pump</detail>
+				<detail>ExteriorConstruction: Stucco, Frame</detail>
+				<detail>DirectionFaces: East</detail>
+				<detail>Furnished: Unfurnished</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

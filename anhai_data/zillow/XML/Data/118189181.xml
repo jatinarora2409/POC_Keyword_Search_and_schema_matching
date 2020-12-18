@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$359,500</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,144</area>
+	</summary>
+	<address>
+		<street_address>2644 Pinewood Dr,</street_address>
+		<city_state> Waldorf, MD 20601</city_state>
+	</address>
+	<overview>Brand new home located on Pinewood Dr. It will be finished by the end of the month.  It has a full unfinised basement.Read more</overview>
+	<listing_agent>
+		<agentName>Rosalie Hooper</agentName>
+		<phoneNumber>301-870-5841</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Hooper &amp; Associates</postingGroupName>
+		<postingWebsiteLinkText>Hooper &amp; Associates</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Heat pump</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">0.29 Acres</key>
+		<key name="Price/sqft:">$314</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 3</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Heat pump</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 1,144 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+				<detail>Covered spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Accessibility</heading>
+			<details>
+				<detail>Accessibility features: Other</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 2</detail>
+				<detail>Exterior features: Vinyl</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.29 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 08351284</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Split Foyer</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: Yes</detail>
+				<detail>Year built: 2020</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Limited solar potentialSun Number™: 53.67</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Waldorf</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $80,200</detail>
+				<detail>Annual tax amount: $1,009</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: MDCH217476</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>NewConstructionYN: Yes</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Built-in Microwave, Microwave, Self Cleaning Oven, Range Hood, Stainless Steel Appliance(s), Bar Fridge, Stove, Oven/Range - Electric</detail>
+				<detail>InteriorFeatures: Ceiling Fan(s), Carpet, Open Floorplan, Combination Dining/Living, Combination Kitchen/Dining</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>StructureType: Detached</detail>
+				<detail>ConstructionMaterials: Vinyl Siding</detail>
+				<detail>StoriesTotal: 2</detail>
+				<detail>Heating: Heat Pump</detail>
+				<detail>Cooling: Heat Pump, Central Air</detail>
+				<detail>ArchitecturalStyle: Split Foyer</detail>
+				<detail>SpecialListingConditions: Standard</detail>
+				<detail>ParkingFeatures: Driveway, Attached Garage, Garage Faces Front</detail>
+				<detail>CoveredSpaces: 1</detail>
+				<detail>AccessibilityFeatures: Other</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>TaxAnnualAmount: 3500.0</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

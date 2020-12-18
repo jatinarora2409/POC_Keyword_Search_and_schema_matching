@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8205 Laurelmont Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90068</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$895,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Long private driveway provides access to four contiguous parcels (8205 Laurelmont, 5565-018-052; 8195 Laurelmont, 5565-018-051; 8201Laurelmont, 5565-018-050; and 8209 Laurelmont, 5565-018-049) on just under 3 acres, located on a quiet street in lower Laurel Canyon. All are zoned LARE15, except parcel 51, which is zoned LARE11. Lots are sold as a package deal only and are not available individually. Excellent development opportunity to build multiple homes or one grand estate. Bright, sunny exposure, wonderful canyon views, all in a private, serene setting.  </text_base_description>
+	<listed_by>
+		<name>Brad Downs</name>
+		<agentLicenseDisplay>•DRE #01230774</agentLicenseDisplay>
+		<org> Rodeo Realty - Beverly Hills</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$895,000</List_Price>
+		<Est._Mo._Payment>$4,127</Est._Mo._Payment>
+		<Redfin_Estimate>$887,438</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>14 days</Time_on_Redfin>
+		<Property_Type>Residential Land</Property_Type>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>2.91 Acres</Lot_Size>
+		<key name="MLS#">20-637660</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Taxes / Assessments, Financing, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessor Parcel Number: 5565-018-052</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Listing Terms: Cash, Cash To New Loan</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: LAUREL CANYON - NORTH OF SUNSET - RIGHT ON LAURELMONT</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Land</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Topography: Varied, Uphill, Flat</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 126,702</group_dat>
+						<group_dat>Lot Size (Acres): 2.89</group_dat>
+						<group_dat>Zoning: LARE15</group_dat>
+						<group_dat>Special Zoning: Property Report</group_dat>
+						<group_dat>Lot Description: 2-4 Lots</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon, Green Belt, Tree Top</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Listing Terms: Cash, Cash To New Loan</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>—</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>Zestimate®: $214,683</price>
+		<bd>--</bd>
+		<ba>2</ba>
+		<area>1,502</area>
+	</summary>
+	<address>
+		<street_address>3628 W Fillmore St,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>Buy this foreclosure deal the right way. Visit us at Auction.com, then login or create a free account to save this property and receive important alerts. We'll let you know if the Est. Credit Bid has posted, when the property has cleared for sale, is postponed or canceled, and the property's winning bid amount if it sells. Auction.com is your source for 30,000+* discounted foreclosure and bank-owned properties and auction events nationwide. Find the best deals in your market now. *Based on data from August 2019.Read more</overview>
+	<listing_agent>
+		<agentName>auction com</agentName>
+		<phoneNumber>800-793-6107</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Auction.com</postingGroupName>
+		<postingWebsiteLinkText>Auction.com</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">Refrigerator</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">6,098 sqft</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,502 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Carport, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,098 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 10614062</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2002</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.5</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Phoenix</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

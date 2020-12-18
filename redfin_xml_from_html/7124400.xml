@@ -1,0 +1,246 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2121 Stanley Hills Dr </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,550,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$923 / Sq. Ft.">1,680</key>
+	</main_stats>
+	<text_base_description>Looking for a project with some heart  &amp;  soul? This prime 2 homes on 1 lot in the coveted Wonderland School District is a great owner user/income/development opportunity. Unit 1 has 2 beds/1bath  &amp;  Unit 2 has 1 bed/1bath. During the 1920's people would leave the hustle  &amp;  bustle of the City for a weekend retreat. Originally built in 1922 - located along one of Laurel Canyon's historical  &amp;  romantic enclave known as Bungalow Land; the property is surrounded by mature greens and protected by gentle ridges creating a mild micro-climate. This area has remained a haven  &amp;  sanctuary for Canyon dwellers for the last 100 years. Lot is 5,626 sq. ft and runs from Stanley Hills Drive to Kress Street. 1st house - VACANT -(Stanley Hills) - 2 beds, 1 bath, kitchen, living, dining, large yard 2 car garage/2 car off street; 2nd house LEASED $2,900/Mo (Kress) - 1 bed, 1 bath, kitchen, living, dining, large yard 1 car parking. The possibilities are here and just waiting for you to set the course.  </text_base_description>
+	<listed_by>
+		<name>Brian Ades</name>
+		<agentLicenseDisplay>•DRE #01347985</agentLicenseDisplay>
+		<org> Sotheby's International Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,550,000</List_Price>
+		<Est._Mo._Payment>$7,148</Est._Mo._Payment>
+		<Redfin_Estimate>$1,503,435</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$923</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>28 days</Time_on_Redfin>
+		<Property_Type>Residential Income</Property_Type>
+		<Year_Built>1922</Year_Built>
+		<Community>Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>5,626 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-631262</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry in Unit, Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Kitchen, In Living Room, In Master Bedroom, In Dining Area, In Bath</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile Floors, Wood Floors, Mixed Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Range/Oven, Dishwasher</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling, Other Cooling</group_dat>
+						<group_dat>Central Heat, Other Heat</group_dat>
+						<group_dat>Water Heater Features: Water Heater Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>2 Car Garage, Assigned, Driveway, On street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 5</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features, School / Neighborhood, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Sewer: In Street</group_dat>
+						<group_dat>Water: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessed Total Value: $645,081</group_dat>
+						<group_dat>Assessed Land Value: $444,885</group_dat>
+						<group_dat>Assessed Land %: 68.97</group_dat>
+						<group_dat>Assessed Improvement Value: $200,196</group_dat>
+						<group_dat>Assessed Improvement %: 31.03</group_dat>
+						<group_dat>Assessor Parcel Number: 5567-002-018</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Multi-Unit Income</heading>
+					<group_data>
+						<group_dat>Gross Income: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Other Financial Information</heading>
+					<group_data>
+						<group_dat>Vacancy Rate: 50</group_dat>
+						<group_dat>Scheduled Actual: Actual</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat>Tenant Pays: Gas, Cable TV, Electric, Water, Trash</group_dat>
+						<group_dat>Unit Type Type: 1, 2</group_dat>
+						<group_dat>Type Of Units: Houses</group_dat>
+						<group_dat># of Buildings: 2</group_dat>
+						<group_dat>Has Water Heaters: True</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 1 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 2</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $3,900</group_dat>
+						<group_dat>Projected Rent: $4,900</group_dat>
+						<group_dat>Actual Rent: $3,900</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 2 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $2,900</group_dat>
+						<group_dat>Projected Rent: $3,900</group_dat>
+						<group_dat>Actual Rent: $2,900</group_dat>
+						<group_dat># of Units: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Tenant Pays: Gas, Cable TV, Electric, Water, Trash</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: Laurel Canyon to Lookout Mountain to Stanley Hills Drive</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Possession: Close Of Escrow, Tenant Rights</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Income</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 5,626</group_dat>
+						<group_dat>Lot Size (Acres): 0.1291</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Has View</group_dat>
+						<group_dat>View: Canyon</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>815</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>815</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>5,626 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1922</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5567002018</APN>
+	</public_facts>
+</home>

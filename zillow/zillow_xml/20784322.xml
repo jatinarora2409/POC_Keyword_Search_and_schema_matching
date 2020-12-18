@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$3,399,000</price>
+		<bd>5</bd>
+		<ba>6</ba>
+		<area>5,321</area>
+	</summary>
+	<address>
+		<street_address>748 N Detroit St,</street_address>
+		<city_state> Los Angeles, CA 90046</city_state>
+	</address>
+	<overview>Two story modern architectural in the heart of Melrose Village. Dramatic staircase, soaring ceilings, open floorplan with a gorgeous kitchen, Thermador stainless steel appliances, 6 burner stove, a large center island with sink and microwave. Downstairs has an en-suite bedroom that can be used as an office, guest, or nanny's room. Sliding glass doors in Living room flow out to the covered patio, BBQ, infinite pool and spa. Wonderful for entertaining. Sexy master bedroom with high ceilings, 2 huge walk in closets and large terrace overlooking the back yard, Luxurious master bath with free standing tub and separate elegant shower plus double sinks with ample counter space. Additionally there are 3 en-suite bedrooms upstairs plus a den area. This home is wired for security, sound and smart home technology, everything you need and more. Amazing style and amazing value!Read more</overview>
+	<listing_agent>
+		<agentName>Marisa Rokstad (Local Expert)</agentName>
+		<phoneNumber>310-819-3250</phoneNumber>
+		<agentLicenseNumber>License #01894858</agentLicenseNumber>
+		<postingGroupName>Douglas Elliman of California, Inc.</postingGroupName>
+		<postingWebsiteLinkText>Douglas Elliman of California, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2015</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="HOA:">None</key>
+		<key name="Lot:">6,664 sqft</key>
+		<key name="Price/sqft:">$639</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 6</item>
+				<item>Full bathrooms: 6</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: Attached</item>
+				<item>Total interior livable area: 5,321 sqft</item>
+				<item>Fireplace: Yes</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.15 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5525009014</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2015</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2015</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 81.79</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

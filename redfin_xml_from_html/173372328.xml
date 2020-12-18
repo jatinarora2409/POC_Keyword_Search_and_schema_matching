@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1902 Webster St </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94115</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,995,000</Price>
+		<Beds>—</Beds>
+		<Bath>1</Bath>
+		<key name="$733 / Sq. Ft.">2,720</key>
+	</main_stats>
+	<text_base_description>Amazing opportunity in a fabulous location only one block from Upper Fillmore St. This grand two-level property is currently configured as a series of ten commercial offices. Development potential exists to re-cast this wonderful building into a gorgeous single-family residence or duplex. The two stories have rich period details including soaring ceilings. An existing basement level is used for storage and offers potential expansion for garage and further living space. Buyers should investigate all possible future uses. This beautiful property will be delivered vacant at close of escrow.  </text_base_description>
+	<listed_by>
+		<name>Tim Brown</name>
+		<agentLicenseDisplay>•DRE #00580970</agentLicenseDisplay>
+		<org> Keller Williams San Francisco</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,995,000</List_Price>
+		<Est._Mo._Payment>$9,118</Est._Mo._Payment>
+		<Redfin_Estimate>$2,000,026</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$733</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>31 hours</Time_on_Redfin>
+		<Property_Type>Single-Family Home</Property_Type>
+		<Year_Built>1900</Year_Built>
+		<Community>Lower Pacific Height</Community>
+		<Lot_Size>2,230 Sq. Ft.</Lot_Size>
+		<key name="MLS#">507105</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Multi-Unit Information, Homeowners Association, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Family Features</heading>
+					<group_data>
+						<group_dat>Monthly Rent: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Unconfirmed Co-op Fee: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Pine Street</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Rooms (Total): 11</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Water &amp; Sewer</heading>
+					<group_data>
+						<group_dat>Public Water</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Wood Siding, Shingle</group_dat>
+						<group_dat>Fenced Yard</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Measurement: Square Feet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block</group_dat>
+						<group_dat>Shopping: 1 Block</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>Fenced Yard</group_dat>
+						<group_dat>APN: 0652-018</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Documents/Disclosure: Disclosure Pkg Avail</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,995,000</group_dat>
+						<group_dat>On Market Date: Wednesday, October 7, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0652-018</APN>
+	</public_facts>
+</home>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$839,000</price>
+		<bd>6</bd>
+		<ba>3</ba>
+		<area>2,693</area>
+	</summary>
+	<address>
+		<street_address>5326 Cronus St,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Great income property with 3 units on a lot with 2 units and a separate house.  The mailing address is 5324, 5326 &amp; 5326 1/2 .Each unit has 2 bed &amp; 1 bath. It is  convenient location close to South Pasadena and Alhambra with Costco, Albertsons, Aldi, Target, LA Fitness.Read more</overview>
+	<listing_agent>
+		<agentName>LI QIN BAI</agentName>
+		<phoneNumber>626-309-1900</phoneNumber>
+		<agentLicenseNumber>License #01839841</agentLicenseNumber>
+		<postingGroupName>COLDWELL BANKER DYNASTY/TC</postingGroupName>
+		<postingWebsiteLinkText>COLDWELL BANKER DYNASTY/TC</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1924</key>
+		<key name="Heating:">Electric, Gas</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Price/sqft:">$312</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 6</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: 1 common wall</item>
+				<item>Total interior livable area: 2,693 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,196 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5220009016</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1924</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

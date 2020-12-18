@@ -1,0 +1,7 @@
+address(listing_id,street_address,locality,region,postal_code)
+agents(agent_id,agent_name,agent_license,agent_org)
+home_facts(listing_id,property_type,hoa_dues,style,year_built,community,MLS#)
+listed_by(agent_id,listing_id,status)
+main_stats(listing_id,price,beds,baths,area,cost_per_squre_feet)
+price_insights(listing_id,listing_price,est._mo._payment,redfin_estimate,price_per_Sq_ft)
+public_facts(listing_id,beds,baths,finished_sq_ft,unfinished_sq_ft,total_sq.ft,stories,lot_size,style,year_built,year_renovated,county,APN)

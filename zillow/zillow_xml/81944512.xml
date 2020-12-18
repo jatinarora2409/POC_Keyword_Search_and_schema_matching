@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$580,000</price>
+		<bd>2</bd>
+		<ba>4</ba>
+		<area>1,840</area>
+	</summary>
+	<address>
+		<street_address>331 W Wilson St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Welcome to the Nolen Shore Townhomes. 3 story living w/ private entrance! Great office space, full bath, laundry &amp; access to the underground parking garage on the entry level. 2nd floor features an open floor plan w/ open kitchen featuring s/s appliances &amp; ample dining space. Living room includes surround sound, awesome windows providing abundant natural light &amp; the outdoor patio which opens up to the Nolen Shore courtyard. 3rd level has 2 bedrooms both en suite style w/ their own bath. Perfect for guests when they come to visit. Amenities w/ the building are a guest suite for overnight guests instead of using a hotel, fitness room and a conference room overlooking Lake Monona. All within just a few blocks of Capitol Square, downtown dog park, &amp; Lake Monona. Downtown living at its finest!Read more</overview>
+	<listing_agent>
+		<agentName>Liz Lauer</agentName>
+		<phoneNumber>608-467-3220</phoneNumber>
+		<agentLicenseNumber>License #56139-90</agentLicenseNumber>
+		<postingGroupName>Lauer Realty Group, Inc.</postingGroupName>
+		<postingWebsiteLinkText>Lauer Realty Group, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2006</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$315</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,840 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stone, Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923152634</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Asphalt</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2006</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2008</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 88.78</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

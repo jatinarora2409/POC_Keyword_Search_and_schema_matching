@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>153 Dayton Row </street-address>
+		<locality>Madison, </locality>
+		<region>WI</region>
+		<postal-code>53703</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$395,000</Price>
+		<Beds>2</Beds>
+		<Baths>2.5</Baths>
+		<key name="$292 / Sq. Ft.">1,351</key>
+	</main_stats>
+	<text_base_description>Public Remarks: Gorgeous spacious modern townhouse! Open floor plan, 2 bed, 2.5 bath end-unit provides extra windows for sun. Main level includes a large updated kitchen with granite counters w/ breakfast bar, SS appliances and title backsplash. The living room/dining room will enjoy a freshly painted 2 sided gas fireplace and 2 story ceilings. Lofted master suite on top floor with great views. Lower level guest room with new plush carpeting, full bath, laundry and private entry off patio. Attached 1-car garage w/ storage. Enjoy city life in a very walkable neighborhood! Close to everything. Move-in ready. Call today! </text_base_description>
+	<listed_by>
+		<name>Tony Ritschard</name>
+		<org> First Weber Inc</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$395,000</List_Price>
+		<Est._Mo._Payment>$2,176</Est._Mo._Payment>
+		<Redfin_Estimate>$387,517</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$292</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>78 days</Time_on_Redfin>
+		<Property_Type>Single-Family</Property_Type>
+		<Year_Built>1994</Year_Built>
+		<Community>Dayton Row</Community>
+		<Lot_Size>871 Sq. Ft.</Lot_Size>
+		<key name="MLS#">1889085</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Homeowners Association, Utilities</heading>
+			<details>
+				<detail>
+					<heading> Virtual Tour Branded</heading>
+					<group_data>
+						<group_dat> Branded Virtual Tour: https://res.cloudinary.com/admin11/video/upload/v1592440682/153DaytonRow.mov</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Garage Information</heading>
+					<group_data>
+						<group_dat>Garage: 1 Car, Attached, Opener Included</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Yearly HOA Fee: $0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>Municipal Water, Municipal Sewer</group_dat>
+						<group_dat>Heating/Cooling: Forced Air, Central Air</group_dat>
+						<group_dat>Natural Gas</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Master Bedroom Dimensions: 12 x 12</group_dat>
+						<group_dat>Master Bedroom Level: Upper</group_dat>
+						<group_dat>Bedroom 2 Dimensions: 12 x 12</group_dat>
+						<group_dat>Bedroom 2 Level: Lower</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Description(s): At Least 1 Tub, Master Bedroom Bath (Full), Master Bedroom Bath, Tub/Shower Combo  in Master Bathroom</group_dat>
+						<group_dat># of Baths (1/2): 1</group_dat>
+						<group_dat># of Baths (Full): 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Wood or Simulation Wood Floors, Cathedral/Vaulted Ceiling, Water Softener, High Speed Internet</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>None/Slab</group_dat>
+						<group_dat>Living Room Dimensions: 17 x 11</group_dat>
+						<group_dat>Living Room Level: Main</group_dat>
+						<group_dat>Kitchen Level: Main</group_dat>
+						<group_dat>Kitchen Dimensions: 13 x 10</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Appliances: Range/Oven, Refrigerator, Dishwasher, Microwave, Garbage Disposal, Washer, Dryer</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Building Type: Tri-Level, Shared Wall/Adjoining</group_dat>
+						<group_dat>Estimated Sq. Ft. Range: 1251-1500</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior</heading>
+					<group_data>
+						<group_dat>Exterior: Brick, Fiber Cement</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Municipality: MADISON</group_dat>
+						<group_dat>Municipality Type: City</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat> School District: Madison</group_dat>
+						<group_dat>Elementary School: Lapham/Marquette</group_dat>
+						<group_dat>Middle School: Okeeffe</group_dat>
+						<group_dat>High School: East</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments, Listing Information, Subdivision / Building</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat> Total Taxes: $8,511</group_dat>
+						<group_dat> Tax Year: 2019</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: Range/oven, Microwave, Dishwasher, Dryer, Water Softener, All Window Coverings.</group_dat>
+						<group_dat>Exclusions: Seller's Personal Property.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading> Subdivision</heading>
+					<group_data>
+						<group_dat> Subdivision: Dayton Row</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Single-Family</group_dat>
+						<group_dat>Information Source Year Built: Owner</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Acreage: 0.02</group_dat>
+						<group_dat> Zoning: PD, WP24</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2.5</Baths>
+		<Finished_Sq._Ft.>1,351</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,351</Total_Sq._Ft.>
+		<Stories>2.5</Stories>
+		<Lot_Size>900 Sq. Ft.</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1994</Year_Built>
+		<Year_Renovated>2009</Year_Renovated>
+		<County>Dane County</County>
+		<APN>070913309435</APN>
+	</public_facts>
+</home>

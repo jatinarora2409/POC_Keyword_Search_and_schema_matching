@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>4019 W ALMERIA Rd </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$210,000</Price>
+		<Beds>4</Beds>
+		<Baths>3</Baths>
+		<key name="$154 / Sq. Ft.">1,361</key>
+	</main_stats>
+	<text_base_description>Wow! Incredible opportunity to own this genuine single level home located in popular Phoenix. Providing great curb appeal, slab parking, RV gate, and beautiful grassy front landscaping. You will absolutely love this welcoming interior complete with 4 bed, 3 bath, designer paint tones, living/dining room, and perfectly sized bedrooms. Come take a look at this unique kitchen with plenty cabinet/counter space and appliances ready to be used. Inside this bright master bedroom you will find a walk-in closet and spotless full bathroom. Out the back you have a covered patio, 2 detached car garage, RV parking, and so much potential to get creative and make this place your own. You know you have found the one. Hurry come see this inviting home today before it's too late! </text_base_description>
+	<listed_by>
+		<name>Gonzalo Contreras</name>
+		<org> My Home Group Real Estate</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$210,000</List_Price>
+		<Est._Mo._Payment>$835</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$154</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1946</Year_Built>
+		<Community>CUATRO PALMAS</Community>
+		<Lot_Size>7,457 Sq. Ft.</Lot_Size>
+		<key name="MLS#">6142098</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 4</group_dat>
+						<group_dat>Walk-in Closet in Master Bedroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 3</group_dat>
+						<group_dat>Full Master Bathroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Disposal in Kitchen, Laminate Counters</group_dat>
+						<group_dat>Formal Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Guest Quarters (Separate Entrance)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Inside Laundry</group_dat>
+						<group_dat>Cable TV Available, High Speed Internet Available</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Tile Floors, Vinyl Floors</group_dat>
+						<group_dat>9+ Ft. Flat Ceilings, No Interior Steps</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Ceiling Fan(s), Refrigeration</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Exterior Features, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Garage): 2</group_dat>
+						<group_dat># of Parking Spaces (Slab): 2</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 2</group_dat>
+						<group_dat>Detached Parking, RV Gate, RV Parking</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction</group_dat>
+						<group_dat>Painted Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Exterior Stories: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat>Biking/Walking Path</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee Type: Dollar Amount</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood, Utilities, Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Mitchell</group_dat>
+						<group_dat>Junior High School: Alhambra High</group_dat>
+						<group_dat>High School: Alhambra High</group_dat>
+						<group_dat>Elementary School District: 005 - Isaac Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Utilities: Salt River Project</group_dat>
+						<group_dat>City Services</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: McDowell Rd &amp; N 43rd Ave</group_dat>
+						<group_dat>Census Tract: 4.00</group_dat>
+						<group_dat>Directions: Head east on W McDowell Rd, Turn left onto N 41st Ave, Turn right onto W Almeria Rd. Property will be on the right.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required, Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Covered Patio(s), Patio</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Approximate Sq. Ft. Range: 1,201-1,400</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Phoenix</group_dat>
+						<group_dat>Assessor Number: 108-22-013</group_dat>
+						<group_dat>Assessor's Book #: 108</group_dat>
+						<group_dat>Assessor's Map #: 22</group_dat>
+						<group_dat>Assessor's Parcel #: 13</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 1 - 7,500</group_dat>
+						<group_dat>Block Fencing, Chain Link Fencing, View/Wrought Iron Fencing</group_dat>
+						<group_dat>Landscaping: Dirt in Back, Dirt in Front, Grass in Back, Grass in Front</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,361</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,361</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,457 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1946</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10822013</APN>
+	</public_facts>
+</home>

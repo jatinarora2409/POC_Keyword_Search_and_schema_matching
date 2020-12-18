@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$499,900</price>
+		<bd>3</bd>
+		<ba>3</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2020 W Grand Ave APT E,</street_address>
+		<city_state> Chicago, IL 60612</city_state>
+	</address>
+	<overview>GORGEOUS west-town duplex with 2 PRIVATE outdoor spaces, TWO GARAGE PARKING SPOTS, in Talcott school district! Enter through the spacious foyer to the inviting dining/living room with a gorgeous black tiled fireplace creating the perfect setting for a cozy dinner. Follow the beautiful oak flooring past the staircase, powder room and utility room to the open kitchen and living space. The large kitchen boasts gorgeous 42 inch cabinets, stainless steel appliances, granite countertops and a breakfast bar with room for stools. The open-concept floor plan is perfect for entertaining, with a private balcony off the living room. Head upstairs to the generously sized primary suite with a large walk-in closet, en-suite bath with double sinks, whirlpool tub spa and glass enclosed shower. This floor has two other generously sized guest bedrooms and a full guest bathroom, providing the perfect set up for a home office. From here, head to the PRIVATE rooftop terrace with stunning views! The building has a brand new roof and new rooftop decks are being installed right now! One garage space included in the price. Second space for $10k and must be sold with the unit. These are not tandem spots! Unbeatable location close to Smith Park, restaurants, bars, and shopping. Convenient location, with future Green Line el stop coming soon to Lake and Damen and CTA right outside the front door. Quick commute to the loop, UIC, Rush and more. MUST SEE!Read more</overview>
+	<listing_agent>
+		<agentName>Leigh Marcus</agentName>
+		<phoneNumber>312-337-0200</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>@properties</postingGroupName>
+		<postingWebsiteLinkText>@properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2002</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$315/mo</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage - Detached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Brick</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.30 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 17071240391005</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2002</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Sewer-Public</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Chicago</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

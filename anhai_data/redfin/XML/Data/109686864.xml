@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>708 Long Bridge St #907 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94158</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,858,000</Price>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<key name="$1378 / Sq. Ft.">1,348</key>
+	</main_stats>
+	<text_base_description>Arden Two-Level Penthouse w Rooftop Terrace! 1348sf interior PLUS 800sf of outdoor space, office nook  &amp;  bay views. 2016 Bosa development in sunny Mission Bay. Residence 907 has it all! Storage, AC, EV-charger parking. Upgraded wood flooring throughout main level, custom built-in closets  &amp;  cabinetry, smarthome LED lights  &amp;  Hunter Douglas shades. Kitchen boasts a massive Caesarstone counter, walk-in pantry, W/ D in-unit. Thermador appliances, gas range, oversized fridge. Large primary suite includes a walk-in  &amp;  reach-in closet. Second level features wall-to-wall glass enclosed office which opens out to your own rooftop terrace. Perfect for gardening or socially distanced gathering. Arden is situated along the channel of Mission Bay, dog park, children's playground and parks. Arden offers 24hr concierge, TWO gyms -cardio room featuring 2 Peloton bikes  &amp;  weight room, 75ft heated pool, 3 lounges, BBQ, pet-wash station. Chase Center, Oracle Park, MUNI Caltrain, HWY-280, Uber LYFT  &amp;  other HQs.  </text_base_description>
+	<listed_by>
+		<name>Trevor Leung</name>
+		<agentLicenseDisplay>•DRE #01900473</agentLicenseDisplay>
+		<org> Compass</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,858,000</List_Price>
+		<Est._Mo._Payment>$8,492</Est._Mo._Payment>
+		<Redfin_Estimate>$1,829,378</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,378</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>2 days</Time_on_Redfin>
+		<Property_Type>Townhouse, Hi-Rise (9+), Top Floor, 2 Level, Luxury, Condominium</Property_Type>
+		<HOA_Dues>$1,201/month</HOA_Dues>
+		<Year_Built>2016</Year_Built>
+		<Style>Modern/High Tech</Style>
+		<Community>Mission Bay</Community>
+		<key name="MLS#">507738</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Multi-Unit Information, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Club Room</group_dat>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 1 Block Away</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Gas, Garbage, Ext Bldg Maintenance, Grounds Maintenance, Door Person, Security Service, Outside Management</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $1,201</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+						<group_dat>Name: Arden HOA</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower and Tub, Tub in Master Bdrm, Tile, Dual Flush Toilet</group_dat>
+						<group_dat># of Baths: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>220 Volt Wiring, Washer/Dryer, In Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood, Tile</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Features</heading>
+					<group_data>
+						<group_dat>Kitchen: Energy Star Appl(s), 220 Volt Wiring, Gas Range, Self-Cleaning Oven, Refrigerator, Ice Maker, Dishwasher, Microwave, Garbage Disposal, Marble Counter, Island</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Rooms: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heating</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Built/Remodeled Green Certification: Energy Star Home</group_dat>
+						<group_dat>Builder/Architect: BOSA</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Glass</group_dat>
+						<group_dat>Patio, Garden, Deck, Additional Storage</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details, Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Modern/High Tech</group_dat>
+						<group_dat>Type: Townhouse, Hi-Rise (9+), Top Floor, 2 Level, Luxury</group_dat>
+						<group_dat># of Units: 267</group_dat>
+						<group_dat>Per Architect</group_dat>
+						<group_dat>APN: 8710-182</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: El Dorado</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,858,000</group_dat>
+						<group_dat>On Market Date: Tuesday, October 6, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,348</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>2016</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>8710 182</APN>
+	</public_facts>
+</home>

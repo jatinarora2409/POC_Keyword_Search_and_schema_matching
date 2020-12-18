@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1330 Stevenson St Unit C102 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94103</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$798,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$1101 / Sq. Ft.">725</key>
+	</main_stats>
+	<text_base_description>This fully remodeled, sun-filled 2BD/1BA home in sought after SoMa/Hayes Valley is one not to miss! Boasting high ceilings and large windows, the kitchen features quartz countertops, serene white shell tile and barely used stainless steel appliances. Enjoy a bathroom with a designer's touch  from the pristine tile to the modern shower design and gold accents. Fully renovated and custom designed less than two years ago, the new gray vinyl flooring is both modern and practical (water and scratch-proof). The full-size washer-dryer and fresh paint makes this a perfect, move-in-ready home. The unit is located above the lobby / ground level with a patio deck connected to the master bedroom, offering the perfect space to relax and enjoy coffee or a glass of wine. Set on a cobblestone block, next to the Valencia Corridor at the intersection of SoMa, Hayes Valley, the Mission District, Civic Center and Lower Haight; central/accessible to public transportation.  </text_base_description>
+	<listed_by>
+		<name>Daniel Choi</name>
+		<agentLicenseDisplay>•DRE #02022554</agentLicenseDisplay>
+		<org>•DRE #02022554</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$798,000</List_Price>
+		<Est._Mo._Payment>$3,647</Est._Mo._Payment>
+		<Redfin_Estimate>$799,594</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,101</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>2 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$496/month</HOA_Dues>
+		<Year_Built>1997</Year_Built>
+		<Community>South of Market</Community>
+		<key name="MLS#">506161</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, Exterior Features, Homeowners Association</item>
+			<item>
+				<item>
+					<item>Virtual Tour</item>
+					<item>
+						<item>Virtual Tour (External Link)</item>
+						<item>Virtual Media: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking Information</item>
+					<item>
+						<item># of Spaces: 1</item>
+						<item># of Garage Spaces: 1</item>
+						<item>Designated On-Site Parking</item>
+						<item>Parking Access: Side-by-Side</item>
+						<item>Monthly Parking Fees: 0.00</item>
+						<item>Parking Features: Automatic Door, Size Limited, Garage</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Patio</item>
+					</item>
+				</item>
+				<item>
+					<item>Homeowners Association Information</item>
+					<item>
+						<item>Has Homeowners Association</item>
+						<item>Dues: $496</item>
+						<item>Dues Paid: Monthly</item>
+						<item>Name: 101 Valencia Residential Association</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bedroom Information</item>
+					<item>
+						<item># of Bedrooms: 2</item>
+					</item>
+				</item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item>Bath Type/Includes: Shower Over Tub</item>
+						<item># of Baths: 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Den/Bonus Room: 0</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Washer/Dryer</item>
+					</item>
+				</item>
+				<item>
+					<item>Kitchen Features</item>
+					<item>
+						<item>Kitchen: Refrigerator, Dishwasher, Microwave, Garbage Disposal</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item># of Rooms: 3</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details, Location Details, Documents &amp; Disclosures, Listing Information</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Units: 108</item>
+						<item>Floor #: 1</item>
+						<item>Tax No Autofill</item>
+						<item>APN: 3513126</item>
+						<item>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Cross Street: McCoppin</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Documents/Disclosure: Gen Prop Insp Report</item>
+					</item>
+				</item>
+				<item>
+					<item>Listing Information</item>
+					<item>
+						<item>Original Price: $798,000</item>
+						<item>On Market Date: Tuesday, October 6, 2020</item>
+						<item>Transfer of Possession: Close of Escrow</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>725</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1997</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>3513 126</APN>
+	</public_facts>
+</home>

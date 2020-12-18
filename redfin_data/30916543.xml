@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1347 Templecliff Dr </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$175,000</Price>
+		<Beds>3</Beds>
+		<Baths>1.5</Baths>
+		<key name="$124 / Sq. Ft.">1,407</key>
+	</main_stats>
+	<text_base_description> *  *  *  * OPEN HOUSE!! SUNDAY, September 20th FROM 12-2 PM!! *  *  *  *     Amazing opportunity to buy a great, meticulously taken care of house. The sellers are the second owners and have lived here for about 40 years and have always taken extremely good care of it. It has 3 spacious bedrooms with a large living room, a really big kitchen and dining room combo, as well as 1 and a half bathrooms. The half-bath was recently remodeled and the house also features $11,000 worth of brand new double-pane windows with lifetime warranty. Virtual Tour on MLS    Hablamos español! </text_base_description>
+	<listed_by>
+		<name>Jorge Carrillo Gasca</name>
+		<org> • Casa Real Estate Inc </org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$175,000</List_Price>
+		<Est._Mo._Payment>$1,045</Est._Mo._Payment>
+		<Redfin_Estimate>$173,014</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$124</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>23 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1957</Year_Built>
+		<Style>Single Detached</Style>
+		<Community>Piedmont Park 03</Community>
+		<Lot_Size>7,710 Sq. Ft.</Lot_Size>
+		<key name="MLS#">14435214</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Virtual Tour, Parking / Garage, School / Neighborhood, Utilities</item>
+			<item>
+				<item>
+					<item>Virtual Tours</item>
+					<item>
+						<item>Branded Virtual Tour</item>
+						<item>Virtual Tour (External Link)</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking &amp; Garage</item>
+					<item>
+						<item># of Parking Spaces (Garage): 2</item>
+						<item># of Parking Spaces (Total Covered): 2</item>
+						<item>Garage Dimensions: 20 x 20</item>
+						<item>Attached, Front</item>
+					</item>
+				</item>
+				<item>
+					<item>School Information</item>
+					<item>
+						<item>Elementary School Name: Ireland</item>
+						<item>Middle School Name: Comstock</item>
+						<item>High School Name: Hillcrest</item>
+						<item>School District: Dallas ISD</item>
+					</item>
+				</item>
+				<item>
+					<item>Utility Information</item>
+					<item>
+						<item>All Weather Road, City Sewer, City Water</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (1/2): 1</item>
+						<item># of Baths (Full): 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Interior Features</item>
+					<item>
+						<item>Cable TV Available, High Speed Internet Available, Paneling</item>
+						<item># of Dining Areas: 1</item>
+						<item>Flooring: Carpet, Ceramic Tile</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>Central A/C (Electric), Central Heat (Gas)</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Pre-Owned</item>
+						<item>Building Area Source: Tax</item>
+						<item>Foundation: Pier &amp; Beam</item>
+					</item>
+				</item>
+				<item>
+					<item>Exterior Features</item>
+					<item>
+						<item>Roof: Composition</item>
+						<item>Exterior Construction: Brick</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Taxes / Assessments, Financing, Location Details</item>
+			<item>
+				<item>
+					<item>Tax Information</item>
+					<item>
+						<item>Tax Legal Description: PIEDMONT PARK 3 BLK 9/6236 LOT 11 TEMPLECLIFF</item>
+						<item>Unexempt Taxes: $3,650</item>
+					</item>
+				</item>
+				<item>
+					<item>Financial Information</item>
+					<item>
+						<item>Financing Proposed: Cash, Conventional, FHA</item>
+					</item>
+				</item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Subdivision Name: Piedmont Park 03</item>
+						<item>Directions: From I175, go east on Lake June. Turn left on Templecliff Dr. and house will be the second to last house on the left before getting to St. Regis Dr.</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item># of Living Areas: 1</item>
+						<item>Exclusions: Washer and dryer</item>
+						<item>For Sale</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item># of Stories: 1</item>
+						<item>Range/Oven (Gas)</item>
+						<item>Has Security System</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Block: 96236</item>
+						<item>Lot Number: 11</item>
+						<item>Size: 0-.5 Acre</item>
+						<item>Lot Size Units: Acres</item>
+						<item>Area: 0.177</item>
+						<item>Area Sq. Ft.: 7,710.12</item>
+						<item>Parcel Number: 00000545620000000</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,407</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,407</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>7,714 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1957</Year_Built>
+		<Year_Renovated>1957</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000545620000000</APN>
+	</public_facts>
+</home>

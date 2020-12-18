@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,395,000</price>
+		<bd>5</bd>
+		<ba>5</ba>
+		<area>6,796</area>
+	</summary>
+	<address>
+		<street_address>8224 Chalk Knoll Dr,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Villa Fazio is a Mediterranean inspired two-story stucco home which backs to the Fazio Foothills Golf Course. Located in the prestigious gated Woods II development, it is a leisurely 10 minute walk out the back door to the Barton Creek CC. This home boasts soaring ceiling/arches, marble/mesquite floors, with exquisite detailing and faux painting, pool, gazebo bar &amp; grill. Magnificent landscaping, majestic 10 ft. tall fountain enclosed in private courtyard with relaxing soft color evening light show.Guest Accommodations: Yes Restrictions: Yes  Sprinkler Sys:YesRead more</overview>
+	<listing_agent>
+		<agentName>Patrick Huddleston</agentName>
+		<phoneNumber>512-413-7174</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Violet Crown Properties</postingGroupName>
+		<postingWebsiteLinkText>Violet Crown Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2001</key>
+		<key name="Heating:">Forced air, Electric, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">3 spaces</key>
+		<key name="Lot:">0.54 Acres</key>
+		<key name="Price/sqft:">$352</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 4</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor</item>
+				<item>Laundry features: Washer Hookup, Electric Dryer Hookup, Gas Dryer Hookup, Stackable W/D Connections</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 6,796 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 3</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 2</item>
+				<item>Entry location: 1st Floor Entry,Entry Steps</item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Exterior features: Stone, Stucco</item>
+				<item>Patio and porch details: Patio, Porch, Covered</item>
+				<item>Residential vegetation: Trees-Large (Over 40 Ft)</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.54 Acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01133401050000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Foundation: Slab</item>
+				<item>Roof: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2001</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Electricity Available, Natural Gas Available, Phone Connected, Internet-Cable</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 83.99</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Security Lights, Security System Owned</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

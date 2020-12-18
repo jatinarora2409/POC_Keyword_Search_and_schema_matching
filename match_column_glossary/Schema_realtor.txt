@@ -1,0 +1,5 @@
+offer(validFrom,price,price_currency,url,agent_id,property_id)
+mortgage(principal_interest,property_tax_section,hone_insurance,hoa,property_id)
+RealEstateAgent(branding_agent_name,branding_office_name,agent_id,property_id)
+address(property_id,streetAddress,address_locality,address_region,postal_code,longitude,latitude)
+property_overview(price_per_sqft,property_type,property_year,home_style,description,beds,bath,sqft,lotsize,property_id)

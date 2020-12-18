@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$899,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>700</area>
+	</summary>
+	<address>
+		<street_address>1998 Broadway APT 902,</street_address>
+		<city_state> San Francisco, CA 94109</city_state>
+	</address>
+	<overview>Welcome to this bright 1 bed 1 bath home with floor to ceiling windows in one of Pacific Heights most prestigious full service buildings. This home features an open floorplan with a large dining/living room that leads to a sunroom with views of our gorgeous San Francisco Bay and Marin! Amenities include a walk-in closet, a generous parking space in a secure garage, deeded storage, elevators, doorman service and a spectacular shared roof deck with iconic views of the Bay, the Golden Gate Bridge and San Francisco. Walking distance to Union Street, Fillmore Street, Polk Street and three blocks from Lafayette Park.Read more</overview>
+	<listing_agent>
+		<agentName>Simran Alden</agentName>
+		<phoneNumber>415-655-5600</phoneNumber>
+		<agentLicenseNumber>License #01966755</agentLicenseNumber>
+		<postingGroupName>Vanguard Properties</postingGroupName>
+		<postingWebsiteLinkText>Vanguard Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1964</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">$1,151/mo</key>
+		<key name="Price/sqft:">$1,284</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 1</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 700 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 0567072</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: concrete</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1964</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 92.84</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: On Site Laundry Available</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

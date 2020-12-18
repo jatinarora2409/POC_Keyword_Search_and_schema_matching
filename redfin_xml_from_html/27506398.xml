@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>503 N 40TH Ave </street-address>
+		<locality>Phoenix, </locality>
+		<region>AZ</region>
+		<postal-code>85009</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$750,000</Price>
+		<Beds>3</Beds>
+		<Baths>2</Baths>
+		<key name="$377 / Sq. Ft.">1,989</key>
+	</main_stats>
+	<text_base_description>2 for 1 !  Huge horse property close to 3 freeways ! This property offers two single family homes and has space for much more. Completely remodeled in 2018, everything in the interior of the home is new including the A/C on both properties. Main house offers 3 bedrooms and 2 baths. Guest house offers 2 bedrooms and 1 bath with its own kitchen and living room. Great for businesses or multifamily income.  </text_base_description>
+	<listed_by>
+		<name>Keylani Ortiz</name>
+		<org> Realty ONE Group</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$750,000</List_Price>
+		<Est._Mo._Payment>$2,935</Est._Mo._Payment>
+		<key name="Price/Sq.Ft.">$377</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>21 days</Time_on_Redfin>
+		<Property_Type>Single Family Detached</Property_Type>
+		<Year_Built>1946</Year_Built>
+		<Community>REYNOLDS PARK</Community>
+		<Lot_Size>0.72 Acres</Lot_Size>
+		<key name="MLS#">6128975</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat>Bedrooms Plus: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms: 2</group_dat>
+						<group_dat>3/4 Master Bathroom</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen &amp; Dining Information</heading>
+					<group_data>
+						<group_dat>Formal Dining Area</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Family Room, Guest Quarters (Separate Entrance)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Appliances &amp; Equipment</heading>
+					<group_data>
+						<group_dat>Washer/Dryer Hookup Only</group_dat>
+						<group_dat>3+ Existing Telephone Lines</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat># of Interior Levels: 1</group_dat>
+						<group_dat>Windows: Dual-Pane</group_dat>
+						<group_dat>1 Fireplace</group_dat>
+						<group_dat>Tile Floors</group_dat>
+						<group_dat>Fixer-Upper/Needs Repair</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Electric Heating</group_dat>
+						<group_dat>Refrigeration</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Homeowners Association, School / Neighborhood, Utilities</heading>
+			<details>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 6</group_dat>
+						<group_dat># of Total Parking Spaces (Covered): 6</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>No HOA</group_dat>
+						<group_dat>Capital Improvement/Impact Fee: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee Type: Percentage</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2: 0</group_dat>
+						<group_dat>Capital Improvement/Impact Fee #2 Type: Percentage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: Alta E. Butler</group_dat>
+						<group_dat>Junior High School: Morris K. Udall</group_dat>
+						<group_dat>High School: Youngker</group_dat>
+						<group_dat>Elementary School District: 005 - Isaac Elementary District</group_dat>
+						<group_dat>High School District: 210 - Phoenix Union High School District</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water</group_dat>
+						<group_dat>Sewer (Public)</group_dat>
+						<group_dat>Utilities: Salt River Project</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Pool &amp; Spa Information</heading>
+					<group_data>
+						<group_dat>Private Pool</group_dat>
+						<group_dat>Private</group_dat>
+						<group_dat>Private Pool</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Block Construction</group_dat>
+						<group_dat>Painted Exterior, Stucco Exterior</group_dat>
+						<group_dat>Composition Shingle Roof</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>Exterior Stories: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Guest House Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 750</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat>Patio, Separate Guest House</group_dat>
+						<group_dat>Horses</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Guest House Sq. Ft.: 750</group_dat>
+						<group_dat>Approximate Sq. Ft. Range: 1,801-2,000</group_dat>
+						<group_dat>Sq. Ft. Source: County Assessor</group_dat>
+						<group_dat>Builder Name: Unknown</group_dat>
+						<group_dat>All on One Level</group_dat>
+						<group_dat>Dwelling Styles: Detached</group_dat>
+						<group_dat>Tax Municipality: Maricopa County</group_dat>
+						<group_dat>Assessor Number: 106-03-027</group_dat>
+						<group_dat>Assessor's Book #: 106</group_dat>
+						<group_dat>Assessor's Map #: 3</group_dat>
+						<group_dat>Assessor's Parcel #: 27</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Approximate Lot Size Range: 24,001 - 35,000</group_dat>
+						<group_dat>Block Fencing</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: 40th Ave &amp; Van Buren</group_dat>
+						<group_dat>Census Tract: 3.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Reports &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Agency Disclosure Required, Seller Disclosure Available</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>2</Baths>
+		<Finished_Sq._Ft.>1,989</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,989</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>0.72 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1946</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Maricopa County</County>
+		<APN>10603027</APN>
+	</public_facts>
+</home>

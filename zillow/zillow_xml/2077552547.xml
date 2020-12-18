@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,395,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>--</area>
+	</summary>
+	<address>
+		<street_address>2789 Bryant St,</street_address>
+		<city_state> San Francisco, CA 94110</city_state>
+	</address>
+	<overview>Newly remodeled, vacant and turnkey! Featuring 10-ft. cove ceilings, wainscoting and refinished oak floors. Airy eat-in kitchen w/floor-to-ceiling custom cabinets and stunning bathroom with Strasser vanity, Hauschen mirror &amp; high-fire porcelain tile. Dining room can serve as a multi-purpose room, or home office. Bright sunroom is a great place to sip a glass of wine overlooking the garden. Large garden-level finished bonus space adds substantial value to the property. Possible ADU or connect the 2 levels? Celebrated warm Mission weather makes the secluded garden a year-round haven w/fountain &amp; Meyer lemon tree. Huge garage w/1-car independent parking, plus storage. Positioned for condo-conversion w/new TIC agreement in place (buyer to verify). Entire building is also available. Steps to 24th St, Precita Park, fine dining, and nightlife, plus easy BART &amp; freeway access. Quintessential SF living in one of the most vibrant neighborhoods in the city!Read more</overview>
+	<listing_agent>
+		<agentName>Claudia Siegel</agentName>
+		<phoneNumber>415-660-9955</phoneNumber>
+		<agentLicenseNumber>License #01440745</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">No Data</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="HOA:">No Data</key>
+		<key name="Price/sqft:">No Data</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco, Wood</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 507770</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Floors: Hardwood, Tile</item>
+				<item>Laundry Appliances: Washer/Dryer</item>
+				<item>TIC Agreement: Yes</item>
+				<item>Transportation: 1 Block</item>
+				<item>Property Subtype 1: Tenancy In Common</item>
+				<item>Square Footage Source: Not Available</item>
+				<item>Status: Active</item>
+				<item>Bath Type/Includes: Shower Over Tub</item>
+				<item>Exterior: Stucco, Wood Siding</item>
+				<item>Heating/Cooling: Central Heating</item>
+				<item>District: SF District 9</item>
+				<item>Other Room(s): Storage, Office, Den/Study</item>
+				<item>Shopping: 2 Blocks</item>
+				<item>Style: Edwardian</item>
+				<item>Driveway/Sidewalks: Paved Driveway</item>
+				<item>Roof: Shingle</item>
+				<item>Energy Conservation: Low-Flow Toilet(s), Weather Stripped</item>
+				<item>Subdist: Inner Mission</item>
+				<item>Parking Type: Designated On Site</item>
+				<item>Parking Access: Independent</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

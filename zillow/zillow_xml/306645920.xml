@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$3,350,000</price>
+		<bd>4</bd>
+		<ba>5</ba>
+		<area>4,961</area>
+	</summary>
+	<address>
+		<street_address>8417 Valerio Ln,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>This Spec home is currently under construction, available Summer, 2021. Heyl Homes launches their newest Furnished Model Home located at 5017 Peralta Lane!! Tour this home and other properties that Heyl Homes has to offer in Amarra Phase II &amp; III of Barton Creek. The model home is open Monday-Sunday 10am-5pm.Read more</overview>
+	<listing_agent>
+		<agentName>Heyl Group- Austin</agentName>
+		<phoneNumber>512-448-4111</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Realty</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">5 spaces</key>
+		<key name="HOA:">$308/month</key>
+		<key name="Lot:">3.67 acres</key>
+		<key name="Price/sqft:">$675</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 5</item>
+				<item>Full bathrooms: 4</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Carpet, Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 4,961 sqft</item>
+				<item>Total number of fireplaces: 2</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 5</item>
+				<item>Has uncovered spaces: Yes</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Private pool: Yes</item>
+				<item>Spa included: Yes</item>
+				<item>Patio and porch details: Patio, Covered</item>
+				<item>Residential vegetation: Heavily Wooded</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 3.67 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 01034003020000</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2020</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Natural Gas Available, Sewer Connected, Above Ground</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Community</item>
+			<item>
+				<item>Community features: Gated, Golf</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

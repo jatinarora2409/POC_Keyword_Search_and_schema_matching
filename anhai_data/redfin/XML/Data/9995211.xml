@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2749 Unicorn Ln NW </street-address>
+		<locality>Washington, </locality>
+		<region>DC</region>
+		<postal-code>20015</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,095,000</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$351 / Sq. Ft.">3,120</key>
+	</main_stats>
+	<text_base_description> * Lafayette ES, Deal MS and Wilson HS district! *  Rarely-available 3-bed, 3.5-bath townhome with over 3100 sq ft in idyllic Chatsworth: a quiet enclave of townhomes across from Rock Creek Park! Gorgeous hardwood floors throughout. Stunning light-filled great room with 2-story ceiling is the centerpiece of this home. Relax by the cozy wood-burning fireplace or enjoy the serene tree-lined views from the balcony. Bright and airy kitchen with white cabinets, gleaming granite countertops, stainless steel appliances, french-door refrigerator, and eat-in breakfast peninsula. Kitchen opens to large formal dining room with overlook views of great room. Spacious lower-level family room boasts beautiful wood built-ins, renovated full bath, and access to fully-fenced outdoor patio with slate tiles, perfect for a BBQ or evening drink in your own private oasis! Owner's Suite offers ample closet space, spa-like bath with dual-sink vanity and tiled stand-up shower, plus peaceful views of wooded area. Two additional bedrooms and full bath complete the upper level. One-car garage and driveway plus plenty of visitor parking throughout. Unbeatable location is just steps to Rock Creek Park and easy access to downtown DC, White House, Capitol Hill, Friendship Heights, Bethesda, Chevy Chase, and more.  </text_base_description>
+	<listed_by>
+		<name>Sheena Saydam</name>
+		<org> Keller Williams Capital Properties</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,095,000</List_Price>
+		<Est._Mo._Payment>$4,578</Est._Mo._Payment>
+		<Redfin_Estimate>$1,080,101</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$351</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>29 days</Time_on_Redfin>
+		<HOA_Dues>$150/month</HOA_Dues>
+		<Year_Built>1979</Year_Built>
+		<Style>Colonial</Style>
+		<Community>CHEVY CHASE</Community>
+		<Lot_Size>2,080 Sq. Ft.</Lot_Size>
+		<key name="MLS#">DCDC484172</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Homeowners Association, School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour Unbranded (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Attached Garage Spaces: 1</group_dat>
+						<group_dat>Garage Features: Garage - Front Entry</group_dat>
+						<group_dat># of Total Garage and Parking Spaces: 2</group_dat>
+						<group_dat>Has Garage</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Driveway - # of Spaces: 1</group_dat>
+						<group_dat>Attached Garage, Driveway</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA/Condo/Coop Fee Includes: Common Area Maintenance</group_dat>
+						<group_dat>HOA Fee: $1,800</group_dat>
+						<group_dat>HOA Fee Frequency: Annually</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School: LAFAYETTE</group_dat>
+						<group_dat>Middle Or Junior School: DEAL JUNIOR HIGH SCHOOL</group_dat>
+						<group_dat>High School: WILSON</group_dat>
+						<group_dat>School District Name: DISTRICT OF COLUMBIA PUBLIC SCHOOLS</group_dat>
+						<group_dat>Elementary School Source: Listing Agent</group_dat>
+						<group_dat>Middle School Source: Listing Agent</group_dat>
+						<group_dat>High School Source: Listing Agent</group_dat>
+						<group_dat>School District Source: Listing Agent</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms On 1st Upper Level: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Bathrooms (Full) On 1st Upper Level: 2</group_dat>
+						<group_dat># of Bathrooms (Half) On Main Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On 1st Lower Level: 1</group_dat>
+						<group_dat># of Bathrooms (Full) On All Upper Levels: 2</group_dat>
+						<group_dat># of Bathrooms (Full) On All Lower Levels: 1</group_dat>
+						<group_dat># of Bathrooms (Half): 1</group_dat>
+						<group_dat># of Bathrooms (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Information</heading>
+					<group_data>
+						<group_dat>Appliances: Built-In Microwave, Dishwasher, Disposal, Refrigerator, Stove, Washer, Dryer, Stainless Steel Appliances</group_dat>
+						<group_dat>Flooring Type: Hardwood</group_dat>
+						<group_dat>Interior Features: Kitchen - Gourmet, Wood Floors, Built-Ins, CeilngFan(s), Chair Railings, Crown Moldings</group_dat>
+						<group_dat>Living Area Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Has Fireplace</group_dat>
+						<group_dat># of Fireplaces: 1</group_dat>
+						<group_dat>Wood</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Central Air</group_dat>
+						<group_dat>Cooling Type: Central A/C</group_dat>
+						<group_dat>Cooling Fuel: Electric</group_dat>
+						<group_dat>Forced Air</group_dat>
+						<group_dat>Heating Fuel: Electric</group_dat>
+						<group_dat>Hot Water: Electric</group_dat>
+						<group_dat>Sewer Septic: Public Sewer</group_dat>
+						<group_dat>Water Source: Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Outside City Limits</group_dat>
+						<group_dat>Directions: google maps</group_dat>
+						<group_dat>Location Type: Near National Park</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Tax Information</heading>
+					<group_data>
+						<group_dat>City/Town Tax: $7,753</group_dat>
+						<group_dat>Tax Assessed Value: $1,014,900</group_dat>
+						<group_dat>Tax Year: 2019</group_dat>
+						<group_dat>Tax Annual Amount: $7,753</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessments Information</heading>
+					<group_data>
+						<group_dat>Year Assessed: 2019</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Total Below Grade Sq. Ft.: 0</group_dat>
+						<group_dat>Improvement Assessed Value: $603,270</group_dat>
+						<group_dat>Ownership Interest: Fee Simple</group_dat>
+						<group_dat>Year Built Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Construction Materials: Brick</group_dat>
+						<group_dat>Other Structures: Above Grade, Below Grade</group_dat>
+						<group_dat>Outdoor Living Structures: Patio(s), Balcony</group_dat>
+						<group_dat>Structure Type: Interior Townhouse/Rowhouse</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Tidal Water: No</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Land Information</heading>
+					<group_data>
+						<group_dat>Land Assessed Value: $411,630</group_dat>
+						<group_dat>Soil Types: Udorthents, Loam</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Above Grade Information</heading>
+					<group_data>
+						<group_dat>Finished Sq.Ft.: 3,120</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Below Grade Information</heading>
+					<group_data>
+						<group_dat>Unfinished Sq.Ft. Source: Assessor</group_dat>
+						<group_dat>Finished Sq.Ft. Source: Assessor</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<Finished_Sq._Ft.>3,120</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>3,120</Total_Sq._Ft.>
+		<Stories>3</Stories>
+		<Lot_Size>2,080 Sq. Ft.</Lot_Size>
+		<Style>Townhouse</Style>
+		<Year_Built>1979</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>District of Columbia</County>
+		<APN>2345    0022</APN>
+	</public_facts>
+</home>

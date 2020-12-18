@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,800,000</price>
+		<bd>20</bd>
+		<ba>13</ba>
+		<area>8,062</area>
+	</summary>
+	<address>
+		<street_address>5325 Huntington Dr,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>We are pleased to present for sale a unique opportunity to acquire a meticulously maintained apartment building built in 1991 located at 5325 Huntington Drive North. It is uniquely positioned in the exciting, up-and-coming North East Los Angeles submarket, which is proximate to Highland Park, Pasadena, and Downtown Los Angeles. It is located only ten minutes North East of the USC Medical Center and fifteen minutes North East of Downtown Los Angeles. The eight-unit building is comprised of three two-bedroom/one-bathroom units, one two-bedroom/two-bathroom unit, and four three-bedroom/two-bathroom units.Read more</overview>
+	<listing_agent>
+		<agentName>Sean Rosenzweig</agentName>
+		<phoneNumber>213-943-1800</phoneNumber>
+		<agentLicenseNumber>License #01406343</agentLicenseNumber>
+		<postingGroupName>Marcus &amp; Millichap</postingGroupName>
+		<postingWebsiteLinkText>Marcus &amp; Millichap</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1991</key>
+		<key name="Heating:">No Data</key>
+		<key name="Cooling:">Other</key>
+		<key name="Parking:">16 spaces</key>
+		<key name="Price/sqft:">$347</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 20</item>
+				<item>Bathrooms: 13</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Other</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 8,062 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 16</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 16</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,496 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1991</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 20636214</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>County: Los Angeles</item>
+				<item>ListingStatus: Active</item>
+				<item>PropertyType: Residential Income</item>
+				<item>SourceLotSizeArea: Assessor</item>
+				<item>Equipment: Other</item>
+				<item>Cooling: Other</item>
+				<item>SourceLivingArea: Assessor</item>
+				<item>Heating: Other</item>
+				<item>SourceLotSizeDimensions: Assessor</item>
+				<item>ParkingGarage: Covered Parking</item>
+				<item>Country: US</item>
+				<item>ListingArea: El Sereno</item>
+				<item>UnitTypeType: 2106, 2107, 2108, 2109, 2110, 2111, 2112, 2113</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>7324 Fairport Rd </street-address>
+		<locality>Dallas, </locality>
+		<region>TX</region>
+		<postal-code>75217</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$187,000</Price>
+		<Beds>2</Beds>
+		<Bath>1</Bath>
+		<key name="$117 / Sq. Ft.">1,600</key>
+	</main_stats>
+	<text_base_description>Lot value only. House has water damage and mold. Property being sold AS IS. Lot size about 1.68 acres across from and backs up to park land. Buyer to verify all information. Please call Agent for showing </text_base_description>
+	<listed_by>
+		<name>Vananh Tran</name>
+		<org> Citiwide Alliance Realty</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$187,000</List_Price>
+		<Est._Mo._Payment>$961</Est._Mo._Payment>
+		<Redfin_Estimate>$179,394</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$117</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>128 days</Time_on_Redfin>
+		<Property_Type>Residential, Single Family</Property_Type>
+		<Year_Built>1940</Year_Built>
+		<Style>Single Detached, A-Frame, Other (See Remarks)</Style>
+		<Community>Woodland Park Estates</Community>
+		<Lot_Size>1.68 Acres</Lot_Size>
+		<key name="MLS#">14356639</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat># of Rooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room 1 Information</heading>
+					<group_data>
+						<group_dat>Room Type: Master Bedroom</group_dat>
+						<group_dat>Level: 1</group_dat>
+						<group_dat>Dimensions: </group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Other (See Remarks)</group_dat>
+						<group_dat># of Dining Areas: 1</group_dat>
+						<group_dat># of Fireplaces: 2</group_dat>
+						<group_dat>Fireplace Features: Wood Burning</group_dat>
+						<group_dat>Flooring: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Heat (Electric), Central Heat (Gas), Window Unit</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, School / Neighborhood, Utilities, Financing</heading>
+			<details>
+				<detail>
+					<heading>Parking &amp; Garage</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Carport): 1</group_dat>
+						<group_dat># of Parking Spaces (Garage): 1</group_dat>
+						<group_dat># of Parking Spaces (Total Covered): 2</group_dat>
+						<group_dat>Garage Dimensions: </group_dat>
+						<group_dat>Detached</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>Elementary School Name: Blair</group_dat>
+						<group_dat>Middle School Name: Comstock</group_dat>
+						<group_dat>High School Name: Spruce</group_dat>
+						<group_dat>School District: Dallas ISD</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utility Information</heading>
+					<group_data>
+						<group_dat>City Water, Septic</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Financial Information</heading>
+					<group_data>
+						<group_dat>Financing Proposed: Cash, Conventional</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Pre-Owned</group_dat>
+						<group_dat>Building Area Source: Tax</group_dat>
+						<group_dat>Foundation: Pier &amp; Beam</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Roof: Composition</group_dat>
+						<group_dat>Exterior Construction: Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>For Sale</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Features</heading>
+					<group_data>
+						<group_dat># of Stories: 1</group_dat>
+						<group_dat>Other (See Remarks)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Block: 1/7969</group_dat>
+						<group_dat>Lot Number: 1</group_dat>
+						<group_dat>Features: Acreage, Heavily Treed, Irregular, Large Backyard Grass</group_dat>
+						<group_dat>Size: 1-2.99 Acres</group_dat>
+						<group_dat>Lot Size Units: Acres</group_dat>
+						<group_dat>Area: 1.680</group_dat>
+						<group_dat>Area Sq. Ft.: 73,180.8</group_dat>
+						<group_dat>Lot Size Dimensions: 228 x 325</group_dat>
+						<group_dat>Parcel Number: 00000781127800000</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details, Documents &amp; Disclosures</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Subdivision Name: Woodland Park Estates</group_dat>
+						<group_dat>Directions: East on 175 on Loop 12, South on Longbranch, right on Fairport.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Available Documents</heading>
+					<group_data>
+						<group_dat>Aerial Photo</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>2</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>1,600</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,600</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>1.68 Acres</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1940</Year_Built>
+		<Year_Renovated>1940</Year_Renovated>
+		<County>Dallas County</County>
+		<APN>00000781127800000</APN>
+	</public_facts>
+</home>

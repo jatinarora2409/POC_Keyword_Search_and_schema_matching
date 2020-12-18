@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1390 Hayes St #2 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94117</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$899,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$1032 / Sq. Ft.">871</key>
+	</main_stats>
+	<text_base_description>Located in a boutique 4 unit building, and steps from the many restaurants, shops and markets of the NOPA corridor, this spacious 1 bed condo combines not just the convenience of the neighborhood, but also the style. Located in the rear of the building with outlooks of the landscaped yard, the home is flooded with great light throughout. This is a spacious condo, with the bedroom easily big enough for a king bed. Huge walk-in custom closet. The main room has both a dining area as well as a living room. There is also an office alcove for working from home. The kitchen with stainless steel appliances, marble countertops and ample storage is perfect for the stay home chef. If one prefers not to cook, Divisadero and its many culinary treats could be your pantry. A remodeled bath offers a floating vanity as well an updated tiled shower over tub. The landscaped yard has been thoughtfully designed with fruit trees, fire pit and BBQ. In-unit washer and dryer, storage and 1 car parking.  </text_base_description>
+	<listed_by>
+		<name>David Cohen</name>
+		<agentLicenseDisplay>•DRE #01447526</agentLicenseDisplay>
+		<org> City Real Estate</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$899,000</List_Price>
+		<Est._Mo._Payment>$4,109</Est._Mo._Payment>
+		<Redfin_Estimate>$907,645</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,032</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>4 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$532/month</HOA_Dues>
+		<Year_Built>1929</Year_Built>
+		<Community>North Panhandle</Community>
+		<key name="MLS#">507588</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Homeowners Association</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>On-Site Parking Mapped</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $532.80</group_dat>
+						<group_dat>Dues Paid: Monthly</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Bath Type/Includes: Shower Over Tub</group_dat>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 1 Bedroom, 1 Bath, Living Room, Kitchen</group_dat>
+						<group_dat># of Rooms: 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details, Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat># of Units: 4</group_dat>
+						<group_dat>Per Graphic Artist</group_dat>
+						<group_dat>APN: 1201065</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Broderick St.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $899,000</group_dat>
+						<group_dat>On Market Date: Monday, October 5, 2020</group_dat>
+						<group_dat>Transfer of Possession: Close of Escrow</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>792</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1929</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>1201 065</APN>
+	</public_facts>
+</home>

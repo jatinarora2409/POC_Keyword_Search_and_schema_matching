@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,000,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>3,455</area>
+	</summary>
+	<address>
+		<street_address>4938 Gambier St,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>4938 Gambier Street is a 1920 construction that consists of two duplexes with all two-bedroom one-bath units, one of which is non-conforming, and all units are separately metered for gas and electricity. The property offers in-unit laundry hookups, four surface parking spaces, and an underutilized back patio.   The property is located in Northeast Los Angeles south of Huntington Drive, two blocks from El Sereno Middle School, and just two miles from Cal State Los Angeles and the 710 and 10 freeways.   This offering presents a great opportunity for an astute investor to add value and capture significant upside in rents.Read more</overview>
+	<listing_agent>
+		<agentName>Steven Bogoyevac</agentName>
+		<phoneNumber>562-436-5800</phoneNumber>
+		<agentLicenseNumber>License #01332755</agentLicenseNumber>
+		<postingGroupName>Steven M. Bogoyevac, Broker</postingGroupName>
+		<postingWebsiteLinkText>Steven M. Bogoyevac, Broker</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1920</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">No Data</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Price/sqft:">$289</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Laundry features: Washer Hookup, Electric Dryer Hookup</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 3,455 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 4</item>
+				<item>Parking features: Covered</item>
+				<item>Garage spaces: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,836 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5218010024</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1920</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 89.76</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

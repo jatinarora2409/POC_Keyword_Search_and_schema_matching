@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>944 N Stanley Ave #3 </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,295,000</Price>
+		<Beds>3</Beds>
+		<Baths>3.5</Baths>
+		<key name="$833 / Sq. Ft.">1,555</key>
+	</main_stats>
+	<text_base_description>Situated in the heart of West Hollywood, this modern architectural townhome is one of five residences at Stanview Court. Built in 2014, and located on a coveted tree-lined street between Santa Monica Blvd and Melrose Avenue, the home boasts three stories of light-filled, open-plan living spaces, with wide-plank hardwood floors and floor-to-ceiling windows. The great room boasts spacious living and dining spaces, and a European-style kitchen with Caesarstone countertops and premier stainless-steel appliances. Upstairs, find three ensuite bedrooms, the elegant owner's retreat, featuring a soaking tub and shower, dual vanities, private balcony, and sweeping Hollywood Hills views. The rooftop terrace with multi-directional views is ideal for lounging and entertaining. Additional features include a main floor powder room, a dual-zone HVAC system, and 2 gated parking spaces. Located moments from Whole Foods, Beverly Grove, and world-class shopping, dining, and entertainment.  </text_base_description>
+	<listed_by>
+		<name>Jon Grauman</name>
+		<agentLicenseDisplay>•DRE #01469825</agentLicenseDisplay>
+		<org>•DRE #01469825</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,295,000</List_Price>
+		<Est._Mo._Payment>$5,972</Est._Mo._Payment>
+		<Redfin_Estimate>$1,280,651</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$833</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>22 days</Time_on_Redfin>
+		<Property_Type>Townhouse, Residential Condo/Co-Op</Property_Type>
+		<HOA_Dues>$399/month</HOA_Dues>
+		<Year_Built>2014</Year_Built>
+		<Style>Architectural</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,460 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-634138</key>
+	</home_facts>
+	<property_details>
+		<item>
+			<item>Interior Features</item>
+			<item>
+				<item>
+					<item>Bathroom Information</item>
+					<item>
+						<item># of Baths (Full): 3</item>
+						<item># of Baths (1/2): 1</item>
+					</item>
+				</item>
+				<item>
+					<item>Laundry Information</item>
+					<item>
+						<item>Laundry Inside</item>
+					</item>
+				</item>
+				<item>
+					<item>Additional Rooms</item>
+					<item>
+						<item>Family Room</item>
+						<item>Family Room, Master Bedroom, Dining Area</item>
+					</item>
+				</item>
+				<item>
+					<item>Flooring Information</item>
+					<item>
+						<item>Tile Floors, Hardwood Floors</item>
+					</item>
+				</item>
+				<item>
+					<item>Equipment</item>
+					<item>
+						<item>Built-Ins, Dishwasher, Refrigerator, Elevator, Range/Oven</item>
+					</item>
+				</item>
+				<item>
+					<item>Heating &amp; Cooling</item>
+					<item>
+						<item>A/C</item>
+						<item>Central Heat</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Parking / Garage</item>
+			<item>
+				<item>
+					<item>Garage</item>
+					<item>
+						<item>Garage</item>
+					</item>
+				</item>
+				<item>
+					<item>Parking</item>
+					<item>
+						<item># of Parking Spaces (Total): 2</item>
+						<item># of Covered Parking Spaces: 2</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Exterior Features, Homeowners Association, School / Neighborhood, Taxes / Assessments</item>
+			<item>
+				<item>
+					<item>Building Information</item>
+					<item>
+						<item>Total Floors: 3</item>
+						<item>Condominium, Townhouse, Attached</item>
+						<item>Attached</item>
+						<item>Entry Floor Number: 1</item>
+						<item>Security Features: Other</item>
+					</item>
+				</item>
+				<item>
+					<item>HOA Information</item>
+					<item>
+						<item>Amenities: Sun Deck</item>
+						<item>Fee #1: $399</item>
+						<item>Fee #1 Frequency: Monthly</item>
+						<item>AssociationPetRules: Call</item>
+					</item>
+				</item>
+				<item>
+					<item>Community Information</item>
+					<item>
+						<item># of Units in Complex (Total): 5</item>
+					</item>
+				</item>
+				<item>
+					<item>Assessment Information</item>
+					<item>
+						<item>Assessor Parcel Number: 5530-022-026</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Property / Lot Details</item>
+			<item>
+				<item>
+					<item>Property Information</item>
+					<item>
+						<item>Property Type: Residential Condo/Co-Op</item>
+					</item>
+				</item>
+				<item>
+					<item>Lot Information</item>
+					<item>
+						<item>Lot Size (Sq. Ft.): 6,460</item>
+						<item>Lot Size (Acres): 0.1483</item>
+						<item>Zoning: WDR3C*</item>
+						<item>Special Zoning: Property Report</item>
+					</item>
+				</item>
+				<item>
+					<item>Property Features</item>
+					<item>
+						<item>Has View</item>
+						<item>View: Hills</item>
+					</item>
+				</item>
+			</item>
+		</item>
+		<item>
+			<item>Location Details, Documents &amp; Disclosures</item>
+			<item>
+				<item>
+					<item>Location Information</item>
+					<item>
+						<item>Unit Floor In Building: 1</item>
+						<item>Complex Name: Stanview Court</item>
+						<item>Directions: GPS</item>
+					</item>
+				</item>
+				<item>
+					<item>Documents &amp; Disclosures</item>
+					<item>
+						<item>Disclosures: As Is</item>
+					</item>
+				</item>
+			</item>
+		</item>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>4</Baths>
+		<Finished_Sq._Ft.>1,555</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,555</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>2014</Year_Built>
+		<Year_Renovated>2014</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5530022026</APN>
+	</public_facts>
+</home>

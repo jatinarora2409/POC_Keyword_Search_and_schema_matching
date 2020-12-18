@@ -1,0 +1,21 @@
+Table Name,Description and More information
+t_price,t_Offer price of the residence in USD
+price_per_sqft,Price per square feet of the residence
+a_property_type,a_Listed residence of the property type
+k_property_year,k_Listed residence built-in year
+j_home_style,j_Residences style of construction
+t_description,t_Residence description
+x_beds,x_Number of Bedrooms of the residence listed
+u_bath,u_Number of Bathrooms of the residence listed
+b_sqft,b_Area size of the residence in square feet
+w_lotsize,w_Lot Area size of the residence in acres
+x_streetAddress,x_Address of the residence
+y_address_locality,y_City of the residence
+z_address_region,z_region of the residence
+t_postal_code,t_postal code/zip code of the residence
+a_longitude,a_Residences geographical coordinates
+b_latitude,b_Residences geographical coordinates
+c_branding_agent_name,c_Realtors Name
+d_branding_office_name,d_Realtors Office Name
+e_principal_interest,e_Residences monthly mortgage payment
+f_property_tax_section,f_Tax amount of the residence for 2019

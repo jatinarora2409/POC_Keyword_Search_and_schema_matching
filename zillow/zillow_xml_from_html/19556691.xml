@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,099,000</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>985</area>
+	</summary>
+	<address>
+		<street_address>2090 Main St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>COMPLETELY RENOVATED HOME WITH HIGH END FINISHES. This remarkable home features a master suite, open kitchen concept with quartz countertops, breakfast bar and stainless steel appliances, bathrooms have been beautifully designed, updated flooring throughout, new copper plumbing, tankless water heater, recessed lighting, updated electrical with 200 AMP power, new doors and baseboards, dual pane windows, indoor laundry, smooth finish exterior stucco, finished garage, and an absolutely stunning backyard with mature landscaping and various fruit trees. ADDED BONUS!!!! PROPERTY HAS APPROVED PLANS FOR THIRD BEDROOM AND ACCESSORY DWELLING UNITRead more</overview>
+	<listing_agent>
+		<agentName>Joshua Michaelian</agentName>
+		<phoneNumber>408-887-2862</phoneNumber>
+		<agentLicenseNumber>License #01768226</agentLicenseNumber>
+		<postingGroupName>Joshua Michaelian, Broker</postingGroupName>
+		<postingWebsiteLinkText>Joshua Michaelian, Broker</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1954</key>
+		<key name="Heating:">Other</key>
+		<key name="Cooling:">None</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">6,019 sqft</key>
+		<key name="Price/sqft:">$1,116</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 2</detail>
+				<detail>Bathrooms: 2</detail>
+				<detail>Full bathrooms: 2</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Carpet, Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Other</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 985 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 6,019 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 22422039</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: wood frame</detail>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1954</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1954</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Public Utilities</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 86.86</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $134,143</detail>
+				<detail>Annual tax amount: $1,769</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81811575</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Building Type: Detached</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Garage Parking Features: Attached Garage</detail>
+				<detail>Lot Size Area Maximum Units: Square Feet</detail>
+				<detail>Lot Size Area Minimum Units: Square Feet</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Family Room: Separate Family Room</detail>
+				<detail>Foundation: Concrete Slab</detail>
+				<detail>Water: Public</detail>
+				<detail>Dining Room: Breakfast Bar</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Heating: Wall Furnace</detail>
+				<detail>Utilities: Public Utilities</detail>
+				<detail>Sewer Septic: Sewer - Public</detail>
+				<detail>Roof: Rolled Composition</detail>
+				<detail>HOA Exist Y/N: 0</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

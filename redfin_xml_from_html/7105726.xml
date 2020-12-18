@@ -1,0 +1,322 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>936 N Harper Ave </street-address>
+		<locality>West Hollywood, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$3,250,000</Price>
+		<Beds>5</Beds>
+		<Baths>4</Baths>
+		<key name="$1182 / Sq. Ft.">2,750</key>
+	</main_stats>
+	<text_base_description>New Build in 2020, The Harper Homes are a Modern, Gated  &amp;  Secured Re-Developed Fourplex community, that consists of 4 separate single-family homes, with separate keyless entrances, and 2 patio spaces in each unit. Each house is strategically built with an open floorplan maximizing space, and the feel of new custom homes. Located in the best part of West Hollywood, each house shattered all lease records (price per SQFT), in the zip code. This building includes, but is not limited to; Gated Community, Security Cameras, Private Entrances into Each Unit, multiple patio areas in each unit, A new set of ALL Appliances in all units (Washer, Dryer, Refrigerator, Stove, Microwave, Dishwashers), High-End Granite and Tile inside and outside of each unit, Landscaping, custom closets, Vinyl waterproof flooring, light dimmers, etc. Nothing is leased, everything is owned. ALL UNITS LEASED TO HIGH-QUALITY LONG TERM TENANTS. $14,050/m in income.  </text_base_description>
+	<listed_by>
+		<name>Mikhail Siretskiy</name>
+		<agentLicenseDisplay>•DRE #01937519</agentLicenseDisplay>
+		<org> Big Block Realty, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$3,250,000</List_Price>
+		<Est._Mo._Payment>$14,986</Est._Mo._Payment>
+		<Redfin_Estimate>$3,180,286</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,182</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>13 days</Time_on_Redfin>
+		<Property_Type>Residential Income</Property_Type>
+		<Year_Built>1947</Year_Built>
+		<Style>New Project</Style>
+		<Community>West Hollywood Vicinity</Community>
+		<Lot_Size>6,157 Sq. Ft.</Lot_Size>
+		<key name="MLS#">20-638238</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Homeowners Association, School / Neighborhood, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>HOA Information</heading>
+					<group_data>
+						<group_dat>Amenities: Gated Community</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Information</heading>
+					<group_data>
+						<group_dat># of Units in Complex (Total): 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assessment Information</heading>
+					<group_data>
+						<group_dat>Assessed Total Value: $1,139,785</group_dat>
+						<group_dat>Assessed Land Value: $960,834</group_dat>
+						<group_dat>Assessed Land %: 84.3</group_dat>
+						<group_dat>Assessed Improvement Value: $178,951</group_dat>
+						<group_dat>Assessed Improvement %: 15.70</group_dat>
+						<group_dat>Assessor Parcel Number: 5529-011-031</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat>Remodeled, Shower Stall, Tile, Granite</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Laundry Inside</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Windows: Garden Window, Tinted Windows</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>In Kitchen, In Living Room, Electric, In Bath</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Vinyl Floors</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Equipment</heading>
+					<group_data>
+						<group_dat>Dishwasher, Dryer, Garbage Disposal, Microwave, Refrigerator, Range/Oven, Washer</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating &amp; Cooling</heading>
+					<group_data>
+						<group_dat>Central Cooling, Wall Unit Cooling, Wall/Window Unit Cooling</group_dat>
+						<group_dat>Central Heat, Wall Gas Heat</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage</heading>
+			<details>
+				<detail>
+					<heading>Garage</heading>
+					<group_data>
+						<group_dat>Gated, Driveway - Concrete</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking</heading>
+					<group_data>
+						<group_dat># of Parking Spaces (Total): 2</group_dat>
+						<group_dat># of Open Other Spaces: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Building Information</heading>
+					<group_data>
+						<group_dat>Total Floors: 1</group_dat>
+						<group_dat>One Level</group_dat>
+						<group_dat>Security Features: Gated</group_dat>
+						<group_dat>Builder's Name: Developed by Mikhail Siretskiy</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Patio Features: Patio Open</group_dat>
+						<group_dat>Other Structural Features: French Doors</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Multi-Unit Income</heading>
+					<group_data>
+						<group_dat>Actual Rent Total: $168,600</group_dat>
+						<group_dat>Actual Annual Gross Rent: $168,600</group_dat>
+						<group_dat>Actual Gross Annual Income: $168,600</group_dat>
+						<group_dat>Gross Income: 168600</group_dat>
+						<group_dat>Gross Operating Income: $168,600</group_dat>
+						<group_dat>Net Operating Income: $150,729.37</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Expenses</heading>
+					<group_data>
+						<group_dat>Total Annual Expense: $17,870.63</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Other Financial Information</heading>
+					<group_data>
+						<group_dat>Rent Control: 100</group_dat>
+						<group_dat>Cap Rate: 4.6</group_dat>
+						<group_dat>Gross Rent Multiplier: 19.27</group_dat>
+						<group_dat>Scheduled Actual: Actual</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat>Owner Pays: Gardener</group_dat>
+						<group_dat>Tenant Pays: Electric, Gas</group_dat>
+						<group_dat>Unit Type Type: 1, 2, 3, 4</group_dat>
+						<group_dat>Type Of Units: 4</group_dat>
+						<group_dat># of Buildings: 3</group_dat>
+						<group_dat># of Disposals: 4</group_dat>
+						<group_dat># of Gas Meters: 4</group_dat>
+						<group_dat># of Water Meters: 4</group_dat>
+						<group_dat># of Dishwashers: 4</group_dat>
+						<group_dat># of Patios: 4</group_dat>
+						<group_dat># of Wall A/Cs: 4</group_dat>
+						<group_dat># of Electric Meters: 4</group_dat>
+						<group_dat># of Refrigerators: 4</group_dat>
+						<group_dat># of Ranges: 4</group_dat>
+						<group_dat>Has Water Heaters: True</group_dat>
+						<group_dat>Laundry Equipment: Own</group_dat>
+						<group_dat># of Rented Garages: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 1 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 2</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $5,000</group_dat>
+						<group_dat>Projected Rent: $5,300</group_dat>
+						<group_dat>Actual Rent: $5,000</group_dat>
+						<group_dat># of Units: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 2 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $3,400</group_dat>
+						<group_dat>Projected Rent: $3,700</group_dat>
+						<group_dat>Actual Rent: $3,400</group_dat>
+						<group_dat># of Units: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 3 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $3,000</group_dat>
+						<group_dat>Projected Rent: $3,200</group_dat>
+						<group_dat>Actual Rent: $3,000</group_dat>
+						<group_dat># of Units: 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Unit 4 Information</heading>
+					<group_data>
+						<group_dat># of Beds: 1</group_dat>
+						<group_dat># of Baths: 1.00</group_dat>
+						<group_dat>Rent: $2,650</group_dat>
+						<group_dat>Projected Rent: $2,900</group_dat>
+						<group_dat>Actual Rent: $2,650</group_dat>
+						<group_dat># of Units: 4</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lease / Rent Details, Location Details, Documents &amp; Disclosures, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Lease Information</heading>
+					<group_data>
+						<group_dat>Tenant Pays: Electric, Gas</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Directions: In West Hollywood 1.5 blocks South of Santa Monica Boulevard, 2.5 blocks north of Melrose, East of La Cienega &amp; West of Crescent Heights Blvd.</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Documents &amp; Disclosures</heading>
+					<group_data>
+						<group_dat>Disclosures: As Is, Building Plans Available, Building Permit</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Inclusions: All Appliances in all units are included</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Property Type: Residential Income</group_dat>
+						<group_dat>Property Condition: Repairs Major, Updated/Remodeled</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Lot Size (Sq. Ft.): 6,157</group_dat>
+						<group_dat>Lot Size (Acres): 0.1413</group_dat>
+						<group_dat>Zoning: WDR2*</group_dat>
+						<group_dat>Lot Location: City</group_dat>
+						<group_dat>Lot Description: Gated Community, Automatic Gate</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>400</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>400</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>6,157 Sq. Ft.</Lot_Size>
+		<Style>Multi-Family (2-4 Unit)</Style>
+		<Year_Built>1947</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5529011031</APN>
+	</public_facts>
+</home>

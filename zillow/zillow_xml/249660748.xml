@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$439,900</price>
+		<bd>2</bd>
+		<ba>2</ba>
+		<area>1,194</area>
+	</summary>
+	<address>
+		<street_address>833 E Mifflin St,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Immaculate &amp; impressive ground lvl 2 BR, 2 bath w/private entry! This condo is like brand new &amp; a must see if you are looking to be close to everything dtown! Live concerts/pro soccer literally outside your front door at Breese Stevens Field, Festival Foods, Sylvee, Vintage Brewing Co. &amp; more just a block away!  The interior is open &amp; spacious w/ hardwood floors throughout, lg windows w/ roller shades &amp; drapery for privacy, tall ceilings &amp; owner suite w/ walk in closet &amp; huge full bath w/ double vanity. Kitchen is ideal for entertaining &amp; has SS appliances, granite counters, lg island &amp; pantry.Read more</overview>
+	<listing_agent>
+		<agentName>Luke Lestikow</agentName>
+		<phoneNumber>608-833-3711</phoneNumber>
+		<agentLicenseNumber>License #60063-94</agentLicenseNumber>
+		<postingGroupName>First Weber Inc</postingGroupName>
+		<postingWebsiteLinkText>First Weber Inc</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2017</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$240/month</key>
+		<key name="Price/sqft:">$368</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 2</item>
+				<item>Full bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,194 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Off street, Detached Garage</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Brick, Wood</item>
+				<item>View description: Park</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070913222041</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2017</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $240/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $398,900</item>
+				<item>Annual tax amount: $8,165</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

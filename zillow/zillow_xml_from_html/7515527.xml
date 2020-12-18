@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$318,888</price>
+		<bd>5</bd>
+		<ba>3.5</ba>
+		<area>24,888</area>
+	</summary>
+	<address>
+		<street_address>915 S 33rd Ave,</street_address>
+		<city_state> Phoenix, AZ 85009</city_state>
+	</address>
+	<overview>A brand new home with all stainless appliances ,large kitchen island with Quartz counter, pantry, open concept, inside laundry, vinyl plank floor coverings ,upgrade window coverings, ceiling fans, 8 ft. car garage door, 9 foot flat ceiling master bedroom with walk in closet and double sinks, open kitchen. There is a city park behind the home. GUEST HOME is being rented to month to month for $580 per month and tenant pays all utilities, Guest home is one bedroom and .75 bathroom, a large living room and kitchen. main house is 4 bedrooms and 2.5 bathrooms with 1958 sqft.Read more</overview>
+	<listing_agent>
+		<agentName>Brian Lau</agentName>
+		<phoneNumber>602-272-1400</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Sanchez &amp; Associates Realty</postingGroupName>
+		<postingWebsiteLinkText>Sanchez &amp; Associates Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">2020</key>
+		<key name="Heating:">Electric, Gas</key>
+		<key name="Cooling:">Evaporative</key>
+		<key name="Parking:">4 spaces</key>
+		<key name="Lot:">8,838 sqft</key>
+		<key name="Price/sqft:">$13</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 5</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Linoleum / Vinyl</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Electric, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Evaporative</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Range / Oven</detail>
+				<detail>Laundry features: Inside Laundry, Wshr/Dry HookUp Only, 220 V Dryer Hookup</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 24,888 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 4</detail>
+				<detail>Parking features: Covered</detail>
+				<detail>Garage spaces: 4</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Cement / Concrete</detail>
+				<detail>Fencing: Wood, Block</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 8,838 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 10959007</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Other</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: Yes</detail>
+				<detail>Year built: 2020</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Sewer - Public</detail>
+				<detail>Utilities for property: APS, SW Gas</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 84.1</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Phoenix</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $48,500</detail>
+				<detail>Annual tax amount: $254</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 6141346</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Ownership: Fee Simple</detail>
+				<detail>Architecture: Ranch</detail>
+				<detail>Cooling: Refrigeration, Ceiling Fan(s)</detail>
+				<detail>Dining Area: Breakfast Bar, Dining in LR/GR, Eat-in Kitchen</detail>
+				<detail>Exterior Features: Patio, Separate Guest House</detail>
+				<detail>Fencing: Wood, Block</detail>
+				<detail>Heating: Electric Heat</detail>
+				<detail>Kitchen Features: Kitchen Island, Dishwasher, Pantry, Granite Countertops, Range/Oven Elec, Non-laminate Counter</detail>
+				<detail>Master Bathroom: Double Sinks, Full Bth Master Bdrm</detail>
+				<detail>Parking: Electric Door Opener, Dir Entry frm Garage</detail>
+				<detail>Pool - Private: No Pool</detail>
+				<detail>Roofing: Comp Shingle</detail>
+				<detail>Sewer: Sewer - Public</detail>
+				<detail>Unit Style: All on One Level</detail>
+				<detail>Utilities: APS, SW Gas</detail>
+				<detail>Water: City Water</detail>
+				<detail>Laundry: Inside Laundry, Wshr/Dry HookUp Only, 220 V Dryer Hookup</detail>
+				<detail>Construction: Frame - Wood</detail>
+				<detail>Const - Finish: Stucco, Painted</detail>
+				<detail>Association Fee Incl: No Fees</detail>
+				<detail>Technology: Security Sys Leased</detail>
+				<detail>Construction Status: Complete Spec Home</detail>
+				<detail>Flooring: Vinyl</detail>
+				<detail>Features: 9+ Flat Ceilings</detail>
+				<detail>Fireplace: No Fireplace</detail>
+				<detail>Source of SqFt: Architect</detail>
+				<detail>Source Apx Lot SqFt: County Assessor</detail>
+				<detail>Tax Municipality: Phoenix</detail>
+				<detail>Landscaping: Gravel/Stone Front, Gravel/Stone Back</detail>
+				<detail>Exterior Stories: 1</detail>
+				<detail>New Financing: Cash, FHA, Conventional</detail>
+				<detail>Dwelling Styles: Detached</detail>
+				<detail>High School: Carl Hayden High School</detail>
+				<detail>Windows: Dual Pane</detail>
+				<detail>Tax Year: 2020</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

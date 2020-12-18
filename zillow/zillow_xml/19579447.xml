@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,099,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>1,040</area>
+	</summary>
+	<address>
+		<street_address>1411 Jackson St,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>Corner-lot home walking distance to Santa Clara University, close to fortune 500 companies, Levis Stadium &amp; CalTrain. Great commuter location minutes from 101 and 880. Close to San Jose Airport. 1040 square feet remodeled home, 2 Bedrooms, 1 Bath.  Lot size approx. 5250 square feet. Bathroom remodel: high-end fixtures and tub: Hans Grohe faucets and showerhead, Maxx tub, high-end tile, new plumbing in the bathroom, updated electrical. New main plumbing pipe. Custom build shelving unit in the living room. Refinished original flooring throughout. Updated electrical in bedrooms. New HVAC, Backyard: electric remote opening gate, established fruit trees (orange, avocado, prickly pear). New trees (apple, plum, pomegranate, peach, white peach, plum). New pavement (garage, driveway). Organic garden. Painted inside &amp; out. Back and front yard landscaping with sprinklers. HUGE basement. Fence all around. Backyard patio - pavers. Schools: Westwood Elementary, Buchser Middle, Santa Clara High.Read more</overview>
+	<listing_agent>
+		<agentName>Ismar Maslic, GRI/Broker</agentName>
+		<phoneNumber>408-867-7272</phoneNumber>
+		<agentLicenseNumber>License #01313976</agentLicenseNumber>
+		<postingGroupName>Montalvo Realty</postingGroupName>
+		<postingWebsiteLinkText>Montalvo Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1920</key>
+		<key name="Heating:">None, Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="Lot:">5,248 sqft</key>
+		<key name="Price/sqft:">$1,057</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Hardwood, Linoleum / Vinyl</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: None, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Range / Oven, Washer</item>
+				<item>Laundry features: Washer / Dryer, In Utility Room, Electricity Hookup (220V)</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,040 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage, Garage - Detached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 5,248 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 26905008</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Construction materials: wood frame</item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1920</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1920</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Public Utilities</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 94.86</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Santa Clara</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

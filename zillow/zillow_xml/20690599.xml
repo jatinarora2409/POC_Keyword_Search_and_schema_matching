@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$999,000</price>
+		<bd>5</bd>
+		<ba>4</ba>
+		<area>2,544</area>
+	</summary>
+	<address>
+		<street_address>4106 Portola Ave,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>You will immediately appreciate the charming curb appeal this home offers that is centered around the gorgeous city of El Sereno. This custom-built craftsman design has an open floor living space, perfect for a large modern family. Upon entry, you're welcomed by ample of natural light streaming from the beautiful natural light with engineered wood floor, a sizable living and dining area that can comfortably accommodate a large family and their guest hat defines the meaning of &quot;home sweet home&quot;. Upgraded 2 bedrooms and 2 bathrooms down stairs and 3 bedrooms and 2 bathrooms upstairs for the maximum privacy. A den/office space on the second floor is perfect space to work at home or a study and an enclosed entertainer's dream patio with double pane. This home also features generously sized bedrooms that can easily fit a king-size bed. This house simply offers unlimited space and opportunities for multiple uses. The kitchen boasts with new counter tops, stainless steel appliances, a capacious laundry room, and an abundant storage room and space. The master bathroom has a custom-built glass door shower with custom tiles and a waterfall shower head. Spacious backyard will entertain all your guests and offer peaceful retreat. The neighborhood of El Sereno has become the most popular it has ever been and this is an unbelievable opportunity to become part of the culture here. Near phenomenal local shopping, dining, and events just minutes away.Read more</overview>
+	<listing_agent>
+		<agentName>Wonnie Kim</agentName>
+		<phoneNumber>562-474-1722</phoneNumber>
+		<agentLicenseNumber>License #01873341</agentLicenseNumber>
+		<postingGroupName>Kim Real Estate, Inc.</postingGroupName>
+		<postingWebsiteLinkText>Kim Real Estate, Inc.</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1928</key>
+		<key name="Heating:">Wall, Electric, Gas</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">7,100 sqft</key>
+		<key name="Price/sqft:">$393</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall, Electric, Gas</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Range / Oven</item>
+				<item>Laundry features: In Kitchen</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: No Common Walls</item>
+				<item>Total interior livable area: 2,544 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 2</item>
+				<item>Parking features: Garage, Garage - Attached, Covered</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Levels: Two</item>
+				<item>Stories: 2</item>
+				<item>Exterior features: Stucco, Cement / Concrete</item>
+				<item>View description: City</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 7,100 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5307019016</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+				<item>Architectural style: Conventional</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1928</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 1981</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 95.36</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

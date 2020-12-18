@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$899,000</price>
+		<bd>5</bd>
+		<ba>4</ba>
+		<area>1,950</area>
+	</summary>
+	<address>
+		<street_address>2915 Warwick Ave,</street_address>
+		<city_state> Los Angeles, CA 90032</city_state>
+	</address>
+	<overview>Welcome to one of the most sought after area of El Sereno, sub-market of Los Angeles. Conveniently located close to Cal State LA, Downtown LA, USC Medical Center, South Pasadena, and Alhambra, the El Sereno neighborhood is undergoing rapid growth and urbanization as older stock apartment buildings are being renovated and upgraded to appeal to the Millennials seeking affordable housing alternatives. New construction homes, fourplexes, retail and entertainment options are transforming this once sleepy-bedroom community into a vibrant city-like location. This turnkey 3 unit property boasts a large, detached 3-bed, 2-bath home with a large yard, ample parking and a garage. There is a separate duplex with 2 units, each with 1-bed &amp; 1-bath. There are up to 8 parking spots available at the property, which is a huge bonus in this area. Located near shopping, dining, transportation, parks, and schools, this location is highly desirable. Numerous upgrades at the home include partial copper plumbing, new doors &amp; windows, new electrical panels, upgrades to the foundation, and much more. With significant development in the area, the El Sereno market is red hot and this property provides endless future potential  . The property is located on a quiet residential street, with mostly single-family homes, providing a cozy neighborhood-like feel with abundant street-parking for guests. Two units may be delivered vacant!Read more</overview>
+	<listing_agent>
+		<agentName>Andrew Munoz</agentName>
+		<phoneNumber>562-261-0900</phoneNumber>
+		<agentLicenseNumber>License #01989243</agentLicenseNumber>
+		<postingGroupName>Keller Williams Pacific Estate</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Pacific Estate</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1946</key>
+		<key name="Heating:">Wall</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">8 spaces</key>
+		<key name="Price/sqft:">$461</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 5</item>
+				<item>Bathrooms: 4</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Wall</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Laundry features: Gas Dryer Hookup, Washer Hookup, Inside, See Remarks</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Common walls with other units/homes: 1 common wall</item>
+				<item>Total interior livable area: 1,950 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 8</item>
+				<item>Parking features: Off-street, Covered</item>
+				<item>Garage spaces: 8</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 6,107 sqft</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 5220021014</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>Property condition: Turnkey, Updated/Remodeled</item>
+				<item>New construction: No</item>
+				<item>Year built: 1946</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Sewer information: Public Sewer</item>
+			</item>
+		</item>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 91.36</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Los Angeles</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

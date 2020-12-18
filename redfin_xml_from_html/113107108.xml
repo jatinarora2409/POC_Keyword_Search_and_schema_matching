@@ -1,0 +1,115 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>2403 Laurel Canyon Blvd </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$335,000</Price>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Sq._Ft.>—</Sq._Ft.>
+	</main_stats>
+	<text_base_description>Prestigious Hollywood Hills Laurel Canyon California Properties. Location is suitable for a architecturally significant project. Nearby multi-million dollar estates with recent sales. Two parcels being sold together. Parcel #1, APN 5567-031-004 is 10,296 sq. ft. fronts Laurel Canyon Blvd. (with a Laurel Canyon Blvd. Address). Parcel #2, APN 5567-031-027 is 6,516 sq. ft. adjacent to the above property (Merrywood Dr. Address). These Laurel Canyon view side by side lots comprise a total of 16,812 sq. ft. bounded on the west by Merrywood Drive (down slope), and on the east side Laurel Canyon Blvd (up slope). Foundations and retain walls remain of two single family residences, potential to build two residences, or property tie both lots for estate size residence. These properties are within yards of the iconic Houdini Mansion and Frank Zappa's Tree House/Log Cabin at Lookout Mountain Ave. &amp;  Laurel Canyon Blvd. intersection. During the 1960's, Jim Morrison, Mama Cass and other notable musicians lived in this area. Central location for Hollywood, West Hollywood, Los Angles, Studio City and the San Fernando Valley access.  </text_base_description>
+	<listed_by>
+		<name>Melanie Hane</name>
+		<agentLicenseDisplay>•DRE #01088943</agentLicenseDisplay>
+		<org> Palm Realty Boutique, Inc.</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$335,000</List_Price>
+		<Est._Mo._Payment>$1,545</Est._Mo._Payment>
+		<Redfin_Estimate>$317,279</Redfin_Estimate>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>22 days</Time_on_Redfin>
+		<Community>C03 - Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>0.39 Acres</Lot_Size>
+		<key name="MLS#">SB20194068</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, School / Neighborhood, Utilities, Taxes / Assessments</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour URL Branded: Virtual Tour (External Link)</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Suburban</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Water Source: District/Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Assesments Information</heading>
+					<group_data>
+						<group_dat>Assessments: Unknown</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Distance To Water Comments: ?</group_dat>
+						<group_dat>Additional Parcels Description: 5567031027</group_dat>
+						<group_dat>Additional Parcels</group_dat>
+						<group_dat>Elevation Units: Feet</group_dat>
+						<group_dat>Lot Size Source: Assessor's Data</group_dat>
+						<group_dat>Lot Features: Down Slope from Street, Lot 10000-19999 Sqft</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Parcel Number: 5567031004</group_dat>
+						<group_dat>Has View</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Location Details</heading>
+			<details>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.11498100</group_dat>
+						<group_dat>Longitude: -118.37440900</group_dat>
+						<group_dat>Directions: Laurel Canyon Blvd &amp; Lookout Mountain Ave. &amp; Merrywood Dr.</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>—</Beds>
+		<Baths>—</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>—</Total_Sq._Ft.>
+		<Stories>—</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Vacant Land</Style>
+		<Year_Built>—</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5567031004</APN>
+	</public_facts>
+</home>

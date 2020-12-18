@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>1950 Gough St #402 </street-address>
+		<locality>San Francisco, </locality>
+		<region>CA</region>
+		<postal-code>94109</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,099,000</Price>
+		<Bed>1</Bed>
+		<Bath>1</Bath>
+		<key name="$1182 / Sq. Ft.">930</key>
+	</main_stats>
+	<text_base_description>1950 Gough is a landmark building noted for its grace, elegance and rich architectural history. An arched entry embellished with Rococo trim welcomes you through an ornate iron gate, and the grand lobby boasts marble floors, and Mediterranean detail. Upstairs, #402's floor plan includes a home office, ample closet space and more luxury 1920s elements, like narrow plank hardwood floors, working fireplace, mullioned windows and an Art Deco tiled bathroom. The home also enjoys a corner orientation that turns your front yard into Lafayette Park, an eleven-acre swath of lush beauty that enjoyed a $10M renovation and has since become the jewel of Pacific Heights. In the morning you'll hear birdsong and be surrounded by nature as each window looks out onto  green slopes and towering trees, along with noteworthy Victorians and a slice of the San Francisco Bay. Within the park you can picnic, play tennis, run the dog off-leash, or simply soak in some of the City's finest views. Walkscore 96. </text_base_description>
+	<listed_by>
+		<name>Cece Blase</name>
+		<agentLicenseDisplay>•DRE #00926690</agentLicenseDisplay>
+		<org> Compass SF</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,099,000</List_Price>
+		<Est._Mo._Payment>$5,022</Est._Mo._Payment>
+		<Redfin_Estimate>$1,148,844</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,182</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>7 days</Time_on_Redfin>
+		<Property_Type>Condominium</Property_Type>
+		<HOA_Dues>$607/month</HOA_Dues>
+		<Year_Built>1926</Year_Built>
+		<Style>Spanish/Med, Marina</Style>
+		<Community>Pacific Heights</Community>
+		<key name="MLS#">507463</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Virtual Tour, Parking / Garage, Exterior Features, Multi-Unit Information</heading>
+			<details>
+				<detail>
+					<heading>Virtual Tour</heading>
+					<group_data>
+						<group_dat>Virtual Tour (External Link)</group_dat>
+						<group_dat>Virtual Media: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Parking Information</heading>
+					<group_data>
+						<group_dat># of Spaces: 1</group_dat>
+						<group_dat># of Garage Spaces: 1</group_dat>
+						<group_dat>Designated On-Site Parking</group_dat>
+						<group_dat>Parking Access: Side-by-Side</group_dat>
+						<group_dat>Monthly Parking Fees: 0.00</group_dat>
+						<group_dat>Parking Features: Enclosed, Interior Access, Garage</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Exterior: Stucco</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Community Features</heading>
+					<group_data>
+						<group_dat>Transportation: 1 Block Away</group_dat>
+						<group_dat>Shopping: 2 Blocks Away</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Bedroom Information</heading>
+					<group_data>
+						<group_dat># of Bedrooms: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths: 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Additional Rooms</heading>
+					<group_data>
+						<group_dat>Other Room(s): Office</group_dat>
+						<group_dat>Den/Bonus Room: 0</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Fireplace(s): 1</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Floor Information</heading>
+					<group_data>
+						<group_dat>Hardwood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Main Level: 1 Bedroom, 1 Bath, Living Room, Dining Room, Kitchen</group_dat>
+						<group_dat># of Rooms: 4</group_dat>
+						<group_dat>Intercom, Elevator/Lift</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Homeowners Association, Location Details, Listing Information</heading>
+			<details>
+				<detail>
+					<heading>Homeowners Association Information</heading>
+					<group_data>
+						<group_dat>HOA Fee Includes: Water, Garbage, Ext Bldg Maintenance, Homeowners Insurance</group_dat>
+						<group_dat>Has Homeowners Association</group_dat>
+						<group_dat>Dues: $607.05</group_dat>
+						<group_dat>Articles of Incorporation, Bylaws, CC&amp;Rs, Rules &amp; Regulations, Financial Statements, Budget</group_dat>
+						<group_dat>Name: 1950 Gough</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Cross Street: Clay</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Listing Information</heading>
+					<group_data>
+						<group_dat>Original Price: $1,099,000</group_dat>
+						<group_dat>On Market Date: Friday, October 2, 2020</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>View(s): Water, Park</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Style: Spanish/Med, Marina</group_dat>
+						<group_dat># of Units: 36</group_dat>
+						<group_dat>Floor #: 4</group_dat>
+						<group_dat>Per Appraiser</group_dat>
+						<group_dat>APN: 0624-087</group_dat>
+						<group_dat>Special Features: Intercom, Elevator/Lift</group_dat>
+						<group_dat>Property Disclaimer: Copyright: 2020 by San Francisco Assoc of REALTORS - All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information.</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>1</Beds>
+		<Baths>1</Baths>
+		<Finished_Sq._Ft.>—</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>900</Total_Sq._Ft.>
+		<Stories>1</Stories>
+		<Lot_Size>—</Lot_Size>
+		<Style>Condo/Co-op</Style>
+		<Year_Built>1926</Year_Built>
+		<Year_Renovated>—</Year_Renovated>
+		<County>San Francisco County</County>
+		<APN>0624 087</APN>
+	</public_facts>
+</home>

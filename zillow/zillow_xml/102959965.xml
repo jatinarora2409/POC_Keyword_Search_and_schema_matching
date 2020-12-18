@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$367,000</price>
+		<bd>2</bd>
+		<ba>1</ba>
+		<area>1,123</area>
+	</summary>
+	<address>
+		<street_address>309 W Washington Ave UNIT 515,</street_address>
+		<city_state> Madison, WI 53703</city_state>
+	</address>
+	<overview>Enjoy bold modern architecture/design in combination w/the hottest location in downtown Madison! This impressive 2bd/1ba corner unit at Capitol West makes a statement! Open concept FP offers a stunning kitchen w/custom cross cut cabinetry, walnut trim/accents, quartz ctrs, kohler/grohe fixtures, contemporary lighting &amp; SS appliances w/gas range &amp; vent hood. Add features &amp; upgrades include wood/tile flooring, FP w/tile surround, custom built-ins, high ceilings, lovely color palette/paint accents, large bathroom w/double vanity, laundry &amp; big walk in shower, large balcony w/pretty views, on-floor storage &amp; underground parking. Guest room has built-in murphy bed &amp; shelving. Great amenities (onsite mgt, fit &amp; biz ctrs) &amp; superb DT Madison location! SF per orig FP (NAHB ANANSI Z765 std)Read more</overview>
+	<listing_agent>
+		<agentName>Katie Jo Schmitz</agentName>
+		<phoneNumber>608-556-4400</phoneNumber>
+		<agentLicenseNumber>License #58120-90</agentLicenseNumber>
+		<postingGroupName>The Hub Realty</postingGroupName>
+		<postingWebsiteLinkText>The Hub Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2008</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$327</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 1</item>
+				<item>Full bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,123 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Other, Stone</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 070923165702</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2008</item>
+			</item>
+		</item>
+		<item>
+			<item>Notable dates</item>
+			<item>
+				<item>Major remodel year: 2008</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Great solar potentialSun Number™: 90.38</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Madison</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

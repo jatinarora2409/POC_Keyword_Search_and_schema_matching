@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,625,000</price>
+		<bd>3</bd>
+		<ba>2</ba>
+		<area>1,401</area>
+	</summary>
+	<address>
+		<street_address>1749 Page St,</street_address>
+		<city_state> San Francisco, CA 94117</city_state>
+	</address>
+	<overview>Welcome to 1749 Page St! Your new home awaits inside this top floor Edwardian 3-bed 2-bath condominium situated near the Panhandle &amp; Golden Gate Park. Enjoy more space with an open living room/kitchen concept with French doors expanding out to the private deck and overlooking the shared, scenic backyard. Make yourself at home with an oversized deluxe bedroom suite that includes a home-office nook, and an en-suite bathroom with an extra tall shower and a heated towel rack. The light filled kitchen is equipped with a chef's gas range, Caesar stone counters, plenty of cabinet space, and two large skylights above. Keep warm with not one, but two gas fireplaces. Plus, in-unit W/D, 2-car garage parking, designated storage area, and a walk score of 97, this prime Haight Ashbury charmer has it all! Located near Whole Foods, restaurants, and shopping. Surrounded by Buena Vista Park, the new Stanyan Tennis Courts/Bocce Ball addition, Cole Valley &amp; Inner Sunset neighborhood amenities.Read more</overview>
+	<listing_agent>
+		<agentName>Kyle McCullough</agentName>
+		<phoneNumber>415-660-9955</phoneNumber>
+		<agentLicenseNumber>License #01911853</agentLicenseNumber>
+		<postingGroupName>Compass</postingGroupName>
+		<postingWebsiteLinkText>Compass</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1907</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$300/month</key>
+		<key name="Price/sqft:">$1,160</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: None</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood, Tile</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Gas, Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dryer, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,401 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 1</item>
+				<item>Exterior features: Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 1230072</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1907</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>HOA</item>
+			<item>
+				<item>HOA fee: $300/mo</item>
+			</item>
+		</item>
+		<item>
+			<item>Other financial information</item>
+			<item>
+				<item>Tax assessed value: $1,570,400</item>
+				<item>Annual tax amount: $19,187</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

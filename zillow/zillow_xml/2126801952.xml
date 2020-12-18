@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$300,000</price>
+		<bd>2</bd>
+		<ba>3</ba>
+		<area>1,288</area>
+	</summary>
+	<address>
+		<street_address>8817 Mountain Shadows Cv APT A,</street_address>
+		<city_state> Austin, TX 78735</city_state>
+	</address>
+	<overview>Meticulous! Sits on quiet street, backs to ranch land! Bright and open w/ extensive wood floors, high ceilings &amp; abundance of natural light. Spacious bedrooms, each w/ own private bath, 6-panel doors. Updated kitchen boasting natural stone countertops, stainless appliances, mosaic tile backsplash, overlooking living and dining areas. Primary suite includes dual vanities and soaking tub. Enjoy your private balcony w/ treetop views. This property is one of the best values in the Oak Hill area. Clean!Restrictions: YesRead more</overview>
+	<listing_agent>
+		<agentName>Tina Goldwasser</agentName>
+		<phoneNumber>512-467-4053</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Pure Gold Realty</postingGroupName>
+		<postingWebsiteLinkText>Pure Gold Realty</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">2003</key>
+		<key name="Heating:">Forced air, Electric, Propane / Butane</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$90/mo</key>
+		<key name="Price/sqft:">$233</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 2</item>
+				<item>Bathrooms: 3</item>
+				<item>Full bathrooms: 2</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Tile, Carpet, Hardwood, Laminate</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air, Electric, Propane / Butane</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Garbage disposal, Microwave</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 1,288 sqft</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 1</item>
+				<item>Parking features: Garage - Attached, Covered</item>
+				<item>Garage spaces: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Entry location: 1st Floor Entry</item>
+				<item>Spa included: Yes</item>
+				<item>Patio and porch details: Patio</item>
+				<item>View description: Park</item>
+				<item>Residential vegetation: Heavily Wooded, Trees-Medium (20 Ft - 40 Ft), Trees-Small (Under 20 Ft)</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 8,015 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Condo</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Composition</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 2003</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Utility</item>
+			<item>
+				<item>Utilities for property: Propane, Electricity Available, Underground Utilities</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Security</item>
+			<item>
+				<item>Security features: Smoke Detector(s)</item>
+			</item>
+		</item>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Austin</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

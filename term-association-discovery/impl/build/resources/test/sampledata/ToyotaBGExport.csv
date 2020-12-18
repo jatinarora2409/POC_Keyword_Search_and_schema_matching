@@ -1,0 +1,3806 @@
+Term Name,Technical Asset
+File ID,"""SMS.GSMRLOG.FILE_ID"""
+Long Description,
+Distributor Price Quantity,
+Old Dealer Number,
+Non-Visible Spending/Unit Amount,"""base_pin_incentive_isr"""
+Latest Phase Code,
+DFSC base,
+Transmission Type Abbreviation,"""base_autoplanner_indstry_veh_attributes"""
+Minor Change Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Driver Miles,"""LIOS.TROUTE_SEQ_DETAILS.DRIVER_MILES"""
+Actual Quantity,"""FVM.HISTORY.ACTUALQTY, FVM.ORDER_BOX.ACTUALQTY"""
+Gate Pattern Name,
+Representative Family,"""PSMS.ITFPHIN.REP_FAM_CD"""
+Bulk Inspected,
+TMC Part Center Code,
+Cylinder Abbreviation,"""base_autoplanner_indstry_veh_attributes"""
+Model Overview,"""base_jato_model"""
+Route Dock Refresh,"""FVM.SITE_CONTROL.ROUTEDOCKREFRESH"""
+Term 30 Rate,"""base_scion_us_residual_value_fcst"""
+Node Identifier,"""LIOS.TACCTRL_MATRIX.NODE_ID, LIOS.TACCTRL_TREE.NODE_ID"""
+Necessary Quantity Calculation(NQC) Time Control From,"""PSMS.ITFPHIU.NQC_TC_FROM"""
+Defect Category,
+Manufacturer Code,"""base_jato_version"""
+Business Date,
+Maximum value,
+Exterior Color Code,
+Longitude,"""LIOS.TLOGISTICSPOINT_INFO.LONGITUDE"""
+Ship to City,
+Supplier,###############################################################################################################################################################################################################################################################
+Residual Lag 1,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Batch File Name,"""FVM.BATCH_OWK_FILES.BATCHFILENAME, FVM.ORDR.BATCHFILENAME"""
+Bank Addr Line One,
+Lead Contact,
+Sequence File Line,
+Trim Color,"""PSMS.ITFCOLR.TRIM_COLOR"""
+Reader,
+Finance APR Subvention (Term <= 24): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Creation Date Time,###############################################################################################################################################################################################################################################################
+Surcharge Amount,
+Vehicle Allocation Count,
+Trailer Type,"""LIOS.TROUTES.TRAILER_TYPE"""
+Granularity,"""base_pin_incentive_isr"""
+Captive Lender Customer Bonus - Lease Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+MSRP Amount,
+Pen Pattern,
+Cardinality,"""OWK.DBEXPERT_PLAN1.CARDINALITY, OWK.DBEXPERT_PLAN2.CARDINALITY, OWK.PLAN_TABLE.CARDINALITY, OWK.SQLEXPERT_PLAN1.CARDINALITY"""
+TRIM Auto Code,"""base_autoplanner_indstry_veh_attributes"""
+Maximum File Size in MB,
+Sub Tracking Point,
+Logistics Cost Center Code,"""LIOS.COST_CENTER_DOCK.COST_CENTER_CODE, LIOS.TEXPEDITECOSTS.COST_CENTER"""
+Transit Time,"""LIOS.TROUTE_SEQ_DETAILS.TRANSIT_TIME"""
+Fuel Type,
+Term To,"""SMS.GSMCOLR.TERM_TO, SMS.GSMCONT.TERM_TO, SMS.GSMMINR.TERM_TO, SMS.GSMSTCC.TERM_TO, SMS.GSMSTRC.STR_TERM_TO"""
+Date and Time,
+Production Department,
+Section Group Type,
+Accessory FOB Cost,"""base_tms_4_level_accy_pricing"""
+Sub Body Number Assign Code,"""base_tms_us_vehicle_sales"""
+Unique Identifier,###############################################################################################################################################################################################################################################################
+TFT Subvention Rate,"""base_tms_us_non_cash_inctv"""
+Non Fleet Sales Volume Quantity,"""base_tms_lexus_inctv_sp_rpt"""
+Last Check In Time,"""LIOS.QRTZ_SCHEDULER_STATE.LAST_CHECKIN_TIME"""
+Process,
+Spec Bit,
+Advanced Parts System Accessory Code,
+Mojor Index,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Cash Days To Turn Amount,"""base_pin_incentive_isr"""
+Competitor Cash Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Trigger Start Time,"""LIOS.QRTZ_TRIGGERS.START_TIME"""
+Total Departure Quantity,
+Raw Cylinder,"""base_pin_explorer"""
+Non Fleet Departure Percentage,"""base_lexus_nenkei_national"""
+% Core Spending,"""base_pin_incentive_isr"""
+Exterior Color Description,
+New Model Mark,
+Index,"""LIOS.TLOGISTICSPOINTCONTACTS.TINDEX, LIOS.TLOGISTICSPOINTNONUNLOADDAYS.TINDEX"""
+Enterprise Contribution Margin After Incentives Percent,"""base_contrib_mrgn_by_series"""
+Account Class Code,
+Plant Time Control From,"""PSMS.ITFCHIK.PLANT_TC_FROM, PSMS.ITFCOLR.PLANT_TC_FROM, PSMS.ITFPHIK.PLANT_TC_FROM, PSMS.ITFPHIN.PLNT_TC_FROM, PSMS.ITFPHIU.PLANT_TC_FROM"""
+Matched,"""LIOS.TLOGISTICS_INVOICE.MATCHED"""
+Working Pattern End Date,"""LIOS.WORKING_PATTERN.STOPTIME, LIOS.WP_CALENDER.EFFECTIVE_STOP"""
+Lineoff Date,
+Create Source,"""base_irm_parameter"""
+Restrict Exist Flag,"""PSMS.ITFPHIK.RESTRICT_EXIST_CD, PSMS.ITFPHIU.RESTRICT_EXIST_CD"""
+Part History Load Date,
+Model Change Category Code,"""base_finance_gi_impact_budget"""
+Vehicle Weight,
+Vessel Departure Date,
+Mid Year Price TMS Sales to Dealer Impact Per Unit,"""base_finance_gi_impact_budget"""
+TMS FIO(Factory Installed Options) Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Retail Gross Profit Per Unit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Packaging Length,"""LIOS.TFORECAST.LENGTH"""
+Pilot Vehicle Flag,
+Fleet Wholesale Quantity,
+Supported Finance Incentive Offering/Unit Amount,"""base_pin_incentive_isr"""
+Secure Containment,
+Fleet In-Transit Quantity,
+Import Domestic Indicator,
+Field Class Name,"""LIOS.TNOTIF_FILTERS.FIELD_CLASS_NAME"""
+Fuel Surcharge,"""LIOS.TSUR_WEEK_CALC.FUEL_SURCH"""
+Fleet Program Year ID,"""fleet_program_year"""
+Japan Sub Series Code,
+Corporate Name,
+Filter Value,"""base_irm_pm_data_filter"""
+Column Description,"""LIOS.TUSERPREFERENCEATTRIBUTES.COL_NAME"""
+Parameter Granularity Value,"""base_irm_parameter"""
+Phase Vds Prefix,
+Engine Spec Name,
+Job Status,"""LIOS.TLIOS_JOB_LOG.STATUS, LIOS.TLIOSJOBRUN.STATUS"""
+Event Flag,"""LIOS.AET_STATUSES.EVENT"""
+Intransit Quantity,"""base_lexus_month_end_Regional"""
+Gross Veh Weight Rating Number,
+Entity Name,
+Representative Part Number,"""PSMS.ITFPHIK.REP_PART_NO, PSMS.ITFPHIN.REP_PART_NO, PSMS.ITFPHIU.REP_PART_NO"""
+Negative Special Event Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Wholesale Date,"""base_tms_us_vehicle_sales"""
+Raw Transmission Name,
+Manufacturing Plant Name,
+Coat Count,
+Job Run Identifier,"""LIOS.TLIOSJOBOUTPUT.JOB_RUN_ID, LIOS.TLIOSJOBRUN.JOB_RUN_ID"""
+Front Tire Pressure,
+Last Modified Date,"""OWK.OWK_GENERIC_KANBAN.LAST_MODIFIED_DT, OWK.OWK_GENERIC_SKID_MANIFEST.LAST_MODIFIED_DT, OWK.OWK_SUPPLIER_TEXT.LAST_MODIFIED_DT"""
+Delta Classification,
+Comment Code,"""SMS.GSMPARC.COMMENT_CODE, SMS.GSMSTCC.COMMENT_CODE"""
+User name,
+TMS Available Indicator,
+Color Type,"""base_jato_color_trim"""
+Parent Class Desc,
+Part Distribution Center Update By Program,
+Dealer Cash - Lease Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+lc_loantovalue_amt,"""base_pin_incentive_isr"""
+File Name,"""LIOS.TLIOS_JOB_LOG.FILE_NAME, OWK.OWK_MESSAGES.FILE_NAME"""
+Event Code Create Date,
+Currency,"""LIOS.TCURRENCY.DESCRIPTION"""
+Event Name,"""base_irm_event"""
+Route 4,"""LIOS.AET_EVENTS_ORDERS.ROUTE_4, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_4"""
+Ordered Part Identifier,
+Raw Make Name,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Introductory Price Impact Sales Ending Month,"""base_finance_gi_impact_budget"""
+Stamp position,
+Deletion Date Time,
+Raw Mid Year Price Model Change Category,"""base_finance_gi_impact_budget"""
+Fill Pattern,
+Latest Repairing Point: Calendar Date & Time,
+Data Unit,
+Stamp Date,"""LIOS.TPERIODS.STAMP_DATE"""
+Estmtd Build Date At Bos,
+Model VDS Code,
+Template Name,"""LIOS.TLIOSPKGTEMPLATE.NAME"""
+Timezone,"""LIOS.TLOGISTICSPOINT_INFO.TIME_ZONE, LIOS.TLOGISTICSPOINTSDOCKINFO.TIMEZONE, LIOS.TRM_STAGING.TIMEZONE, LIOS.TROUTES.TIMEZONE, LIOS.TUNLOAD_TIME.TIMEZONE"""
+Foreign Addr Line Two,
+Bill To Addr State Code,
+Yard Hold Time,
+Katashiki Identifier,
+Production Comment,"""PSMS.ITFCHIK.PLANT_COMMENT, PSMS.ITFPHIK.PLANT_COMMENT, PSMS.ITFPHIN.PLNT_CMT, PSMS.ITFPHIU.PLANT_COMMENT, SMS.GSMPROC.PROD_COMMENT"""
+Rundown Wholesale Count,
+Install Type,
+Quantity Per parent - Design,"""PSMS.ITFPHIK.SMS_Q_PER_PARENT, PSMS.ITFPHIN.SMS_Q_PER_PAR, PSMS.ITFPHIU.SMS_Q_PER_PARENT"""
+Route Type Identifier,"""LIOS.AET_EVENTS.ROUTE_TYPE_ID, LIOS.TDOB.ROUTE_TYPE"""
+Product key,
+Validation Type,
+Engine Name,
+Interchangeable Part Number,
+Logistics Partner Short Code,"""LIOS.TCOSTMASTER.LOGISTIC_PARTNER, LIOS.TGENERALCOST.LP_CODE, LIOS.TLOGINHISTORY.LP_CODE, LIOS.TLOGISTICS_INVOICE.LP_CODE, LIOS.TLP_INVOICE_MAPPING.LP_CODE"""
+Captive Lender Dealer Cash - Finance Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Supplier Category,"""Parts Master.PVS_PRUKANB_xxxx_STG.CUSTOMER_SUPPLIER"""
+Mid Year Price GI Amount,"""base_finance_gi_impact_budget"""
+Fleet Order Reference,
+Order Series Number,"""LIOS.OWK.ORDER_SERIES_NUMBER, OWK.OWK_ORDER.ORDER_SERIES_NUMBER, OWK.OWK_ORDER_BKP.ORDER_SERIES_NUMBER"""
+Packing Style,"""Parts Master.PVS_PRUKANB_xxxx_STG.PACKING_STYLE"""
+Term 39 Rate,"""base_scion_us_residual_value_fcst"""
+Buy Off Event Number,
+Response,"""LIOS.TWTGENERALRESPONSEDETAIL.COMMENTS, LIOS.TWTROUTERESPONSE.COMMENTS"""
+Non-Visible Lease Offer/Unit Amount,"""base_pin_incentive_isr"""
+Total Production Quantity,
+Series Group Name,
+Hits,
+Paper Ticket Flag,
+Action Type,"""FVM.HISTORY.ACTIONTYPE"""
+Weight Capacity Number,
+Inventory Category Date,
+Dealer Volume Bonus: $ Offer Amount,"""base_pin_incentive_isr"""
+Transmission Short,
+Total In Transit Quantity,
+Positive Special Event Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+TMC Working Days,
+Audit Condition Code,
+Fleet Arrival Percentage,"""base_lexus_nenkei_national"""
+Dealer Staff Termination Flag,
+Non-Core Incentive 7: $ Offer Amount,"""base_pin_incentive_isr"""
+Trade-in Assistance Program: $ Offer Amount,"""base_pin_incentive_isr"""
+Total Lease APR Amount,"""base_pin_incentive_isr"""
+Assembly Line,
+Packing Line Code,
+Y Co Ordinate,
+Department Contact,
+Assembly Date,
+Grid Start position,
+Selling Days,
+Pricing Calculation Create Date,"""base_tms_us_gi_history"""
+Set Kit Code,
+Suppliers Closed,"""LIOS.TCONTROLPOINTMATRIX.SUPPLIERS_CLOSED, LIOS.TCPMSNAPSHOTS.SUPPLIERS_CLOSED"""
+This describes whether reconciliation happened,
+Checksheet Print Date,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.CHECKSHEET_PRINT_DT"""
+Parameter Value,"""LIOS.TLIOSSYSPARAMETERS.VALUE"""
+fc_avg_fico_amt,"""base_pin_incentive_isr"""
+Confirmed By,
+Dealer Order number,
+Maximum Fuel Economy Highway Mileage Number,"""base_jato_model"""
+version,
+Distributor Order Unit 1 Quantity,
+Expedite Reason Description,"""LIOS.TEXPEDITE_REASONS.REASON_DESC"""
+Procurement Order Unit Quantity,
+Routing Term To,"""SMS.GSMSTRC.RTN_TERM_FROM"""
+Fleet Customer Order,
+Reload Start Date,"""LIOS.AET_RESOLUTIONS_ORDERS.RELOAD_START, LIOS.TROUTE_SEQ_DETAILS.RLD_START_DATE, LIOS.TROUTES.RELOAD_START"""
+Minor,"""SMS.GSMDRAW.MINOR, SMS.GSMMINR.MINOR, SMS.GSMWEIT.MINOR"""
+Containment,
+Accessory Retail Price Amount,
+Last In Chain Dealer Group Code,
+fa_rt_subprime_amt,"""base_pin_incentive_isr"""
+Procurement Analyst Email Address,
+OLTP Duplicate Check Flag,
+Metrics Category,"""base_lexus_dlr_sls_prc_and_gross_prft_pnvrl"""
+Shipped Quantity,
+Record Identifier,"""LIOS.TBILLINGHISTORY.RECORD_ID"""
+Scrap Vehicle Flag,
+Total Dealer Invoice Amt,
+Non-Core Incentive 2: $ Offer Amount,"""base_pin_incentive_isr"""
+Region Or Area Code,
+Non Fleet Wholesale Quantityt,
+Invoice Status,"""LIOS.TLOGISTICS_INVOICE.STATUS"""
+TOMS Distributor Code,
+Estmtd Lineoff At Daily Lock,
+Segment Sales Volume Quantity,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Cash Incentive Penetration Amount,"""base_pin_incentive_isr"""
+Model ID,"""base_jato_model"""
+North American Manufacturing Company (NAMC) Data6,"""OWK.OWK_GENERIC_KANBAN.NAMC_DATA6, OWK.OWK_KANBAN.NAMC_DATA6"""
+Regist,"""base_autoplanner_indstry_veh_pricing"""
+Raw Fuel Type,"""MODEL_MODEL_YEAR"""
+Fleet Program Year Month,"""fleet_program_year"""
+Build Source Type,"""base_tms_us_gi_history"""
+Estmtd Lineoff Date At Procon,
+Finance Elasticity Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Type Abbreviation,
+Business Group Logo Path,"""OWK.OWK_BUSINESS_GROUP.BUSINESS_GROUP_LOGO_PATH"""
+Assigned Brand Name,
+TFS Difference RCF Number,"""base_tms_us_non_cash_inctv"""
+State,"""LIOS.TLOGISTICSPOINT_INFO.STATE"""
+Logistics Point/Business Entity,"""LIOS.TBOX_LAYER.LOGISTICSPOINT, LIOS.TCONTROLPOINTMATRIX.LOGISTICS_POINT, LIOS.TCPMSNAPSHOTS.LOGISTICS_POINT, LIOS.TCPMTHRESHOLD.LOGISTICS_POINT"""
+Ship From Parts Distribution Center Identifier,
+Logistics Point,###############################################################################################################################################################################################################################################################
+Quick Repair type default flag,
+Domicile Code,###############################################################################################################################################################################################################################################################
+Dealer Staff District,
+Temporary Chassis Build Sequence No,
+Pre delivery confirmation comment,
+Bulk Confirmed,
+Finance APR (48<Term<=60) Amount,"""base_pin_incentive_isr"""
+Parts Distribution Code,
+Estimated Time Arrival,"""LIOS.AET_EVENTS.ETA, LIOS.AET_RESOLUTIONS.ETA, LIOS.AET_RESOLUTIONS_ORDERS.ARRIVAL"""
+Tier T2,"""base_toyota_us_inctv_prog_targets"""
+Gas Price Change Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Assigned Brand Update Date,
+Control Point Matrix Comments,"""LIOS.TCPMCOMMENTS.COMMENTS"""
+Routing Position,"""PSMS.ITFPHIK.ROUTING_POSITION, PSMS.ITFPHIN.RTG_POSN, PSMS.ITFPHIU.ROUTING_POSITION"""
+Finance APR Subvention (60<Term<=72): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Non Fleet Sales Availaility Quantity,
+Print number,
+Total Lease Term Mix Quantity,"""base_pin_incentive_isr"""
+Existing Defects Display Flag,
+Key Performance Indicator Code,"""LIOS.TCPMTHRESHOLD.KPI_CODE"""
+Detection Type,
+Parameter,"""LIOS.TLIOSJOBPKG.PARAM_JSON, LIOS.TLIOSJOBRUN.PARAM_JSON"""
+Repair Status,
+Accessory Description,
+Arrival Percent,
+Pallet Instructions,"""LIOS.OWK.PALLET_INSTRUCTIONS, OWK.G_KANBANLABEL_TAB.PALLET_INSTRUCTIONS, OWK.OWK_KANBAN.PALLET_INSTRUCTIONS"""
+TMS Series Share of Segment,"""base_nenkei_tms_us_a_table_series_by_segment_fcst_and_actl"""
+Finance APR Subvention (Term>72): $ Offer Amount,"""base_pin_incentive_isr"""
+Is Update Data Flag,"""LIOS.QRTZ_JOB_DETAILS.IS_UPDATE_DATA"""
+Comment 2,
+RDR(Retail Delivery Record) Date,"""base_tms_us_cash_inctv"""
+Retail Sale Price Per Unit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+IRM Cylinder,"""base_pin_explorer"""
+Approver Comments,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.APPROVERCOMMENTS"""
+Order Type Category Name,
+Document Type Name,"""OWK.OWK_DOCUMENT_TYPE.DOCUMENT_TYPE_NAME"""
+TMC Contribution Margin Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Introductory Price Gross Profit Impact TMS and Manufacturing Amount,"""base_finance_gi_impact_budget"""
+Debit Credit Indicator,
+User First Name,"""FVM.SYSTEMUSER.FIRSTNAME, LIOS.TUSER.STRFIRSTNAME"""
+Model Subseries Name,
+Field Type,"""LIOS.TNOTIF_FILTERS.FIELD_TYPE"""
+Spec Number,
+Repair enabled,
+Minor Change Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Supply Stock Indicator Code,
+Tire1: Front Rim Size,
+TRAC,"""base_toyota_us_fleet_inctv_bdgt"""
+Serial Usage Flag,
+Product Figure,
+Engine Spec Short,
+User Comments,"""LIOS.AET_EVENTS.COMMENTS, LIOS.AET_RESOLUTIONS.COMMENTS, LIOS.DD_BLACKOUTS_ROUTES.COMMENTS, LIOS.DD_ROUTES_SUPPLIERS.COMMENTS, LIOS.DD_SUPPLIERS_ORDERS.COMMENTS"""
+Accounting Customer Create Date,
+Child Part,"""PSMS.ITFCOLR.CHILD_PART_NO, PSMS.ITFPHIK.CHILD_PART_NO, PSMS.ITFPHIN.CHILD_PART_NO, PSMS.ITFPHIU.CHILD_PART_NO, SMS.GSMSTCC.CHILD_PART_NO, SMS.GSMSTRC.CHILD_PART_NO"""
+Mpc,
+Sale Flag,
+Pace Quantity,
+Document Height,"""OWK.OWK_DOCUMENT.DOCUMENT_HEIGHT"""
+Specification Flag,
+Unique Node Code,"""LIOS.TACCTRL_TREE.UNIQUE_CODE"""
+Creation Date,###############################################################################################################################################################################################################################################################
+Route Milestone,"""LIOS.TROUTE_SEQ_DETAILS.ROUTE_MILESTONE"""
+Sales Region Code,
+Inherit Access Flag,"""LIOS.TACCTRL_TREE.INHERIT_ACCESS"""
+Shift,"""LIOS.TOYOTA_OPERATING_HOURS.SHIFT, LIOS.WORKING_PATTERN.SHIFT"""
+Quality Action Report / Urgent Concern Report Name,
+Data Validation Option Identifier,
+Lag 3 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Quarantined Comment,
+Upload Date,"""LIOS.TLOGISTICSPOINTDOCUMENTS.UPLOADDATE, LIOS.TPERIODS.FORECAST_UPLOAD_DATE, LIOS.TPERIODS.RELAY_UPLOAD_DATE, LIOS.TPERIODS.SOT_UPLOAD_DATE, LIOS.TPERIODS.UNLOAD_UPLOAD_DATE"""
+Years Since Major Change Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Dealer Staff UID,
+URL Generic Body Style Name,"""base_jato_Body Style"""
+Layers Per Pallet,"""LIOS.TPACKAGING.INTLAYERPERPALLET"""
+Non-Core Incentive 10: $ Offer Amount,"""base_pin_incentive_isr"""
+3D Drawing Source,"""SMS.GSMMINR.DRAWING_SOURCE3D"""
+TOMS Distributor Name,
+Month Name,
+Start Date,"""LIOS.DD_BLACKOUTS.START_DT"""
+Hikiate color number,"""PSMS.ITFCOLR.HIKIATE_COLOR_NO"""
+Part Supply Status Code,
+Toyota Logistics Management System (TLMS) Sent Date,"""LIOS.TPERIODS.TLMS_SENT_DATE"""
+Incentive Rebate,"""base_toyota_us_inctv_prog_targets"""
+Close Time,"""LIOS.DIRECT_WORKING_PATTERNS.CLOSE_TIME"""
+Tire1: Rear Tire Pressure,
+Sell Down Indicator,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Rundown Dealer Stock Mid Count,
+Return Reload Start Date,"""LIOS.TROUTE_SEQ_DETAILS.RETN_RLD_START_DATE"""
+Responsible Process,
+Control Katashiki,"""PSMS.ITFCHIK.CNTL_KATASHIKI, PSMS.ITFCOLR.CNTL_KATASHIKI, SMS.GSMCONT.CTRL_KATASHIKI, SMS.GSMKATA.CTRL_KATASHIKI, SMS.GSMSET.CTRL_KATASHIKI, SMS.GSMSPEC.CTRL_KATASHIKI"""
+Option ID,"""base_jato_color_trim"""
+Manual Flag,"""LIOS.TDOB.MANUAL_FLAG"""
+Unique identification number,
+Term 60 Rate,"""base_scion_us_residual_value_fcst"""
+Finance APR Monthly Payment (24<Term<=36) Amount,"""base_pin_incentive_isr"""
+Parameter Description,"""base_irm_parameter"""
+Part Distribution Center Effective End Date,
+Assortment Of Build Order Sign,
+Production Control Application Order From,"""PSMS.ITFCHIK.PC_APP_ORD_FROM, PSMS.ITFCOLR.PC_APP_ORD_FRM, PSMS.ITFPHIK.PC_APP_ORD_FRM, PSMS.ITFPHIN.PC_APP_ORD_FRM, PSMS.ITFPHIU.PC_APP_ORD_FRM"""
+Licensee Risk,"""base_toyota_us_fleet_inctv_bdgt"""
+Deletion Reason,
+Body Style Description,
+All Purpose Vehicle Production Code,
+Enabled Flag,
+Hazmat Flag,"""LIOS.TROUTE_SEQ_DETAILS.HAZMAT_FLAG, LIOS.TROUTES.HAZMAT_FLAG"""
+Assembly Code,"""SMS.GSMCOMP.ASSY_CODE"""
+Region Code,
+Total Suggested Retail Amount,
+JDPA Subsegment Code,"""base_pin_incentive_isr"""
+Mid Year Price Manufacturing Gross Profit Impact Per Unit,"""base_finance_gi_impact_budget"""
+Horsepower,
+Data Set ID,"""base_autoplanner_indstry_veh_attributes"""
+Ship to State,
+Sell Days,
+Non-Core Incentive 2: Take Rate Amount,"""base_pin_incentive_isr"""
+Configuration Property Value,"""FVM.CONFIGURATIONPROPERTY.VALUE"""
+Exception Message,"""LIOS.TEXCEPTIONDETAIL.MESSAGE"""
+JT5 Line Off Year,
+Assembly Sequence number Assign Date,
+Business Year Begin Day,
+Bulk Quarantined,
+Adjusted Unload Date,"""LIOS.DD_BLACKOUTS_ROUTES.ADJUSTED_UNLOAD"""
+Tier T4,"""base_toyota_us_inctv_prog_targets"""
+Production Line Short Description,
+Use Fill,
+Accessory Seq No,
+Document,
+Extented CIF Cost Amount,
+Purchase Incentive Offering/Unit Amount,"""base_pin_incentive_isr"""
+Sales Quantity,"""base_lexus_month_end_Regional"""
+Raw Drivetrain Name,
+Comment 4,
+Obsolete Date,"""Parts Master.PVS_PRUDESC_xxxx_STG.OBSOLETE_DATE"""
+Key Points,"""base_autopacific_lifecycle"""
+Destination Country,
+Container Width,"""LIOS.TPACKAGING.DBLCONTAINERWIDTH"""
+Data Retention Days,
+Reserved Flag,
+Departure Driver Miles,"""LIOS.TROUTE_SEQ_DETAILS.DEP_DR_MILES"""
+Holding Date,
+Lexus Nenkei Regional ID,"""base_lexus_nenkei_Regional"""
+Dealer Name,
+Invalid Indicator,
+COSMOS Series Code,
+Received Date,"""SMS.GSMRLOG.RECEIVED_DATE"""
+Kanban Number,"""LIOS.OWK.KANBAN_NUMBER, OWK.G_KANBANLABEL_TAB.KANBAN_NUMBER, OWK.OWK_GENERIC_KANBAN.KANBAN_NUMBER, OWK.OWK_KANBAN.KANBAN_NUMBER, OWK.OWK_KANBAN_BKP.KANBAN_NUMBER, OWK.OWK_PRINT_HISTORY.KANBAN_NUMBER"""
+Latest Point: Point,
+Model Description,
+Dealer Staff Department Description,
+IRM Body Style,"""base_jato_version"""
+Cross Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Number Historical Data Points,"""base_irm_pm_inctv_elasticity"""
+Logistics Provider,"""LIOS.DD_BLACKOUTS_ROUTES.LOGISTICSPROVIDER"""
+Freight Amount,
+Structure Comment,"""SMS.GSMSTCC.COMMENTS"""
+Post Date Identifier,
+Day of Year,
+Non Fleet In Transit Quantity,
+Drop Ship Code,
+Shipment Type Identifier,
+Reload Minutes,"""FVM.SITE.RELOADMINUTES"""
+Bank Addr Phone Number,
+Line Count,
+UnPost Reason,
+Total Unbuilt Unshipped Quantity,"""base_month_end_actual"""
+DUNS Suffix,
+Insertion Date,
+Dealer Quantity Unit Pack Quantity,
+Feedback,
+Site Configuration Identifier,"""FVM.SITE.CONFIGURATIONID"""
+Body Style Long Description,"""MODEL_MODEL_YEAR"""
+Email Address,"""OWK.USER_APPLICATION_SECURITY.EMAIL_ADDRESS"""
+Supply Frame Type,
+Active Indicator,
+Fleet Program Code,
+Page Type,
+Production Country Code,
+color Lot (UK),
+Variation Code,"""PSMS.ITFCHIK.VARIATION, SMS.GSMCONT.VARIATION_CODE, SMS.GSMVARI.VARIATION_CODE"""
+Term 45 Rate,"""base_scion_us_residual_value_fcst"""
+Opt Price Phase Code,
+Red Tag Date,
+Seconds taken to remove one defect,
+Time Control From,"""SMS.GSMSTRC.TIME_CONTROL_FROM"""
+Assigned Brand Identifier,
+North American Manufacturing Company (NAMC) Data3,"""LIOS.OWK.NAMC_DATA3, OWK.OWK_GENERIC_KANBAN.NAMC_DATA3, OWK.OWK_KANBAN.NAMC_DATA3"""
+Bill To City,
+Server Name,"""LIOS.TLIOS_CRON_JOB.SERVER_NAME"""
+Month,"""LIOS.CO2_DATA.MONTH, LIOS.LCM_PACKAGING_COST.MONTH, LIOS.LCM_PROD_VOLUME_COST.MONTH, LIOS.LCM_PRODUCTION_COST.MONTH"""
+Deleted,"""FVM.SKID.DELETED"""
+Ship to Geography Code,
+Removed Flag,
+Notification Name,"""LIOS.TNOTIF_CURRENT.NAME"""
+Times Triggered,"""LIOS.QRTZ_SIMPLE_TRIGGERS.TIMES_TRIGGERED"""
+Surcharge Effective Start Date,"""LIOS.TSUR_WEEKLY.EFFECTIVE_START, LIOS.TSURCHARGE.EFFECTIVE_START"""
+Amend Shop floor Entry Time,
+Transaction Total Navigation Amount,"""base_pin_incentive_isr"""
+TPNA Last Part In Chain Number,
+Parameter Category,"""LIOS.TLIOSSYSPARAMETERS.CATEGORY"""
+Store Address Secondary,"""Parts Master.PVS_PRUKANB_xxxx_STG.STORE_ADDRESS_SECONDARY"""
+Audit Create Date,
+Axle,
+COSMOS Series Name,
+Set Code,"""SMS.GSMSET.SET_CODE"""
+Cost Allocation Identifier,"""LIOS.TGENCOSTALLOCATION.COST_ALLOCATION_ID"""
+Data Status,"""base_jato_version"""
+MSRP Elasticity,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Order Release Date,###############################################################################################################################################################################################################################################################
+Locked Date Time,"""FVM.SERIALIZATIONS.LOCKEDDATETIME"""
+Opt Pack Dis Amt,
+Month-to-Date PNVRL(Price per new vehicle Retailed/Leased) Amount,"""base_lexus_dlr_sls_prc_and_gross_prft_pnvrl"""
+Account Addr Zip Code,
+Special Vehicle Mark,
+Inventory Count,
+Arrival Factor Ratio,
+Days Supply Quantity,"""base_lexus_month_end_Regional"""
+Competitor Finance Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Tagged Defect Flag,
+Line Side Address,
+Door Code,"""LIOS.TROUTE_SEQ_DETAILS.DOOR_CODE"""
+Introductory Price Distributor Margin Change Amount,"""base_finance_gi_impact_budget"""
+Route 3 Reload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_3_RELOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_3_RELOAD"""
+Discount Amount,
+Combined Unbuilt Unshipped Quantity,
+Boolean Correct,
+TORA code,
+Final Buyoff Flag,
+Buyoff Result,
+Load End Date,"""LIOS.TROUTE_SEQ_DETAILS.LD_END_DATE"""
+A9 Event Date,
+IRM Other Attributes,"""base_jato_version"""
+Table Name,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Containment Result,
+Logistics Point Type,"""LIOS.TCONTROLPOINTMATRIX.LOGISTICS_POINT_TYPE, LIOS.TCPMSNAPSHOTS.LOGISTICS_POINT_TYPE, OWK.OWK_LOGISTICS_POINT_TYPE.LOGISTICS_POINT_TYPE_DESC"""
+Domicile Name,"""LIOS.TCOSTMASTER.DOMICILE_NAME"""
+Comp Sales Quantity,
+Route 1 Reload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_1_RELOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_1_RELOAD"""
+Fixed Continuous Paint Sequential Number,
+Temporary Continuous Build Sequential Number,
+Total Finance APR Term Mix Quantity,"""base_pin_incentive_isr"""
+Container Length,"""LIOS.TPACKAGING.DBLCONTAINERLENGTH"""
+Total Sales Amount,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Routing Term From,"""SMS.GSMSTRC.RTN_TERM_TO"""
+Security Role Identifier,"""FVM.SECROLE_SECPERMISSION.SECURITYROLEID, FVM.SITE_USER_ROLE.SECURITYROLEID"""
+Job Package Identifier,"""LIOS.TLIOSJOBPKG.JOB_PKG_ID, LIOS.TLIOSJOBPKGRECPTS.JOB_PKG_ID, LIOS.TLIOSJOBRUN.JOB_PKG_ID"""
+Route Connection Cut Time,"""FVM.HISTORY.ROUTECONNECTIONCUTTIME, FVM.ROUTECONNECTION.CUTTIME"""
+Intercept Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Dealer Group Code,
+Fleet Availability Quantity,
+Lease Down Payment (39 < Term <= 48) Amount,"""base_pin_incentive_isr"""
+Wholesale Quantity,"""base_lexus_month_end_Regional"""
+Original Shipped Quantity,
+Total Dealer Invoice Amount,
+Document Code,"""OWK.OWK_DOCUMENT.DOCUMENT_CODE, OWK.OWK_ORDER_PRINT_CONSTRAINT.DOCUMENT_CODE, OWK.OWK_PRINT_HISTORY.DOCUMENT_CODE, OWK.USER_APPLICATION_SECURITY.DOCUMENT_CODE"""
+Lease APR Subvention Offer Amount,"""base_pin_incentive_isr"""
+Working Pattern Start Date,"""LIOS.WORKING_PATTERN.STARTTIME, LIOS.WP_CALENDER.EFFECTIVE_START"""
+LIOS Query Identifier,"""LIOS.TLIOS_QUERY.TLIOS_QUERY_ID"""
+Terminal Type,
+This describes whether reconciliation Required,
+fa_loantocost_amt,"""base_pin_incentive_isr"""
+Metric Cube (M3),"""LIOS.FREQ_BY_PALLET.M3, LIOS.TDOB_ALLOCATION.M3, LIOS.TGENCOSTALLOCATION.M3, LIOS.TLOGISTICS_INV_ALLOC.M3, LIOS.TORDERS.M3, LIOS.TROUTE_SEQ_DETAILS.M3"""
+Elasticity,"""base_irm_pm_msrp_elasticity"""
+Lease Subvention (39 < Term <= 48): $ Offer Amount,"""base_pin_incentive_isr"""
+Raw Model Change Category Code,"""base_senzu"""
+Intro RPC GI Percent,"""base_finance_gi_impact_model"""
+Increasing PIN Incentive Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Domestic Plant Indicator,
+Change Type,"""LIOS.TBILLINGHISTORY.CHANGE_TYPE"""
+Production Line,
+Finance Trade Amount,"""base_pin_incentive_isr"""
+Minor Index,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Product Colors Usage Flag,
+Part Flag,"""PSMS.ITFCHIK.AC, PSMS.ITFCOLR.AC, PSMS.ITFPHIK.AC, PSMS.ITFPHIN.AC, PSMS.ITFPHIU.AC"""
+Reference Number,
+Binary Large Object Parameter,"""LIOS.TLIOSJOBPKG.BLOB_PARAM_JSON"""
+Grade Spec Short,
+Non-Core Incentive 8: $ Offer Amount,"""base_pin_incentive_isr"""
+Port Address2,
+Rundown Vehicle Allocation Count,
+Competitor Incentive Ratio Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Erase Time,
+Event Code Current Indicator,
+Retail Reversal Date,
+Shop Contact,
+Bulk Retailed,
+Category Name,
+Logistics Point Short Name,###############################################################################################################################################################################################################################################################
+Region Character Code,
+Internal Delivery Flag,
+Wait Lane Minutes,"""FVM.ROUTE_DOCK.WLMIN"""
+Finance APR Down Payment (24<Term<=36) Amount,"""base_pin_incentive_isr"""
+Adjusted Reload Start Date,"""LIOS.TROUTES.ADJ_RELOAD_START"""
+Operating System Major Version,"""LIOS.TUSER_ANALYTICS.OS_MAJOR"""
+DriveTrain,
+Cash Rebate Trade In Amount,"""base_pin_incentive_isr"""
+Shipping Weight Number,
+Receiving Plant,"""LIOS.FREQ_BY_PALLET.RCV_PLANT"""
+Effective Stop Date,
+Market Area Class,
+Routes Missed Unload,"""LIOS.TCONTROLPOINTMATRIX.ROUTES_MISSED_UNLOAD, LIOS.TCPMSNAPSHOTS.ROUTES_MISSED_UNLOAD"""
+Cost Master Identifier,"""LIOS.TCOSTMASTER.COST_MASTER_ID"""
+Price Formula Code,
+Tool,
+Updated By,###############################################################################################################################################################################################################################################################
+Sales Suffix,
+Mydfiolist Generated Key,
+Material,"""SMS.GSMMINR.MATERIAL"""
+Total SAAR Quantity,"""base_pin_incentive_isr"""
+PIN Per New Vehicle Sales to Hit Target,"""base_irm_pm_sales_fcst_by_series"""
+Body Style Short,
+Finance APR Term Mix (48<Term<=60) Amount,"""base_pin_incentive_isr"""
+Cycle,"""LIOS.TFREQBYPALLET.CYCLE, LIOS.TMASTERDOCKCYCLE.CYCLE"""
+Non-Core Incentive 3: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+TOMS Division Code,
+Latest Repairing Point: Repairing Point,
+Role Identifier,"""LIOS.TROLES.INTROLEID, LIOS.TUSERROLES.INTROLEID"""
+PD(Private Distributor) Mix Percentage,"""base_finance_gi_impact_budget"""
+Snapshot Identifier,"""LIOS.TCPMSNAPSHOTS.SNAPSHOT_ID"""
+NHTSA Model Name,
+Frame sequence number Length,
+Raw Introductory Price Model Change Category,"""base_finance_gi_impact_budget"""
+Finance APR Subvention (36<Term<=48): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Barcode Type,
+Emission Indicator,
+Product IMR Category Descripton,
+Modification Date Time,
+Total Proposed GI Gross Profit Impact Manufacturing Amount,"""base_finance_gi_impact_budget"""
+% Finance Type of Sale,"""base_pin_incentive_isr"""
+Base Price Range High,"""base_autopacific_lifecycle"""
+Box Layer Effective From,"""LIOS.TBOX_LAYER.EFFECTIVE_FROM"""
+Toyota Fleet Incentive Budget ID,"""base_toyota_us_fleet_inctv_bdgt"""
+IRM Engine,"""base_pin_explorer"""
+Broadcast Type,
+Data Table,
+Specification Change Description,"""base_autoplanner_indstry_veh_pricing"""
+Lease Percentage Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Sub Pass Sequence,
+Event Code,
+Non Fleet Sales Quantity,
+Production Month,
+Player Type,"""LIOS.TACCTRL_MATRIX.PLAYER_TYPE, LIOS.TLIOSJOBPKGRECPTS.PLAYER_TYPE"""
+Life Cycle,"""Parts Master.PVS_PRUKANB_xxxx_STG.LIFE_CYCLE"""
+Seconds taken for Database lookup,
+fc_rt_tier_1_amt,"""base_pin_incentive_isr"""
+Check Result,
+Pass Number,
+Production Cost Amount,"""LIOS.LCM_PRODUCTION_COST.AMOUNT"""
+Shipment Detail Transaction Identifier,
+Dealer Invoice Amount,
+Necessary Quantity Calculation(NQC) Flag,"""PSMS.ITFPHIU.NQC_CALC_FLAG"""
+Box Remain To Order,"""LIOS.OWK.BO_REMAIN_TO_ORDER, OWK.OWK_KANBAN.BO_REMAIN_TO_ORDER"""
+Base Cost Amt,
+Yard Arrival Date,"""LIOS.TROUTES.YARD_ARRIVAL_DATE, LIOS.TRTSEQ_DRIVER_INFO.YD_ARRIVAL_DATE"""
+Calendar Month Name,
+Chassis Reject Flag,
+Estimated Production Month,"""base_autopacific_lifecycle"""
+Non-Core Incentive 5: $ Offer Amount,"""base_pin_incentive_isr"""
+Special Treatment Indicator,
+Stock_Start Date,
+Budget Segment,"""LIOS.TBUDGET_SEGMENTS.BUDGET_SEGMENT_NAME"""
+Abnormal Order Quantity,
+Chassis Inspection Day,
+Rate Effective Stop Date,"""LIOS.TCOSTMASTER.EFFECTIVE_STOP"""
+User Email Address,"""LIOS.TUSER.STREMAILADDRESS"""
+Logistics Mode Name,"""LIOS.TROUTES.LOG_MOD_NAME"""
+Containment Question,
+Emission Code,
+Repair Process,
+Parent Part,"""PSMS.ITFCOLR.PARENT_PART_NO, PSMS.ITFPHIK.PARENT_PART_NO, PSMS.ITFPHIN.PAR_PART_NO, PSMS.ITFPHIU.PARENT_PART_NO, SMS.GSMSTCC.PARENT_PART_NO, SMS.GSMSTRC.PARENT_PART_NO"""
+Finance APR Subvention (24<Term<=36): $ Offer Amount,"""base_pin_incentive_isr"""
+Event Code Load Identifier,
+Sales Report Series Code,
+Term 27 Rate,"""base_scion_us_residual_value_fcst"""
+Invoice Number,"""LIOS.TEXPEDITECOSTS.INVOICE_NUMBER, LIOS.TGENERALCOST.INVOICE_NUMBER, LIOS.TLOGISTICS_INVOICE.INVOICE_NUMBER, LIOS.TLP_INVOICE_MAPPING.INVOICE_NUMBER"""
+Player Code,"""LIOS.TACCTRL_MATRIX.PLAYER_CODE, LIOS.TLIOSJOBPKGRECPTS.PLAYER_CODE"""
+Stock_End Date,
+Pace Vs Target Scenario Year,"""base_irm_pm_gi_heatmap"""
+Spare Time for Buy-off,
+Route Type,"""LIOS.TROUTES.ROUTE_TYPE, OWK.OWK_ROUTE_TYPE.ROUTE_TYPE_DESC"""
+Extra Day,"""LIOS.DD_BLACKOUTS.EXTRA_DAY"""
+Division Of Business (DOB) Identifier,"""LIOS.TDOB.DOB_ID, LIOS.TDOB_ALLOCATION.DOB_ID, LIOS.TLOGISTICS_INVOICE.DOB_ID"""
+lc_rt_tier_1_plus_amt,"""base_pin_incentive_isr"""
+Parent Drawing,"""SMS.GSMDRAW.PARENT_DRAWING"""
+Incentive Elasticity Drivers,"""base_irm_pm_inctv_elasticity"""
+Commit Date and Time,
+Lio Accessory List,
+Category,
+Family,###############################################################################################################################################################################################################################################################
+Routing,###############################################################################################################################################################################################################################################################
+Urgency Flag,"""OWK.OWK_MESSAGES.URGENCY_FLAG"""
+Batch OK reason,
+Base Effective Date,"""base_lexus_month_end_Regional"""
+Yard Parking Capacity,"""LIOS.TCONTROLPOINTMATRIX.YD_PARKING_CAPACITY, LIOS.TCPMSNAPSHOTS.YD_PARKING_CAPACITY"""
+Product TSO Category Description,
+Port Of Entry Code,
+Exterior Color Abbreviation,
+Dummy (CR Label),
+Pre Delivery Confirmation initiated,
+Inspection enabled,
+Sample all other,
+Total Budget GI Impact TMS and Manufacturing Amount,"""base_finance_gi_impact_budget"""
+Emission Accessory Code,"""base_tms_us_vehicle_sales"""
+Engine Number,
+Effective Date,"""FVM.ROUTE_DOCK.EFFDATE"""
+Purchasing,"""SMS.GSMSTRC.PURCHASING"""
+Order Cycle,
+Part Distribution Center Current Indicator,
+Raw Change Category Code,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Dealer Base Cost Amount,
+Model Code,
+Raw Body Style Name,"""base_jato_version"""
+Special Control Code,
+Railcar Sighting Location Name,
+Accessory Type Classification Code,
+Captured Image,
+Incentives % of Price amount,"""base_pin_incentive_isr"""
+Rundown Production Count,
+Program Code,"""base_tms_us_non_cash_inctv"""
+Price Per Gallon,"""LIOS.TSUR_WEEK_CALC.PER_GAL"""
+Fixed Continuous Assembly Number,
+fc_loantocost_amt,"""base_pin_incentive_isr"""
+Unload Minutes,"""FVM.SITE.UNLOADMINUTES"""
+Accounting System Customer Identifier,
+Expedite Cost Status,"""LIOS.TEXPEDITECOSTS.STATUS"""
+Height Quantity,
+Motor Basic Katashiki RR,
+Fleet Dealer Stock Days Supply Quantity,
+Lease Term Mix (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Lease Loyalty Cash: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Finance Rebate Negative Equity Amount,"""base_pin_incentive_isr"""
+Previous Value,"""FVM.HISTORY.PREVIOUSVALUE"""
+Tools Trace Inspect flag,
+Segment Category Name,"""base_autoplanner_indstry_veh_attributes"""
+Water Leak,
+Dph,
+Control Point Matrix Identifier,"""LIOS.TCONTROLPOINTMATRIX.CP_MATRIX_ID, LIOS.TCPMCOMMENTS.CP_MATRIX_ID"""
+Trade-in Assistance Program: Take Rate Amount,"""base_pin_incentive_isr"""
+Repair Direct Run Group Identifier,
+KD Lot Code,
+Win Inspect sections to be refreshed,
+First Name,"""FVM.SERIALIZATION_HISTORY.FIRSTNAME, FVM.SERIALIZATIONS.FIRSTNAME, OWK.USER_APPLICATION_SECURITY.FIRST_NAME"""
+% No Traditional Incentives Penetration,"""base_pin_incentive_isr"""
+Batch Welding Line,
+Number History Date Points,"""base_irm_pm_msrp_elasticity"""
+Planning Control Indicator,
+Part Ship To Addr Zip Cd Addon,
+Period Identifier,"""LIOS.FREQ_BY_PALLET.PERIOD_ID, LIOS.TDOB.PERIOD_ID, LIOS.TDOBPLANNINGPERIOD.PERIOD_ID, LIOS.TDOBPPDOMICILE.PERIOD_ID, LIOS.TFORECAST.PERIOD_ID, LIOS.TLP_INVOICE_MAPPING.PERIOD_ID, LIOS.TPERIODS.PERIOD_ID, LIOS.TSOT.PERIOD_ID"""
+Box Count,"""FVM.BATCH_OWK_FILES.BOXCOUNT"""
+Katashiki,
+Dealer Cost Amt,
+IRM Grade Name,"""base_jato_version"""
+% Visible Spending,"""base_pin_incentive_isr"""
+Fleet Volume Target Quantity,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Service Charge Amount,
+Raw Doors,"""base_pin_explorer"""
+Exchange Time,
+PIN PNVS To Hit Target,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Segment Seasonal Factor Month 7,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Packing Effective Stop Date,"""LIOS.TPACKAGING.DTMEFFECTIVESTOP"""
+Introductory Price Dealer Margin Change Amount,"""base_finance_gi_impact_budget"""
+Conquest Cash: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Shipment Type Load Date,
+Toyota Motor Manufacturing Canada (TMMC) Code,"""LIOS.TLOGISTICSPOINTS.TMMCCODE, LIOS.TROUTE_SEQ_DETAILS.CA_CODE"""
+Purchase Loyalty Cash: Take Rate Amount,"""base_pin_incentive_isr"""
+To Dock,"""LIOS.FREQ_BY_PALLET.TO_POINT_DOCK"""
+Fixed Sequence File Flag,
+Distributor Margin Percentage,"""base_finance_gi_impact_budget"""
+APR(Annual Percentage Rate) Trade Amount,"""base_pin_incentive_isr"""
+Calendar Month End Date,
+Specification Change Amount,"""base_autoplanner_indstry_veh_pricing"""
+APR(Annual Percentage Rate) Transaction Total Amount,"""base_pin_incentive_isr"""
+Route 3 Logistic Point,"""LIOS.AET_EVENTS_ORDERS.ROUTE_3_REGION, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_3_REGION"""
+Part Distribution Center Status Indicator,
+Finance APR Monthly Payment (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Body Number,
+Bill To Addr Name,
+Sequence Type,"""LIOS.TROUTE_SEQUENCE.SEQ_TYPE"""
+Tire Mfg Code,
+Aidento Number,
+Class Account Code,
+Old Dealer Code,
+Business Entity Logo Path,"""OWK.OWK_BUSINESS_ENTITY.BUSINESS_ENTITY_LOGO_PATH"""
+Airbag Ecu Number,
+Residual Cap Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Pace Vs Target Score,"""base_irm_pm_gi_heatmap"""
+Set Type,"""LIOS.TDATASETHISTORY.SETTYPE"""
+Suggested Base Retail Amount,
+Parts procurement key,"""PSMS.ITFPHIK.PARTS_PROC_KEY"""
+Open Time,"""LIOS.DIRECT_WORKING_PATTERNS.OPEN_TIME"""
+Raw Generic Body Style Name,"""base_jato_version"""
+Day,"""LIOS.TRM_STAGING.DAY, LIOS.TROUTE_SEQ_DETAILS.DAY"""
+Adjusted Pickup Date,"""LIOS.DD_ROUTES_SUPPLIERS.ADJUSTED_PICKUP"""
+New Part Code,
+Customer Flag,
+Sub Type,"""FVM.HISTORY.SUBTYPE"""
+Cash Incentive Offering/Unit Amount,"""base_pin_incentive_isr"""
+Identification Line,"""PSMS.ITFPHIK.IDENT_LINE, PSMS.ITFPHIN.IDENT_LN, PSMS.ITFPHIU.IDENT_LINE"""
+Production Type,
+Dealer Staff Email ID,
+Wholesale First Value Flag,
+Ship To Address 1,
+Records Count,"""SMS.GSMRLOG.RECORDS_COUNT"""
+Dealer Code,
+Optional Address Identifier,
+Color Invoice,"""base_jato_color_trim"""
+TMS Fleet Retail Quantity,"""base_nenkei_tms_us_a_table_series_by_segment_fcst_and_actl"""
+Operating System Name,"""LIOS.TUSER_ANALYTICS.OS_NAME"""
+Captive Lender Customer Bonus - Finance Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+Lid Height,"""LIOS.TPALLET_MASTER.LID_HEIGHT"""
+Rate Description,"""LIOS.TCOSTMASTER.RATE_DESC"""
+Data Load Date,###############################################################################################################################################################################################################################################################
+Product Code,
+Estmtd Truck Ship Date,
+Start Time,"""LIOS.TLIOS_JOB_LOG.START_TIME, LIOS.TLIOSJOBRUN.START_TIME"""
+Duplicate Search Pattern,
+Total Proposed GI TMS Gross Profit Amount,"""base_finance_gi_impact_budget"""
+Option MSRP,"""base_jato_option"""
+Non-Core Incentive 3: Take Rate Amount,"""base_pin_incentive_isr"""
+Vehicle Price Amount,"""base_pin_incentive_isr"""
+Access Identifier,"""LIOS.TACCTRL_MATRIX.ACCESS_ID"""
+Logistics Shop End Time,"""FVM.SHOP.ENDTIME"""
+Part History Effective End Date,
+Foreground Color,
+Part Size,"""LIOS.TSMLLRGPARTMASTER.PART_SIZE"""
+Serial Number Check Digit,
+Actual Dropped Routes,"""LIOS.TCONTROLPOINTMATRIX.ACTUAL_DROPPED_ROUTES, LIOS.TCPMSNAPSHOTS.ACTUAL_DROPPED_ROUTES"""
+Model Change Category Abbreviation,"""base_finance_gi_impact_budget"""
+Posted Flag,
+Country Abbreviation,
+Printer Description,"""OWK.USER_APPLICATION_SECURITY.PRINTER_DESCRIPTION"""
+Manifest Number,"""FVM.ORDER_BOX.MANIFESTNUMBER, LIOS.OWK.MANIFEST_NUMBER, OWK.OWK_KANBAN.MANIFEST_NUMBER, OWK.OWK_KANBAN_BKP.MANIFEST_NUMBER"""
+Incentivized Share Percentage,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Raw Number of Doors,"""base_jato_version"""
+Database Retention Days,"""OWK.OWK_BUSINESS_GROUP.DB_RETENTION_DAY"""
+Incentive Elasticity,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Convertible Indicator,
+PIN Incentive Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Finance Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Division Code,
+Toyota Motor Corporation Date Time,"""PSMS.ITFCHIK.TMC_DATETIME, PSMS.ITFCOLR.TMC_DATETIME, PSMS.ITFPHIK.TMC_DATETIME, PSMS.ITFPHIU.TMC_DATETIME"""
+Sales System,
+Vehicle Descriptor Section,
+Business Entity Short Name,"""OWK.G_KANBANLABEL_TAB.BUSINESS_ENTITY_SHORT_NAME, OWK.OWK_BUSINESS_ENTITY.BUSINESS_ENTITY_SHORT_NAME"""
+Federal Excise Tax Amount,
+Packing Code,"""LIOS.TSMLLRGPARTMASTER.CODE"""
+Finance APR Term Mix (Term>72) Amount,"""base_pin_incentive_isr"""
+TMS Per New Vehicle Sale to Hit Target,"""base_irm_pm_sales_fcst_by_series"""
+Total Finance APR Subvention: Wgt'd $/unit,"""base_pin_incentive_isr"""
+Return Charge Amount,
+Print Format Code,"""OWK.OWK_PRINT_FORMAT.PRINT_FORMAT_CODE, OWK.USER_APPLICATION_SECURITY.PRINT_FORMAT_CODE"""
+Notification Current Identifier,"""LIOS.TNOTIF_CURRENT.NOTIF_CURRENT_ID, LIOS.TNOTIF_FILTERS.NOTIF_CURRENT_ID, LIOS.TNOTIF_SUBSCRIBERS.NOTIF_CURRENT_ID"""
+Current Day Indicator,
+Model Production Start Date,
+Ten Plus District Code(TNE??),
+Rdr Date,
+Gas Price Impact Bound Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Route Trailer Number,"""FVM.HISTORY.ROUTECONNECTIONTRAILERNO, FVM.ROUTECONNECTION.TRAILERNO"""
+Dealer Active Indicator,
+Region,"""LIOS.TSUR_WEEKLY.REGION, LIOS.TSUR_YEARLY.REGION"""
+Selection,"""SMS.GSMSTRC.SELECTION"""
+Incentive Ratio,"""base_irm_pm_pin_vs_tms_inctv_spend_ratio"""
+Production Area Code,
+EIA National Gas Price,"""base_eia_national_gas_price"""
+Freight Charge Amount,
+Account Number,"""LIOS.TGLACCOUNTDATA.ACCOUNT_NUMBER"""
+North American Customer Satisfaction Audit,
+From Logistics Point,"""LIOS.FREQ_BY_PALLET.FROM_POINT"""
+Sales Target,"""base_irm_pm_sales_fcst_by_series"""
+Procon Date,
+InHouse Time,
+Procurement Analyst Supervisor Name,
+Production Begin Date,
+Surcharge Type,"""LIOS.TSURCHARGE.SURCHARGE_TYPE"""
+Red Value,
+Lease APR (Term > 48) Amount,"""base_pin_incentive_isr"""
+Total Miles Cost,"""LIOS.TLOGISTICS_INVOICE.TOTAL_MILES_COST"""
+BMP image file path,
+Purchase Price Amount,
+Engine Category Name,
+Raw Change Category,"""base_lexus_launch_month"""
+Raw Transmission Type,"""base_jato_version"""
+Estmtd Buyoff Date At Procon,
+Non-Core Incentive 10: Take Rate Amount,"""base_pin_incentive_isr"""
+Requester Comments,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.REQUESTERCOMMENTS"""
+Raw Label,
+Introduction Date,
+Drop Hook Flag,"""LIOS.TROUTE_SEQ_DETAILS.DROP_HOOK_FLAG"""
+Minor Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Non-Core Incentive 8: Take Rate Amount,"""base_pin_incentive_isr"""
+Segment Seasonal Factor Month 12,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Body Section Info,
+Non Fleet Wholesale Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Active Flag,"""LIOS.TLIOS_CRON_JOB.ACTIVE"""
+Output Name,"""LIOS.TLIOSJOBOUTPUT.OUTPUT_NAME"""
+Drawing Source,"""SMS.GSMMINR.DRAWING_SOURCE"""
+White Foreground Flag,
+Item Class,"""SMS.GSMSPCD.ITEM_CODE_CLASS"""
+Series Code,
+Scion Hold Indicator,
+North American Manufacturing Company (NAMC) Data4,"""LIOS.OWK.NAMC_DATA4, OWK.OWK_GENERIC_KANBAN.NAMC_DATA4, OWK.OWK_KANBAN.NAMC_DATA4"""
+Months Before Next Launch,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Body Style Code,
+Last Rdr Date,
+Job Description,"""LIOS.QRTZ_JOB_DETAILS.DESCRIPTION, LIOS.TLIOSJOB.DESCRIPTION"""
+Defect Per Unit Suppressed Flag,
+Accounting Customer Status Indicator,
+Informational Flag,
+Foreign Addr Line One,
+Parking Occupied,"""LIOS.TCONTROLPOINTMATRIX.PARKING_OCCUPIED, LIOS.TCPMSNAPSHOTS.PARKING_OCCUPIED"""
+Japan Plant Number,
+Pickup Frequency,"""LIOS.TROUTE_SEQ_DETAILS.PU_FREQ"""
+Account Data Identifier,"""LIOS.TGLACCOUNTDATA.ACCOUNT_DATA_ID"""
+lc_percentfinanced_amt,"""base_pin_incentive_isr"""
+Route Sequence Driver Identifier,"""LIOS.TRTSEQ_DRIVER_INFO.RTSEQ_DRIVER_ID"""
+Assigned Brand Load Identifier,
+Vehicle Type,
+Export Indicator,
+Fuel Type Abbreviation,"""base_autoplanner_indstry_veh_attributes"""
+Approval To,"""SMS.GSMCONT.APPROVAL_TO"""
+No Requirement,"""FVM.ORDR.NOREQUIREMENT"""
+Event Code Update By Program Name,
+Planned Missed Unload,"""LIOS.TCPMSNAPSHOTS.PLANNED_MISSED_UNLOAD"""
+Fleet Account Id,
+Cash Profit Margin,"""base_pin_incentive_isr"""
+Close Connection/Missed Connection Configuration,"""FVM.ROUTE_DOCK.CCMCOFF"""
+Transmission,
+Movement Type,
+Non-Core Incentive 7: Take Rate Amount,"""base_pin_incentive_isr"""
+Non Fleet Arrival Quantity,
+Staging Group,
+TMS Gross Profit Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Total Finance APR Down Payment Amount,"""base_pin_incentive_isr"""
+Data Type,"""FVM.CONFIGURATIONPROPERTYTYPE.DATATYPE"""
+View Type,
+Miles Per Gallon,"""LIOS.TSUR_WEEK_CALC.MPG"""
+% Captive Supported Finance APR,"""base_pin_incentive_isr"""
+TMS Unit Pack Quantity,
+List Identifier,"""LIOS.TLIOSLISTITEM.ID"""
+Dealer Volume Bonus: Take Rate Amount,"""base_pin_incentive_isr"""
+Status Code,"""base_lexus_month_end_Regional"""
+Planned Quantity,"""FVM.HISTORY.PLANQTY, FVM.ORDER_BOX.PLANQTY"""
+Mid Year Model Change Category Abbreviation,"""base_finance_gi_impact_budget"""
+Plant Country,
+Pallet Total Orders,"""LIOS.FREQ_BY_PALLET.ORDERS"""
+Day Light Saving,"""LIOS.TLOGISTICSPOINT_INFO.DAY_LIGHT_SAVING, LIOS.TLOGISTICSPOINTSDOCKINFO.DAYLIGHTSAVINGS"""
+Transaction Code Group,
+Vendor Share,"""Parts Master.PVS_PRUKANB_xxxx_STG.VENDOR_SHARE"""
+Parts Shipment Header DM Load Id,
+% Non-Core Spending,"""base_pin_incentive_isr"""
+Total Arrival Quantity,
+Route Connection Rel Type,"""FVM.ROUTECONNECTION_ORDER.RELTYPE"""
+Core Spending/Unit Amount,"""base_pin_incentive_isr"""
+Panel,
+Model Name Code,
+Process Time,
+Portion,
+Lease Loyalty Cash: Take Rate Amount,"""base_pin_incentive_isr"""
+Procurement Analyst National Manager Name,
+Defect Order,
+Toyota Logistics Management System (TLMS) Sent By,"""LIOS.TPERIODS.TLMS_SENT_BY"""
+Fax Number,
+Pilot Code,
+Suggested Retail Amount,"""base_tms_us_vehicle_sales"""
+Lease Term Mix (39 < Term <= 48) Amount,"""base_pin_incentive_isr"""
+Part Category,"""Parts Master.PVS_PRUKANB_xxxx_STG.CATEGORY"""
+Bill to Address 3,
+Flag Comment,
+Wholesale Activity Date,
+Wholesale Qty,
+Schedule Record Sending Flag,
+Packing Type,
+Hikiate Match Key,"""PSMS.ITFPHIN.HIKI_MATCH_KEY, PSMS.ITFPHIU.HIKI_MATCH_KEY"""
+Cross Impact Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Frame Present Process,
+Option Checks Complete Flag,
+Source System Code,
+Plant Name,"""base_lexus_month_end_Regional"""
+Baseline Share Percentage,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Model,
+Option Type,"""base_jato_option"""
+Parts Shipment Header DM Update By Program Name,
+Rdr Reversal Date,
+Stack Layer,"""LIOS.TSTACKABILITYMATRIX.SC_LAYER"""
+Lease Subvention (24 < Term <= 36): $ Offer Amount,"""base_pin_incentive_isr"""
+Priority Delivery From Date,
+Mid Year Price TMS Sales Impact Per Unit,"""base_finance_gi_impact_budget"""
+Lease Subvention (Term <= 24): $ Offer Amount,"""base_pin_incentive_isr"""
+Problem Type Identifier,"""LIOS.AET_EVENTS.PROBLEM_TYPE_ID, LIOS.AET_PROBLEM_TYPES.PROBLEM_TYPE_ID"""
+Last Work Day in Week Code,
+Data Required Flag,
+% Non-Captive OEM Supported Lease,"""base_pin_incentive_isr"""
+Bill to Country Code,
+Fixed Continuous Chassis Build Sequence number,
+Order Type Name,
+Mark,"""SMS.GSMDRAW.MARK"""
+Distributor Code,
+Body Style Abbreviation,"""base_autoplanner_indstry_veh_attributes"""
+Month 9 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Source,"""PSMS.ITFPHIK.SOURCE, PSMS.ITFPHIN.SRC, PSMS.ITFPHIU.SOURCE"""
+Sample all 2,
+Minor Impact Bound Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Closed Flag,
+Tendered Date,
+Dealer Staff Primary Flag,
+Source Vehicle,
+Country Code,
+Security Permission Identifier,"""FVM.SECROLE_SECPERMISSION.SECURITYPERMISSIONID"""
+Route Arrival Date,###############################################################################################################################################################################################################################################################
+Vehicle Name Code,
+Rundown Dealer Stock High Count,
+Substitution Backward Indicator,
+Unload Flag,"""LIOS.TROUTES.UNLOAD_FLAG"""
+Vehicle Size Class,
+Global Service Parts System Part Categorization Code,
+Julian Date,
+DR Repair Type,
+Confirmation date and time,
+Cross Impact Index,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+System User,"""Parts Master.PVS_PRUDESC_xxxx_STG.CREATED_BY, Parts Master.PVS_PRUDESC_xxxx_STG.UPDATED_BY"""
+Pickup Route Start Date,"""LIOS.OWK.PICKUP_ROUTE_START_DT, OWK.OWK_ORDER.PICKUP_ROUTE_START_DT, OWK.OWK_ORDER_BKP.PICKUP_ROUTE_START_DT"""
+Pricing Segmentation Category,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Cash Rebate Negative Equity Amount,"""base_pin_incentive_isr"""
+Procurement Analyst Name,
+Current Period,"""LIOS.TPERIODS.CURRENT_PERIOD"""
+MSRP Elasticy Driver,"""base_irm_pm_msrp_elasticity"""
+Engine Type,
+Present Process: Process,
+Repair Confirmation Date Time,
+% Cash With Customer Cash Rebate,"""base_pin_incentive_isr"""
+Current Year Indicator,
+Quarantined Date Time,
+Number of Days for Duplicate search,
+Order Rank Reason Code,
+Estmtd Buyoff At Daily Lock,
+Parameter Identifier,"""LIOS.TLIOSSYSPARAMETERS.SYS_PARAM_ID"""
+Wholesales Volume Quantity,"""BASE_BUDGET_WHOLESALE_VOLUME"""
+Record ID,"""base_jato_equipment"""
+Parts District Code,
+Reason,"""LIOS.TGENERALCOST.REASON"""
+Order Release Type Code,"""LIOS.OWK.ORDER_RELEASE_TYPE_CODE, OWK.OWK_ORDER_RELEASE.ORDER_RELEASE_TYPE_CODE, OWK.OWK_ORDER_RELEASE_BKP.ORDER_RELEASE_TYPE_CODE, OWK.OWK_ORDER_RELEASE_TYPE.ORDER_RELEASE_TYPE_CODE"""
+% Non-Captive Non-Supported Finance,"""base_pin_incentive_isr"""
+NA(North America) Contribution Margin Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Month 5 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Color Comment 18,"""PSMS.ITFPHIN.COLR_CMT_18, PSMS.ITFPHIU.COLOR_COMMENT_18"""
+Dealer Cash - Finance Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+Rank,
+IRM Series Fuel Name,"""base_jato_version"""
+Pickup Date,"""LIOS.AET_RESOLUTIONS.PICKUP_DATE, LIOS.DD_ROUTES_SUPPLIERS.PICKUP"""
+Region Coast Code,
+Own PNVS,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Date Identifier,
+Product Major Category Description,
+Industry Share Percent,"""base_nenkei_tms_us_indstry_segment_fcst_by_year"""
+Fair,"""LIOS.TCPMTHRESHOLD.FAIR"""
+Packaging Identifier,"""LIOS.TPACKAGING.INTPACKAGINGID"""
+Business Group Long Name,"""OWK.OWK_BUSINESS_GROUP.BUSINESS_GROUP_LONG_NAME"""
+Planned Minutes,"""FVM.HISTORY.PLANMINS"""
+Increasing TMS Incentive Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Airbag Sensor3,
+Drop Ship Fleet Indicator,
+Maximum Fuel Economy City Mileage Number,"""base_jato_model"""
+Root Property Identifier,"""FVM.CONFIGURATION.ROOTPROPERTYID"""
+Frame Sequence Number,
+Model Active Flag,
+Competitor Lease Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Segment Volume Quantity,"""base_irm_pm_sales_fcst_by_series"""
+Is Durable Flag,"""LIOS.QRTZ_JOB_DETAILS.IS_DURABLE"""
+Latest Point: Date and Time,
+Segment Seasonal Factor Month 6,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Release vehicles flag,
+Parts Shipment Header Extract Date,
+Equipment Code,"""SMS.GSMSPEC.EQUIPMENT_CODE"""
+Cost Percentage,"""LIOS.TGENCOSTALLOCATION.PERCENTAGE"""
+Specialist Name,"""Parts Master.PVS_PRUSPEC_STG.FULL_NAME"""
+Security Role Name,"""FVM.SECURITYROLE.NAME"""
+Maintenance Date,"""SMS.GSMDRAW.MAINTENANCE_DATE"""
+Current Delay Time,
+Bill To Addr City Name,
+Production Line Code,
+Worksheet Name,"""base_finance_gi_impact_budget"""
+Order,
+Site,"""FVM.SITE.NAME"""
+Route 2 Unload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_2_UNLOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_2_UNLOAD"""
+Line Off Katashiki Code,
+Total Finance APR,"""base_pin_incentive_isr"""
+Hardware Type,
+Brand Name,
+Finance APR Term Mix (24<Term<=36) Amount,"""base_pin_incentive_isr"""
+Fiscal Year Number,
+APR(Annual Percentage Rate) Rebate Trade In Amount,"""base_pin_incentive_isr"""
+Sales District Code,
+Vendor Invoice Number,
+History Date,
+Special Lead time Addition Code,
+Suffix,"""PSMS.ITFPHIU.SUFFIX"""
+Luxury Non-Luxury Segment Category,"""base_nenkei_tms_us_indstry_segment_fcst_by_year"""
+Rel Type,"""FVM.LOGISTICSPOINT.RELTYPE, FVM.LOGISTICSPOINT_ROUTECONNECTION.RELTYPE, FVM.TMP_ROUTECONNECTION_ORDER.RELTYPE"""
+Exterior Color,"""PSMS.ITFCOLR.EXT_COLOR"""
+Sub Region,"""LIOS.TSUR_WEEKLY_SUB.SUB_REGION"""
+Subseries Code,
+% Captive Supported Lease,"""base_pin_incentive_isr"""
+Model Subseries Code,
+Total Orders,"""LIOS.TROUTE_SEQ_DETAILS.ORDER_TOTAL"""
+Box Layer Effective To,"""LIOS.TBOX_LAYER.EFFECTIVE_TO"""
+Base Price Range Low,"""base_autopacific_lifecycle"""
+Finance APR Subvention (48<Term<=60): $ Offer Amount,"""base_pin_incentive_isr"""
+Interior Color Color Code,
+Sell Price Amount,
+Mirror Flag,"""LIOS.TROUTES.MIRR_RT_FLAG"""
+Chassis Inspection Month,
+Division Of Business (DOB) Period Name,"""LIOS.TDOBPLANNINGPERIOD.NAME"""
+Receiving Plant Dock,"""LIOS.FREQ_BY_PALLET.RCV_PLANT_DOCK"""
+Series Fuel Name,"""base_autoplanner_indstry_veh_attributes"""
+Production Volume Type,"""LIOS.LCM_PROD_VOLUME_COST.TYPE"""
+Item Code,"""SMS.GSMSET.ITEM_CODE, SMS.GSMSPEC.ITEM_CODE"""
+Das Partition Key,
+ARC,"""LIOS.AET_EVENTS.ARC"""
+Stack Height,"""LIOS.TSTACKABILITYMATRIX.SC_HEIGHT"""
+Transparent Flag,
+Ticket Server Flag,
+Generated Key,
+Months After Launch Number,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Previous Fire Time,"""LIOS.QRTZ_TRIGGERS.PREV_FIRE_TIME"""
+Log file path,
+Receive containment status email flag,
+Fuel Rate Adjustment,"""LIOS.TSUR_WEEK_CALC.RATE_ADJ"""
+Defect Rank,
+Core Code,
+Toyota Subsegment Code,"""base_pin_incentive_isr"""
+Snapshot Date,"""LIOS.TCPMSNAPSHOTS.SNAPSHOT_TIME"""
+EIA National Gas Price Date,"""base_eia_national_gas_price"""
+Code,
+Screen design,
+Account Type Code,
+Is Outside Blackout Flag,"""LIOS.DD_BLACKOUTS_ROUTES.IS_OUTSIDE_BLACKOUT"""
+Dealer Staff Middle Initial,
+Allow ADHOC vehicles flag,
+Order Status,"""LIOS.DD_SUPPLIERS_ORDERS.STATUS"""
+TMS Incentive Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Terminate Date,
+Fiscal Year,
+Unit Of Issue Code,
+Logical Dock,"""LIOS.AET_EVENTS_ORDERS.LOGICAL_DOCK_ID, LIOS.AET_RESOLUTIONS_ORDERS.LOGICAL_DOCK_ID"""
+Route 2 Logistic Point,"""LIOS.AET_EVENTS_ORDERS.ROUTE_2_REGION, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_2_REGION"""
+Launch Month Indicator,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Option Code,"""PSMS.ITFCOLR.OPT_CODE_1, PSMS.ITFCOLR.OPT_CODE_2, PSMS.ITFCOLR.OPT_CODE_3, PSMS.ITFCOLR.OPT_CODE_4, PSMS.ITFCOLR.OPT_CODE_5, SMS.GSMCONT.OPTION_CODE"""
+Currency Code,"""LIOS.TCURRENCY.CURRENCY_CODE"""
+Business Month End Date,
+Package Identifier,"""LIOS.TLIOSPKGTEMPLATE.PKG_DEFN_ID"""
+Dealer Staff First Name,
+cinv,"""base_autoplanner_indstry_veh_pricing"""
+Parts Shipment Detail DM Update Date,
+Logistics Partner Code,###############################################################################################################################################################################################################################################################
+Direct Run Group,
+Part History Identifier,
+Dummy (Other System Information),
+Lease Trade Amount,"""base_pin_incentive_isr"""
+Business Month Start Date,
+Short Text,"""base_jato_schema_text"""
+Buyoff Model Number,
+Segment Start Date,"""base_lexus_month_end_Regional"""
+Truck Load Route Flag,"""LIOS.TROUTES.LTL_RT_FLAG"""
+Engine Katashiki,
+Finance APR Subvention (60<Term<=72): $ Offer Amount,"""base_pin_incentive_isr"""
+Pricing Raw Data Set Row ID,"""base_intermediate_autoplanner_pricing_attr"""
+Assigned Brand Effective End Date,
+Direct Run Suppressed Flag,
+Maximum Pickup,"""LIOS.TLOGISTICSPOINT_INFO.MAX_PICKUPS"""
+Tagged Defect,
+Traffic Code Bypass Indicator,
+Buyoff Comment,
+Finance APR Term Mix (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Visible Cash Offer/Unit Amount,"""base_pin_incentive_isr"""
+Delayed Route Departure Date,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.DELAYED_ROUTE_DEPARTURE_DT"""
+Funding Source,"""base_tms_us_non_cash_inctv"""
+Wholesale Date by West Coast,"""base_lexus_launch_month"""
+Message,"""OWK.OWK_MESSAGES.MESSAGE_TEXT"""
+Rundown Confimed Allocation Count,
+Last Route,"""OWK.G_KANBANLABEL_TAB.LAST_ROUTE"""
+Non-Core Incentive 1: Take Rate Amount,"""base_pin_incentive_isr"""
+Variable Rate Flag,"""LIOS.TDOB.VARIABLE_RATE_FLAG"""
+Dispatch Date,"""FVM.ORDER_BOX.DISPATCHDATE, LIOS.TDOB.DISPATCH_DATE, LIOS.TROUTES.DISPATCH_DATE, LIOS.TRTSEQ_DRIVER_INFO.DISPATCH_DATE"""
+Budget Type,"""LIOS.TGLACCOUNTDATA.BUDGET_TYPE"""
+Bitmap,
+Transmission Name,
+User Preference Name,"""LIOS.TUSERPREFERENCE.PREFERENCE_NAME"""
+Interior Color Trim Desc,
+Operating System Minor Version,"""LIOS.TUSER_ANALYTICS.OS_MINOR"""
+IRM Aspiration Abbreviation,"""base_pin_explorer"""
+Lease Subvention (24 < Term <= 36): Take Rate Amount,"""base_pin_incentive_isr"""
+Non Fleet Production Quantity,
+Order Cycle Number,
+Type Description,
+Chassis Inspection Flag,
+Color Comment,"""PSMS.ITFCOLR.COLOR_COMMENT"""
+Route Date,"""LIOS.DD_BLACKOUTS_ROUTES.ROUTE_DATE, LIOS.FREQ_BY_PALLET.ROUTE_DATE, LIOS.TDOB.ROUTE_DATE, LIOS.TEXPEDITECOSTS.ROUTE_DATE, LIOS.TROUTES.ROUTE_DATE, LIOS.TWTROUTERESPONSE.RUN_DT"""
+Finance GI Impact Budget ID,"""base_finance_gi_impact_budget"""
+IRM Drive Type,"""base_jato_version"""
+Grade Specification Short Description,
+Short Description,
+Quartz Instance Identifier,"""LIOS.QRTZ_FIRED_TRIGGERS.INSTANCE_NAME, LIOS.QRTZ_SCHEDULER_STATE.INSTANCE_NAME, LIOS.TLIOSJOBRUN.QTZ_INST_ID"""
+Specifications,
+Raw Region Area Name,"""base_lexus_month_end_Regional"""
+Finance APR Down Payment (Term>72) Amount,"""base_pin_incentive_isr"""
+Item Type,
+Purchase Price Skip Indicator,
+Fleet Departure Percent,
+Gallon Adjustment,"""LIOS.TSUR_WEEK_CALC.GAL_ADJ"""
+Item Name,"""base_jato_equipment"""
+Drivetrain Description,
+Order Type Effective End Date,
+Print Method Code,"""OWK.OWK_PRINT_METHOD.PRINT_METHOD_CODE, OWK.USER_APPLICATION_SECURITY.PRINT_METHOD_CODE"""
+Division Of Business (DOB) Start Date,"""LIOS.TDOBPLANNINGPERIOD.START_DATE"""
+Location Name,
+Pallet Code,"""FVM.HISTORY.PALLCODE, FVM.ORDER_BOX.PALLETCODE, FVM.SKID.PALLCODE, LIOS.FREQ_BY_PALLET.PALLETIZATION, LIOS.OWK.PALLETIZATION_CODE, LIOS.TFORECAST.PALLETIZATION_CODE, LIOS.TORDERS.PALLETIZ_CD"""
+Fractional Order Indicator,
+Component,"""SMS.GSMCOMP.COMPONENT_NAME"""
+Shipment Type Effective Start Date,
+Grid Offset,
+Dealer Number,
+Validation Expression,
+Raw Body Style,"""base_pin_explorer"""
+TECS Order number,
+Part Age Code,
+Foreign Exchange Rate,"""LIOS.TCURRENCY.FXRATE"""
+Non-Core Incentive 5: Take Rate Amount,"""base_pin_incentive_isr"""
+Finance APR Down Payment (36<Term<=48) Amount,"""base_pin_incentive_isr"""
+Arrival Route,"""LIOS.TRTSEQ_DRIVER_INFO.ARRV_ROUTE"""
+Plant Numeric Code,"""base_rundown_toyota_bosu_month_end_national"""
+Contingent Trailers,"""LIOS.TCONTROLPOINTMATRIX.CNTGNT_TRAILERS, LIOS.TCPMSNAPSHOTS.CNTGNT_TRAILERS"""
+Interior Color Trim Code,
+% Non-Captive OEM Supported Finance,"""base_pin_incentive_isr"""
+Parts Shipment Detail HDS Create Date,
+Non Fleet Volume Quantity,"""base_irm_pm_sales_fcst_by_series"""
+IRM Fuel Type Abbreviation,"""base_pin_explorer"""
+Drawing Type,"""SMS.GSMDRAW.KIND_OF_DRAWING, SMS.GSMMINR.DRAWING_TYPE"""
+Counter Measure,
+Approved Date,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.APPROVEDDATE"""
+Production Week,
+Unit Measure,"""Parts Master.PVS_PRUDESC_xxxx_STG.UNIT_MEASURE"""
+Invoice Percentage,"""LIOS.TLOGISTICS_INV_ALLOC.PERCENTAGE"""
+Surcharge Identifier,"""LIOS.TSURCHARGE.SURCHARGE_ID"""
+Finance Rebate Trade Same Nameplate Amount,"""base_pin_incentive_isr"""
+Assembly Line Convert Flag,
+Bodystyle Name,
+Manufacturer Suggested Retail Price Amount,
+Wait Lane Message,"""FVM.ROUTE_DOCK.WLMSG"""
+Nonfleet Departure Percent,
+Toyota de Puerto Rice Free-On-Board,
+Location Schema ID,"""base_jato_schema_info"""
+Motor Basic Katashiki,
+Route Secondary,"""Parts Master.PVS_PRUKANB_xxxx_STG.ROUTE_SECONDARY"""
+Suggested PPO Retail Amount,
+Captive Lender Dealer Cash - Finance Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+Engine Specification Name,
+Arrival Driver Miles,"""LIOS.TROUTE_SEQ_DETAILS.ARRV_DR_MILES"""
+Bill To Addr Zip Code,
+Sequence Number,"""PSMS.ITFCOLR.SEQUENCE, PSMS.ITFCOLR.SEQUENCE_NUMBER"""
+Enterprise Contribution Margin Per Unit Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Safety Factor,
+Message Date,"""OWK.OWK_MESSAGES.MESSAGE_DT"""
+Segment Volume Non Fleet Quantity,"""base_irm_pm_sales_fcst_by_series"""
+Flag type,
+TECS Build Maker Code,
+Direct Run Vehicle Status Identifier,
+Inventory Category status,
+Working Pattern,"""LIOS.TLOGISTICSPOINTNONUNLOADDAYS.WORKING_PATTERN, LIOS.WORKING_PATTERN.WORKING_PATTERN_CODE"""
+MSRP Rigidity Score,"""base_irm_pm_gi_heatmap"""
+fa_rt_tier_1_plus_amt,"""base_pin_incentive_isr"""
+Resolution Identifier,"""LIOS.AET_RESOLUTIONS.RESOLUTION_ID, LIOS.AET_RESOLUTIONS_ORDERS.RESOLUTION_ID"""
+Time Zone,"""LIOS.QRTZ_CRON_TRIGGERS.TIME_ZONE_ID"""
+Raw Division,"""base_autoplanner_indstry_veh_attributes"""
+Counter Measure type,
+Body Style Short Description,"""MODEL_MODEL_YEAR"""
+Month 8 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Accounting Customer Load Identifier,
+Fleet Departure Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Segment Type Code,"""base_pin_incentive_isr"""
+Dispatched Driver Information Identifier,"""LIOS.TROUTE_SEQ_DETAILS.DISP_DRIVER_INFO_ID"""
+Engine Number Serial,
+Load Start Date,"""LIOS.TROUTE_SEQ_DETAILS.LD_START_DATE"""
+Long Text,"""base_jato_schema_text"""
+TMS PNVS To Hit Target,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Cash Rebate Trade Same Nameplate Amount,"""base_pin_incentive_isr"""
+Submitted Flag,
+Plant Location Code,
+Sequence creation date time,
+Excluded from DR Flag,
+Model Body Style Long,
+APR(Annual Percentage Rate) Vehicle Gross Amount,"""base_pin_incentive_isr"""
+Dealer Association Number,
+Discrepancies View Flag,
+Part Number,###############################################################################################################################################################################################################################################################
+Resolution Type Identifier,"""LIOS.AET_RESOLUTION_TYPES.RESOLUTION_TYPE_ID, LIOS.AET_RESOLUTIONS.RESOLUTION_TYPE_ID"""
+Suggested FIO Retail Amount,
+Years Since Major Change,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Lease Subvention (39 < Term <= 48): Take Rate Amount,"""base_pin_incentive_isr"""
+Effective End Date,"""LIOS.DIRECT_WORKING_PATTERNS.EFFECTIVE_END"""
+User Defined Data,
+Lease Term Mix (36 < Term <= 39) Amount,"""base_pin_incentive_isr"""
+Location found,
+Equipment Class Des,
+Core Finance Offer/Unit Amount,"""base_pin_incentive_isr"""
+Arrival Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Transportation Name,"""LIOS.AET_RESOLUTIONS.TRANSPORTATION_NAME"""
+Duplication,"""PSMS.ITFPHIK.DUPLICATION"""
+Month 6 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Engine Number Prefix,
+Field required flag,
+Condition,
+Customer Cash Rebate Take Rate,"""base_pin_incentive_isr"""
+Lease Days To Turn Amount,"""base_pin_incentive_isr"""
+Model Change Category Description,"""base_finance_gi_impact_budget"""
+To Logistics Point,"""LIOS.FREQ_BY_PALLET.TO_POINT"""
+Bank Addr Zip Code Addon,
+TEMA Contribution Margin Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Raw Region,"""base_rundown_lex_seasonal_fctr_reg"""
+Product Program Type,
+Distributor Purchase Order Number,
+Latitude,"""LIOS.TLOGISTICSPOINT_INFO.LATITUDE"""
+Booking Date,"""base_tms_us_non_cash_inctv"""
+Concern,"""LIOS.TCPMTHRESHOLD.CONCERN"""
+Term 33 Rate,"""base_scion_us_residual_value_fcst"""
+Tcom Year,
+Filter Level,"""LIOS.TNOTIF_FILTERS.FILTER_LEVEL"""
+Pre delivery Confirmation initiated flag,
+Line off Date,
+Resolution Type Description,"""LIOS.AET_RESOLUTION_TYPES.DESCRIPTION"""
+Engine Size,
+Body Style ID,"""base_jato_Body Style"""
+Weekly Bos Locked Date,
+Industry Retail Quanity,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Scrap Date,
+On Hold Indicator,
+Repair Program Description,
+Plant Code,###############################################################################################################################################################################################################################################################
+North American Manufacturing Company (NAMC) Data2,"""LIOS.OWK.NAMC_DATA2, OWK.OWK_GENERIC_KANBAN.NAMC_DATA2, OWK.OWK_KANBAN.NAMC_DATA2"""
+Coast Code,
+Lag 3 Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Part Ship To Addr Name,
+Dealer Staff Department Code,
+Pricing Data Set ID,"""base_intermediate_autoplanner_pricing_attr"""
+City,"""LIOS.TLOGISTICSPOINT_INFO.CITY"""
+NAMC Expedites,"""LIOS.TCONTROLPOINTMATRIX.NAMC_EXPEDITES, LIOS.TCPMSNAPSHOTS.NAMC_EXPEDITES"""
+UID,"""base_jato_version"""
+TMC Procurement Company Code,
+Business Entity,###############################################################################################################################################################################################################################################################
+CRON Job Identifier,"""LIOS.TLIOS_CRON_JOB.CRON_JOB_ID"""
+Team,
+Factory Code,
+nonFleet Wholesale Percentage,"""base_lexus_nenkei_national"""
+Surcharge Weekly Calculation Identifier,"""LIOS.TSUR_WEEK_RATE_CODES.TSUR_WEEK_CALC_ID"""
+Non-Core Cash Offer/Unit Amount,"""base_pin_incentive_isr"""
+TPNA No Reorder Code,
+Region Area Code for Comp Sale,
+Sequence Number reference,"""PSMS.ITFCOLR.SRC_XREF_OLD_SEQ_NBR"""
+Estmtd Vdc Departure Date,
+Introductory Price Gross Profit Impact TMS Amount,"""base_finance_gi_impact_budget"""
+Auction Average Wholesales Price Amount,
+URL Category Name,"""base_jato_category"""
+Unique Identifier reference,"""PSMS.ITFCHIK.SRC_XREF_OLD_SEQ_NBR, PSMS.ITFPHIK.SRC_XREF_OLD_SEQ_NBR, PSMS.ITFPHIN.SRC_XREF_OLD_SEQ_NBR, PSMS.ITFPHIU.SRC_XREF_OLD_SEQ_NBR"""
+Internal Reference Price Amount,
+Man Power,"""LIOS.TLOGISTICSPOINT_INFO.MANPOWER, LIOS.TLOGISTICSPOINTSDOCKINFO.MANPOWER"""
+Mydppolist Generated Key,
+Standard Keyword Flag,
+Base Price Range High Notes,"""base_autopacific_lifecycle"""
+Parent Routing,"""SMS.GSMSTRC.PARENT_ROUTING"""
+Production Comment Number,"""SMS.GSMPROC.PROD_COMMENT_NO, SMS.GSMSTRC.PROD_COMMENT_NO"""
+Logistics Point Received Date,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.LP_RCVD_DT"""
+Estmtd Fqa Date,
+Distributor Cost Amount,"""base_tms_4_level_accy_pricing"""
+Discount Program code,
+Conquest Cash: Take Rate Amount,"""base_pin_incentive_isr"""
+Frame Type Code,
+Manufacturer ID,"""base_jato_make"""
+Selldown Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Departure Preparation Time,"""LIOS.TRTSEQ_DRIVER_INFO.DEP_PREP_TIME"""
+Transaction Report Type Group,
+Dealer Cash - Cash Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+Model Report Series Name,
+Curb Weight,
+Tier T5,"""base_toyota_us_inctv_prog_targets"""
+First Fqa Date,
+Sales Katashiki Code,
+Dealer Group Description,
+Portion Type,
+Maximum number of files,
+Lease Equity Amount,"""base_pin_incentive_isr"""
+Customer Cash Rebate Weighted per unit,"""base_pin_incentive_isr"""
+Raw Plant Location Abbreviation,"""base_rundown_toyota_bosu_month_end_national"""
+End Date Time,
+Captive Lender Customer Bonus - Lease Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Close Offset,"""LIOS.DIRECT_WORKING_PATTERNS.CLOSE_OFFSET"""
+APR(Annual Percentage Rate) Total PIN Income Amount,"""base_pin_incentive_isr"""
+Vehicle Sequence Identifier (VSI) From,"""SMS.GSMSET.VSI_NO_FROM, SMS.GSMSPEC.VSI_NO_FROM"""
+Fixed Sequence number Assign Date,
+Competitor PNVS,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Order Handling Type,"""OWK.OWK_ORDER_HANDLING_TYPE.ORDER_HANDLING_TYPE_DESC"""
+Raw Line,"""base_autoplanner_indstry_veh_attributes"""
+Application Flag,
+Week Number,
+Order Rank Code,
+Cubic Measurement Quantity,
+IRM Vehicle Combined Attributes,"""base_pin_explorer"""
+Total Sales Estimate Amount,"""base_pin_incentive_isr"""
+Standard Quantity Limit Quantity,
+Vehicle Comment,
+Raw Trim Name,"""base_jato_version"""
+Difference In Minutes,"""FVM.HISTORY.DIFFERENCEMINS"""
+Exception Time,"""LIOS.TEXCEPTIONDETAIL.EXCEPTION_TIME"""
+Vehicle MSRP,"""base_jato_version"""
+Incentive Volume Quantity,"""base_irm_pm_sales_fcst_by_series"""
+One Way Kanban (OWK) History Identifier,"""LIOS.OWK.OWK_HISTORY_ID, LIOS.OWK_HISTORY.OWK_HISTORY_ID"""
+Ordered Fleet Indicator,
+Order Reference Number,
+Claim Number,
+Time Control To,"""SMS.GSMSTRC.TIME_CONTROL_TO"""
+Security Name,"""FVM.SECURITYPERMISSION.NAME"""
+Certified Dealer Number,
+Plant POE,
+ADHOC Send,"""LIOS.TPACKAGING.INTADHOCSEND"""
+Warranty District Code,
+Last Alarm Time,
+Shipment Type Description,
+Delete Base Plant Date,
+Competitor PNVS Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Nonfleet Departure Quantity,
+Tracking Flag,
+Return Reload End Date,"""LIOS.TROUTE_SEQ_DETAILS.RETN_RLD_END_DATE"""
+Cylinder,
+Stop Shipment initiated date time,
+TPNA Sub Generation Number,
+Net Weight,"""SMS.GSMWEIT.NET_WEIGHT"""
+Destination,
+Raw Grade Spec Name,"""MODEL_MODEL_YEAR"""
+Created Date,
+Set Order,"""SMS.GSMSET.ORDER_BY_SET"""
+% Total Penetration,"""base_pin_incentive_isr"""
+Sales Region Alpha Code,
+lc_rt_tier_2_amt,"""base_pin_incentive_isr"""
+lc_rt_tier_3_amt,"""base_pin_incentive_isr"""
+Quantity Per Box,"""FVM.ORDER_BOX.QTY_FOR_BOX, LIOS.OWK.QUANTITY_PER_BOX, OWK.G_KANBANLABEL_TAB.QUANTITY_PER_BOX, OWK.OWK_GENERIC_KANBAN.QUANTITY_PER_BOX, OWK.OWK_KANBAN.QUANTITY_PER_BOX, OWK.OWK_KANBAN_BKP.QUANTITY_PER_BOX"""
+Trigger State,"""LIOS.QRTZ_FIRED_TRIGGERS.STATE, LIOS.QRTZ_TRIGGERS.TRIGGER_STATE"""
+Routing Quantity,"""SMS.GSMSTRC.ROUTING_QUANTITY"""
+Make ID,"""base_jato_make"""
+Cycle Identifier,"""LIOS.TROUTES.CYCLE_ID"""
+Routing Code,
+Change Type Code,"""PSMS.ITFCHIK.CHG_TYP_CD, PSMS.ITFCOLR.CHG_TYP_CD, PSMS.ITFPHIK.CHG_TYP_CD, PSMS.ITFPHIN.CHG_TYP_CD, PSMS.ITFPHIU.CHG_TYP_CD"""
+Expedite Reason Identifier,"""LIOS.TEXPEDITE_REASONS.EXPEDITE_REASON_ID, LIOS.TEXPEDITECOSTS.REASON_ID"""
+Interface Identifier,
+Model Convertible Indicator,
+Allocation Rate,"""LIOS.TEXPEDITECOSTS.ALLOCATION_RATE"""
+Reserved Station Flag,
+All Time Buy Code,
+Historical Data Store Event Identifier,
+GVWR,
+FBL Palette Type,
+Raw Series,"""base_pin_explorer"""
+Dealer Staff Primary Job Flag,
+Car Truck Indicator,
+Captive Lender Customer Bonus - Finance Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+Bar Code,"""FVM.BOX_SCANNED.UNIQUEBARCODE, FVM.HISTORY.UNIQUEBARCODE, FVM.SKID.OWKBARCODE, FVM.SKID.UNIQUEBARCODE"""
+Commit Flag,"""SMS.GSMCOLR.COMMIT_FLAG"""
+Job Class,"""LIOS.QRTZ_JOB_DETAILS.JOB_CLASS_NAME"""
+Physical X coordination,
+Holding Code,
+VIN,
+Past Model At Part Level Indicator,
+Incentive Amount,"""base_toyota_us_inctv_prog_targets"""
+Competitor MSRP Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Surcharge Weekly Identifier,"""LIOS.TSUR_WEEK_CALC.TSUR_WEEKLY_ID, LIOS.TSUR_WEEKLY_SUB.TSUR_WEEKLY_ID"""
+Modified Date,"""base_jato_version"""
+Access Mode,"""LIOS.TACCTRL_MATRIX.ACCESS_MODE"""
+lc_term_amt,"""base_pin_incentive_isr"""
+Lease Monthly Payment (Term > 48) Amount,"""base_pin_incentive_isr"""
+Start Date Time,
+Communication Code,"""Parts Master.PVS_PRUKANB_xxxx_STG.COMMUNICATION_CODE"""
+Division Name,
+Introductory Price Impact Wholesale Volume Quantity,"""base_finance_gi_impact_budget"""
+Authentication Code,"""FVM.SYSTEMUSER.AUTHCODE"""
+Frame Spare Time for Delivery,
+File Name Timestamp,"""base_irm_event"""
+Non-Core Incentive 9: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Day of Week,
+Engine Basic Katashiki,
+Fleet Sales Quantity,
+Order Delivery Number,"""LIOS.OWK.ORDER_DELIVERY_NUMBER, OWK.G_KANBANLABEL_TAB.ORDER_DELIVERY_NUMBER, OWK.OWK_ORDER.ORDER_DELIVERY_NUMBER, OWK.OWK_ORDER_BKP.ORDER_DELIVERY_NUMBER"""
+Retail Date by East Coast,"""base_lexus_launch_month"""
+Is Planned,"""LIOS.TGENERALCOST.IS_PLANNED"""
+Mid Year Price Blend Impact Per Unit,"""base_finance_gi_impact_budget"""
+Cash Percentage Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Cash Equity Amount,"""base_pin_incentive_isr"""
+Miscellaneous Goods Code,
+Repaired and Confirmed Flag,
+Dock Identifier,"""LIOS.TLOGISTICSPOINTSDOCKINFO.INTDOCINFO"""
+Status Description,"""LIOS.AET_STATUSES.DESCRIPTION"""
+Minimum Order Quantity,
+Distributor Order Unit 3 Quantity,
+Inspection or repair flag,
+Last Box Quantity,"""LIOS.OWK.LAST_BOX_QUANTITY, OWK.G_KANBANLABEL_TAB.LAST_BOX_QUANTITY, OWK.OWK_KANBAN.LAST_BOX_QUANTITY, OWK.OWK_KANBAN_BKP.LAST_BOX_QUANTITY"""
+Lease Monthly Payment (Term <= 24) Amount,"""base_pin_incentive_isr"""
+2D Drawing Source,"""SMS.GSMMINR.DRAWING_SOURCE2D"""
+Das Create date,
+Order Type Update Date,
+Job Identifier,"""LIOS.TLIOS_JOB_LOG.JOB_ID, LIOS.TLIOSJOB.JOB_ID, LIOS.TLIOSJOBRUN.JOB_ID"""
+Geocode Latitude,
+Production Calendar Date,
+Total Cost,"""LIOS.TGENERALCOST.TOTAL"""
+Lease Residual Subvention Take Amount,"""base_pin_incentive_isr"""
+Application Role,"""OWK.USER_APPLICATION_ROLE.APPLICATION_ROLE, OWK.USER_APPLICATION_SECURITY.APPLICATION_ROLE"""
+Competitor Sales Quantity,"""base_dealer_retail_sales_history"""
+Year Number,
+Inactive,"""FVM.ROUTE_DOCK.INACTIVE"""
+Mid Year Price Impact Sales End Month,"""base_finance_gi_impact_budget"""
+Accessory List,
+North American Manufacturing Company (NAMC),###############################################################################################################################################################################################################################################################
+Last Broadcast,"""LIOS.TNOTIF_CURRENT.LAST_BROADCAST"""
+Lexus Dealer Price Amount,
+Tracking Point Calendar Date,
+Interior Color Abbreviation,
+Vehicle Oper Type,
+Stop shipment flag,
+Fio_Cost Amt,
+Launch Date,"""base_senzu"""
+Dropped Routes,"""LIOS.TCPMSNAPSHOTS.DROPPED_ROUTES"""
+Finance APR Subvention (Term <= 24): Take Rate Amount,"""base_pin_incentive_isr"""
+Exterior Color Color Code,
+Bad Connect Minutes,"""FVM.ROUTE_DOCK.BCMIN"""
+Replacement Part Quantity,
+Abbreviation,
+Theft Prevention Label Quantity,
+Container Unload Flag,"""LIOS.TROUTES.CNT_UNLD_FLAG"""
+PIN Business Month,"""base_pin_incentive_isr"""
+Parsed Raw Trim Level,"""base_pin_explorer"""
+Core Cash Offer/Unit Amount,"""base_pin_incentive_isr"""
+Aspiration,
+Scenario Name,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Shipped Part Identifier,
+Total Combo Subvention USD Amount,"""base_pin_incentive_isr"""
+File Attachment,"""OWK.OWK_MESSAGES.FILE_ATTACHMENT"""
+Production Suffix,
+Finance APR Subvention (36<Term<=48): $ Offer Amount,"""base_pin_incentive_isr"""
+Estmtd Buyoff At Weekly Lock,
+Door Description,"""LIOS.TLOGISTICSPOINTSDOCKINFO.DEDICATEDDOCKDOORSDESCRIPTION"""
+Build Date Comp Flag,
+Bill to Address 4,
+Category Description,
+Customer Name,
+Warehouse Control Package Specification Code,
+Frame Lead time Result,
+Sales Geography Type Code for Comp Sale,
+Amend Time,
+Repost Skid Manifest Print Date,"""LIOS.OWK.RP_SKID_MAN_PRINTABLE_DT, OWK.OWK_ORDER_BED_BKP.RP_SKID_MAN_PRINT_DT, OWK.OWK_ORDER_BUSINESS_ENTITY_DOCK.RP_SKID_MAN_PRINT_DT"""
+Filter Description,"""base_irm_pm_data_filter"""
+Consumer Bonus Cash Offer Amount,"""base_pin_incentive_isr"""
+Delivery Location,"""Parts Master.PVS_PRUKANB_xxxx_STG.PART_LOCATION"""
+Assigned Brand Status Indicator,
+Wholesale Percentage,"""base_lexus_month_end_Regional"""
+Business Entity Dock,###############################################################################################################################################################################################################################################################
+Responsible Logistics Point Flag,"""LIOS.OWK.RESPONSIBLE_LP_FLAG_1, LIOS.OWK.RESPONSIBLE_LP_FLAG_2, LIOS.OWK.RESPONSIBLE_LP_FLAG_3, LIOS.OWK.RESPONSIBLE_LP_FLAG_4, LIOS.OWK.RESPONSIBLE_LP_FLAG_5, OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.RESPONSIBLE_LP_FLAG"""
+Accessory Type,
+Message Type,"""LIOS.TUPDATE_HISTORY.TYPE"""
+Region Area Name for Comp Sale,
+Buy Off Notice Email,
+Raw Model Name,"""base_jato_model"""
+Vehicle Invoice,"""base_jato_version"""
+Fleet Unbuilt Unshipped Quantity,
+Vehicle Combined Attributes,"""base_autoplanner_indstry_veh_attributes"""
+Mileage,"""LIOS.CO2_DATA.MILEAGE, LIOS.TDOB.MILEAGE, LIOS.TEXPEDITECOSTS.MILEAGE, LIOS.TLOGISTICS_INVOICE.MILEAGE"""
+Route Connection Start Date Time,"""FVM.HISTORY.ROUTECONNECTIONSTARTTIME"""
+Type Classification Code,
+Parts Variance,
+Distributor Prior Month Quantity,"""base_lexus_month_end_Regional"""
+Dealer Stock Low Count,
+Route Connection Cut Date,"""FVM.HISTORY.ROUTECONNECTIONCUTDATE, FVM.ROUTECONNECTION.CUTDATE"""
+Actual Production Date,
+Source Date,
+Bill To County,
+Cost Center Dock Identifier,"""LIOS.COST_CENTER_DOCK.COST_CENTER_DOCK_ID"""
+Login Time,"""LIOS.TLOGINHISTORY.LOGIN_TIME"""
+Priority Delivery To Date,
+Route Run,"""LIOS.AET_EVENTS.PUROUTE, LIOS.AET_RESOLUTIONS_ORDERS.PUROUTE, LIOS.DD_BLACKOUTS_ROUTES.PUROUTE, LIOS.TWTROUTERESPONSE.ROUTE_RUN"""
+Body Start Date,
+Document Identifier,"""LIOS.TLOGISTICSPOINTDOCUMENTS.INTDOCUMENT"""
+Final Assembly Date,
+Product,
+Accounting Customer Update By Program Name,
+Expiry Date,"""OWK.OWK_MESSAGES.EXPIRY_DT"""
+Non-Core Incentive 6: Take Rate Amount,"""base_pin_incentive_isr"""
+Confirmed in Section Flag,
+Order Month,
+VDS Prefix Code,
+Endeca Change Date,
+Claim Type Code,
+Departure Percentage,"""base_lexus_month_end_Regional"""
+Paint Booth,
+Lease Monthly Payment (24 < Term <= 36) Amount,"""base_pin_incentive_isr"""
+Inspection Cost Amount,
+Access Point Identifier,"""LIOS.TROUTE_SEQUENCE.LACC_ID"""
+Business Entity Unload Date,"""LIOS.OWK.BUSINESS_ENTITY_UNLOAD_DT, OWK.OWK_ORDER.BUSINESS_ENTITY_UNLOAD_DT"""
+Handling Charge Amount,
+Break Sequence,"""LIOS.WORKING_PATTERN.BREAKSEQ"""
+Tracking Point Multiple Pass Flag,
+Month 3 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Checksum,###############################################################################################################################################################################################################################################################
+PIN Segment Share Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Physical Date,
+Captive Lender Dealer Cash - Lease Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+Transmission Long Description,
+Production Source Code,
+Budget Segment Description,"""LIOS.TBUDGET_SEGMENTS.BUDGET_SEGMENT_DESC"""
+Actual Minutes,"""FVM.HISTORY.ACTUALMINS"""
+Container Name,"""LIOS.TPACKAGING.STRCONTAINERNAME"""
+Logistics Point Type Code,"""OWK.OWK_LOGISTICS_POINT.LOGISTICS_POINT_TYPE_CODE, OWK.OWK_LOGISTICS_POINT_TYPE.LOGISTICS_POINT_TYPE_CODE"""
+Maximum Permissible Load Weight,
+Model TVO Body Style,
+Plant Long Name,
+APR(Annual Percentage Rate) Equity Amount,"""base_pin_incentive_isr"""
+Default Quick Repair Flag,
+lc_rt_tier_1_amt,"""base_pin_incentive_isr"""
+Sales Period End Date,"""base_contrib_mrgn_by_series"""
+Non-Visible Cash Offer/Unit Amount,"""base_pin_incentive_isr"""
+Lid Width,"""LIOS.TPALLET_MASTER.LID_WIDTH"""
+Job Parameter,"""LIOS.TLIOS_CRON_JOB.JOB_PARAM"""
+Upload By,"""LIOS.TPERIODS.FORECAST_UPLOAD_BY, LIOS.TPERIODS.RELAY_UPLOAD_BY, LIOS.TPERIODS.SOT_UPLOAD_BY, LIOS.TPERIODS.UNLOAD_UPLOAD_BY"""
+Terminal,
+Inspection Comment,
+Color Accessory Code,
+Update Date Time,"""LIOS.TBILLINGHISTORY.UPDATED_TIME, LIOS.TCPMCOMMENTS.UPDATED_DATE, LIOS.TUPDATE_HISTORY.UPDATEDATE, PSMS.ITFPHIN.UPDATE_TS"""
+Packaging Type,"""LIOS.TFORECAST.PACKAGING_TYPE"""
+Finance APR Monthly Payment (Term>72) Amount,"""base_pin_incentive_isr"""
+Estmtd Lineoff At Weekly Lock,
+BLOB Data,"""LIOS.TBINARYOBJECTS.DATA"""
+Box Layer Code,"""LIOS.TBOX_LAYER.BOX_LAYER_CODE"""
+Unload Start Date,"""LIOS.TROUTE_SEQ_DETAILS.UNLD_START_DATE"""
+Account Name Line One,
+Order Type Load Date,
+Source name from where the latest data successfully received,
+Business Day,
+DUM_ cr2,
+Model Year Code,
+Customer Identifier,
+New DUNS Suffix,
+Month End Actual ID,"""base_month_end_actual"""
+Set Identifier,
+Total Box Order,"""LIOS.OWK.TOTAL_BOX_ORDER, OWK.G_KANBANLABEL_TAB.TOTAL_BOX_ORDER, OWK.OWK_KANBAN.TOTAL_BOX_ORDER, OWK.OWK_KANBAN_BKP.TOTAL_BOX_ORDER"""
+Budget Segment Number,"""LIOS.TBUDGET_SEGMENTS.BUDGET_SEGMENT_NUM"""
+Dealer Exclusion Code,
+fc_percentfinanced_amt,"""base_pin_incentive_isr"""
+Total Lease Subvention USD Offer Amount,"""base_pin_incentive_isr"""
+TMS Budget Mid Year Price GI Amount,"""base_finance_gi_impact_budget"""
+Text Line Number,"""OWK.OWK_SUPPLIER_TEXT.TEXT_LINE_NUMBER"""
+Route Connection Start Time,"""FVM.ROUTECONNECTION.STARTTIME"""
+Service Determination Code,
+Repaired Flag,
+Original Check Result,
+Accessory Eng Desc,
+Lease Down Payment (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Vendor Code,"""LIOS.TEXPEDITECOSTS.VENDOR_CODE, LIOS.TGLACCOUNTDATA.VENDOR_CODE, LIOS.TSURCHARGE.VENDOR_NUMBER, LIOS.TVENDORS.VENDOR_CODE"""
+Part Name Code,
+PTT Reference Tracking Point: Tracking Point,
+Fleet Port Stock Quantity,
+Message Identifier,"""OWK.OWK_LP_MESSAGE.MESSAGE_ID, OWK.OWK_MESSAGES.MESSAGE_ID, OWK.OWK_SUPPLIER_MESSAGE.MESSAGE_ID"""
+Kick out Date Time,
+Finance Total PIN Income Amount,"""base_pin_incentive_isr"""
+Total Dealer Stock Quantity,
+Accounting Month,
+X Coordinate,
+Rail Origin Code,
+Month Number,
+Seconds to kill a dialogue box,
+Make Name,
+Accounting Period,
+Kit Part Indicator,
+Wednesday Working Pattern,"""LIOS.WP_CALENDER.WED_WP"""
+Route Identifier,"""LIOS.DD_BLACKOUTS_ROUTES.ROUTE_ID, LIOS.DD_ROUTES_SUPPLIERS.ROUTE_ID, LIOS.TORDER_CONNECTION.ROUTE_ID, LIOS.TROUTE_SEQ_DETAILS.ROUTE_ID, LIOS.TROUTE_SEQUENCE.ROUTE_ID, LIOS.TROUTES.ROUTE_ID"""
+Dealer Cash - Lease Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Goodwill Flag,
+Baseline Share Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Saturday Working Pattern,"""LIOS.WP_CALENDER.SAT_WP"""
+Route 1,"""LIOS.AET_EVENTS_ORDERS.ROUTE_1, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_1"""
+Month 12 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Fleet Departure Percentage,"""base_lexus_nenkei_national"""
+Event Granularity,"""base_irm_event"""
+Fixed Chassis Build Sequence number,
+Rundown Sales Count,
+Lease Subvention (Term > 48): Take Rate Amount,"""base_pin_incentive_isr"""
+Minimum value,
+Lease Gross Profit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Parent Install Type,
+Port Abbreviation,
+Part Scrapped,
+TMS PPO(Port Processed Options) Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Retailed Flag,
+Total Share Percentage,"""base_irm_pm_sales_fcst_by_series"""
+Inspection Type,
+Account Addr Line One,
+Station Type,
+TMS Segment Share of TLV,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Individual Parameter,"""LIOS.TLIOSJOBPKG.INDV_PARAM"""
+Defect Source,
+Result,
+Day Type,"""FVM.CALENDAR_WORKDAY.DAYTYPE"""
+Detail Code,"""SMS.GSMSPCD.DETAIL_CODE_NAME"""
+Order Data Transmission Date,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.ORD_REL_TRANS_RCVD_DT"""
+Item,"""SMS.GSMSPCD.ITEM_CODE_NAME"""
+Segment Seasonal Factor Month 9,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Transaction Type,"""ap_industry_veh_master"""
+Shipping Reference Number,
+Record Count,"""FVM.BATCH_OWK_FILES.RECORDCOUNT"""
+Parent Class Seq No,
+Sales Start Date,
+Mid Year Pricing Impact Sales Beginning Month,"""base_finance_gi_impact_budget"""
+Raw Series Group,"""base_nenkei_tms_us_a_table_series_by_segment_fcst_and_actl"""
+RedTag Flag,
+Plant Key,
+Predictive Model Created Timestamp,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Print Date Time,"""OWK.OWK_PRINT_HISTORY.PRINT_DATE_TIME"""
+Logistics Point Identifier,"""LIOS.DD_ROUTES_SUPPLIERS.LOGISTICS_POINT_ID, LIOS.DD_SUPPLIERS_ORDERS.LOGISTICS_POINT_ID"""
+Assigned Brand Code,
+Production Year,
+Schedule B Parmeter Name,
+Fleet Sales Availability Quantity,
+NHTSA Division Name,
+Certified Region Code,
+Last In Chain Dealer Number,
+Event Impact Type,"""base_irm_event"""
+Fleet Program,
+Repair Comments,
+Expanded Full Accessory List,
+Plant Flag,"""LIOS.TLOGISTICSPOINTS.STRPLANT"""
+Query Type,"""LIOS.TLIOS_QUERY.TYPE"""
+Plat Code,"""base_tms_launch_month"""
+Other Status Change Time,
+TMS Procure Requirement Code,
+Average MSRP Change Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Mid Year Price Gross Profit Impact TMS Amount,"""base_finance_gi_impact_budget"""
+Contest Number,"""base_tms_us_cash_inctv"""
+Detail Binary Large Object,"""LIOS.TEXCEPTIONDETAIL.DETAIL_BLOB"""
+N section information,
+Engine Ca Hp Number,
+Hikiate Status,"""PSMS.ITFCHIK.HS, PSMS.ITFCOLR.HS, PSMS.ITFPHIK.HS, PSMS.ITFPHIN.HS, PSMS.ITFPHIU.HS"""
+Maximum Order Quantity,
+Claim Category,
+Problem Type Description,"""LIOS.AET_PROBLEM_TYPES.DESCRIPTION"""
+Work Y Coordination,
+Captive Lender Customer Bonus - Finance Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Adjusted Reload End Date,"""LIOS.TROUTES.ADJ_RELOAD_END"""
+Level,"""PSMS.ITFPHIU.LVL"""
+Airis Year,
+Model Body Style Short,
+Extended Discount Sell Price Amount,
+Pricing Create Timestamp,"""base_intermediate_autoplanner_pricing_attr"""
+Raw Series Name,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Code Value,
+Product TDPR Rebate Category Code,
+Mid Year Price Gross Profit Impact TMS and Manufacturing Amount,"""base_finance_gi_impact_budget"""
+Non-Core Incentive 9: Take Rate Amount,"""base_pin_incentive_isr"""
+Ship to Customer Identifier,
+Sales Spin: Take Rate Amount,"""base_pin_incentive_isr"""
+Myaccytype Generated Key,
+Color Manufactured,
+Sub Shop,"""LIOS.TMASTERDOCKCYCLE.SHOP"""
+Route Connection Start Date,"""FVM.HISTORY.ROUTECONNECTIONSTARTDATE, FVM.ROUTECONNECTION.STARTDATE"""
+Engineering change Mark,
+TCI Indicator,
+Season,"""base_irm_pm_fcst_residual_value"""
+Forecast Baseline Share Percentage,"""base_irm_pm_sales_fcst_by_series"""
+Internal Reference Price Effective Date,
+Finance Percentage Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Is Delayed,"""LIOS.DD_BLACKOUTS_ROUTES.IS_DELAYED"""
+Kanban Coefficient,"""Parts Master.PVS_PRUKANB_xxxx_STG.KANBAN_COEFF"""
+Spare Time,
+Royalty Cost Amount,
+fa_loantovalue_amt,"""base_pin_incentive_isr"""
+Reload Date,"""LIOS.TROUTES.RELOAD_DATE"""
+Certified Last Retail Date,
+Source File Name,
+Last Inventory Status Code,
+Business Day of Month,
+Import Duty Exemption,
+Product Code Description,
+Ideal Dealer Stock Quanity,"""base_nenkei_tms_us_dealer_stock_guideline_by_series"""
+Process commit skipping flag,
+Business Entity Long Name,"""OWK.OWK_BUSINESS_ENTITY.BUSINESS_ENTITY_LONG_NAME"""
+Segment End Date,"""base_lexus_month_end_Regional"""
+Order Type Description,
+Specification Code,"""PSMS.ITFCHIK.APP_SPEC_CODE, SMS.GSMSPCD.SPEC_CODE"""
+TMC Model Series,
+Number Of Dock Doors,"""LIOS.TLOGISTICSPOINT_INFO.NO_DOCK_DOORS, LIOS.TLOGISTICSPOINTSDOCKINFO.NUMBEROFDOCKDOORS"""
+Field text,
+Region Area Code,
+Retail Gross Profit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Resolution Flag,"""LIOS.AET_STATUSES.RESOLUTION"""
+Japan Product Quantity,
+On Line Repair Flag,
+Unload Type,"""FVM.SITE_CONTROL.UNLOADTYPE"""
+Base Weight,"""LIOS.TPALLET_MASTER.BASE_WEIGHT"""
+Assigned Frame Stamp,
+Business Days in Month,
+NUMBER Vehicle,
+Where Found,
+Packaging Width,"""LIOS.TFORECAST.WIDTH"""
+Surcharge Rate Code,"""LIOS.TSUR_WEEK_RATE_CODES.RATE_CODE"""
+Ten Day or Month End Code,
+Advanced Parts System Sub-Generation Number,
+Report Series,
+Fleet Production Quantity,
+Beginning MSRP Amount,"""base_autoplanner_indstry_veh_pricing"""
+Part Share,"""Parts Master.PVS_PRUKANB_xxxx_STG.PART_SHARE"""
+Beginning Dealer Invoice Amount,"""base_autoplanner_indstry_veh_pricing"""
+Estmtd Linoff At Dly Bos Plus1,
+Captive Supported Finance Incentive Penetration Amount,"""base_pin_incentive_isr"""
+Raw Drive Type,"""base_autoplanner_indstry_veh_attributes"""
+Segment Category,
+Approval number,
+Toyota Month End Regional ID,"""base_toyota_month_end_Regional"""
+DPMS Special Order Number,
+Fleet Share Percentage,"""base_irm_pm_sales_fcst_by_series"""
+Hazardous Code Flag,"""LIOS.TPACKAGING.STRHAZMATCODE"""
+Ident Line,
+Comment Flag,"""PSMS.ITFPHIK.COMMENTS_EXIST_11, PSMS.ITFPHIK.COMMENTS_EXIST_15, PSMS.ITFPHIK.COMMENTS_EXIST_16, PSMS.ITFPHIK.COMMENTS_EXIST_18"""
+Rate Adjustment,"""LIOS.TSURCHARGE.RATE"""
+Audit Create Date,
+Defect Exclusion,
+Tab Name,
+Non Fleet In-transit Quantity,"""base_lexus_nenkei_national"""
+Destination Type,
+Vendor Name,"""LIOS.TCOSTMASTER.VENDOR_NAME, LIOS.TSURCHARGE.VENDOR_NAME, LIOS.TVENDORS.VENDOR_NAME"""
+Expedite Date,"""LIOS.TEXPEDITECOSTS.EXPEDITE_DATE"""
+Trigger Name,"""LIOS.QRTZ_CRON_TRIGGERS.TRIGGER_NAME, LIOS.QRTZ_FIRED_TRIGGERS.TRIGGER_NAME, LIOS.QRTZ_SIMPLE_TRIGGERS.TRIGGER_NAME, LIOS.QRTZ_TRIGGERS.TRIGGER_NAME"""
+Gas price Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Finance APR / Combo Cost of Funds (Term<=48) Amount,"""base_pin_incentive_isr"""
+Part Ship To Addr City Name,
+Month 2 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Lease APR (24 < Term <= 36) Amount,"""base_pin_incentive_isr"""
+Type Sales Code,"""base_tms_us_cash_inctv"""
+Total In-transit Quantity,"""base_lexus_nenkei_national"""
+List Item Description,"""LIOS.TLIOSLISTITEM.ITEM_DESC"""
+Sub Frame Type Code,
+Toyota Nenkei Regional ID,"""base_rundown_toyota_nenkei_Regional"""
+Skid Number,"""FVM.BOX_SCANNED.SKIDNUMBER, FVM.HISTORY.SKIDID, FVM.LOGISTICSPOINT_SKID.SKIDID, FVM.ROUTECONNECTION_SCANNEDSKIDS.SKIDID"""
+Part,###############################################################################################################################################################################################################################################################
+Dealer Wholesales Retail Price Effective Date,
+Period Effective Stop Date,"""LIOS.TPERIODS.EFFECTIVE_STOP"""
+Frame Sequence Code,
+Minor Change Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Tcom Month,
+Modified Date Time,###############################################################################################################################################################################################################################################################
+Include Exclude Indicator,"""base_irm_pm_data_filter"""
+DUNS Number,
+Global List Flag,
+Fixed Sequence Number,
+Inspection prompt,
+Leadtime Production,
+Raw TOMS Series Name,
+Logout Time,"""LIOS.TLOGINHISTORY.LOGOUT_TIME"""
+Non-Core Incentive 1: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Customer Supplier Information Type,"""Parts Master.PVS_PRUKANB_xxxx_STG.CSI_TYPE"""
+Historical Data Store Assigned Brand Identifier,
+Designation,
+Combo Monthly Payment  Amount,"""base_pin_incentive_isr"""
+PASA,
+Resource Flag,"""LIOS.TROUTE_SEQ_DETAILS.RESOURCE_DEC_FLAG"""
+Kanban Label Print Date,###############################################################################################################################################################################################################################################################
+Autoplanner Vehicle ID,"""base_autoplanner_indstry_veh_attributes"""
+Address Line Two,
+Major Moving Volume Code,
+Pricing End Date,"""base_intermediate_autoplanner_pricing_attr"""
+Package Required Indicator Code,
+Unique Confirm user,
+Orders,"""LIOS.DIRECT_ORDERS.ORDERS, LIOS.DIRECT_PICKUPS.ORDERS, LIOS.TRM_STAGING.ORDERS, LIOS.TROUTE_SEQ_DETAILS.ORDERS, LIOS.TROUTEMASTER.ORDERS"""
+Phone,"""LIOS.TLOGISTICSPOINTCONTACTS.PHONE"""
+Supplier Logistics Point Flag,"""LIOS.TLOGISTICSPOINTS.STRSUPPLIER"""
+Tire1: Rear Rim Size,
+Supplier Plant Code,###############################################################################################################################################################################################################################################################
+Months in Market,"""base_irm_pm_fcst_residual_value"""
+Region Character Code for Comp Sale,
+PTIME Vehicle,
+Method to print ticket,
+Total Combo Subvention Wgt'd USD Per Unit Amount,"""base_pin_incentive_isr"""
+Hazardous Material Indicator,
+Model Export Indicator,
+Receiving Warehouse Code,
+Estmtd Lineoff Date At Assign,
+Install Equipment Name,
+Dealer stock Count,
+Competitor Minor Change Index Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Width Quantity,
+TMS TCI Released By,
+Services Order Number,
+Maximum Dealer Stock Quantity,"""base_nenkei_tms_us_dealer_stock_guideline_by_series"""
+Destination Number,
+Rundown Fleet Type,
+Geographic Area Code,
+Total Finance APR Subvention: Take Amount,"""base_pin_incentive_isr"""
+US Product Code,
+Annual Segment Volume Quantity,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Shift Exception,
+Repeat Count,"""LIOS.QRTZ_SIMPLE_TRIGGERS.REPEAT_COUNT"""
+Business Month Begin Date,
+Defect,
+Minor Change Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Event Code Update Date,
+Day of Month,
+Total Sales Availability Quantity,
+Next Fire Time,"""LIOS.QRTZ_TRIGGERS.NEXT_FIRE_TIME"""
+Document Width,"""OWK.OWK_DOCUMENT.DOCUMENT_WIDTH"""
+Government Approval Indicator,
+Package Cost Amount,
+Monroney Label Flag,
+Mid Year Price Model Change Category Code,"""base_finance_gi_impact_budget"""
+North American Manufacturing Company (NAMC) Data1,"""LIOS.OWK.NAMC_DATA1, OWK.OWK_GENERIC_KANBAN.NAMC_DATA1, OWK.OWK_KANBAN.NAMC_DATA1"""
+Route 4 Unload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_4_UNLOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_4_UNLOAD"""
+Airis Month,
+Total Budget GI Impact Sales Amount,"""base_finance_gi_impact_budget"""
+Fired Time,"""LIOS.QRTZ_FIRED_TRIGGERS.FIRED_TIME"""
+No Overwrite Flag,"""LIOS.TROUTES.NO_OVERWRITE_FLAG"""
+Option List,
+Rear Axle Permissible Load,
+Final Tracking Point,
+Options Msrp Amt,
+Retail RDR Date,"""base_tms_us_vehicle_sales"""
+Monday Working Pattern,"""LIOS.WP_CALENDER.MON_WP"""
+Trigger Description,"""LIOS.QRTZ_TRIGGERS.DESCRIPTION"""
+Airis Div,
+Advanced Parts System No Reorder Code,
+Child Suffix,"""PSMS.ITFPHIK.CHILD_SUFFIX, PSMS.ITFPHIN.CHILD_SFX, PSMS.ITFPHIU.CHILD_SUFFIX"""
+Updated Date,
+Event Trailer,"""LIOS.AET_EVENTS.EVENT_TRAILER"""
+Image,
+Connection Date,###############################################################################################################################################################################################################################################################
+Value1,
+Store Address Primary,"""Parts Master.PVS_PRUKANB_xxxx_STG.STORE_ADDRESS_PRIMARY"""
+Dealer Staff Region Description,
+Certified Inventory Status Code,
+Production Unbuilt Unshipped Quantity,"""base_lexus_month_end_Regional"""
+General Cost Status,"""LIOS.TGENERALCOST.STATUS"""
+Default Resolution Status Identifier,"""LIOS.AET_SETTINGS.DEFAULT_RESOLUTION_STATUS_ID"""
+Business Group Short Name,"""OWK.OWK_BUSINESS_GROUP.BUSINESS_GROUP_SHORT_NAME"""
+Plant Unload Date,"""LIOS.AET_EVENTS_ORDERS.PLANT_UNLOAD, LIOS.AET_RESOLUTIONS_ORDERS.PLANT_UNLOAD"""
+Data Value,
+Buyoff Terminal,
+WMI,
+Estimated Time of Arrival,
+Raw Aspiration,"""base_pin_explorer"""
+Allocation Amount,"""LIOS.TDOB_ALLOCATION.ALLOCATION_AMOUNT, LIOS.TGENCOSTALLOCATION.ALLOCATION_AMOUNT, LIOS.TLOGISTICS_INV_ALLOC.ALLOCATION_AMOUNT"""
+Increasing TMS Incentive Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Model Year,
+Dock Approved Flag,"""LIOS.TLOGISTICSPOINTSDOCKINFO.APPROVED"""
+Region/Area,
+Production Quantity,"""base_lexus_month_end_Regional"""
+Introductory Price GI Amount,"""base_finance_gi_impact_budget"""
+User,###############################################################################################################################################################################################################################################################
+Wrap Guard Flag,
+Color Code,"""base_jato_color_trim"""
+Previous Year Business Day,
+Grade,"""SMS.GSMKATA.GRADE"""
+Lease Rebate Negative Equity Amount,"""base_pin_incentive_isr"""
+Updated Date,"""Parts Master.PVS_PRUDESC_xxxx_STG.UPDATED_DATE"""
+Funding Source Contribution Number,"""base_tms_us_non_cash_inctv"""
+Total Budget GI Impact Manufacturing Amount,"""base_finance_gi_impact_budget"""
+Defect Direct Run Group,
+Market Area,
+Vehicle Identifier section,
+Maximum Transfer days,
+DAP Amount,
+Dollies,"""LIOS.TMASTERDOCKCYCLE.DOLLIES"""
+Creation Type Description,"""LIOS.AET_CREATION_TYPES.DESCRIPTION"""
+Dealer Staff Region Code,
+Cost Category,"""LIOS.TCOSTMASTER.COST_CATEGORY, LIOS.TGENERALCOST.COST_CATEGORY, LIOS.TGLACCOUNTDATA.COST_CATEGORY, LIOS.TSURCHARGE.COST_CATEGORY"""
+Bank Addr State Code,
+Entry Identifier,"""LIOS.QRTZ_FIRED_TRIGGERS.ENTRY_ID"""
+Plant,"""PSMS.ITFCHIK.PLANT_CODE, PSMS.ITFCOLR.PLANT_CODE, PSMS.ITFPHIK.DEST_PLANT_CODE, PSMS.ITFPHIK.PACKING_PLANT_CD, PSMS.ITFPHIK.PLANT_CODE, PSMS.ITFPHIN.PLNT_CD, PSMS.ITFPHIU.PLANT_CODE"""
+Vehicle Body Section Code,
+Full Name,
+Non-Core Incentive 3: $ Offer Amount,"""base_pin_incentive_isr"""
+Non Fleet Distributor Quantity,
+Interior Color Code,
+Group Code,"""PSMS.ITFCOLR.GROUP_CODE, PSMS.ITFPHIK.GROUP_CODE, SMS.GSMSTCC.GROUP_CODE, SMS.GSMSTRC.GROUP_CODE"""
+Mid Year Pricing Effective Production Month,"""base_finance_gi_impact_budget"""
+Selldown Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Device,"""LIOS.TUSER_ANALYTICS.DEVICE"""
+Bytes,"""OWK.DBEXPERT_PLAN1.BYTES, OWK.DBEXPERT_PLAN2.BYTES, OWK.PLAN_TABLE.BYTES, OWK.SQLEXPERT_PLAN1.BYTES"""
+Final Inspection Sign,
+fc_term_amt,"""base_pin_incentive_isr"""
+Logistics Point Operation Type,"""LIOS.TLOGISTICSPOINT_INFO.TYPE"""
+Event Frequency,"""base_irm_event"""
+Non-Core Finance Offer/Unit Amount,"""base_pin_incentive_isr"""
+URL Manufacturer Name,"""base_jato_manufacturer"""
+Bill to Address 2,
+Kanban,"""FVM.BOX_SCANNED.KANBAN, FVM.HISTORY.KANBAN, FVM.ORDER_BOX.KANBAN,Parts Master.PVS_PRUDESC_xxxx_STG.KANBAN, Parts Master.PVS_PRUKANB_xxxx_STG.KANBAN"""
+DSS Duplicate Check Flag,
+Node Type,"""LIOS.TACCTRL_TREE.NODE_TYPE"""
+Bad,"""LIOS.TCPMTHRESHOLD.BAD"""
+Non Fleet Arrival Percentage,"""base_lexus_nenkei_national"""
+List Code,"""LIOS.TLIOSLISTITEM.LIST_CODE"""
+Program Year,"""fleet_program_year"""
+Shop Time Zone,"""FVM.SHOP.TIMEZONE"""
+Supplier Code,###############################################################################################################################################################################################################################################################
+Distributor Order Unit 2 Quantity,
+Total Units,"""LIOS.LCM_PROD_VOLUME_COST.AMOUNT"""
+Exterior Color Name,
+Deletion Comments,
+fc_rt_subprime_amt,"""base_pin_incentive_isr"""
+Finance APR (60<Term <= 72) Amount,"""base_pin_incentive_isr"""
+Fleet Arrivals Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Dealer Gross Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Trans Plant Code,
+Accounting Customer Current Indicator,
+Minimum Lot Count,"""Parts Master.PVS_PRUKANB_xxxx_STG.MINIMUM_LOT_COUNT"""
+Order Release Type,"""OWK.OWK_ORDER_RELEASE_TYPE.ORDER_RELEASE_TYPE_DESC"""
+Procurement Order Method Code,
+Destination Name,
+File Types,
+CFTP Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Name Plate Text,"""base_pin_incentive_isr"""
+Segment Seasonal Factor Month 8,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Objective Flag,"""base_tms_us_cash_inctv"""
+Packaging Height,"""LIOS.TFORECAST.HEIGHT"""
+Redirect Area,
+Set Option,"""SMS.GSMSET.SET_OPTION"""
+Vehicle Attributes,"""base_autoplanner_indstry_veh_attributes"""
+Lease Rebate Trade Same Nameplate Amount,"""base_pin_incentive_isr"""
+Tools Trace Confirm flag,
+Request Recovery Flag,"""LIOS.QRTZ_FIRED_TRIGGERS.REQUESTS_RECOVERY, LIOS.QRTZ_JOB_DETAILS.REQUESTS_RECOVERY"""
+Photo Path,"""base_jato_version"""
+Fleet Dealer Stock Quantity,
+Progress Warning Sign,
+Finance Profit Margin,"""base_pin_incentive_isr"""
+Plant Short Name,
+Vehicle Key,
+Name,"""FVM.CONFIGURATIONPROPERTYTYPE.NAME, LIOS.TCOMMUNICATION.NAME, LIOS.TLMS_SEND_FENCE.NAME, LIOS.TROUTEMASTER.NAME"""
+Route 2 Reload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_2_RELOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_2_RELOAD"""
+Role Name,"""LIOS.TROLES.STRROLE"""
+Residual Lag 2,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Finance APR (24<Term<=36) Amount,"""base_pin_incentive_isr"""
+Get sudo Month,
+Date of Sale,
+Security Role Long Name,"""FVM.SECURITYROLE.LONGNAME"""
+Tokusetsu Reference Number,
+Order Sequence Identifier,"""LIOS.TORDER_CONNECTION.SEQUENCE_ID"""
+Repaired Date Time,
+Finance Trade Odometer Amount,"""base_pin_incentive_isr"""
+Rate Code,"""LIOS.TCOSTMASTER.RATE_CODE, LIOS.TDOB.RATE_CODE, LIOS.TGENERALCOST.RATE_CODE"""
+Aged Inventory Program: Take Rate Amount,"""base_pin_incentive_isr"""
+Browser Minor Version,"""LIOS.TUSER_ANALYTICS.BROWSER_MINOR"""
+Browser Major Version,"""LIOS.TUSER_ANALYTICS.BROWSER_MAJOR"""
+Install Process Task Number,
+Accessory Indicator,"""ap_industry_veh_master"""
+Negative Special Event Indicator Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Vehicle ID,"""base_jato_color_trim"""
+Parts Quantity,"""LIOS.TGENERALCOST.QUANTITY"""
+Attachment,
+Surcharge,"""LIOS.TGENERALCOST.SURCHARGE, LIOS.TLOGISTICS_INVOICE.TOTAL_SURCHARGE"""
+Ship to Country Code,
+Annual Plan Cycle,
+Timestamp,"""OWK.DBEXPERT_PLAN1.TIMESTAMP, OWK.DBEXPERT_PLAN2.TIMESTAMP, OWK.PLAN_TABLE.TIMESTAMP, OWK.SQLEXPERT_PLAN1.TIMESTAMP"""
+Part Specification,"""Parts Master.PVS_PRUDESC_xxxx_STG.SUPPLIER_SPECIFICATION, Parts Master.PVS_PRUDESC_xxxx_STG.TMM_SPECIFICATION"""
+Non Fleet Share Percentage,"""base_irm_pm_sales_fcst_by_series"""
+Ending Dealer Invoice Amount,"""base_autoplanner_indstry_veh_pricing"""
+Port,
+Finance APR Subvention (36<Term<=48): Take Rate Amount,"""base_pin_incentive_isr"""
+Lifecycle Stage,"""base_irm_pm_fcst_residual_value"""
+Non Fleet Inventory Quantity,
+Order Release Status Code,"""OWK.OWK_ORDER_RELEASE.ORDER_RELEASE_STATUS, OWK.OWK_ORDER_RELEASE_BKP.ORDER_RELEASE_STATUS, OWK.OWK_ORDER_RELEASE_STATUS.ORDER_RELEASE_STATUS"""
+Total Proposed GI Gross Profit Impact TMS and Manufacturing Amount,"""base_finance_gi_impact_budget"""
+Model Series Code,
+Replacement Part Number,
+Output Type,"""LIOS.TLIOSJOBOUTPUT.OUTPUT_TYPE"""
+Contingent Trailers In Use,"""LIOS.TCONTROLPOINTMATRIX.CNTGNT_TRAILERS_IN_USE, LIOS.TCPMSNAPSHOTS.CNTGNT_TRAILERS_IN_USE"""
+Allocation Pool,
+Adhoc Flag,
+User Flag,"""Parts Master.PVS_PRUDESC_xxxx_STG.USER_FLAGS"""
+Shift Active Flag,
+IRM Aspiration,"""base_pin_explorer"""
+Gate number,
+Manufacturer Name,"""base_jato_manufacturer"""
+Truck Ship Date,
+Bulk Modified Flag,
+Contact Name,"""LIOS.TLOGISTICSPOINTCONTACTS.NAME"""
+Lineside Address,"""LIOS.OWK.LINESIDE_ADDRESS"""
+Retail Qty,
+Dealer Staff Dealer Number,
+Buy Off,
+Containment Color,
+Katashiki,"""PSMS.ITFCHIK.KATASHIKI, SMS.GSMKATA.KATASHIKI"""
+Introductory Price Model Change Category Code,"""base_finance_gi_impact_budget"""
+Engineering Control Information Number,
+Lease Residual Subvention Weighted $ Per Unit Amount,"""base_pin_incentive_isr"""
+Color,"""SMS.GSMCOLR.COLOR_NO"""
+Preferred Width,"""LIOS.TUSERPREFERENCEATTRIBUTES.WIDTH"""
+User Last Name,"""FVM.SYSTEMUSER.LASTNAME, LIOS.TUSER.STRLASTNAME"""
+Negative Special Event Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Shipment Line Nunmber,
+Increasing PIN Incentive Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Non Fleet Sales Availability Quantity,"""base_lexus_nenkei_national"""
+Introductory Price TMS Margin Change Amount,"""base_finance_gi_impact_budget"""
+JDPA Segment Code,"""base_pin_incentive_isr"""
+Routing Engineering Change Instruction To,"""SMS.GSMSTRC.RTN_ECI_NO_TO"""
+Introductory Price Manufacturing Gross Profit Impact Per Unit,"""base_finance_gi_impact_budget"""
+Ship To Address 4,
+Monroney Description,
+Delta Flag,
+Vehicle Status,
+Read Flag,"""OWK.OWK_LP_MESSAGE.READ_FLAG, OWK.OWK_SUPPLIER_MESSAGE.READ_FLAG"""
+Unit Of Measure,"""LIOS.TCOSTMASTER.UNIT"""
+Rail,
+Week of Year,
+First Assigned Region,
+Fleet Type,
+Sales Type Code,
+Segment Non Fleet Volume Quantity,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Estmtd Rail Ship Date,
+Contribution Margin,"""base_irm_pm_sales_fcst_by_series"""
+Source Code,
+Supported Lease Incentive Offering/Unit Amount,"""base_pin_incentive_isr"""
+Engine,
+Inventory Category code,
+Block Code,"""PSMS.ITFPHIK.BLK_CODE, SMS.GSMBLOC.BLOCK_CODE"""
+Bill To Customer Identifier,
+Accessory Code,
+Current Estmtd Lineoff Date,
+Committed by Proxy flag,
+Created Timestamp,
+% Non-Captive Non-Supported Lease,"""base_pin_incentive_isr"""
+Frame Current Delay Time,
+Rundown Calendar Year,
+Model Series Name,
+Address,"""LIOS.TLOGISTICSPOINT_INFO.ADDRESS"""
+Arrival Quantity,"""base_lexus_month_end_Regional"""
+Attribute Value,
+Document Name,"""LIOS.TLOGISTICSPOINTDOCUMENTS.DOCUMENTNAME, OWK.OWK_DOCUMENT.DOCUMENT_NAME"""
+Retail State Code,
+Parameter Granularity,"""base_irm_parameter"""
+Tracking Date,
+Shipping Weight,
+Change Description,"""PSMS.ITFCHIK.CHG_DESC, PSMS.ITFCOLR.CHG_DESC, PSMS.ITFPHIK.CHG_DESC, PSMS.ITFPHIN.CHG_DESC, PSMS.ITFPHIU.CHG_DESC"""
+Procurement Analyst Manager Name,
+Weld Dolly Lock,
+Bodystyle Short Description,
+Rundown Dealer Stock Low Count,
+Safety Key Point,
+industry retail sales quantity,"""base_pai_indstry_series_retail_sales"""
+CBU,
+Order Type Identifier,
+Incentive Spending Per Unit amount,"""base_pin_incentive_isr"""
+Finance APR Down Payment (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Arrival Driver Information Identifier,"""LIOS.TROUTE_SEQ_DETAILS.ARRV_DRIVER_INFO_ID"""
+Plant Company Name,
+Raw Plant Code,"""base_rundown_toyota_bosu_month_end_national"""
+Harmonized Code,
+Part History Extract Date,
+Checked By,
+User Identifier,"""FVM.SYSTEMUSER.ID, LIOS.TUSER.INTUSERID, LIOS.TUSERPREFERENCE.USER_ID, LIOS.TUSERROLES.INTUSERID"""
+Incentive Month,"""base_tms_us_non_cash_inctv"""
+STATUS Vehicle,
+Rail Destination Code,
+Toyota Nenkei National ID,"""base_toyota_nenkei_national"""
+Production Cost Type,"""LIOS.LCM_PRODUCTION_COST.TYPE"""
+Maximum Route Weight,"""FVM.SITE.MAXROUTEWEIGHT"""
+Grid Y Position,
+Chassis Scheduling & Re-send Required Flag,
+Part Comment,"""SMS.GSMPARC.COMMENTS"""
+ATAC Code,
+User Analytics Identifier,"""LIOS.TUSER_ANALYTICS.USER_ANALYTICS_ID"""
+Distributor Ppo Cost,
+Lease Loyalty Cash: $ Offer Amount,"""base_pin_incentive_isr"""
+Segment Seasonal Factor Month 1,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Annual Plan Timing,
+Pen Width,
+Part Distribution Center Update Date,
+Tentative Price Code,
+fa_percentfinanced_amt,"""base_pin_incentive_isr"""
+Engine Usage Flag,
+Document Location,"""LIOS.TLOGISTICSPOINTDOCUMENTS.DOCUMENTLOCATION"""
+Key Identifier,
+Part Ship To Addr Line One,
+Box Layer Identifier,"""LIOS.TBOX_LAYER.BOX_LAYER_ID"""
+Email,"""LIOS.TCOMMUNICATION.EMAIL, LIOS.TLOGISTICSPOINTCONTACTS.EMAIL"""
+Logistics Partner,###############################################################################################################################################################################################################################################################
+Seasonal Factor Percentage,"""RUNDOWN_LEXUS_SEASONAL_FACTOR_NATIONAL"""
+Lag 2 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+TMS Base Gross Profit Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Added By Yard Sweep Flag,
+No Over Write,"""LIOS.TPACKAGING.INTNOOVERWRITE"""
+Holiday Code,
+Planned Weight,"""FVM.ORDR.PLANNEDWEIGHT"""
+Distributor,"""base_rundown_toyota_bosu_month_end_national"""
+fc_rt_tier_2_amt,"""base_pin_incentive_isr"""
+Finance APR Subvention (60<Term<=72): Take Rate Amount,"""base_pin_incentive_isr"""
+Blackout Identifier,"""LIOS.DD_BLACKOUTS.BLACKOUT_ID, LIOS.DD_BLACKOUTS_ROUTES.BLACKOUT_ID"""
+Error Log Id,
+Factory Accessory Code,
+GI Amount,"""base_tms_us_gi_history"""
+Accessory Type Description,
+Main Route Order Sequence,"""FVM.ORDR.MROS, LIOS.OWK.MROS, OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.MROS"""
+Assigned Brand Effective Start Date,
+Built Type,"""base_tms_launch_month"""
+View,
+Confirmed Date,
+Logistics Point Sequence,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.LOGISTICS_POINT_SEQUENCE, OWK.OWK_PRINT_HISTORY.LOGISTICS_POINT_SEQUENCE"""
+Customer Party Role Type Code,
+Cost Per Mile,"""LIOS.TSUR_WEEK_CALC.PER_MILE"""
+Threshold Identifier,"""LIOS.TCPMTHRESHOLD.THRESHOLD_ID"""
+Dunnage Weight,"""LIOS.TFORECAST.DUNNAGE_WEIGHT, LIOS.TPACKAGING.DBLDUNNAGEWEIGHT"""
+Number of Doors,
+Thrust Month Indicator Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Positive Special Event Indicator Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+FX Yen,
+Job Data,"""LIOS.QRTZ_JOB_DETAILS.JOB_DATA, LIOS.QRTZ_TRIGGERS.JOB_DATA"""
+Parent Accessory Description,
+Finance APR Monthly Payment (60<Term<=72) Amount,"""base_pin_incentive_isr"""
+Title,"""LIOS.TLOGISTICSPOINTCONTACTS.TITLE"""
+Parts Distribution Name,
+Maximum Range,
+% Traditional Incentives Penetration,"""base_pin_incentive_isr"""
+Distributor Name,
+Display Sequence Number,
+Arrival percentage,"""base_lexus_month_end_Regional"""
+TMS Margin Percentage,"""base_finance_gi_impact_budget"""
+Katashiki,
+Finance APR Monthly Payment (36<Term<=48) Amount,"""base_pin_incentive_isr"""
+Packing Effective Start Date,"""LIOS.TPACKAGING.DTMEFFECTIVESTART"""
+Finance APR / Combo Cost of Funds (Term>60) Amount,"""base_pin_incentive_isr"""
+Frame Stamp Information,
+Is final Kanken,
+Representative Part Quantity,"""PSMS.ITFPHIK.REP_PART_QTY, PSMS.ITFPHIN.REP_PART_QTY, PSMS.ITFPHIU.REP_PART_QTY"""
+Moving Volume Code,
+Column Index,"""LIOS.TUSERPREFERENCEATTRIBUTES.COL_INDEX"""
+Non Fleet Availability Quantity,
+Total Availability Quantity,
+Color Classification,"""SMS.GSMCOLR.COLOR_RUIBETU"""
+MEID,
+APR Days To Turn Amount,"""base_pin_incentive_isr"""
+Customer-Facing transaction Price Amount,"""base_pin_incentive_isr"""
+Image Download Flag,
+USA Model Number,
+Assigned Brand Update By Program,
+Excluded from DPV Flag,
+Job Name,"""LIOS.QRTZ_FIRED_TRIGGERS.JOB_NAME, LIOS.QRTZ_JOB_DETAILS.JOB_NAME, LIOS.QRTZ_TRIGGERS.JOB_NAME, LIOS.TLIOS_CRON_JOB.JOB_NAME, LIOS.TLIOS_JOB_LOG.JOB_NAME, LIOS.TLIOSJOB.JOB_NAME, LIOS.TLIOSJOBRUN.NAME"""
+Route Response Identifier,"""LIOS.TWTROUTERESPONSE.ROUTE_RESPONSE_ID"""
+Weekends,
+Dealer Code,
+Non Fleet Departure Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Option Name,
+Tcom Day,
+Parent Identifier,"""FVM.CONFIGURATIONPROPERTY.PARENTID, OWK.DBEXPERT_PLAN1.PARENT_ID, OWK.DBEXPERT_PLAN2.PARENT_ID, OWK.PLAN_TABLE.PARENT_ID, OWK.SQLEXPERT_PLAN1.PARENT_ID"""
+Procurement Analyst Parts Category Name,
+fa_rt_tier_1_amt,"""base_pin_incentive_isr"""
+Total Distributor Prior Year Quantity,
+Frame Number,
+Contact Type,"""LIOS.TLOGISTICSPOINTCONTACTS.TYPE"""
+Applicable From Date,
+Packaging Weight,"""LIOS.TFORECAST.PACKAGING_WEIGHT"""
+Average Repair Time,
+Engineering Change Instruction From,"""PSMS.ITFCHIK.ECI_FROM, PSMS.ITFCOLR.ECI_FROM, PSMS.ITFPHIK.ECI_FROM, PSMS.ITFPHIN.ECI_FROM, PSMS.ITFPHIU.ECI_FROM, SMS.GSMCOLR.ECI_NO_FROM, SMS.GSMCONT.ECI_NO_FROM, SMS.GSMMINR.ECI_NO_FROM, SMS.GSMSTCC.ECI_NO_FROM, SMS.GSMSTRC.STR_ECI_NO_FROM"""
+Query Name,"""LIOS.TLIOS_QUERY.QUERY_NAME"""
+Buildout Startup Code,"""base_rundown_toyota_bosu_month_end_national"""
+Bill To Addr Line One,
+Body Usage Flag,
+Panel Outlines Display Flag,
+Password,"""FVM.SYSTEMUSER.PASSWORD"""
+Part History Indicator,
+Terminal Group,
+RedTag Added by,
+Incentive Share Percentage,"""base_irm_pm_sales_fcst_by_series"""
+Company Code,"""PSMS.ITFCHIK.PSMS_COMPANY_CODE, PSMS.ITFCOLR.COMPANY_CODE, PSMS.ITFPHIK.PSMS_COMPANY_CODE, PSMS.ITFPHIN.PSMS_COMPANY_CD, PSMS.ITFPHIU.PSMS_COMPANY_CODE"""
+Maximum Inventory Quantity,"""Parts Master.PVS_PRUKANB_xxxx_STG.MAX_INVENTORY_QUANTITY"""
+Order Number,###############################################################################################################################################################################################################################################################
+Dealer Stock Quantity,"""base_lexus_month_end_Regional"""
+% Captive Supported Combo,"""base_pin_incentive_isr"""
+Procurement Analyst Category Nm,
+Inspected,
+Route Connection Date Time,"""FVM.HISTORY.ROUTECONNECTIONTIME"""
+Captive Lender Dealer Cash - Lease Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+Total Sales Quantity,
+Rear Diff Type,
+Invoice Identifier,"""LIOS.TLOGISTICS_INV_ALLOC.INVOICE_ID, LIOS.TLOGISTICS_INVOICE.INVOICE_ID"""
+Built Date,
+Force Hand Held Terminal Refresh,"""FVM.SITE_CONTROL.FORCEHHTREFRESH"""
+Division Of Business (DOB) Domicile Status,"""LIOS.TDOBPPDOMICILE.STATUS"""
+Total Lease Monthly Payment Amount,"""base_pin_incentive_isr"""
+Assembly Sequence Number,
+IRM Make Name,"""base_jato_version"""
+Reserve Vehicle Flag,
+Repair,
+Buyoff Notice Email,
+Total Pallets,"""LIOS.FREQ_BY_PALLET.PALLETS"""
+Retail Reg Dis Dlr,
+Body Style Long,
+Distributor Price Amount,
+VDW Fuel Type,"""MODEL_MODEL_YEAR"""
+Getsudo Date,
+Factor Percentage,"""base_rundown_lex_seasonal_fctr_reg"""
+Advice Code,
+Production Week of the Year,
+Drive Type,
+Previous Month Indicator,
+Drivetrain Name,
+In Or Out Manufacturing Code,
+Grade Spec Short Description,
+Frame Progress Warning Sign,
+Order Method,"""Parts Master.PVS_PRUKANB_xxxx_STG.ORDER_METHOD"""
+Atc Code,
+Ship to Postal Code,
+APR(Annual Percentage Rate) Trade Odometer Amount,"""base_pin_incentive_isr"""
+From Dock,"""LIOS.FREQ_BY_PALLET.FROM_POINT_DOCK"""
+No of Doors,
+Order Date Identifier,
+Virtual Reader Flag,
+Planned Dispatch Date,"""LIOS.AET_RESOLUTIONS.PLAN_DISPATCH"""
+Scheduled Line off Date,
+Package Code,"""LIOS.TPACKAGING.STRNAPACKAGECODE, Parts Master.PVS_PRUKANB_xxxx_STG.PACKAGE_CODE"""
+TMS Incentive Budget Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Requirement,"""LIOS.TFORECAST.REQUIREMENT"""
+Lid Width In Inches,"""LIOS.TPALLET_MASTER.LID_WIDTH_INCHES, LIOS.TPALLET_TYPES.LID_WIDTH_INCHES"""
+Comments,###############################################################################################################################################################################################################################################################
+Estmtd Rail Receive Date,
+Variation,"""SMS.GSMVARI.VARIATION_NAME"""
+Non-Core Incentive 4: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Raw Plant Origin,"""base_rundown_toyota_bosu_month_end_national"""
+Introductory Price TMS Gross Profit Impact Per Unit,"""base_finance_gi_impact_budget"""
+Error Comments,"""LIOS.TPACKAGING.STRERRORCOMMENTS"""
+Other Attributes,"""base_autoplanner_indstry_veh_attributes"""
+Kata Model,
+Drawing Status,"""SMS.GSMMINR.DRAWING_STATUS"""
+Extended Landed Cost Amount,
+Ship To Port Code,
+Retail Redirect Sequence Number,"""base_tms_us_vehicle_sales"""
+Process Code,
+Part 10 Digit,"""LIOS.TPACKAGING.STRPARTNUMBER, LIOS.TPALLET_MASTER.PART_NUMBER, Parts Master.PVS_PRUKANB_xxxx_STG.PART_10DIGIT"""
+Parent Node Identifier,"""LIOS.TACCTRL_TREE.PARENT_NODE_ID"""
+Segment Name,
+Guide Allocation Count,
+Seasonality Factor Ratio,
+Job Output Identifier,"""LIOS.TLIOSJOBOUTPUT.JOB_OUTPUT_ID"""
+Sequence Identifier,"""LIOS.TROUTE_SEQ_DETAILS.SEQUENCE_ID, LIOS.TROUTE_SEQUENCE.SEQUENCE_ID"""
+Thrust Month Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Model TVO Bodystyle,
+Repair Type order,
+Lease Cash Weighted USD Per Unit Amount,"""base_pin_incentive_isr"""
+Active Model Flag Description,
+Containment Answer,
+Sub Route Date Time,"""FVM.HISTORY.SUBROUTEDATETIME"""
+Delivery Region,
+Segment Seasonal Factor Month 3,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Normal,"""LIOS.TCPMTHRESHOLD.NORMAL"""
+Dealer Model Cost,
+Bank Addr Name,
+Raw Displacement,"""base_pin_explorer"""
+Surcharge Effective Stop Date,"""LIOS.TSUR_WEEKLY.EFFECTIVE_STOP, LIOS.TSURCHARGE.EFFECTIVE_STOP"""
+Route 1 Unload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_1_UNLOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_1_UNLOAD"""
+Maker,"""Parts Master.PVS_PRUDESC_xxxx_STG.MAKER"""
+auto logoff Time,
+Logistics Shop Start Time,"""FVM.SHOP.STARTTIME"""
+Issue Identifier,"""FVM.NONCOMPLIANCEISSUE.ISSUEID"""
+Parent Acc Eng Desc,
+Hour Key,
+Toyota Motor Corporation User,"""PSMS.ITFCHIK.TMC_ID, PSMS.ITFCHIK.USERID, PSMS.ITFCOLR.TMC_ID, PSMS.ITFCOLR.USERID, PSMS.ITFPHIK.TMC_ID, PSMS.ITFPHIK.USERID, PSMS.ITFPHIN.USERID, PSMS.ITFPHIU.TMC_ID, PSMS.ITFPHIU.USERID"""
+Dealer Cost Amount,"""base_tms_4_level_accy_pricing"""
+PNVS Ratio Competitor Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+QAR UCR,
+Rundown Guide Allocation Count,
+Sequence Detail Identifier,"""LIOS.TROUTE_SEQ_DETAILS.SEQ_DETAIL_ID"""
+Route 3 Unload Date,"""LIOS.AET_EVENTS_ORDERS.ROUTE_3_UNLOAD, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_3_UNLOAD"""
+Lease Subvention (Term > 48): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Actual Condition,
+Brand,
+Tagged Flag,
+Segment,"""LIOS.LCM_PROD_VOLUME_COST.SEGMENT"""
+Number Of Dedicated Dock Doors,"""LIOS.TLOGISTICSPOINTSDOCKINFO.NUMBEROFDEDICATEDDOCKDOORS"""
+Production Request Year & Month,
+Lock Name,"""LIOS.QRTZ_LOCKS.LOCK_NAME"""
+Frame Spare Time for Buy-off,
+Mid Year Price TMS Margin Change Amount,"""base_finance_gi_impact_budget"""
+District Code,
+Weekday,
+Tuesday Working Pattern,"""LIOS.WP_CALENDER.TUE_WP"""
+Range Order,"""LIOS.TCPMTHRESHOLD.RANGE_ORDER"""
+Unique Reference Number,
+Detail Reference,"""SMS.GSMSET.DETAIL_CODE, SMS.GSMSPEC.DETAIL_CODE"""
+Parameter Code,"""LIOS.TLIOSSYSPARAMETERS.PARAM_CODE"""
+Update History Identifier,"""LIOS.TUPDATE_HISTORY.UPDATE_HISTORY_ID"""
+Aspiration Abbreviation,"""base_autoplanner_indstry_veh_attributes"""
+Sample all 1,
+Minimum MSRP Amount,"""base_jato_model"""
+Engine Spec Long,
+Measure,
+Sales Target Quantity,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Introductory Price General Increase Percent,"""base_finance_gi_impact_budget"""
+Model Change Type,"""base_autoplanner_indstry_veh_pricing"""
+IRM Cylinder Abbreviation,"""base_pin_explorer"""
+CreatedBy,
+Ticket printer associated,
+Consumer Bonus Cash Weighted Amount,"""base_pin_incentive_isr"""
+Latest Tracking Point Date,
+Filter Condition,"""LIOS.TNOTIF_FILTERS.CONDITION"""
+Confirmation status,
+Elasticity Type,"""base_irm_pm_msrp_elasticity"""
+Average Rate,"""LIOS.TSUR_WEEKLY.AVERAGE_RATE"""
+Configuration Identifier,"""FVM.CONFIGURATIONPROPERTY.CONFIGURATIONID, FVM.CONFIGURATIONSITES.CONFIGURATIONID"""
+Months To Sell,
+NHTSA Propulsion System,
+Job Active Status,"""LIOS.TLIOSJOB.STATUS"""
+Shipment Date Identifier,
+Pace Vs Target Sales Target Effective Date,"""base_irm_pm_gi_heatmap"""
+Purchase Loyalty Cash: $ Offer Amount,"""base_pin_incentive_isr"""
+Non Fleet Arrival Percent,
+Finance APR / Combo Cost of Funds (48<Term<=60) Amount,"""base_pin_incentive_isr"""
+Lease APR (39 < Term <= 48) Amount,"""base_pin_incentive_isr"""
+Introductory Price TMS Sales to Private Distributor Impact per Unit,"""base_finance_gi_impact_budget"""
+Foreign Addr Line Three,
+Total Combo Subvention Take Rate Amount,"""base_pin_incentive_isr"""
+Major Impact Bound Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Production Hour,
+Resource Identifier,"""LIOS.TROUTE_SEQ_DETAILS.RESOURCE_ID, LIOS.TRTSEQ_DRIVER_INFO.RESOURCE_ID"""
+Landed Cost Amount,
+Cross Impact Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Model Body Style Name,
+New Value,"""FVM.HISTORY.NEWVALUE"""
+Holdback,
+Model MSRP,
+Product PSR Category Description,
+Root Cause,
+Alpha Plant Code,
+In-house Location,
+Production Count,
+Manufacturer,"""SMS.GSMPROC.MANUFACTURER, SMS.GSMSTCC.MANUFACTURER, SMS.GSMSTRC.MANUFACTURER"""
+Containment Question Type,
+TEMA Exception,"""LIOS.TLOGISTICS_INVOICE.TEMA_EXP"""
+Order Type Extract Date,
+North American Manufacturing Company,###############################################################################################################################################################################################################################################################
+Finance Days To Turn Amount,"""base_pin_incentive_isr"""
+Dealer Cash - Finance Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Lease Subvention (36 < Term <= 39): Take Rate Amount,"""base_pin_incentive_isr"""
+PPO Accessory List,
+Dealer Price Amount,
+Bill Dispatch Date,"""LIOS.TLOGISTICS_INVOICE.DISPATCH_DATE"""
+Chassis Line,
+Dealer Cash - Cash Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+Backordered Quantity,
+Gas Price Index,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Main Route Date Time,"""FVM.HISTORY.MAINROUTEDATETIME"""
+Region Name,
+Event Code Effective Start Date,
+Exception date,
+Minimum Fuel Economy Mix Mileage Number,"""base_jato_model"""
+Repair Type,
+Ship to County,
+JT5 Line Off Month,
+Raw Data Set Row ID,"""base_autoplanner_indstry_veh_attributes"""
+Total Port Stock Quantity,
+Safety Ratio,"""Parts Master.PVS_PRUKANB_xxxx_STG.SAFETY_RATIO"""
+Shunt Flag,"""LIOS.TROUTES.MLT_SHNT_FLAG"""
+One Way Kanban (OWK) Label Position,"""LIOS.OWK.OWK_LABEL_POSITION"""
+End Date,"""LIOS.DD_BLACKOUTS.END_DT"""
+Fleet Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Rundown Calendar Month,
+Lease APR Subvention Take Amount,"""base_pin_incentive_isr"""
+Responsible user,"""Parts Master.PVS_PRUKANB_xxxx_STG.RESPONSIBLE_USER"""
+Railcar Sighting Date,
+Account Addr Line Two,
+Maximum Combination Load,
+Bill To Addr Zip Code Addon,
+Port Installed Option Indicator,
+Finance APR Subvention (24<Term<=36): Take Rate Amount,"""base_pin_incentive_isr"""
+Japan Series Code,
+Sold Fleet Indicator,"""base_tms_us_vehicle_sales"""
+Input Terminal Code,
+Color Value,
+Shift,
+Quantity Per Container,"""LIOS.TFORECAST.QPC, LIOS.TPACKAGING.INTQUANTITYPERCONTAINER"""
+Lease Down Payment (Term > 48) Amount,"""base_pin_incentive_isr"""
+Market Segment,
+Inspection Key,
+At Date,"""PSMS.ITFCHIK.AT_DATE, PSMS.ITFCOLR.AT_DATE, PSMS.ITFPHIK.AT_DATE, PSMS.ITFPHIU.AT_DATE"""
+Vehicle Identifier,
+General Ledger Business Unit,"""LIOS.TGLACCOUNTDATA.GL_BUSINESS_UNIT"""
+Trigger Type,"""LIOS.QRTZ_TRIGGERS.TRIGGER_TYPE"""
+Engine Specification Short Description,
+Distributor Country,"""base_tms_us_gi_history"""
+Dealer Stock Score,"""base_irm_pm_gi_heatmap"""
+Primary Fleet Program Code,
+Model Active Description,
+NVS Stock Type,
+fa_rt_tier_3_amt,"""base_pin_incentive_isr"""
+Supplier Received Date,"""OWK.OWK_ORDER_BED_BKP.SUPPLIER_RECEIVED_DT, OWK.OWK_ORDER_BUSINESS_ENTITY_DOCK.SUPPLIER_RECEIVED_DT"""
+Fixed Continuous Build Sequential Number,
+Sequence Exclusion,
+User Group Code,"""LIOS.TUSERGROUP.GROUP_CODE"""
+GI Active Indicator,"""base_tms_us_gi_history"""
+Critical Form,
+Repost Pick List Print Date,"""LIOS.OWK.RP_PICK_LIST_PRINTABLE_DT, OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.RP_PICK_LIST_PRINT_DT"""
+Distributor Price Effective Date,
+Tech Family,"""PSMS.ITFPHIK.TECH_FAMILY"""
+Location of Use,"""SMS.GSMSTCC.LOCATION_OF_USE, SMS.GSMSTRC.LOCATION_OF_USE"""
+Competitor PNVS Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Background Color,
+IRM Series Name,"""base_jato_version"""
+Bulk Repaired,
+Trigger End Time,"""LIOS.QRTZ_TRIGGERS.END_TIME"""
+Total Dock,"""LIOS.TLOGISTICSPOINTSDOCKINFO.TOTALDOCK"""
+Paint Date,
+Tier T7,"""base_toyota_us_inctv_prog_targets"""
+Transmittal Serial,
+Non-Visible Finance Offer/Unit Amount,"""base_pin_incentive_isr"""
+Port Stock Quantity,"""base_lexus_month_end_Regional"""
+Requested Date,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.REQUESTEDDATE"""
+Stack Code,"""LIOS.TFORECAST.STACKABILITY_CODE, LIOS.TPACKAGING.STRSTACKABILITYCODE"""
+Class Account Description,
+Base Length,"""LIOS.TPALLET_MASTER.BASE_LENGTH"""
+Account Addr State Code,
+Frame Physical Process,
+Category Code,"""LIOS.TWTGENERALRESPONSEDETAIL.CATEGORY_CD"""
+Route Logistics Point,"""LIOS.AET_EVENTS.REGION, LIOS.AET_RESOLUTIONS.REGION, LIOS.AET_RESOLUTIONS_ORDERS.REGION"""
+Cylinders,
+Route Connection Type,"""FVM.ROUTECONNECTION.ROUTECONNECTIONTYPE"""
+NAP or CBU Code,"""base_lexus_launch_month"""
+Vehicle Model Change Category Abbreviation,"""base_tms_launch_month"""
+PIN Incentive Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Inspection Date Time,
+Event Code Effective End Date,
+Retail Sales Amount,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Gas Price Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Zip Code,
+Part Current Identifier,
+Visible Lease Offer/Unit Amount,"""base_pin_incentive_isr"""
+Introductory Price Impact Sales Beginning Month,"""base_finance_gi_impact_budget"""
+Order Specialist Code,"""LIOS.OWK.ORDER_SPECIALIST_CODE, OWK.OWK_GENERIC_KANBAN.ORDER_SPECIALIST_CODE, OWK.OWK_ORDER.ORDER_SPECIALIST_CODE, OWK.OWK_ORDER_BKP.ORDER_SPECIALIST_CODE"""
+Last Update User Id,
+% Non-Captive Non-Supported Lease,"""base_pin_incentive_isr"""
+Mid Year Price GI Percentage,"""base_finance_gi_impact_budget"""
+Event Identifier,"""LIOS.AET_EVENTS.EVENT_ID, LIOS.AET_EVENTS_ORDERS.EVENT_ID, LIOS.AET_RESOLUTIONS.EVENT_ID"""
+Wheel Base,
+Lid Weight,"""LIOS.TPALLET_MASTER.LID_WEIGHT"""
+Part Distribution Center Effective Start Date,
+IRM Number of Doors,"""base_jato_version"""
+Pin Transaction Count,"""base_pin_incentive_isr"""
+Mid year Price Distributor Margin Change Amount,"""base_finance_gi_impact_budget"""
+Accident Car Sign,
+Phase Effective,
+Un Post Reason,
+Group Condition,
+Configuration Property Name,"""FVM.CONFIGURATIONPROPERTY.NAME"""
+Order Region Code,
+Tire1: Rear Tire Size,
+RAC(Rent-A-Car) Repurchase,"""base_toyota_us_fleet_inctv_bdgt"""
+Term Number,"""base_toyota_us_inctv_prog_targets"""
+Cash Total PIN Income Amount,"""base_pin_incentive_isr"""
+Region Long Name,
+Vehicle FOB Cost,"""base_tms_4_level_veh_pricing"""
+Account Addr Zip Code Addon,
+Route 2,"""LIOS.AET_EVENTS_ORDERS.ROUTE_2, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_2"""
+Special Interest Code,
+Conquest Cash: $ Offer Amount,"""base_pin_incentive_isr"""
+Terminate Date Indicator,
+Front Axle Permissible Load,
+Pass Sequence,
+Dist Model Number,
+Valid Flag,
+Division Of Business (DOB) Status,"""LIOS.TDOB.STATUS"""
+New DUNS Number,
+Install Type Indicator,
+Dealer Staff SpinID,
+SIM Calc Cost Amount,"""base_tms_us_non_cash_inctv"""
+Line Address,"""OWK.G_KANBANLABEL_TAB.LINESIDE_ADDRESS, OWK.OWK_GENERIC_KANBAN.LINESIDE_ADDRESS, OWK.OWK_KANBAN.LINESIDE_ADDRESS, OWK.OWK_KANBAN_BKP.LINESIDE_ADDRESS, Parts Master.PVS_PRUKANB_xxxx_STG.LINE_ADDRESS"""
+Rear Axle Load,
+Plant Location Abbreviation,
+CIF Cost Amount,
+Lease Subvention (Term <= 24): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+URL Body Style Name,"""base_jato_Body Style"""
+Order Type Effective Start Date,
+DW Flag,"""LIOS.TROUTE_SEQ_DETAILS.DW_FLAG"""
+Bill to Postal Code,
+Confirm Date Compute Flag,
+TECS Katashiki,
+Interior Color Description,
+Pre Delivery Confirmation End date,
+Expedites Not Covered,"""LIOS.TCPMSNAPSHOTS.EXPEDITES_NOT_COVERED"""
+Model Year Sales Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Commodity Code,
+Selective,"""PSMS.ITFPHIK.SELECTIVE, PSMS.ITFPHIN.SELECTIVE, PSMS.ITFPHIU.SELECTIVE"""
+CFTP PIN Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Parts Configuration Status,"""Parts Master.PVS_PRUDESC_xxxx_STG.STATUS"""
+Plant Serial Code,
+Leg Miles,"""LIOS.TROUTE_SEQ_DETAILS.LEG_MILES"""
+Raw Segment Name,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Dummy (Assembly Line Control Information),
+Captive Lender Dealer Cash - Finance Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+In Production Flag,
+Non-Core Incentive 7: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Response Status,"""LIOS.TWTGENERALRESPONSEDETAIL.STATUS, LIOS.TWTROUTERESPONSE.STATUS"""
+File Description,
+Recent Incentive Score,"""base_irm_pm_gi_heatmap"""
+Maximum Order Sequence,"""LIOS.OWK.MAX_ORDER_SEQUENCE, LIOS.TORDERS.ORDER_SEQ, OWK.G_KANBANLABEL_TAB.MAX_ORDER_SEQUENCE, OWK.OWK_ORDER.MAX_ORDER_SEQUENCE"""
+Sales Availability Quantity,"""base_lexus_month_end_Regional"""
+Index code,"""PSMS.ITFCOLR.INDEX_CODE, PSMS.ITFPHIK.INDEX_CODE"""
+Parent Acc Code,
+Car Family Code,
+ID,"""base_autoplanner_indstry_veh_pricing"""
+Lease Down Payment (36 < Term <= 39) Amount,"""base_pin_incentive_isr"""
+Major Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Maximum Fuel Economy Mix Mileage Number,"""base_jato_model"""
+Federal Excise Tax Code,
+Fiscal Quarter,
+Financial Reserve Amt,
+Vehicle Type Code,
+Production Process Code,
+Study,
+Dealer Margin Percent,"""base_finance_gi_impact_budget"""
+Dummy (ALC Scheduling Information),
+Basic Katashiki,
+User Role Identifier,"""LIOS.TUSERROLES.USER_ROLES_ID"""
+Body Scheduling & Re-send Required Flag,
+Forecast Identifier,"""LIOS.TFORECAST.FORECAST_ID"""
+Frame Lead time Result from Body start,
+Bank Addr Line Two,
+Working Pattern State,"""LIOS.WORKING_PATTERN.STATE"""
+Closure Comments,
+Fill Color,
+Engine Plant Name,
+Katashiki Description,
+Fuel Surcharge Per Mile,"""LIOS.TSUR_WEEK_CALC.FUEL_SURCHARGE"""
+Build Group,
+Transmission Long,
+Pace Vs Target Scenario Name,"""base_irm_pm_gi_heatmap"""
+Equipment Type,
+Order Count,"""FVM.BATCH_OWK_FILES.ORDERCOUNT"""
+Budget Target Sales Retail Number,"""base_toyota_us_inctv_fin_bdgt_fcst"""
+No of Basic Cycle Days,"""LIOS.TROUTES.NO_BSCY_DAYS"""
+Skid Rel Type,"""FVM.LOGISTICSPOINT_SKID.RELTYPE"""
+Print Kanken Flag,
+Component Code,"""PSMS.ITFCHIK.COMP, SMS.GSMCOMP.COMPONENT_CODE, SMS.GSMCONT.COMPONENT_CODE, SMS.GSMVARI.COMPONENT_CODE"""
+Visible Finance Offer/Unit Amount,"""base_pin_incentive_isr"""
+New Model Year Flag,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Frame Class,
+Certification Number,
+Stack Type Code,"""LIOS.TSTACKABILITYMATRIX.TYPE_CODE"""
+Retail Activity Date,
+Rail Ship Date,
+TMS Incentive Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Inventory Class Code,
+Packaging Type Identifier,"""LIOS.TFORECAST.PACKAGING_TYPE_ID"""
+Sales Geography Code,"""base_irm_pm_gi_heatmap"""
+Calendar Month Start Date,
+Repair Process: Process,
+Non-Core Incentive 2: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Work Date,"""FVM.CALENDAR_WORKDAY.WORKDATE"""
+Hardware Management Console,"""Parts Master.PVS_PRUDESC_xxxx_STG.HMC"""
+Station,
+Friday Working Pattern,"""LIOS.WP_CALENDER.FRI_WP"""
+First Scan Date,
+Airbag Sensor4,
+Lease Elasticity Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Relay Dispatch Date,"""LIOS.TROUTES.RELAY_DISPATCH_DATE"""
+Calendar Date,
+Distributor Exclusion Indicator,
+Effective Date Indicator,
+Lot Quantity,"""Parts Master.PVS_PRUKANB_xxxx_STG.LOT_QUANTITY"""
+Actual Delivery Date,
+Dealer Cash - Lease Type of Sale: Wgt'd $/unit,"""base_pin_incentive_isr"""
+Production Group,
+Dw Load Date,
+Dealer Cash - Finance Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+Default Event Status Identifier,"""LIOS.AET_SETTINGS.DEFAULT_EVENT_STATUS_ID"""
+APR(Annual Percentage Rate) MSRP Amount,"""base_pin_incentive_isr"""
+TMS Non Fleet Retail Quantity,"""base_nenkei_tms_us_a_table_series_by_segment_fcst_and_actl"""
+Comment 1,
+Account Addr Fax Number,
+Finance APR Subvention (Term>72): Take Rate Amount,"""base_pin_incentive_isr"""
+Aged Inventory Program: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+PNVS Own Competitor Ratio Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Seconds taken to perform one repair,
+Job Group Identifier,"""LIOS.TLIOSJOB.JOB_GROUP_ID"""
+Allocation Number,
+Dummy (Customer Information),
+Comment History,"""FVM.HISTORY.COMHIST"""
+Detail Class,"""SMS.GSMSPCD.DETAIL_CODE_CLASS"""
+Grade Spec Long,
+Dap,
+Introductory Price Gross Profit Impact Manufacturer Amount,"""base_finance_gi_impact_budget"""
+Nesting Height,"""LIOS.TPACKAGING.DBLNESTINGHEIGHT"""
+Accounting Customer Effective End Date,
+Lexus Month End Regional ID,"""base_lexus_month_end_Regional"""
+Repaired Date,
+Vehicle Identification Number,
+Job Type,"""LIOS.TLIOSJOB.JOB_TYPE"""
+Quarantined,
+Distribution Ratio,"""LIOS.TFORECAST.DISTRIBUTION_RATIO"""
+Dealer Credit Date,
+Buyoff Criteria,
+Modified By,###############################################################################################################################################################################################################################################################
+Quantity Per Layer,"""LIOS.TFORECAST.QPL, LIOS.TPACKAGING.INTQUANTITYPERLAYER"""
+% Cash Without Customer Cash Rebate,"""base_pin_incentive_isr"""
+IRM No of Doors,"""base_pin_explorer"""
+Introductory Price Model Change Category Abbreviation,"""base_finance_gi_impact_budget"""
+Non-Core Incentive 6: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Budget Segment Type,"""LIOS.TBUDGET_SEGMENTS.BUDGET_SEGMENT_TYPE"""
+Repairing point,
+Expanded Accessory List,
+Consumer Bonus Cash Take Amount,"""base_pin_incentive_isr"""
+Route,###############################################################################################################################################################################################################################################################
+Procurement Stock Indicator Code,
+Lease Sales Amount,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Tokusetsu Code,
+Term 48 Rate,"""base_scion_us_residual_value_fcst"""
+Major Hazardous Code,"""Parts Master.PVS_PRUDESC_xxxx_STG.MAJORS_HAZ_CODE"""
+Introductory Price Effective Production Month,"""base_finance_gi_impact_budget"""
+Lease Term Mix (Term > 48) Amount,"""base_pin_incentive_isr"""
+Generic Body Style Name,"""base_jato_Body Style"""
+Lease Vehicle Gross Amount,"""base_pin_incentive_isr"""
+Part Type Indicator Code,
+Base Width,"""LIOS.TPALLET_MASTER.BASE_WIDTH"""
+Raw Pricing Segmentation Category,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Plant Date,
+Latest Repairing Point: Broadcast Sequence No,
+Filter Identifier,"""LIOS.TNOTIF_FILTERS.FILTER_ID"""
+CFTP Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Temporary Continuous Assembly Sequential Number,
+Base Price Range Low Notes,"""base_autopacific_lifecycle"""
+Part Effective Stop  Date,"""Parts Master.PVS_PRUKANB_xxxx_STG.EFFECTIVE_STOPDATE"""
+Finance APR (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Scheduling Date,
+Cash Transaction Total Amount,"""base_pin_incentive_isr"""
+Page Live Flag,
+Bulk Comment,
+User Preference Identifier,"""LIOS.TUSERPREFERENCE.PREF_SEQ_ID, LIOS.TUSERPREFERENCEATTRIBUTES.PREF_SEQ_ID"""
+Market Area Short Description,
+Flow Rack Number,"""Parts Master.PVS_PRUKANB_xxxx_STG.FLOWRACK_NUMBER"""
+Raw Model Change Category,"""base_finance_gi_impact_budget"""
+Finish Time,"""LIOS.TLIOS_JOB_LOG.FINISH_TIME, LIOS.TLIOSJOBRUN.FINISH_TIME"""
+Part History Effective Start Date,
+TOMS Series Name,
+Current Month Indicator,
+Rail Receive Date,
+Lease Residual Subvention USD Offer Amount,"""base_pin_incentive_isr"""
+Lease Subvention (36 < Term <= 39): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+No Frame Number Flag,
+Region Name,
+Customer Information Code,
+Y Coordinate,
+APR(Annual Percentage Rate) Profit Margin,"""base_pin_incentive_isr"""
+Region Sales Division Code,
+Serial Number,"""PSMS.ITFCHIK.SERIAL_NO, PSMS.ITFCOLR.SERIAL_NO, PSMS.ITFPHIK.SERIAL_NO, PSMS.ITFPHIN.SERL_NO, PSMS.ITFPHIU.SERIAL_NO"""
+Subseries Name,
+Spare Time for Delivery,
+Spec200,
+Accessory List Type,
+Raw Segment,"""base_autoplanner_indstry_veh_attributes"""
+Cash Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Total Wholesale Quantity,
+Sunday Working Pattern,"""LIOS.WP_CALENDER.SUN_WP"""
+Containment Status,
+Invoice Mapping Identifier,"""LIOS.TLP_INVOICE_MAPPING.INVOICE_MAPPING_ID"""
+Estmtd Vessel Departure Date,
+Tier T1 Plus,"""base_toyota_us_inctv_prog_targets"""
+ECAS Code,
+Product Description,
+Estmtd Buyoff At Dly Bos Plus1,
+Dealer Cash - Cash Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Dealer Stock Days Supply Quantity,"""base_lexus_month_end_Regional"""
+Model Number,
+Application User,###############################################################################################################################################################################################################################################################
+Lease Trade Odometer Amount,"""base_pin_incentive_isr"""
+GI Percent,"""base_finance_gi_impact_budget"""
+Counter Measure Date Time,
+Tire1: Front Tire Pressure,
+Vehicle Sequence Identifier (VSI) To,"""SMS.GSMSET.VSI_NO_TO, SMS.GSMSPEC.VSI_NO_TO"""
+Taxable Indicator,
+Group,"""SMS.GSMGROU.GROUP_NO_NAME"""
+Comment 3,
+Journal Date Identifier,
+Sales Spin: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Section Group,
+Order Confirmation Date,
+Data Source,###############################################################################################################################################################################################################################################################
+Requested By,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.REQUESTEDBY"""
+Delete Flag,
+Procurement Analyst Group Name,
+California Horsepower,
+Vehicle Model Change Category Description,"""base_tms_launch_month"""
+Retailed date time,
+Rundown Getsudo Month,
+Assigned Brand Create Date,
+Model Year / Production Year,
+Shipment Type Code,
+Lease Cash USD Offer Amount,"""base_pin_incentive_isr"""
+Fire Hazard Flag,
+Auction Average MSRP Price Amount,
+Dealer Fio Cost,
+Cost Type,"""LIOS.TCOSTMASTER.COST_TYPE, LIOS.TGENERALCOST.COST_TYPE, LIOS.TGLACCOUNTDATA.COST_TYPE, LIOS.TSURCHARGE.COST_TYPE"""
+Dealer Staff Job Description,
+Term 24 Rate,"""base_scion_us_residual_value_fcst"""
+Lease Term Mix (24 < Term <= 36) Amount,"""base_pin_incentive_isr"""
+Defect Image,
+Door Key Number,
+Interior Color,
+Route User Group Code,"""LIOS.TROUTES.USER_GROUP_CD"""
+Adjusted Dispatch Date,"""LIOS.DD_BLACKOUTS_ROUTES.ADJUSTED_DISPATCH"""
+Container Weight,"""LIOS.TPACKAGING.DBLCONTAINERWEIGHT"""
+Receive Non conform email/Receive No Good email flag,
+TMD Referral Code,
+Dispatch End Date,"""LIOS.TDOB.DISPATCH_END_DATE"""
+Port Status,
+Base Height,"""LIOS.TPALLET_MASTER.BASE_HEIGHT"""
+Update Date,###############################################################################################################################################################################################################################################################
+Specialist Role,"""Parts Master.PVS_PRUKANB_xxxx_STG.SPECIALIST_CODE, Parts Master.PVS_PRUSPEC_STG.SPECIALIST_CODE"""
+Engine Spec Short Description,
+Error Flag,"""LIOS.TPACKAGING.BLNROWHASERROR"""
+Shift Start Date Time,
+Assumption Code,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Suggested_Retail Amt,
+Region Abbreviation Code,"""base_toyota_us_inctv_prog_targets"""
+Data Store Name,
+Arrival Preparation Time,"""LIOS.TRTSEQ_DRIVER_INFO.ARR_PREP_TIME"""
+Skid Manifest Print Date,"""OWK.OWK_GENERIC_SKID_MANIFEST.SKID_MAN_PRINT_DT, OWK.OWK_ORDER.SKID_MANIFEST_PRINT_DT, OWK.OWK_ORDER_BED_BKP.SKID_MANIFEST_PRINT_DT, OWK.OWK_ORDER_BKP.SKID_MANIFEST_PRINT_DT, OWK.OWK_ORDER_BUSINESS_ENTITY_DOCK.SKID_MANIFEST_PRINT_DT"""
+Current Quarter Indicator,
+Forecast Baseline Share Percentage,"""base_irm_pm_sales_fcst_by_series"""
+Auction Month,
+Close Connect Message,"""FVM.ROUTE_DOCK.CCMSG"""
+TMS TCI Released Date,
+Estmtd Fqa Date At Buyoff,
+Total Distributor Prior Month Quantity,"""base_lexus_nenkei_national"""
+Color suffix,"""PSMS.ITFCOLR.COLOR_SUFFIX"""
+Dolly Restriction Condition Code,
+Direct Run Area,
+Logistics Point Effective Stop Date,"""LIOS.TLOGISTICSPOINT_INFO.EFFECTIVE_STOP"""
+Vehicle Code,"""Parts Master.PVS_PRUDESC_xxxx_STG.VEHICLE_CODE"""
+T3 Division name,
+Sales Count,
+Model TVO Description,
+Combo APR,"""base_pin_incentive_isr"""
+Raw Drive Wheel,"""base_jato_version"""
+Destination Country Code,"""base_lexus_dlr_sls_prc_and_gross_prft_pnvrl"""
+Part Effective Start Date,"""Parts Master.PVS_PRUKANB_xxxx_STG.EFFECTIVE_STARTDATE"""
+Period Effective Start Date,"""LIOS.TPERIODS.EFFECTIVE_START"""
+Plant Source Code,
+Parts Shipment Header DM Create Date,
+Total Inventory Quantity,
+Purchase CFTP Amount,"""base_pin_incentive_isr"""
+Customer Cash Rebate USD Amount,"""base_pin_incentive_isr"""
+IRM Series Group Name,"""base_jato_version"""
+Total Boxes,"""LIOS.FREQ_BY_PALLET.BOXES"""
+Unique identifier,
+Ordered Quantity,
+Accounting Customer Effective Start Date,
+Finance APR Term Mix (60<Term<=72) Amount,"""base_pin_incentive_isr"""
+Location,
+Tracking Point Info,
+Launch Month,"""base_senzu"""
+Specification Type,
+Order Date,"""LIOS.DD_SUPPLIERS_ORDERS.ORDER_DATE, LIOS.TORDERS.ORDER_DATE"""
+Application,"""OWK.APPLICATION.APPLICATION_DESC"""
+Factory Accessory List,
+Event Type Description,"""LIOS.AET_EVENT_TYPES.DESCRIPTION"""
+Business Year Month Date,
+Production Line Long Description,
+Design Staff Code,"""SMS.GSMCONT.DESIGN_STAFF_CODE, SMS.GSMPART.DESIGN_STAFF_CODE"""
+Historical Data Store Party Role Identifier,
+Quick repair is allowed,
+Responsible Group,
+Dealer Ppo Cost,
+Transmission Short Description,
+Segment Seasonal Factor Month 11,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Print Format,"""OWK.OWK_PRINT_FORMAT.PRINT_FORMAT_DESC"""
+Cash Trade Amount,"""base_pin_incentive_isr"""
+UDEF Class A,
+Original Fio List,
+Acce Install Date,
+Vendor Identifier,"""LIOS.TVENDORS.VENDOR_ID"""
+Group Index,"""PSMS.ITFPHIN.GRP_INDEX, PSMS.ITFPHIU.GROUP_INDEX"""
+Charge back Flag,
+Term 54 Rate,"""base_scion_us_residual_value_fcst"""
+Scheduler Time,"""LIOS.QRTZ_FIRED_TRIGGERS.SCHED_TIME"""
+Pass Date,
+Shipment Header Transaction Identifier,
+IRM Segment Name,"""base_jato_version"""
+Label Identifier,"""FVM.LOGISTICSPOINT.LABELID"""
+Transmission Type,"""SMS.GSMKATA.TRANSMISSION"""
+Claim Category Code,
+Market,"""base_nenkei_tms_us_indstry_segment_fcst_by_year"""
+% Non-Visible Spending,"""base_pin_incentive_isr"""
+MSRP Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Segment Seasonal Factor Month 10,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Global Service Parts System Vendor Code,
+Lease Total PIN Income Amount,"""base_pin_incentive_isr"""
+Body Style,"""SMS.GSMKATA.BODY"""
+Non Fleet Port Stock Quantity,
+Scheduling carry-forward Flag,
+Incentive Year Number,"""base_tms_us_non_cash_inctv"""
+Frame Spare Time on the Latest TP,
+Fuel Rate,"""LIOS.TSUR_WEEKLY_SUB.RATE, LIOS.TSUR_YEARLY.RATE"""
+Purchase Order Number,"""LIOS.TCOSTMASTER.PO_NUMBER"""
+Bad Connect Message,"""FVM.ROUTE_DOCK.BCMSG"""
+PNVS,"""base_tms_lexus_inctv_sp_rpt"""
+Mid Year Price TMS Gross Profit Impact Per Unit,"""base_finance_gi_impact_budget"""
+Substitution Forward Indicator,
+Original Purchase Price Amount,
+Route Miles,"""LIOS.TROUTES.ROUTE_MILES"""
+Captive Supported Lease Incentive Penetration Amount,"""base_pin_incentive_isr"""
+QA Category,
+Leadtime Production Indicator,
+Engine Plant Code,
+Container Code,"""LIOS.TPACKAGING.STRCONTAINERCODE, Parts Master.PVS_PRUKANB_xxxx_STG.CONTAINER_CODE"""
+Model Change,
+Distributor Quantity,"""base_lexus_month_end_Regional"""
+fc_loantovalue_amt,"""base_pin_incentive_isr"""
+Change History Identifier,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.LOGISTICSPOINTCHANGEHISTORYID"""
+Update Flag,"""PSMS.ITFCOLR.UPDATE_FLAG, PSMS.ITFPHIK.UPDATE_FLAG"""
+Extract Date,
+Fleet Wholesale Percentage,"""base_lexus_nenkei_national"""
+Repair Type,
+Open Offset,"""LIOS.DIRECT_WORKING_PATTERNS.OPEN_OFFSET"""
+Frame Line,
+Term 57 Rate,"""base_scion_us_residual_value_fcst"""
+Purchase Loyalty Cash: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Toyota Mix Percent,"""base_contrib_mrgn_by_series"""
+Notification Type,"""LIOS.TNOTIF_CURRENT.NOTIFICATION_TYPE"""
+Tracking Point,
+Allocation Date,
+Lease Units,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Exterior Color Code number,
+Old DUNS Suffix,
+Logistics Point Start Date,"""LIOS.TROUTE_SEQ_DETAILS.LP_START_DATE"""
+Expedite Reason Code,"""LIOS.TEXPEDITE_REASONS.REASON_CODE"""
+Interface Line Number,
+GI(General Pricing Increase) Movement,"""base_tms_us_gi_history"""
+Order Year Month,
+Counter Measure User,
+Weight in Kilogram (KG),"""LIOS.FREQ_BY_PALLET.KG, LIOS.TORDERS.KG, LIOS.TROUTE_SEQ_DETAILS.KG"""
+Finance APR Monthly Payment (48<Term<=60) Amount,"""base_pin_incentive_isr"""
+Mid Year Price Dealer Margin Change Amount,"""base_finance_gi_impact_budget"""
+Raw PIN(Power Information Network) Fuel Type,"""base_pin_explorer"""
+Plant Location Name,
+fc_rt_tier_1_plus_amt,"""base_pin_incentive_isr"""
+Extended Purchase Price Amount,
+Latest Model Year,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Geocode Longitude,
+Physical Process: Process,
+Term from,"""SMS.GSMCOLR.TERM_FROM, SMS.GSMCONT.TERM_FROM, SMS.GSMMINR.TERM_FROM, SMS.GSMSTCC.TERM_FROM, SMS.GSMSTRC.STR_TERM_FROM"""
+Status Flag,
+Raw Region Area Code,"""base_rundown_toyota_bosu_month_end_national"""
+Quantity Number,
+Raw Sales Month,"""base_pin_explorer"""
+Engine Code,"""SMS.GSMKATA.ENGINE"""
+Tracking Point Mandatory Flag,
+Visible Spending/Unit Amount,"""base_pin_incentive_isr"""
+Lease Down Payment (24 < Term <= 36) Amount,"""base_pin_incentive_isr"""
+Parts Shipment Header HDS Create Date,
+Total Budget GI Gross Profit Impact Amount,"""base_finance_gi_impact_budget"""
+Cut Flag,"""LIOS.DD_BLACKOUTS.IS_CUT"""
+Fio List,
+Rate Effective Start Date,"""LIOS.TCOSTMASTER.EFFECTIVE_START"""
+Amend DFSC Time,
+Event Description,
+Packing Date,
+Process Date,
+Procurement Analyst Code,
+Non work date,"""LIOS.TLOGISTICSPOINTNONUNLOADDAYS.TDATE"""
+lc_avg_fico_amt,"""base_pin_incentive_isr"""
+Login History Identifier,"""LIOS.TLOGINHISTORY.LOGIN_HISTORY_ID"""
+Temporary Sequence File Flag,
+Appearance Zone,
+Quantity Per Parent - Production,"""PSMS.ITFPHIK.PSMS_Q_PER_PARENT, PSMS.ITFPHIN.PSMS_Q_PER_PAR, PSMS.ITFPHIU.PSMS_Q_PER_PARENT"""
+Attribute Name,"""base_jato_equipment"""
+Dealer Staff Job Code End Date,
+Stop Sale Indicator,
+Mode of ticket printing,
+Chassis Inspection Year,
+Parts Shipment Header DM Update Date,
+Vessel Number,
+Account Addr City Name,
+Model Division Code,
+Repair Line,
+Non-Core Incentive 5: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+"Maximum Permissible
+Load Combination Weight",
+Item visible Flag,
+Exterior Color Prefix,
+Current Location,
+Allocation Cost,"""LIOS.TEXPEDITECOSTS.ALLOCATION_COST"""
+Trade-in Assistance Program: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Parent Acc Fre Desc,
+IRM Fuel Type,"""base_jato_version"""
+Part Ship To Addr State Code,
+Zip Code Addon,
+Parts Shipment Detail DM Create Date,
+Minimum Dealer Stock Quantity,"""base_nenkei_tms_us_dealer_stock_guideline_by_series"""
+Role,"""OWK.USER_APPLICATION_ROLE.ROLE_DESCRIPTION"""
+IRM Segment Category name,"""base_jato_version"""
+Communication Sent Date,"""LIOS.DD_BLACKOUTS_ROUTES.COMMUNICATION_SENT"""
+Port Result,
+Core Lease Offer/Unit Amount,"""base_pin_incentive_isr"""
+Confirm enabled,
+Schema ID,"""base_jato_equipment"""
+Price Class Code,
+Dummy (Host Status),
+Port Address,
+Port Code,
+Transaction Type Name,
+Core Value Quantity,
+Category ID,"""base_jato_category"""
+Plant Time Control To,"""PSMS.ITFCHIK.PLANT_TC_TO, PSMS.ITFCOLR.PLANT_TC_TO, PSMS.ITFPHIK.PLANT_TC_TO, PSMS.ITFPHIN.PLNT_TC_TO, PSMS.ITFPHIU.PLANT_TC_TO"""
+Kanken ticket print mode,
+Standard,
+Finance APR Subvention (48<Term<=60): Take Rate Amount,"""base_pin_incentive_isr"""
+Is Master Flag,"""LIOS.TDATASETHISTORY.ISMASTER"""
+Product Major Category Code,
+Job Package Name,"""LIOS.TLIOSJOBPKG.NAME"""
+Special Tax Amount,
+Priority,"""LIOS.QRTZ_FIRED_TRIGGERS.PRIORITY, LIOS.QRTZ_TRIGGERS.PRIORITY"""
+Total Distributor Prior Monty Quantity,
+Month 7 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Fleet Indicator,
+Maker Code,
+Raw Make,"""base_finance_gi_impact_budget"""
+Route Connection Date,"""FVM.HISTORY.ROUTECONNECTIONDATE"""
+Copied Vehicle Flag,
+Business Month Name,
+Finance APR Down Payment (48<Term<=60) Amount,"""base_pin_incentive_isr"""
+Welding Control Sign,
+Order Printable Date,"""OWK.OWK_ORDER_PRINT_CONSTRAINT.ORDER_PRINTABLE_DT"""
+Approved Drawing,"""SMS.GSMDRAW.APPROVED_DRAWING"""
+Lexus Nenkei National ID,"""base_lexus_nenkei_national"""
+Dealer Direct Ship Indicator,
+Uploaded By,"""LIOS.TLOGISTICSPOINTDOCUMENTS.UPLOADEDBY"""
+Confimed Allocation Count,
+Canceled Quantity,
+Unload Date,"""FVM.ORDER_BOX.UNLOADDATE, LIOS.DD_BLACKOUTS_ROUTES.UNLOAD_DATE, LIOS.TROUTES.UNLOAD_DATE"""
+Total Parts,"""LIOS.TPALLET_TYPES.TOTAL_PARTS"""
+Dummy Placeholder,
+ECQ Instance Identifier,
+Introductory Price TMS Sales Impact Amount,"""base_finance_gi_impact_budget"""
+Damage Status Code,
+Equipment,
+Unload End Date,"""LIOS.TROUTE_SEQ_DETAILS.UNLD_END_DATE"""
+Customer Number,
+Years Since Minor Change,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Calendar Month,
+Myaccylist Generated Key,
+Responsible Area,
+Secondary Fleet Program Code,
+Repost Checksheet Print Date,"""LIOS.OWK.RP_CHECKSHEET_PRINTABLE_DT, OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.RP_CHECKSHEET_PRINT_DT"""
+Fleet Category Code,
+Page,
+Inspector,
+Lid Length,"""LIOS.TPALLET_MASTER.LID_LENGTH"""
+Mid Year Model Change Category Description,"""base_finance_gi_impact_budget"""
+Production Sub Line,
+Browser Name,"""LIOS.TUSER_ANALYTICS.BROWSER_NAME"""
+Major Inventory Class Code,
+No Loss Override Flag,
+Progress Management Disable Flag,
+Dealer Advertising Amount,
+APR(Annual Percentage Rate) Rebate Trade Same Nameplate Amount,"""base_pin_incentive_isr"""
+NAP,
+Paint Line,
+Detail Identifier,"""LIOS.TEXCEPTIONDETAIL.DETAIL_ID"""
+Equipment Form,"""PSMS.ITFCHIK.SP, SMS.GSMCONT.EQUIPMENT_FORM, SMS.GSMSPEC.EQUIPMENT_FORM"""
+Direct Run Level,
+lc_rt_subprime_amt,"""base_pin_incentive_isr"""
+Row GUID,"""FVM.SERIALIZATION_HISTORY.GUID, FVM.SERIALIZATIONS.GUID, FVM.SYSTEMUSER.GUID"""
+Option Invoice,"""base_jato_option"""
+Traffic Code,
+Water Leak Flag,
+Transportation Number,
+Latest Point: Tracking Count,
+OR Code,"""SMS.GSMSET.OR_CODE"""
+Non-Core Incentive 8: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Current Port Code,
+Dofu,
+Spec Sheet Number,
+Claim Approved Date,
+Dealer Sales District Code,
+% Cash Type of Sale,"""base_pin_incentive_isr"""
+Packing Description,"""LIOS.TSMLLRGPARTMASTER.DESCRIPTION"""
+Route 4 Logistic Point,"""LIOS.AET_EVENTS_ORDERS.ROUTE_4_REGION, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_4_REGION"""
+Transaction Name,
+Extension,"""LIOS.TLOGISTICSPOINTCONTACTS.EXTENSION"""
+Raw Trim Level,"""base_pin_explorer"""
+Value,"""base_jato_equipment"""
+Expedite Cost Identifier,"""LIOS.TEXPEDITECOSTS.EXPEDITE_COST_ID"""
+VIN Editor System Sign,
+Repaired By,
+Retail Units,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+IRM Body Style Abbreviation,"""base_jato_version"""
+Country,"""LIOS.TLOGISTICSPOINT_INFO.COUNTRY"""
+Demo Indicator,
+Quarter Month Start Date,
+Containment Comment,
+Line Off Katashiki,
+Total Volume Quantity,"""base_irm_pm_sales_fcst_by_series"""
+Production End Date,
+Vessel Date Year,
+Response Detail Identifier,"""LIOS.TWTGENERALRESPONSEDETAIL.RESPONSE_DETAIL_ID"""
+Bank Addr City Name,
+Invoice Allocation Identifier,"""LIOS.TLOGISTICS_INV_ALLOC.TLOGISTICS_INV_ALLOC_ID"""
+Retail Price Amt,
+Raw Cab Type,"""base_jato_version"""
+Dock Refresh,"""FVM.SITE_CONTROL.DOCKREFRESH"""
+Toyota Motor Manufacturing Canada (TMMC) Order Number,"""LIOS.DD_SUPPLIERS_ORDERS.TMMC_ORDER_NUMBER"""
+Departure Percent,
+Effective Year Month,"""base_irm_pm_fcst_residual_value"""
+Mid Year Price Impact Wholesale Volume Quantity,"""base_finance_gi_impact_budget"""
+Subscription Type,"""LIOS.TNOTIF_SUBSCRIBERS.SUB_TYPE"""
+System Transaction Name,
+Sales Report Series Name,
+Plant Origin,"""base_lexus_month_end_Regional"""
+High Level Package Specification Code,
+Check Digit,
+Broadcast Sequence Number,
+Calculation Load Number,"""LIOS.FREQ_BY_PALLET.CL_NO"""
+In Process Flag,
+Job Class Name,"""LIOS.TLIOS_CRON_JOB.JOB_CLASS_NAME, LIOS.TLIOSJOB.JOB_CLASS_NAME"""
+Aged Inventory Program: $ Offer Amount,"""base_pin_incentive_isr"""
+Sequence,"""LIOS.TOYOTA_OPERATING_HOURS.SEQUENCE, LIOS.TROUTE_SEQUENCE.SEQ, LIOS.TROUTEMASTER.SEQUENCE, LIOS.TROUTES.RUN_SEQ"""
+fa_term_amt,"""base_pin_incentive_isr"""
+Shop,
+Pen Color,
+Parts Shipment Detail DM Update By Program Name,
+Purchase Incentive Penetration Amount,"""base_pin_incentive_isr"""
+Lag 2 Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Weekly Flag,"""LIOS.TROUTES.WEEKLY_FLAG"""
+Vessel Name,
+Raw Model,"""base_autoplanner_indstry_veh_attributes"""
+Selldown Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+No Defect Flag,
+Grade Spec Long Description,
+Total Dealer Stock Days Supply Quantity,
+Thrust Event Indicator,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Airbag Sensor1,
+Total Lease Subvention Weighted USD Amount,"""base_pin_incentive_isr"""
+Engineering Change Instruction,"""Parts Master.PVS_PRUDESC_xxxx_STG.LAST_ECI, Parts Master.PVS_PRUKANB_xxxx_STG.ECI"""
+Site Long Name,"""FVM.SITE.LONGNAME"""
+Pattern Code,"""LIOS.TROUTES.PATTERN_CODE"""
+Wholesale Date by East Coast,"""base_lexus_launch_month"""
+Finance APR Subvention (24<Term<=36): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Dealer Volume Bonus: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Parts Shipment Detail DM Load Identifer,
+State/Province/Region Abbreviation,
+Package Label Code,
+Record Type,"""LIOS.TBILLINGHISTORY.RECORD_TYPE"""
+Numeric Code,
+Tier T1,"""base_toyota_us_inctv_prog_targets"""
+GI Percentage,"""base_tms_us_gi_history"""
+Dealer Stock High Count,
+Vendor Reference Number,
+IRM Parameter ID,"""base_irm_parameter"""
+Non Cancel Part Indicator,
+Non Fleet Unbuilt Unshipped Quantity,
+Fleet Wholesale Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Status Flag Identifier,
+Combo Down Payment  Amount,"""base_pin_incentive_isr"""
+Parent Schema ID,"""base_jato_schema_info"""
+fc_rt_tier_3_amt,"""base_pin_incentive_isr"""
+Assigned VIN number/Name plate,
+IRM Transmission Type,"""base_jato_version"""
+Finance APR Subvention (48<Term<=60): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Lease Cost of Funds Amount,"""base_pin_incentive_isr"""
+Scenario Year,
+Invoice Type,"""LIOS.TLOGISTICS_INVOICE.TYPE"""
+Sales Volume Quantity,"""base_tms_toyota_inctv_sp_rpt"""
+GI Movement Start Period,"""base_autoplanner_indstry_veh_attributes"""
+Discount Sell Price Amount,
+Finance Vehicle Gross Amount,"""base_pin_incentive_isr"""
+Port Name,
+Production Path,
+Raw Vehicle,"""base_pin_explorer"""
+Logistics Point End Date,"""LIOS.TROUTE_SEQ_DETAILS.LP_END_DATE"""
+Shipment Type Update Date,
+Logistics Point Code,###############################################################################################################################################################################################################################################################
+Column Name,"""LIOS.TUSERPREFERENCEATTRIBUTES.NAME"""
+Departure Factor Ratio,
+Department,"""LIOS.TGLACCOUNTDATA.DEPARTMENT"""
+Sold to Dealer Code,
+Shipment Type Identier,
+Ship To Address 2,
+Type,"""FVM.ROUTE.TYPE, LIOS.LCM_PACKAGING_COST.TYPE, LIOS.TCOMMUNICATION.TYPE, LIOS.TDATA_IMPORT_EXCEPTIONS.TYPE"""
+Vendor Number,"""LIOS.TCOSTMASTER.VENDOR_NUMBER, LIOS.TVENDORS.VENDOR_NUMBER"""
+Unit Id,
+Month 4 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Sales Region Name,
+Actual Dispatch Date,"""LIOS.DD_BLACKOUTS_ROUTES.DISPATCH_DATE"""
+Start Order Timing Identifier,"""LIOS.TSOT.SOT_ID"""
+Non-Core Incentive 10: Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Query Data,"""LIOS.TLIOS_QUERY.QUERY_DATA"""
+Connection Time,###############################################################################################################################################################################################################################################################
+Thursday Working Pattern,"""LIOS.WP_CALENDER.THU_WP"""
+Route Response Category Code,"""LIOS.TWTROUTERESPONSE.CATEGORY_CD"""
+Representative Part Suffix,"""PSMS.ITFPHIK.REP_PART_SUFFIX, PSMS.ITFPHIN.REP_PART_SFX, PSMS.ITFPHIU.REP_PART_SUFFIX"""
+Object Instance,"""OWK.DBEXPERT_PLAN1.OBJECT_INSTANCE, OWK.DBEXPERT_PLAN2.OBJECT_INSTANCE, OWK.PLAN_TABLE.OBJECT_INSTANCE, OWK.SQLEXPERT_PLAN1.OBJECT_INSTANCE"""
+Finance APR (Term>72) Amount,"""base_pin_incentive_isr"""
+Defect Repair Flag,
+Incentive Type,"""base_toyota_us_inctv_prog_targets"""
+USD to JPY Exchange Rate,
+Plate stamping KATASHIKI,
+Source Delete Date,
+Material Class,"""Parts Master.PVS_PRUDESC_xxxx_STG.MATERIAL_CLASS"""
+Phase Code,
+General Motor Indicator,
+Container Height,"""LIOS.TPACKAGING.DBLCONTAINERHEIGHT"""
+Dealer Staff DMS ID,
+Front Axle Load,
+Object Key,"""LIOS.TBINARYOBJECTS.OBJECT_KEY"""
+Drivetrain Short,
+Japan Classification Code,
+Non-Core Incentive 1: $ Offer Amount,"""base_pin_incentive_isr"""
+Grid X Position,
+Accessory Fre Desc,
+Full Monroney Description,
+Month 10 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Unit of Measure,
+Child List Identifier,"""LIOS.TLIOSSUBLISTMAPPING.CHILD_LIST_ID"""
+Departure Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Vdc Departure Date,
+Member_Lease Ind,
+Language ID,"""base_jato_schema_text"""
+Trigger Group,"""LIOS.QRTZ_CRON_TRIGGERS.TRIGGER_GROUP, LIOS.QRTZ_FIRED_TRIGGERS.TRIGGER_GROUP, LIOS.QRTZ_SIMPLE_TRIGGERS.TRIGGER_GROUP, LIOS.QRTZ_TRIGGERS.TRIGGER_GROUP"""
+Division Of Business (DOB) End Date,"""LIOS.TDOBPLANNINGPERIOD.END_DATE"""
+Priority Build From Date,
+Transportation Provider Identifier,"""LIOS.AET_EVENTS.TRANSPORTATION_PROVIDER_ID, LIOS.AET_RESOLUTIONS.TRANSPORTATION_PROVIDER_ID"""
+Lock Days Prior,
+Fleet Volume Quantity,"""base_irm_pm_sales_fcst_by_series"""
+Postal Code,"""LIOS.TLOGISTICSPOINT_INFO.POSTALCODE"""
+Total Lease Subvention Take Amount,"""base_pin_incentive_isr"""
+Region Long Name for Comp Sale,
+Blackout Status,"""LIOS.DD_BLACKOUTS.STATUS"""
+Dealer Stock Mid Count,
+Business Month Day,
+Own PNVS Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+NASCA,
+Estmtd Bos Weekly Cutoff Date,
+Retail Velocity,
+Priority Build To Date,
+Product Detail Category Description,
+Check In Interval,"""LIOS.QRTZ_SCHEDULER_STATE.CHECKIN_INTERVAL"""
+Raw Brand Name,"""base_tms_4_level_accy_pricing"""
+Cross Dock Flag,"""LIOS.TLOGISTICSPOINTS.STRCROSSDOCK"""
+Business Group,"""OWK.OWK_BUSINESS_ENTITY.BUSINESS_GROUP, OWK.OWK_BUSINESS_GROUP.BUSINESS_GROUP"""
+Green Value,
+Budget Segment Identifier,"""LIOS.LCM_PRODUCTION_COST.BUDGET_SEGMENT_ID, LIOS.TBUDGET_SEGMENTS.BUDGET_SEGMENT_ID, LIOS.TCOSTMASTER.BUDGET_SEGMENT_ID, LIOS.TEXPEDITECOSTS.BUDGET_SEGMENT_ID"""
+Cycles,"""LIOS.FREQ_BY_PALLET.CYCLES"""
+Next Route,"""LIOS.AET_RESOLUTIONS_ORDERS.NEXT_ROUTE"""
+Field Visible Flag,
+Distributor Model Cost,
+Discovered,
+Lease APR Subvention Weighted USD Amount,"""base_pin_incentive_isr"""
+Supplier Arrival Date,"""LIOS.OWK.SUPPLIER_ARRIVAL_DT, OWK.OWK_ORDER.SUPPLIER_ARRIVAL_DT, OWK.OWK_ORDER_BKP.SUPPLIER_ARRIVAL_DT"""
+Mid Year Price Gross Profict Impact Manufacturer Amount,"""base_finance_gi_impact_budget"""
+annual plan vehicle allocation count,
+Currency Identifier,"""LIOS.TCOSTMASTER.CURRENCY_ID, LIOS.TCURRENCY.CURRENCY_ID"""
+Created By,###############################################################################################################################################################################################################################################################
+Route Name,"""LIOS.TROUTES.ROUTE_NAME"""
+Event Type Identifier,"""LIOS.AET_EVENT_TYPES.EVENT_TYPE_ID, LIOS.AET_EVENTS.EVENT_TYPE_ID"""
+Accounting Customer Update Date,
+DFSC Number,
+Tire1: Front Tire Size,
+Surcharge Status,"""LIOS.TSUR_WEEKLY.STATUS"""
+Own CFTP,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Representative Color Suffix,"""PSMS.ITFCOLR.REP_COLOR_SFX"""
+Total Proposed GI Gross Profit Impact TMS Sales Amount,"""base_finance_gi_impact_budget"""
+Dealer Margin Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Delay in commit,
+Session Identifier,"""LIOS.TLOGINHISTORY.SESSION_ID"""
+Forward Substitution Type Code,
+Residual Value,"""base_irm_pm_fcst_residual_value"""
+Gasoline Amount,
+TMS TAC(Toyota Auto Care)  Per Unit Amount,"""base_contrib_mrgn_by_series"""
+SECTION Vehicle,
+Primary Identifier Flag,
+Filter Sequence,"""LIOS.TNOTIF_FILTERS.FILTER_SEQ"""
+Routing Engineering Change Instruction From,"""SMS.GSMSTRC.RTN_ECI_NO_FROM"""
+Production Control Application Order To,"""PSMS.ITFCHIK.PC_APP_ORD_TO, PSMS.ITFCOLR.PC_APP_ORD_TO, PSMS.ITFPHIK.PC_APP_ORD_TO, PSMS.ITFPHIN.PC_APP_ORD_TO, PSMS.ITFPHIU.PC_APP_ORD_TO"""
+Parent Suffix,"""PSMS.ITFPHIN.PAR_SFX, PSMS.ITFPHIU.PARENT_SUFFIX"""
+Domicile,"""LIOS.CO2_DATA.DOMICILE, LIOS.DIRECT_PICKUPS.DOMICILE, LIOS.DIRECT_STOPS.DOMICILE, LIOS.DIRECT_WORKING_DAYS.DOMICILE, LIOS.RETURNS_TLD.DOMICILE, LIOS.TRM_STAGING.DOMICILE, LIOS.TROUTEMASTER.DOMICILE, LIOS.TROUTES.DOMICILE, LIOS.TUNLOAD_TIME.DOMICILE"""
+Counter Measure Action,
+Approved By,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.APPROVEDBY"""
+Non Fleet Departure Quantity,"""base_lexus_nenkei_national"""
+Ten Day Period Code,
+X Co Ordinate,
+RAC Risk,"""base_toyota_us_fleet_inctv_bdgt"""
+Advanced Parts System Last Part In Chain Number,
+Competitor CFTP Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Shipment Type Extract Date,
+Material Code,"""LIOS.TSMLLRGPARTMASTER.MATERIAL_CODE, LIOS.TSTACKABILITYMATRIX.MATERIAL_CODE"""
+Field Value,"""LIOS.TNOTIF_FILTERS.FIELD_VALUE"""
+Logistics Point Change Status,"""LIOS.TLOGISTICSPOINTCHANGEHISTORY.STATUS"""
+Retails Date By West Coast,"""base_lexus_launch_month"""
+Total Gross Profit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Fire Hazard,
+Part Shortage Flag,
+Insurance Amount,
+Country Of Origin Code,
+Is Working Flag,"""LIOS.WORKING_PATTERN.ISWORKING"""
+TLS Location,
+Parent List Identifier,"""LIOS.TLIOSSUBLISTMAPPING.PARENT_LIST_ID"""
+Dealer Order Reference Number,
+Transmission Type Description,
+Shipment Category Name,
+New Dealer Code,
+Order Mark,"""SMS.GSMSPCD.ORDER_MARK"""
+IRM Transmission Type Abbreviation,"""base_jato_version"""
+Combo APR,"""base_pin_incentive_isr"""
+Competitor Major Change Index Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Grade Description,
+Timeline Date,"""LIOS.TWTGENERALRESPONSE.TIMELINE_DT"""
+Sales Spin: $ Offer Amount,"""base_pin_incentive_isr"""
+Closed Date and Time,
+Non-Core Incentive 9: $ Offer Amount,"""base_pin_incentive_isr"""
+On-line Repair Flag,
+TOMS Division Name,
+Scheduler Name,"""LIOS.QRTZ_CRON_TRIGGERS.SCHED_NAME, LIOS.QRTZ_FIRED_TRIGGERS.SCHED_NAME, LIOS.QRTZ_JOB_DETAILS.SCHED_NAME, LIOS.QRTZ_LOCKS.SCHED_NAME, LIOS.QRTZ_SCHEDULER_STATE.SCHED_NAME, LIOS.QRTZ_SIMPLE_TRIGGERS.SCHED_NAME, LIOS.QRTZ_TRIGGERS.SCHED_NAME"""
+Yard Held Vehicles,
+Filter Operation,"""LIOS.TNOTIF_FILTERS.FILTER_OPER"""
+Lag 1 Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Last Name,"""FVM.SERIALIZATION_HISTORY.LASTNAME, FVM.SERIALIZATIONS.LASTNAME, OWK.USER_APPLICATION_SECURITY.LAST_NAME"""
+Fleet Distributor Quantity,
+Thrust Month Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Stack Length Width,"""LIOS.TSTACKABILITYMATRIX.SC_LENGTH_WIDTH"""
+% Lease Type of Sale,"""base_pin_incentive_isr"""
+Blue Value,
+Business Day in Month,
+Production Date,
+Effective Start Date,"""LIOS.DIRECT_WORKING_PATTERNS.EFFECTIVE_START"""
+TPNA Stop Sales Code,
+Order Release Status,"""LIOS.OWK.ORDER_RELEASE_STATUS, OWK.OWK_ORDER_RELEASE_STATUS.ORDER_RELEASE_STATUS_DESC"""
+Current Purchase Price Amount,
+Dest Dtl,
+Order Type Code,"""FVM.ORDR.ORDERTYPE"""
+Term 42 Rate,"""base_scion_us_residual_value_fcst"""
+List Item Code,"""LIOS.TLIOSLISTITEM.ITEM_CODE"""
+Tier T3,"""base_toyota_us_inctv_prog_targets"""
+Model TVO Name,
+North American Manufacturing Company (NAMC) Data5,"""OWK.OWK_GENERIC_KANBAN.NAMC_DATA5, OWK.OWK_KANBAN.NAMC_DATA5"""
+Job Group,"""LIOS.QRTZ_FIRED_TRIGGERS.JOB_GROUP, LIOS.QRTZ_JOB_DETAILS.JOB_GROUP, LIOS.QRTZ_TRIGGERS.JOB_GROUP, LIOS.TLIOS_CRON_JOB.JOB_GROUP"""
+Vendor Short Name,"""LIOS.TVENDORS.SHORT_NAME"""
+New TMC Supplier Code,
+Domain Name,
+Segment Seasonal Factor Month 5,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+TMS Retail Quantity,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Estmtd Buyoff Date At Assign,
+Product Detail Category Code,
+Version Name,
+NHTSA Vehicle Type,
+Segment Non Fleet Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Katashiki Code,
+Order Identifier,"""LIOS.AET_RESOLUTIONS_ORDERS.ORDER_ID, LIOS.DD_SUPPLIERS_ORDERS.ORDER_ID, LIOS.TORDER_CONNECTION.ORDER_ID, LIOS.TORDERS.ORDER_ID"""
+Finance APR Term Mix (36<Term<=48) Amount,"""base_pin_incentive_isr"""
+Create Class,"""SMS.GSMCONT.CREATE_CLASS, SMS.GSMDRAW.DRAW_CREATE, SMS.GSMPART.CREATE_CLASS, SMS.GSMSTRC.CREATE_CLASS"""
+Discontinued Date,
+Ten Plus District Code,
+SMS Code,
+List Category,"""LIOS.TLIOSLISTITEM.LIST_CATEGORY"""
+Total Days Supply Quantity,
+Stocking Warehouse Code,
+Retailed Comment,
+Eta Display Indicator,
+Finance APR Subvention (Term>72): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Franchise,
+Parts Distribution Center Identifier,
+General Cost Identifier,"""LIOS.TGENCOSTALLOCATION.GENERAL_COST_ID, LIOS.TGENERALCOST.GENERAL_COST_ID"""
+Company Car Indicator,
+STAT Vehicle,
+Discrepancy,
+Temporary Build Sequence Number,
+Bill to Geography Code,
+Section Type,
+DR Track ID,
+Residuals Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Vehicle Data Item,
+Order Status Code,"""FVM.ORDER_BOX.ORDERTYPE"""
+Usa Model,
+Number of Repairs,
+Maximum Load,
+Lock Identifier,"""FVM.SERIALIZATIONS.LOCKID"""
+Logistics Shop,"""FVM.SHOP.SHOPNAME"""
+Holding Line,
+Attachment Type,
+Trailer Number,"""LIOS.AET_RESOLUTIONS.TRAILER_NUMBER"""
+TECS Dealer Code,
+Non Fleet Days Supply Quantity,
+TMS Contribution Margin Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Global Assembly Line Control Hold flag,
+Bill To State Code,
+Distributor Prior Year Quantity,"""base_lexus_month_end_Regional"""
+Delayed Pickup Route Start Date,"""OWK.OWK_ORDER.DELAYED_PICKUP_ROUTE_START_DT"""
+Total Finance APR Monthly Payment Amount,"""base_pin_incentive_isr"""
+Lease APR (Term <= 24) Amount,"""base_pin_incentive_isr"""
+Industry Segment Share of TLV,"""base_nenkei_tms_us_a_table_seg_fcst_and_actl"""
+Ship Part Number,"""PSMS.ITFPHIU.SHIP_PART_NO"""
+Distributor Fio Cost,
+PVNS Histotic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Working Pattern Type,"""LIOS.WORKING_PATTERN.TYPE"""
+Parsed Raw Series,"""base_pin_explorer"""
+Contest Name,"""base_tms_us_cash_inctv"""
+Non-Core Incentive 4: Take Rate Amount,"""base_pin_incentive_isr"""
+Route 3,"""LIOS.AET_EVENTS_ORDERS.ROUTE_3, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_3"""
+Fleet Arrival Quantity,
+Product Category Code,
+Fleet Arrival Percent,
+Separate List Number,
+Total Equipment,"""LIOS.TLOGISTICSPOINT_INFO.EQUIPMENT, LIOS.TLOGISTICSPOINTSDOCKINFO.EQUIPMENT"""
+Tool Trace Date Time,
+Series Name,
+Mid Year Price TMS Sales to Private Distributor Impact Per Unit,"""base_finance_gi_impact_budget"""
+Service Campaign Indicator,
+Overseas Plant Code,
+Introductory Price Model Change Category Description,"""base_finance_gi_impact_budget"""
+Airis Day,
+Ship to Dealer Code,
+Enterprise Volume Quantity,"""base_contrib_mrgn_by_series"""
+End Of Month Flag,"""LIOS.TEXPEDITECOSTS.EOM_FLAG"""
+Equip Class Seq No,
+Ignition Key Number,
+Billing Data,"""LIOS.TBILLINGHISTORY.DATA"""
+Lease Monthly Payment (36 < Term <= 39) Amount,"""base_pin_incentive_isr"""
+CRON Expression,"""LIOS.QRTZ_CRON_TRIGGERS.CRON_EXPRESSION, LIOS.TLIOS_CRON_JOB.CRON_EXPRESSION"""
+Order Handling Type Code,###############################################################################################################################################################################################################################################################
+Billing History Identifier,"""LIOS.TBILLINGHISTORY.BILLING_HISTORY_ID"""
+Fqa Date,
+Order Type,
+Month 11 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+New Cycles,"""LIOS.FREQ_BY_PALLET.NEW_CYCLES"""
+Minimum Inventory Quantity,"""Parts Master.PVS_PRUKANB_xxxx_STG.MIN_INVENTORY_QUANTITY"""
+Finance APR Subvention (Term <= 24): $ Offer Amount,"""base_pin_incentive_isr"""
+Accessory Type Abbreviation,
+Create Timestamp,"""base_autoplanner_indstry_veh_attributes"""
+Scrap Class,
+Standard Weight,"""SMS.GSMWEIT.STANDARD_WEIGHT"""
+Transition Flag,
+Total Budget GI Impact Gross Profit Amount,"""base_finance_gi_impact_budget"""
+Value2,
+Can Unconfirm vehicles flag,
+Pallet Group,"""LIOS.FREQ_BY_PALLET.PALLET_GROUP"""
+Fleet Customer Id,
+Bill to Address 1,
+Driver Type,"""LIOS.TROUTE_SEQ_DETAILS.DRIVER_TYPE, LIOS.TRTSEQ_DRIVER_INFO.DRIVER_TYPE"""
+Vehicle Delivery,"""base_jato_version"""
+Return Height,"""LIOS.TPACKAGING.DBLRETURNHEIGHT"""
+Box Quantity,"""FVM.CHECKSHEET.QUANTITY"""
+Lease Subvention (39 < Term <= 48): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Year Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Supplier Ship Dock,"""LIOS.OWK.SUPPLIER_SHIP_DOCK, OWK.G_KANBANLABEL_TAB.SUPPLIER_SHIP_DOCK, OWK.OWK_GENERIC_KANBAN.SUPPLIER_SHIP_DOCK, OWK.OWK_ORDER.SUPPLIER_SHIP_DOCK, OWK.OWK_ORDER_BKP.SUPPLIER_SHIP_DOCK"""
+Filter Name,"""base_irm_pm_data_filter"""
+Parent Item Identifier,
+Day of week Abbreviation,
+Pricing Autoplanner Vehicle ID,"""base_intermediate_autoplanner_pricing_attr"""
+Weight Capacity,
+Install Equipment Type,
+Maximum MSRP Amount,"""base_jato_model"""
+Bank Addr Line Three,
+Latest Repairing Point: Tracking Count,
+Error Details,"""LIOS.TPACKAGING.STRERRORDETAILS"""
+Overseas Entity Class,
+Confirmed In Section Date Time,
+Lease Subvention (24 < Term <= 36): Wgt'd $/unit Amount,"""base_pin_incentive_isr"""
+Model Distributor Code,
+Wrap Guard,
+Finance APR (36<Term<=48) Amount,"""base_pin_incentive_isr"""
+Parameter Name,"""base_irm_parameter"""
+Emission Accessory,
+Introductory Price TMS Sales to Dealer Impact per Unit,"""base_finance_gi_impact_budget"""
+Competitor CFTP,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Event Impact Code,"""base_irm_event"""
+Node Name,"""LIOS.TACCTRL_TREE.NAME"""
+Length Quantity,
+Retail Date,
+Field Identifier,"""LIOS.TNOTIF_FILTERS.FIELD_ID"""
+Equipment Task,
+Text Line,"""OWK.G_KANBANLABEL_TAB.TEXT_LINE1, OWK.G_KANBANLABEL_TAB.TEXT_LINE2, OWK.OWK_SUPPLIER_TEXT.TEXT_LINE"""
+Part Attribute,
+Estmtd Vessel Arrival Date,
+Kick out flag,
+Load Number,"""LIOS.AET_RESOLUTIONS.LOAD_NUMBER, LIOS.TEXPEDITECOSTS.LOAD_NUMBER"""
+Data Date,"""base_jato_version"""
+Segment Code,"""base_pin_incentive_isr"""
+Ship Date,
+Validation Error Message,
+Locked In Spread Flag,
+Dock Type,"""FVM.DOCK.DOCKTYPE, FVM.ROUTE_DOCK.DOCKTYPE"""
+PNVS Ratio Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Source Inserted Date,"""Parts Master.PVS_PRUDESC_xxxx_STG.SOURCE_INSERT_DATE, Parts Master.PVS_PRUKANB_xxxx_STG.SOURCE_INSERT_DATE"""
+Total Lease Down Payment Amount,"""base_pin_incentive_isr"""
+Past Model At Production Level Indicator,
+Applicable To Date,
+Buyoff Command,
+Data Scale,"""base_jato_schema_info"""
+Vehicle Mix Percent,"""base_contrib_mrgn_by_series"""
+Fleet Days Supply Quantity,
+Drivetrain Short Description,
+Quantity on processing,
+Route Departure Date,###############################################################################################################################################################################################################################################################
+Bank Addr Zip Code,
+Default Flag,"""LIOS.TUSERROLES.DEFAULT_FLAG, LIOS.TVENDORS.DEFAULT_FLAG"""
+Dealer Gross Amount,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Fleet Departure Quantity,
+Sort Method,
+Block Code Description,"""SMS.GSMBLOC.BLOCK_CODE_NAME"""
+item macro,
+Track Count,
+Item Condition Structure,
+Dealer Staff Job Code,
+General Response Identifier,"""LIOS.TWTGENERALRESPONSE.GEN_RESPONSE_ID, LIOS.TWTGENERALRESPONSEDETAIL.GEN_RESPONSE_ID"""
+IRM Car Truck Indicator,"""base_pin_explorer"""
+Line Group,"""Parts Master.PVS_PRUKANB_xxxx_STG.LINE_GROUP"""
+Engine 49states Hp Number,
+User Group Identifier,"""LIOS.TGROUPUSERS.GROUP_ID, LIOS.TUSERGROUP.GROUP_ID"""
+PIN TMS Ratio Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Document Type,"""OWK.OWK_DOCUMENT.DOCUMENT_TYPE, OWK.OWK_DOCUMENT_TYPE.DOCUMENT_TYPE, OWK.OWK_ORDER_PRINT_CONSTRAINT.DOCUMENT_TYPE, OWK.OWK_PRINT_HISTORY.DOCUMENT_TYPE, OWK.USER_APPLICATION_SECURITY.DOCUMENT_TYPE"""
+Raw Segment Category Name,"""base_lexus_month_end_Regional"""
+Deleted Flag,
+Built Source Type,
+Dealer Staff Last Name,
+Non-Core Lease Offer/Unit Amount,"""base_pin_incentive_isr"""
+Parent Accessory Code,
+Line,"""LIOS.PRODUCTION_ACTUAL.LINE, LIOS.TDUMMY_PARTS.LINE, LIOS.TMASTERDOCKCYCLE.LINE"""
+Sales Division Code,
+Task,
+Routing Check,"""PSMS.ITFPHIK.ROUTING_CHECK, PSMS.ITFPHIN.RTG_CHECK, PSMS.ITFPHIU.ROUTING_CHECK, SMS.GSMSTRC.ROUTING_CHECK"""
+Delivery Date,
+Estmtd Delivery Date,
+Install Location Flat Code,"""base_tms_4_level_accy_pricing"""
+Concatenated Field,"""LIOS.TROUTE_SEQ_DETAILS.CONC_FIELD"""
+Tag Entered At Defect Entry Flag,
+fa_avg_fico_amt,"""base_pin_incentive_isr"""
+Set History Identifier,"""LIOS.TDATASETHISTORY.SETHISTORYID, LIOS.TPACKAGING.INTSETHISTORYID"""
+Business Month,
+Non Fleet Arrivals Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Regulation Type,
+Order Summary Print Date,"""OWK.OWK_ORDER_BED_BKP.ORDER_SUMMARY_PRINT_DT, OWK.OWK_ORDER_BUSINESS_ENTITY_DOCK.ORDER_SUMMARY_PRINT_DT"""
+Dealer,
+Status Identifier,"""LIOS.AET_EVENTS.STATUS_ID, LIOS.AET_RESOLUTIONS.STATUS_ID, LIOS.AET_STATUSES.STATUS_ID"""
+Repair Program Number,
+Color MSRP,"""base_jato_color_trim"""
+Blackout,"""LIOS.DD_BLACKOUTS.BLACKOUT_NAME"""
+Finance Equity Amount,"""base_pin_incentive_isr"""
+Drawing Size,"""SMS.GSMDRAW.DRAWING_SIZE, SMS.GSMMINR.THICKNESS"""
+Document Size Unit,"""OWK.OWK_DOCUMENT.DOC_SIZE_MEASURE_UNIT"""
+US Weight Quantity,
+Grade Specification Name,
+Hold Only,
+Last Sent to TLMS Date,"""LIOS.TPACKAGING.DTMLASTSENTTOTLMS"""
+Ship Destination Code,
+Dock,###############################################################################################################################################################################################################################################################
+Specification Sheet Number,
+Package Receipt Identifier,"""LIOS.TLIOSJOBPKGRECPTS.PKG_RECPT_ID"""
+Partition ID,"""base_autoplanner_indstry_veh_attributes"""
+Wholesale Factor,"""base_rundown_toyota_bosu_month_end_national"""
+Misfire Instructions,"""LIOS.QRTZ_TRIGGERS.MISFIRE_INSTR"""
+IRM Predictive Model Filter ID,"""base_irm_pm_data_filter"""
+Comment Identifier,"""LIOS.TCPMCOMMENTS.COMMENT_ID"""
+Bill To Addr Line Two,
+Licensee Repurchase,"""base_toyota_us_fleet_inctv_bdgt"""
+Base Width In Inches,"""LIOS.TPALLET_MASTER.BASE_WIDTH_INCHES, LIOS.TPALLET_TYPES.BASE_WIDTH_INCHES"""
+URL Make Name,"""base_jato_make"""
+Total Gross Profit Per Unit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+TLMS Message,"""LIOS.TUPDATE_HISTORY.MESSAGE"""
+Is Latest Working Flag,"""LIOS.TDATASETHISTORY.ISLATESTWORKING"""
+Buy Off criteria type,
+Checked Date,
+Lease Subvention (36 < Term <= 39): $ Offer Amount,"""base_pin_incentive_isr"""
+Period Name,"""LIOS.TPERIODS.PERIOD_NAME"""
+Dealer Margin Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Mydaccytyp Generated Key,
+Calendar Year,
+Pre-Allocation Flag,
+Shipment Type Effective End Date,
+Object Identifier,"""LIOS.TBINARYOBJECTS.OBJECT_ID"""
+Assigned Brand Current Indicator,
+Engine Spec Long Description,
+Configuration Name,"""FVM.CONFIGURATION.NAME"""
+Major Change Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Output Object,"""LIOS.TLIOSJOBOUTPUT.OUTPUT_OBJECT"""
+Buffer,"""LIOS.TDOB.OPS_BUFFER"""
+Dropped Routes Not Covered,"""LIOS.TCPMSNAPSHOTS.DROPPED_ROUTES_NOT_COVERED"""
+Run,###############################################################################################################################################################################################################################################################
+World Manufacturer Identifier,
+Ship To Address 3,
+Month Name Abbreviation,
+Product Toyota Rebate Category Code,
+Discrepancy Order,
+Part Color,"""Parts Master.PVS_PRUDESC_xxxx_STG.PART_COLOR, Parts Master.PVS_PRUKANB_xxxx_STG.PART_COLOR"""
+Advanced Parts System Traffic Code,
+TMS Net Freight Amount,"""base_contrib_mrgn_by_series"""
+Destination Processing Handling Amount,
+Quantity Per Vehicle,"""PSMS.ITFPHIK.QTY_PER_VEHICLE, PSMS.ITFPHIN.QTY_PER_VEH, PSMS.ITFPHIU.QTY_PER_VEHICLE"""
+Cancel Movement Time,
+Truck Away,
+Baseline Volume Quantity,"""base_irm_pm_sales_fcst_by_series"""
+VOR Standard Limit Quantity,
+Recovery Expedites,"""LIOS.TCPMSNAPSHOTS.RECOVERY_EXPEDITES"""
+Contest Type Code,"""base_tms_us_cash_inctv"""
+TMS Budget Total GI Amount,"""base_finance_gi_impact_budget"""
+Fiscal Quarter Number,
+Model Production End Date,
+Lease Incentive Historic Reference,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Key Product Code,
+Trim Code,"""PSMS.ITFCOLR.TRIM_CODE"""
+Expedite Reason Number,"""LIOS.TEXPEDITE_REASONS.REASON_NUMBER"""
+Part Name,
+Budget PNVS Amount,"""base_toyota_us_inctv_fin_bdgt_fcst"""
+Vehicle Number,
+Lease Cash Take Rate Amount,"""base_pin_incentive_isr"""
+Finance Rebate Trade In Amount,"""base_pin_incentive_isr"""
+Production Active Flag,
+Sales Launch Notes,"""base_autopacific_lifecycle"""
+Segment Seasonal Factor Month 4,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Multiple Routing Code Indicator,
+Lease Transaction Total Amount,"""base_pin_incentive_isr"""
+Is Non Concurrent Flag,"""LIOS.QRTZ_FIRED_TRIGGERS.IS_NONCONCURRENT, LIOS.QRTZ_JOB_DETAILS.IS_NONCONCURRENT"""
+Event Granularity Value,"""base_irm_event"""
+Division Of Business (DOB) Period Status,"""LIOS.TDOBPLANNINGPERIOD.STATUS"""
+Retail SAAR Quantity,"""base_pin_incentive_isr"""
+User Status,"""FVM.SYSTEMUSER.STATUS"""
+Confirmed flag,
+Hidden,"""LIOS.TUSERPREFERENCEATTRIBUTES.HIDDEN"""
+Preproduction Vin,
+Lease APR (36 < Term <= 39) Amount,"""base_pin_incentive_isr"""
+Phone Number,
+Parts Shipment Header Journal Date Identifier,
+Engine Category Code,
+Sales Geography Type Code,
+Logistics Shop Identifier,"""FVM.CALENDAR_WORKDAY.SHOPID, FVM.DOCK.SHOPID"""
+Part Description,
+Load Date,"""FVM.ORDER_BOX.LOADDATE"""
+Tier T6,"""base_toyota_us_inctv_prog_targets"""
+Non-Core Incentive 6: $ Offer Amount,"""base_pin_incentive_isr"""
+Total Finance APR Subvention: $ Offer Amount,"""base_pin_incentive_isr"""
+Route 1 Logistic Point,"""LIOS.AET_EVENTS_ORDERS.ROUTE_1_REGION, LIOS.AET_RESOLUTIONS_ORDERS.ROUTE_1_REGION"""
+Lag 1 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Model Distributor Name,
+Port Done flag,
+Captive Lender Dealer Cash - Lease Type of Sale: $ Offer,"""base_pin_incentive_isr"""
+Online Flag,
+Invoice Date,"""LIOS.TGENERALCOST.INVOICE_DATE"""
+Lead time Result from Body start,
+Departure Quantity,"""base_lexus_month_end_Regional"""
+Packing Month,
+Advanced Parts System Stop Sales Code,
+Process Equipment Identifier,
+Fleet Program Description,
+Rate,"""LIOS.TCOSTMASTER.RATE, LIOS.TGENERALCOST.RATE"""
+Term 36 Rate,"""base_scion_us_residual_value_fcst"""
+Finance APR Down Payment (60<Term<=72) Amount,"""base_pin_incentive_isr"""
+Month 1 Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Site Time Zone,"""FVM.SITE.TIMEZONE"""
+Logistics Shop Refresh,"""FVM.SITE_CONTROL.SHOPREFRESH"""
+Bed Length,
+Subscriber Email Address,"""LIOS.TNOTIF_SUBSCRIBERS.EMAIL"""
+Model Body Style,
+Print Method,"""OWK.OWK_PRINT_METHOD.PRINT_METHOD_DESC"""
+Residual Lag 3,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Transfer To Parts Distribution Center Identifier,
+DUM_ vsect2,
+Positive Special Event Impact,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Submitted Date Time,
+Finance Transaction Total Amount,"""base_pin_incentive_isr"""
+Route Primary,"""Parts Master.PVS_PRUKANB_xxxx_STG.ROUTE_PRIMARY"""
+Introductory Price Blended Impact Per Unit,"""base_finance_gi_impact_budget"""
+Advanced Part System Part Number,
+% Captive Non-Supported Finance Without Customer Cash Rebate,"""base_pin_incentive_isr"""
+Part Name Code Indicator,
+Content,"""base_jato_standard"""
+Ending MSRP Amount,"""base_autoplanner_indstry_veh_pricing"""
+Term 51 Rate,"""base_scion_us_residual_value_fcst"""
+Sales Katashiki,
+Export Control Class Number,
+Affected vehicle,
+Lease Profit Margin,"""base_pin_incentive_isr"""
+Box Number,"""FVM.BOX_SCANNED.BOXNUMBER, FVM.HISTORY.BOXNUMBER"""
+Lease Monthly Payment (39 < Term <= 48) Amount,"""base_pin_incentive_isr"""
+Address Line One,
+Non-Core Spending/Unit Amount,"""base_pin_incentive_isr"""
+Sales Period Start Date,"""base_contrib_mrgn_by_series"""
+Part Distribution Center Create Date,
+Relay Date,"""LIOS.TDOB.RELAY_DATE"""
+Model Division Name,
+Necessary Quantity Calculation(NQC) Time Control To,"""PSMS.ITFPHIU.NQC_TC_TO"""
+Minimum Range,
+Account Name Line Two,
+Vendor Share Type,"""Parts Master.PVS_PRUKANB_xxxx_STG.VENDOR_SHARE_TYPE"""
+Frequency,"""LIOS.TFORECAST.FREQUENCY, LIOS.TSOT.FIRST_FREQ, LIOS.TWEEKLYORDER.FREQUENCY"""
+Fleet Inventory Quantity,
+Sequence List Number,
+ROW GUID,
+Rust Proofing Indicator,
+Grade Specification Long Description,
+Computerized Inspection System data warehouse path,
+URN,
+Raw Plant Name,"""base_rundown_toyota_bosu_month_end_national"""
+Active Part Indicator,
+Original Shipped Count,
+Quantity,"""SMS.GSMSTRC.QUANTITY"""
+Manual Allocation Code,
+Rebate Code,
+Transmission Type Code,
+State/Province/Region,
+% Captive Non-Supported Finance With Customer Cash Rebate,"""base_pin_incentive_isr"""
+Old DUNS Number,
+Specialist,"""Parts Master.PVS_PRUKANB_xxxx_STG.EMPLOYEE, Parts Master.PVS_PRUSPEC_STG.EMPLOYEE"""
+Offline Gate Flag,
+Part Distribution Center Load Identifier,
+Plant SAC,
+Non-Core Incentive 4: $ Offer Amount,"""base_pin_incentive_isr"""
+Map Grade Table IRM Make Name,"""base_jato_version"""
+TECS Control Information,
+Hand Held Terminal Debug,"""FVM.SITE_CONTROL.HHTDEBUG"""
+Engine Displacement,
+Lease Rebate Trade In Amount,"""base_pin_incentive_isr"""
+RI Sort,
+Technical Service Bulletin Indicator,
+Inspection Indicator,
+Daily Bos Locked Date,
+Unit Price Amount,
+Year Impact Bound Indicator,"""base_irm_pm_series_sales_fcst_diagnostic"""
+Cash Elasticity Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Raw Toyota Region Area,"""base_pin_incentive_isr"""
+Section,"""LIOS.RETURNS_TLD.SECTION, Parts Master.PVS_PRUKANB_xxxx_STG.SOURCE_INSERT_BY"""
+Raw Model Year,"""MODEL_MODEL_YEAR"""
+Captive Lender Customer Bonus - Lease Type of Sale: Take Rate,"""base_pin_incentive_isr"""
+Repeat Interval,"""LIOS.QRTZ_SIMPLE_TRIGGERS.REPEAT_INTERVAL"""
+TMC Date,"""SMS.GSMRLOG.TMC_DATE"""
+National Incentive Per Unit Amount,"""base_contrib_mrgn_by_series"""
+Model Name,"""LIOS.LCM_PROD_VOLUME_COST.MODAL_NAME"""
+% Captive Non-Supported Lease Without Customer Cash Rebate,"""base_pin_incentive_isr"""
+Total Sale Price Per Unit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Vehicle Model Change Category Code,"""base_tms_launch_month"""
+Bodystyle Long Description,
+Part Configuration  Type,"""Parts Master.PVS_PRUKANB_xxxx_STG.PART_TYPE"""
+Tool Trace,
+User Group,"""LIOS.TUSERGROUP.GROUP_NAME"""
+Is Current Indicator,"""base_jato_make"""
+Lid Length In Inches,"""LIOS.TPALLET_MASTER.LID_LENGTH_INCHES, LIOS.TPALLET_TYPES.LID_LENGTH_INCHES"""
+Fiscal Year,"""LIOS.LCM_PROD_VOLUME_COST.FISCAL_YEAR, LIOS.LCM_PRODUCTION_COST.FISCAL_YEAR, LIOS.TPERIODS.PERIOD_YEAR, LIOS.TSUR_WEEKLY.FISCAL_YEAR, LIOS.TSUR_YEARLY.FISCAL_YEAR"""
+Import Dimension Quantity,
+Application Code,"""OWK.APPLICATION.APPLICATION_CODE, OWK.ERROR_DEFINITION.APPLICATION_CODE, OWK.OWK_PRINT_HISTORY.APPLICATION_CODE, OWK.USER_APPLICATION_ROLE.APPLICATION_CODE, OWK.USER_APPLICATION_SECURITY.APPLICATION_CODE"""
+Color Name,"""base_jato_color_trim"""
+fa_rt_tier_2_amt,"""base_pin_incentive_isr"""
+GI Movement End Period,"""base_autoplanner_indstry_veh_attributes"""
+Airbag Sensor2,
+Non Fleet Wholesale Quantity,"""base_lexus_nenkei_national"""
+Wholsesale Factor Ratio,
+Field Name,
+Map Grade Table IRM Series Name,"""base_jato_version"""
+Pre Delivery Confirmation Start date,
+Commercial,"""base_toyota_us_fleet_inctv_bdgt"""
+Toyota Division Name for Comp sale,
+APR(Annual Percentage Rate) Rebate Negative Equity Amount,"""base_pin_incentive_isr"""
+Exterior Color Classif Code,
+Quarter Number,
+Grade Spec,
+Segment Seasonal Factor Month 2,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Model Code,
+Reject File Flag,
+Reason Code,"""base_tms_us_cash_inctv"""
+Lease Gross Profit Per Unit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+Physical Y Coordination,
+Defect Exclusion Category,
+Rundown Dealer Stock Count,
+Default Repair Type Flag,
+Checked Location,
+Buy Off Failure,
+Destination Code,"""PSMS.ITFPHIK.DEST_CODE, SMS.GSMKATA.DESTINATION_CODE"""
+Minimum Fuel Economy Highway Mileage Number,"""base_jato_model"""
+Defect Type,
+Logistics Point Effective Start Date,"""LIOS.TLOGISTICSPOINT_INFO.EFFECTIVE_START"""
+Interior Color Fabric Desc,
+Route Type Code,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.ROUTE_TYPE_CODE, OWK.OWK_PRINT_HISTORY.ROUTE_TYPE_CODE, OWK.OWK_ROUTE.ROUTE_TYPE_CODE, OWK.OWK_ROUTE_TYPE.ROUTE_TYPE_CODE"""
+Spec,
+Product Lexus Rebate Category Code,
+Part Weight,"""LIOS.TFORECAST.PART_WEIGHT, LIOS.TPACKAGING.DBLPARTWEIGHT"""
+Total Distributor Quantity,
+Foreign Addr Name,
+Body Style Name,
+Stop shipment initiated,
+Suggested Retail Price Amount,
+Wholesale Price Amount,
+Lease Subvention (Term <= 24): Take Rate Amount,"""base_pin_incentive_isr"""
+POR Flag,
+Non Fleet Dealer Stock Quantity,
+Spending Version,"""base_pin_incentive_isr"""
+Review Indicator,
+Middle Name,"""OWK.USER_APPLICATION_SECURITY.MIDDLE_NAME"""
+Creation Type Identifier,"""LIOS.AET_CREATION_TYPES.CREATION_TYPE_ID, LIOS.AET_EVENTS.CREATION_TYPE_ID, LIOS.AET_RESOLUTIONS.CREATION_TYPE_ID"""
+Lead time Result,
+Job Log,"""LIOS.TLIOS_JOB_LOG.JOB_LOG, LIOS.TLIOSJOBRUN.JOB_LOG"""
+URL Model Name,"""base_jato_model"""
+Logistics Partner HQ Received Date,"""OWK.OWK_ORDER_LOGISTICS_POINT_SEQ.LPHQ_RCVD_DT"""
+New Dealer Number,
+Brand Name Code,
+Condition Order,
+Cash Vehicle Gross Amount,"""base_pin_incentive_isr"""
+Special Equipment Build Line,
+% Captive Non-Supported Lease With Customer Cash Rebate,"""base_pin_incentive_isr"""
+Inventory Quantity,"""base_lexus_month_end_Regional"""
+Destination Process Handling Amount,"""base_autoplanner_indstry_veh_pricing"""
+Total Elasticity Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+lc_loantocost_amt,"""base_pin_incentive_isr"""
+T3 Model Name,
+Department of Transformation Indicator,
+Dispatch Route,"""LIOS.TRTSEQ_DRIVER_INFO.DISPATCH_ROUTE"""
+Store Address,"""LIOS.OWK.STORE_ADDRESS, OWK.G_KANBANLABEL_TAB.STORE_ADDRESS, OWK.OWK_GENERIC_KANBAN.STORE_ADDRESS, OWK.OWK_KANBAN.STORE_ADDRESS, OWK.OWK_KANBAN_BKP.STORE_ADDRESS"""
+Job Definition Object,"""LIOS.TLIOSPKGTEMPLATE.JOB_DEFN_OBJECT"""
+Rundown Inventory Count,
+Base Dealer Retail Sales History ID,"""base_dealer_retail_sales_history"""
+Cash Trade Odometer Amount,"""base_pin_incentive_isr"""
+Site Identifier,###############################################################################################################################################################################################################################################################
+Defect Comments,
+Reload End Date,"""LIOS.TROUTE_SEQ_DETAILS.RLD_END_DATE, LIOS.TROUTES.RELOAD_END"""
+Years Since Major Change Coefficient,"""base_irm_pm_sales_fcst_coeff_by_series"""
+Engineering Change Instruction To,"""PSMS.ITFCHIK.ECI_TO, PSMS.ITFCOLR.ECI_TO, PSMS.ITFPHIK.ECI_TO, PSMS.ITFPHIN.ECI_TO, PSMS.ITFPHIU.ECI_TO, SMS.GSMCOLR.ECI_NO_TO, SMS.GSMCONT.ECI_NO_TO, SMS.GSMMINR.ECI_NO_TO, SMS.GSMSTCC.ECI_NO_TO, SMS.GSMSTRC.STR_ECI_NO_TO"""
+Part Ship To Addr Zip Code,
+Close Connect Minutes,"""FVM.ROUTE_DOCK.CCMIN"""
+Pricing Effective Date,"""base_intermediate_autoplanner_pricing_attr"""
+Report Name,"""base_nenkei_tms_us_indstry_segment_fcst_by_year"""
+Report Include Indicator,
+Non Fleet Dealer Stock Days Supply Quantity,
+Installation Type,
+Lease Subvention (Term > 48): $ Offer Amount,"""base_pin_incentive_isr"""
+Tier Code,
+Tier Code,
+Interior Color fabric,
+Class Type Code,
+Filter Field,"""base_irm_pm_data_filter"""
+Part Ship To Addr Line Two,
+Lease Sale Price Per Unit,"""base_dlr_sls_prc_and_gross_prft_pnvrl"""
+ED Number,
+Frame Iden Div,
+Region Area Name,
+Group Number,"""PSMS.ITFCHIK.GROUP_NO, PSMS.ITFCOLR.GROUP_NO, PSMS.ITFPHIK.GROUP_NO, SMS.GSMCOMP.GROUP_NO, SMS.GSMCONT.GROUP_NO, SMS.GSMGROU.GROUP_NO, SMS.GSMVARI.GROUP_NO"""
+Logistics Point Long Name,"""FVM.LOGISTICSPOINT.LONGNAME"""
+Base Length In Inches,"""LIOS.TPALLET_MASTER.BASE_LENGTH_INCHES, LIOS.TPALLET_TYPES.BASE_LENGTH_INCHES"""
+Lease CFTP Amount,"""base_pin_incentive_isr"""
+Tools Trace Repair flag,
+Create User ID,"""base_irm_pm_data_filter"""
+Work Day Refresh,"""FVM.SITE_CONTROL.WORKDAYREFRESH"""
+TMS Budget Introductory Price GI Amount,"""base_finance_gi_impact_budget"""
+Wholesale Count,
+Approval From,"""SMS.GSMCONT.APPROVAL_FROM"""
+Receipt Vehicle Base Type,
+Items Per Page,"""LIOS.AET_SETTINGS.ITEMS_PER_PAGE"""
+Work X coordination,
+Consumer System Name,"""base_irm_event"""
+Competitor TMS Ratio Percentage,"""base_irm_pm_veh_trends_fcst_by_mnth"""
+Drivetrain Long,
+Vessel Arrival Date,
+Criteria Name,
+Claim Type,
+Fax,"""LIOS.TLOGISTICSPOINTCONTACTS.FAX"""
+Old Hikiate Status Flag,"""PSMS.ITFPHIN.OLD_HS_FLAG, PSMS.ITFPHIU.OLD_HS_FLAG"""
+Security Long Name,"""FVM.SECURITYPERMISSION.LONGNAME"""
+Raw Region Code,"""base_irm_pm_sales_fcst_coeff_by_series"""

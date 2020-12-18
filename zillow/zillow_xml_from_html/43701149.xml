@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$550,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>3,754</area>
+	</summary>
+	<address>
+		<street_address>1471 Kathleen Way,</street_address>
+		<city_state> Fleming Island, FL 32003</city_state>
+	</address>
+	<overview>Are you looking for that WOW factor? This is a true custom-built home in desirable Hibernia Plantation. This must-see home has extravagant details not normally seen in this area! Walkthrough the beautiful entry with leaded glass doors and 12-foot soaring ceilings with custom molding throughout. This breathtaking home has a beautiful family room with a custom painted ceiling with uplighting. Built-ins abound &amp; dramatic windows overlooking nature w/ peekaboo views of the river. All 3 bathrooms have updated tile &amp; finishes. A/C replaced in 2017, the roof in 2011. This home has large bedrooms with new high-end carpeting. Enjoy the low maintenance natural yard. Hibernia Plantation has a community dock w/ walking paths. A-rated schools include Paterson Elem, Green Cove Jr, &amp; Fleming Island High.Read more</overview>
+	<listing_agent>
+		<agentName>Eden Jordan</agentName>
+		<phoneNumber>904-269-7117</phoneNumber>
+		<agentLicenseNumber>License #0659208</agentLicenseNumber>
+		<postingGroupName>COLDWELL BANKER VANGUARD REALTY</postingGroupName>
+		<postingWebsiteLinkText>COLDWELL BANKER VANGUARD REALTY</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1991</key>
+		<key name="Heating:">Forced air, Electric</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="Lot:">0.54 Acres</key>
+		<key name="Price/sqft:">$147</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 4</detail>
+				<detail>Bathrooms: 3</detail>
+				<detail>Full bathrooms: 3</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Electric</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Central</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 3,754 sqft</detail>
+				<detail>Fireplace features: Wood Burning Fireplace, 1 Fireplace, Fireplace-Family Room/Den/Gr</detail>
+				<detail>Virtual tour: View virtual tour</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 2</detail>
+				<detail>Parking features: Garage, Garage - Attached, Covered</detail>
+				<detail>Garage spaces: 2</detail>
+				<detail>Covered spaces: 2</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Stories: 1</detail>
+				<detail>Exterior features: Stucco</detail>
+				<detail>Patio and porch details: Front Porch, Porch - Open, Patio - Screened</detail>
+				<detail>Fencing: Fenced Partial</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 0.54 Acres</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Additional structures included: Summer Kitchen</detail>
+				<detail>Parcel number: 37052601467900122</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Single Family</detail>
+				<detail>Architectural style: Traditional</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Roof: Composition</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1991</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1991</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Sewer information: Public Sewer</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Good solar potentialSun Number™: 61.22</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Fleming Island</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $364,671</detail>
+				<detail>Annual tax amount: $5,245</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: 1077188</detail>
+				<detail>Measurement Source: Tax Roll</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Flooring: Wood</detail>
+				<detail>Sewer: Public Sewer</detail>
+				<detail>WaterSource: Public</detail>
+				<detail>Appliances: Dishwasher, Refrigerator, Disposal, Microwave, Electric Range, Self Cleaning Oven</detail>
+				<detail>FireplaceYN: Yes</detail>
+				<detail>InteriorFeatures: Ceiling Fan(s), Breakfast Bar, Walk-In Closet(s), Great Room, Separate Dining Room, LIBRARY/OFFICE, Entrance Foyer, Skylight(s), Ceiling 8+ Ft., Separate Living Room, Kitchen/Family Combo, Pantry - Closet</detail>
+				<detail>Roof: Shingle</detail>
+				<detail>GarageYN: Yes</detail>
+				<detail>AttachedGarageYN: Yes</detail>
+				<detail>HeatingYN: Yes</detail>
+				<detail>CoolingYN: Yes</detail>
+				<detail>FireplacesTotal: 1</detail>
+				<detail>BusinessType: Residential</detail>
+				<detail>ArchitecturalStyle: Traditional</detail>
+				<detail>LotFeatures: Cul-de-Sac, Regular Lot</detail>
+				<detail>FireplaceFeatures: Wood Burning Fireplace, 1 Fireplace, Fireplace-Family Room/Den/Gr</detail>
+				<detail>ExteriorFeatures: Sprinkler System</detail>
+				<detail>ParkingFeatures: Driveway, Attached Garage, Garage Door Opener, Side Entry Garage</detail>
+				<detail>CoveredSpaces: 2</detail>
+				<detail>DoorFeatures: French Doors</detail>
+				<detail>Cooling: Central Air</detail>
+				<detail>OpenParkingYN: Yes</detail>
+				<detail>LivingAreaSource: Tax roll</detail>
+				<detail>OtherEquipment: Intercom</detail>
+				<detail>RoomKitchenFeatures: Breakfast Bar, Pantry - Closet, Solid Surface Countertops</detail>
+				<detail>RoadSurfaceType: Asphalt</detail>
+				<detail>RoomDiningRoomFeatures: Separate Dining Room, Kitchen/Family Combo</detail>
+				<detail>PatioAndPorchFeatures: Front Porch, Porch - Open, Patio - Screened</detail>
+				<detail>BuildingAreaSource: Tax Roll</detail>
+				<detail>Heating: Central Heating</detail>
+				<detail>RoomBedroomFeatures: Split Bedrooms, Master Bedroom-First Floor</detail>
+				<detail>Fencing: Fenced Partial</detail>
+				<detail>CommunityFeatures: Walking/Jogging Path, Nature Trails, Dock/Pier</detail>
+				<detail>OtherStructures: Summer Kitchen</detail>
+				<detail>MlsStatus: Active</detail>
+				<detail>RoomBathroomFeatures: Owner BathTub Separate Shower</detail>
+				<detail>CoListAgentEmail: ljordan@cbvfl.com</detail>
+				<detail>CoListAgentFullName: LILLIA JORDAN</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

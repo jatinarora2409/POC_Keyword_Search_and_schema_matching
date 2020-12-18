@@ -1,0 +1,54 @@
+plugins {
+    id 'java-library'
+    id 'scala'
+}
+
+ext.moduleName = 'impl'
+archivesBaseName = 'term-association-discovery' + '-' + ext.moduleName
+def  archiveFileName = archivesBaseName + '-' + projectVersion + '.' + 'jar'
+dependencies {
+
+	api(
+		/* project(':classification-jobs-contract'), */
+		libs.googleGuava,
+//		libs.ccgfUtility,
+//        libs.loggerContract,
+//        libs.loggerImpl,
+        libs.luceneCore,
+        libs.luceneAnalyzersCommon,
+        libs.slf4jApi,
+        libs.commonsCsv,
+        libs.testng,
+
+	)
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.9.4'
+
+    testImplementation(
+			libs.log4jCore,
+            libs.log4jApi,
+//            libs.ccgfUtility,
+//        	libs.loggerContract,
+//        	libs.loggerImpl,
+            libs.mockito,
+            libs.springContext,
+            libs.springTest,
+            libs.testng,
+
+    )
+}
+
+publishing {
+    publications {
+        publishclassificationjobsimpl(MavenPublication) {
+            artifacts { 
+				artifact source: "$libsDirName/$archiveFileName"
+            }
+            groupId group
+            artifactId archivesBaseName
+            version projectVersion
+            from components.java
+        }
+    }
+}
+

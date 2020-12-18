@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$1,095,000</price>
+		<bd>3</bd>
+		<ba>4</ba>
+		<area>3,120</area>
+	</summary>
+	<address>
+		<street_address>2749 Unicorn Ln NW,</street_address>
+		<city_state> Washington, DC 20015</city_state>
+	</address>
+	<overview>*Lafayette ES, Deal MS and Wilson HS district!* Rarely-available 3-bed, 3.5-bath townhome with over 3100 sq ft in idyllic Chatsworth: a quiet enclave of townhomes across from Rock Creek Park! Gorgeous hardwood floors throughout. Stunning light-filled great room with 2-story ceiling is the centerpiece of this home. Relax by the cozy wood-burning fireplace or enjoy the serene tree-lined views from the balcony. Bright and airy kitchen with white cabinets, gleaming granite countertops, stainless steel appliances, french-door refrigerator, and eat-in breakfast peninsula. Kitchen opens to large formal dining room with overlook views of great room. Spacious lower-level family room boasts beautiful wood built-ins, renovated full bath, and access to fully-fenced outdoor patio with slate tiles, perfect for a BBQ or evening drink in your own private oasis! Owner's Suite offers ample closet space, spa-like bath with dual-sink vanity and tiled stand-up shower, plus peaceful views of wooded area. Two additional bedrooms and full bath complete the upper level. One-car garage and driveway plus plenty of visitor parking throughout. Unbeatable location is just steps to Rock Creek Park and easy access to downtown DC, White House, Capitol Hill, Friendship Heights, Bethesda, Chevy Chase, and more.Read more</overview>
+	<listing_agent>
+		<agentName>Sheena Saydam</agentName>
+		<phoneNumber>202-243-7700</phoneNumber>
+		<agentLicenseNumber/>
+		<postingGroupName>Keller Williams Capital Properties</postingGroupName>
+		<postingWebsiteLinkText>Keller Williams Capital Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Single Family</key>
+		<key name="Year built:">1979</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">2 spaces</key>
+		<key name="HOA:">$150/month</key>
+		<key name="Lot:">2,082 sqft</key>
+		<key name="Price/sqft:">$351</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 3</item>
+				<item>Bathrooms: 4</item>
+				<item>Full bathrooms: 3</item>
+				<item>1/2 bathrooms: 1</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 3,120 sqft</item>
+				<item>Finished area below ground: 0 sqft</item>
+				<item>Fireplace: Yes</item>
+				<item>Virtual tour: View virtual tour</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Parking features: Attached Garage</item>
+				<item>Garage spaces: 2</item>
+				<item>Covered spaces: 1</item>
+				<item>Uncovered spaces: 1</item>
+				<item>Attached garage: Yes</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Stories: 4</item>
+				<item>Exterior features: Brick</item>
+				<item>View description: Park</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 0.05 acres</item>
+			</item>
+		</item>
+		<item>
+			<item>Other property information</item>
+			<item>
+				<item>Parcel number: 23450022</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Single Family</item>
+			</item>
+		</item>
+		<item>
+			<item>Material information</item>
+			<item>
+				<item>Roof: Built up</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1979</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Green energy</item>
+			<item>
+				<item>Sunscore: Candidate for a community solar programSun Number™: 19.64</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: Washington</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

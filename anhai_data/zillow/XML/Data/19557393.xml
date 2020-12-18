@@ -1,0 +1,216 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$500,000</price>
+		<bd>1</bd>
+		<ba>1</ba>
+		<area>653</area>
+	</summary>
+	<address>
+		<street_address>1700 Civic Center Dr APT 203,</street_address>
+		<city_state> Santa Clara, CA 95050</city_state>
+	</address>
+	<overview>One bedroom, one bathroom apartment, +/- 653 SF, located in the heart of Santa Clara. Updated kitchen with new appliances opens to a living room/ dining area.  Hardwood flooring in the living room and bedroom.  The unit is air conditioned.  The well maintained and secure 1700 Civic Center has on-site laundry facilities, secure parking, swimming pool and community center.Read more</overview>
+	<listing_agent>
+		<agentName>Suheil Sahouria</agentName>
+		<phoneNumber>650-685-1644</phoneNumber>
+		<agentLicenseNumber>License #01408008</agentLicenseNumber>
+		<postingGroupName>Bruce H. Bean, Broker</postingGroupName>
+		<postingWebsiteLinkText>Bruce H. Bean, Broker</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Condo</key>
+		<key name="Year built:">1972</key>
+		<key name="Heating:">Forced air, Gas</key>
+		<key name="Cooling:">Wall</key>
+		<key name="Parking:">1 space</key>
+		<key name="HOA:">$363/mo</key>
+		<key name="Price/sqft:">$766</key>
+	</facts>
+	<interior_details>
+		<interior_detail>
+			<heading>Bedrooms and bathrooms</heading>
+			<details>
+				<detail>Bedrooms: 1</detail>
+				<detail>Bathrooms: 1</detail>
+				<detail>Full bathrooms: 1</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Basement</heading>
+			<details>
+				<detail>Basement: None</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Flooring</heading>
+			<details>
+				<detail>Flooring: Tile, Hardwood</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Heating</heading>
+			<details>
+				<detail>Heating features: Forced air, Gas</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Cooling</heading>
+			<details>
+				<detail>Cooling features: Wall</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Appliances</heading>
+			<details>
+				<detail>Appliances included: Dishwasher, Range / Oven, Refrigerator</detail>
+				<detail>Laundry features: Coin Operated, Community Facility</detail>
+			</details>
+		</interior_detail>
+		<interior_detail>
+			<heading>Other interior features</heading>
+			<details>
+				<detail>Total interior livable area: 653 sqft</detail>
+			</details>
+		</interior_detail>
+	</interior_details>
+	<property_details>
+		<property_detail>
+			<heading>Parking</heading>
+			<details>
+				<detail>Total spaces: 1</detail>
+				<detail>Parking features: Garage, Garage - Detached, Covered</detail>
+				<detail>Garage spaces: 1</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property</heading>
+			<details>
+				<detail>Private pool: Yes</detail>
+				<detail>Spa included: Yes</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Lot</heading>
+			<details>
+				<detail>Lot size: 871 sqft</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Other property information</heading>
+			<details>
+				<detail>Parcel number: 22441015</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<construction_details>
+		<construction_detail>
+			<heading>Type and style</heading>
+			<details>
+				<detail>Home type: Condo</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Material information</heading>
+			<details>
+				<detail>Construction materials: concrete</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Condition</heading>
+			<details>
+				<detail>New construction: No</detail>
+				<detail>Year built: 1972</detail>
+			</details>
+		</construction_detail>
+		<construction_detail>
+			<heading>Notable dates</heading>
+			<details>
+				<detail>Major remodel year: 1973</detail>
+			</details>
+		</construction_detail>
+	</construction_details>
+	<utility_and_energy_details>
+		<utility_and_energy_detail>
+			<heading>Utility</heading>
+			<details>
+				<detail>Utilities for property: Individual Electric Meters, Public Utilities, Individual Gas Meters</detail>
+			</details>
+		</utility_and_energy_detail>
+		<utility_and_energy_detail>
+			<heading>Green energy</heading>
+			<details>
+				<detail>Sunscore: Great solar potentialSun Number™: 91.66</detail>
+			</details>
+		</utility_and_energy_detail>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<community_and_neibhourhood_detail>
+			<heading>Security</heading>
+			<details>
+				<detail>Security features: Security Building, Secured Garage / Parking, Controlled / Secured Access</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+		<community_and_neibhourhood_detail>
+			<heading>Location</heading>
+			<details>
+				<detail>Region: Santa Clara</detail>
+			</details>
+		</community_and_neibhourhood_detail>
+	</community_and_neibhourhood_details>
+	<hoa_and_financial_details>
+		<hoa_and_financial_detail>
+			<heading>HOA</heading>
+			<details>
+				<detail>HOA fee: $363/mo</detail>
+			</details>
+		</hoa_and_financial_detail>
+		<hoa_and_financial_detail>
+			<heading>Other financial information</heading>
+			<details>
+				<detail>Tax assessed value: $309,255</detail>
+				<detail>Annual tax amount: $3,845</detail>
+			</details>
+		</hoa_and_financial_detail>
+	</hoa_and_financial_details>
+	<other_details>
+		<other_detail>
+			<heading>Source details</heading>
+			<details>
+				<detail>MLS ID: ML81814155</detail>
+			</details>
+		</other_detail>
+		<other_detail>
+			<heading>Other facts</heading>
+			<details>
+				<detail>Bathroom: Shower over Tub - 1</detail>
+				<detail>Family Room: No Family Room</detail>
+				<detail>Listing Class: Residential</detail>
+				<detail>Dining Room: Dining Area in Living Room</detail>
+				<detail>Sewer Septic: Sewer Connected</detail>
+				<detail>Structure SqFt Source: Assessor</detail>
+				<detail>Flooring: Tile, Hardwood</detail>
+				<detail>Foundation: Concrete Slab</detail>
+				<detail>Water: Public</detail>
+				<detail>Garage Parking Features: Guest / Visitor Parking, Assigned Spaces, Covered Parking</detail>
+				<detail>Kitchen: Dishwasher, Oven Range - Gas, Countertop - Granite, Exhaust Fan, Refrigerator</detail>
+				<detail>Association Fees Include: Reserves, Roof, Common Area Electricity, Garbage, Spa, or Tennis, Common Area Gas, Maintenance - Common Area, Recreation Facility, Landscaping / Gardening, Pool</detail>
+				<detail>Listing Type: Exclusive Right to Sell</detail>
+				<detail>Security Features: Security Building, Secured Garage / Parking, Controlled / Secured Access</detail>
+				<detail>Pool: Community Facility, Pool - Heated, Pool - In Ground</detail>
+				<detail>Utilities: Individual Electric Meters, Public Utilities, Individual Gas Meters</detail>
+				<detail>Heating: Central Forced Air - Gas</detail>
+				<detail>Lot Description: Regular</detail>
+				<detail>Special Features: Parking, Elevator / Lift, Wheelchair Access</detail>
+				<detail>Laundry: Coin Operated, Community Facility</detail>
+				<detail>Roof: Bitumen</detail>
+				<detail>HOA Exist Y/N: 1</detail>
+				<detail>HOA Fee: 363</detail>
+				<detail>Additional Listing Info: Not Applicable</detail>
+				<detail>Cooling: Window / Wall Unit</detail>
+				<detail>Construction Type: Stucco</detail>
+				<detail>HOA Fee Frequency: Monthly</detail>
+			</details>
+		</other_detail>
+	</other_details>
+</home>

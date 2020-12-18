@@ -1,0 +1,186 @@
+<BusinessGlossary>
+    <term>
+        <id>1</id>
+        <value>Listing Agents Name</value>
+    </term>
+    <term>
+        <id>2</id>
+        <value>Listing Agents Office Name</value>
+    </term>
+    <term>
+        <id>3</id>
+        <value>Listing Agents Contact Number</value>
+    </term>
+    <term>
+        <id>4</id>
+        <value>Listing Agents Email Address</value>
+    </term>
+    <term>
+        <id>5</id>
+        <value>Listing Agents license number</value>
+    </term>
+    <term>
+        <id>6</id>
+        <value>Current status of the listing</value>
+    </term>
+    <term>
+        <id>7</id>
+        <value>Bedroom count in the listing</value>
+    </term>
+    <term>
+        <id>8</id>
+        <value>Bathroom count in the listing</value>
+    </term>
+    <term>
+        <id>9</id>
+        <value>Listings description</value>
+    </term>
+    <term>
+        <id>10</id>
+        <value>Offer price of the listing in USD</value>
+    </term>
+    <term>
+        <id>11</id>
+        <value>Area size of the listing in square feet</value>
+    </term>
+    <term>
+        <id>12</id>
+        <value>Lot Area of the listing in acres</value>
+    </term>
+    <term>
+        <id>13</id>
+        <value>Tax amount of the listing for the year 2019</value>
+    </term>
+    <term>
+        <id>14</id>
+        <value>Tax amount of the listing for the year 2020</value>
+    </term>
+    <term>
+        <id>15</id>
+        <value>Parking spaces Count in the listing</value>
+    </term>
+    <term>
+        <id>16</id>
+        <value>Garage spaces Count in the listing</value>
+    </term>
+    <term>
+        <id>17</id>
+        <value>Furnished Area size of the listing in Square feet</value>
+    </term>
+    <term>
+        <id>18</id>
+        <value>Unfurnished Area size of the listing in Square feet</value>
+    </term>
+    <term>
+        <id>19</id>
+        <value>Cooling Type in the listing</value>
+    </term>
+    <term>
+        <id>20</id>
+        <value>brokers compensation for the listing</value>
+    </term>
+    <term>
+        <id>21</id>
+        <value>Style of construction of the listing</value>
+    </term>
+    <term>
+        <id>22</id>
+        <value>Property type of the listing</value>
+    </term>
+    <term>
+        <id>23</id>
+        <value>Heating Type of the listing</value>
+    </term>
+    <term>
+        <id>24</id>
+        <value>Flooring Type of the listing</value>
+    </term>
+    <term>
+        <id>25</id>
+        <value>Type of Appliances available in the listing</value>
+    </term>
+    <term>
+        <id>26</id>
+        <value>Address of the listing</value>
+    </term>
+    <term>
+        <id>27</id>
+        <value>city of the listing</value>
+    </term>
+    <term>
+        <id>28</id>
+        <value>region of the listing</value>
+    </term>
+    <term>
+        <id>29</id>
+        <value>postal code/zip code of the listing</value>
+    </term>
+    <term>
+        <id>30</id>
+        <value>listings geographical coordinates</value>
+    </term>
+    <term>
+        <id>31</id>
+        <value>Roof Material of the listing</value>
+    </term>
+    <term>
+        <id>32</id>
+        <value>Price per square feet of the listing</value>
+    </term>
+    <term>
+        <id>33</id>
+        <value>The living area of the listing in square feet</value>
+    </term>
+    <term>
+        <id>34</id>
+        <value>Home Owners Association fees of the listing</value>
+    </term>
+    <term>
+        <id>35</id>
+        <value>The estimated price of the listing</value>
+    </term>
+    <term>
+        <id>36</id>
+        <value>Listings monthly mortgage payment</value>
+    </term>
+    <term>
+        <id>37</id>
+        <value>Number of Units in the listed listing</value>
+    </term>
+    <term>
+        <id>38</id>
+        <value>Listing age</value>
+    </term>
+    <term>
+        <id>39</id>
+        <value>Listing built-in year</value>
+    </term>
+    <term>
+        <id>40</id>
+        <value>Listing renovated in year</value>
+    </term>
+    <term>
+        <id>41</id>
+        <value>Listing APN ID</value>
+    </term>
+    <term>
+        <id>42</id>
+        <value>Listing MLS ID</value>
+    </term>
+    <term>
+        <id>43</id>
+        <value>Listings nearby School Nam</value>
+    </term>
+     <term>
+        <id>44</id>
+        <value>Community of the listing</value>
+    </term>
+    <term>
+        <id>45</id>
+        <value>Number of Stories in the listing</value>
+    </term>
+    <term>
+        <id>46</id>
+        <value>County of the listing</value>
+    </term>
+</BusinessGlossary>

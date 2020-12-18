@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<home>
+	<HomeInfo_Address>
+		<street-address>8876 Wonderland Ave </street-address>
+		<locality>Los Angeles, </locality>
+		<region>CA</region>
+		<postal-code>90046</postal-code>
+	</HomeInfo_Address>
+	<main_stats>
+		<Price>$1,295,000</Price>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<key name="$1027 / Sq. Ft.">1,261</key>
+	</main_stats>
+	<text_base_description>Highly desirable Hollywood Hills area, Wonderland School  District , newly remolded inside out. Move in condition must see wont last long. Second floor has its separate unit with separate entry, could be used as a mother in-laws set up or a office.  </text_base_description>
+	<listed_by>
+		<name>Lysa Gresalfi</name>
+		<agentLicenseDisplay>•DRE #01705185</agentLicenseDisplay>
+		<org> USRealty.com</org>
+	</listed_by>
+	<price_insights>
+		<List_Price>$1,295,000</List_Price>
+		<Est._Mo._Payment>$5,972</Est._Mo._Payment>
+		<Redfin_Estimate>$1,257,165</Redfin_Estimate>
+		<key name="Price/Sq.Ft.">$1,027</key>
+	</price_insights>
+	<home_facts>
+		<Status>Active</Status>
+		<Time_on_Redfin>39 days</Time_on_Redfin>
+		<Property_Type>Single Family Residence</Property_Type>
+		<Year_Built>1956</Year_Built>
+		<Style>Cottage</Style>
+		<Community>C03 - Sunset Strip - Hollywood Hills West</Community>
+		<Lot_Size>5,000 Sq. Ft.</Lot_Size>
+		<key name="MLS#">OC20179239</key>
+	</home_facts>
+	<property_details>
+		<property_detail>
+			<heading>Interior Features</heading>
+			<details>
+				<detail>
+					<heading>Laundry Information</heading>
+					<group_data>
+						<group_dat>Has Laundry</group_dat>
+						<group_dat>Gas &amp; Electric Dryer Hookup</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Kitchen Information</heading>
+					<group_data>
+						<group_dat>Appliances: Dishwasher, Free Standing Range, Garbage Disposal, Gas Stove, Portable Dishwasher</group_dat>
+						<group_dat>Has Appliances</group_dat>
+						<group_dat>In Kitchen</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Bathroom Information</heading>
+					<group_data>
+						<group_dat># of Baths (Full): 3</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Cooling Information</heading>
+					<group_data>
+						<group_dat>Central</group_dat>
+						<group_dat>Has Cooling</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Room Information</heading>
+					<group_data>
+						<group_dat>See Remarks</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Fireplace Information</heading>
+					<group_data>
+						<group_dat>Bath, Kitchen, Living Room</group_dat>
+						<group_dat>Has Fireplace</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Flooring Information</heading>
+					<group_data>
+						<group_dat>Tile, Wood</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Heating Information</heading>
+					<group_data>
+						<group_dat>Central Furnace</group_dat>
+						<group_dat>Has Heating</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Interior Features</heading>
+					<group_data>
+						<group_dat>Mirrored Closet Doors</group_dat>
+						<group_dat>Beamed Ceilings, Ceiling Fan, Stone Counters</group_dat>
+						<group_dat>Levels: Two</group_dat>
+						<group_dat>Main Level Bathrooms: 2</group_dat>
+						<group_dat>Main Level Bedrooms: 2</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Parking / Garage, Multi-Unit Information, Utilities, Location Details</heading>
+			<details>
+				<detail>
+					<heading>Parking / Garage Information</heading>
+					<group_data>
+						<group_dat>Uncovered Spaces: 3</group_dat>
+						<group_dat># of Carport Spaces: 1</group_dat>
+						<group_dat>Carport Attached, Driveway - Combination</group_dat>
+						<group_dat>Has Parking</group_dat>
+						<group_dat># of Parking Spaces: 4</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Multi-Unit Information</heading>
+					<group_data>
+						<group_dat># of Units In Community: 2</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Utilities Information</heading>
+					<group_data>
+						<group_dat>Sewer: Public Sewer</group_dat>
+						<group_dat>Water Source: District/Public</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Location Information</heading>
+					<group_data>
+						<group_dat>Latitude: 34.10909100</group_dat>
+						<group_dat>Longitude: -118.38764200</group_dat>
+						<group_dat>Directions: Lookout Mountain to Wonderland Ave</group_dat>
+						<group_dat>Zoning: LAR1</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Exterior Features</heading>
+			<details>
+				<detail>
+					<heading>Exterior Information</heading>
+					<group_data>
+						<group_dat>House</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Foundation Information</heading>
+					<group_data>
+						<group_dat>Foundation Details: Concrete Block</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Exterior Features</heading>
+					<group_data>
+						<group_dat>Pool Features: None</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>School / Neighborhood</heading>
+			<details>
+				<detail>
+					<heading>Neighborhood Information</heading>
+					<group_data>
+						<group_dat>Suburban</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>School Information</heading>
+					<group_data>
+						<group_dat>High School District: Los Angeles Unified</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+		<property_detail>
+			<heading>Property / Lot Details</heading>
+			<details>
+				<detail>
+					<heading>Lot Information</heading>
+					<group_data>
+						<group_dat>Elevation Units: Feet</group_dat>
+						<group_dat>Lot Size Source: Assessor's Data</group_dat>
+						<group_dat>Lot Features: Up Slope from Street</group_dat>
+					</group_data>
+				</detail>
+				<detail>
+					<heading>Property Information</heading>
+					<group_data>
+						<group_dat>Total # of Units: 1</group_dat>
+						<group_dat>Common Walls: 2+ common walls</group_dat>
+						<group_dat>Parcel Number: 5563003036</group_dat>
+						<group_dat>Attached Property</group_dat>
+						<group_dat>Property Condition: Turnkey</group_dat>
+						<group_dat>Has View</group_dat>
+						<group_dat>Year Built Source: Public Records</group_dat>
+					</group_data>
+				</detail>
+			</details>
+		</property_detail>
+	</property_details>
+	<public_facts>
+		<Beds>3</Beds>
+		<Baths>3</Baths>
+		<Finished_Sq._Ft.>1,261</Finished_Sq._Ft.>
+		<Unfinished_Sq._Ft.>—</Unfinished_Sq._Ft.>
+		<Total_Sq._Ft.>1,261</Total_Sq._Ft.>
+		<Stories>2</Stories>
+		<Lot_Size>5,010 Sq. Ft.</Lot_Size>
+		<Style>Single Family Residential</Style>
+		<Year_Built>1956</Year_Built>
+		<Year_Renovated>1958</Year_Renovated>
+		<County>Los Angeles County</County>
+		<APN>5563003036</APN>
+	</public_facts>
+</home>

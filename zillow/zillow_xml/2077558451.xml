@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<home>
+	<summary>
+		<price>$2,079,000</price>
+		<bd>4</bd>
+		<ba>3</ba>
+		<area>2,320</area>
+	</summary>
+	<address>
+		<street_address>368-372 Noe St,</street_address>
+		<city_state> San Francisco, CA 94114</city_state>
+	</address>
+	<overview>Superbly located 3-unit building in the heart of it all. 99 Walkscore! Period details abound in the vacant 2bd/1ba full-floor master unit, which has a spacious kitchen, large dining room and flexible floorpan, as well as two-car parking and exclusive garage use. Upstairs is two 1bd/1ba units, both rented for strong income. A lush backyard, partially covered patio, and two large storage rooms make this a property that checks all the boxes for both investors and owner-users alike.Read more</overview>
+	<listing_agent>
+		<agentName>Alan Thuma</agentName>
+		<phoneNumber>415-321-7000</phoneNumber>
+		<agentLicenseNumber>License #01882226</agentLicenseNumber>
+		<postingGroupName>Vanguard Properties</postingGroupName>
+		<postingWebsiteLinkText>Vanguard Properties</postingWebsiteLinkText>
+	</listing_agent>
+	<facts>
+		<key name="Type:">Multiple Occupancy</key>
+		<key name="Year built:">1900</key>
+		<key name="Heating:">Forced air</key>
+		<key name="Cooling:">Central</key>
+		<key name="Parking:">No Data</key>
+		<key name="Price/sqft:">$896</key>
+	</facts>
+	<interior_details>
+		<item>
+			<item>Bedrooms and bathrooms</item>
+			<item>
+				<item>Bedrooms: 4</item>
+				<item>Bathrooms: 3</item>
+			</item>
+		</item>
+		<item>
+			<item>Basement</item>
+			<item>
+				<item>Basement: Storage Area, Unfinished</item>
+			</item>
+		</item>
+		<item>
+			<item>Flooring</item>
+			<item>
+				<item>Flooring: Hardwood</item>
+			</item>
+		</item>
+		<item>
+			<item>Heating</item>
+			<item>
+				<item>Heating features: Forced air</item>
+			</item>
+		</item>
+		<item>
+			<item>Cooling</item>
+			<item>
+				<item>Cooling features: Central</item>
+			</item>
+		</item>
+		<item>
+			<item>Appliances</item>
+			<item>
+				<item>Appliances included: Dishwasher, Dryer, Garbage disposal, Refrigerator, Washer</item>
+			</item>
+		</item>
+		<item>
+			<item>Other interior features</item>
+			<item>
+				<item>Total interior livable area: 2,320 sqft</item>
+			</item>
+		</item>
+	</interior_details>
+	<property_details>
+		<item>
+			<item>Parking</item>
+			<item>
+				<item>Total spaces: 0</item>
+				<item>Has garage: No</item>
+				<item>Garage spaces: 0</item>
+			</item>
+		</item>
+		<item>
+			<item>Property</item>
+			<item>
+				<item>Exterior features: Stucco, Wood</item>
+			</item>
+		</item>
+		<item>
+			<item>Lot</item>
+			<item>
+				<item>Lot size: 2,996 sqft</item>
+			</item>
+		</item>
+	</property_details>
+	<construction_details>
+		<item>
+			<item>Type and style</item>
+			<item>
+				<item>Home type: Multiple Occupancy</item>
+			</item>
+		</item>
+		<item>
+			<item>Condition</item>
+			<item>
+				<item>New construction: No</item>
+				<item>Year built: 1900</item>
+			</item>
+		</item>
+	</construction_details>
+	<utility_and_energy_details>
+		<item>
+			<item>Location</item>
+			<item>
+				<item>Region: San Francisco</item>
+			</item>
+		</item>
+	</utility_and_energy_details>
+	<community_and_neibhourhood_details>
+		<item>
+			<item>Source details</item>
+			<item>
+				<item>MLS ID: 507822</item>
+			</item>
+		</item>
+		<item>
+			<item>Other facts</item>
+			<item>
+				<item>Parking: Garage</item>
+				<item>Status: Active</item>
+				<item>Exterior: Wood Siding, Stucco</item>
+				<item>Unit 1: 1 Bath, 1 Bedroom</item>
+				<item>Unit 2: 1 Bath, 1 Bedroom</item>
+				<item>Unit 1 Includes: Oven/Range, Refrigerator, Garbage Disposal, Dishwasher, Washer/Dryer, Balcony/Deck, Views</item>
+				<item>Unit 2 Includes: Oven/Range, Refrigerator, Views</item>
+				<item>Square Footage Source: Per Tax Records</item>
+				<item>District: SF District 5</item>
+				<item>Property Subtype 1: 3 Units</item>
+				<item>Unit 3: 1 Bath, 2 Bedrooms</item>
+				<item>Lot Description: Regular</item>
+				<item>Unit 3 Includes: Oven/Range, Refrigerator, Views, Garbage Disposal, Patio, Washer/Dryer</item>
+				<item>Floors: Hardwood</item>
+				<item>Heating/Cooling: Central Heating</item>
+				<item>Basement: Storage Area, Unfinished</item>
+				<item>Type: Triplex</item>
+				<item>Subdist: Eureka Valley/Dolore</item>
+				<item>Lot Measurement: SqFt</item>
+			</item>
+		</item>
+	</community_and_neibhourhood_details>
+</home>

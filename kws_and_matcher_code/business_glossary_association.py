@@ -1,6 +1,6 @@
 
-from find_similarity_util import *
-from SchemaMatching import get_column_dict
+from util.find_similarity_util import *
+from util.SchemaMatching import get_column_dict
 ### Number of predictions:
 
 ## For Union

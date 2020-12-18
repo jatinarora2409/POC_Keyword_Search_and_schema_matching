@@ -1,14 +1,14 @@
 
-from find_similarity_util import *
-from SchemaMatching import get_column_dict
+from util.find_similarity_util import *
+from util.SchemaMatching import get_column_dict
 
 ## Sample Queries
 query1 = 'area of the house'
 query2 = "Style of the house"
 query3 = 'Remodelling year'
 query4 = 'description of the house'
-query = query2
-source = 'remax'
+query = query1
+source = 'zillow'
 business_glossary_use = True
 
 schema_path_file = 'Schema/Schema_'+source+'.txt'
